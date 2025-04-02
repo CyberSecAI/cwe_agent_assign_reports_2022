@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+782,Exposed IOCTL with Insufficient Access Control,variant,3.8784,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+416,Use After Free,variant,3.24,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.24,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.9184000000000005,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9108619293095046,0
+364,Signal Handler Race Condition,base,2.8651999999999997,0

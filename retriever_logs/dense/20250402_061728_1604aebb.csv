@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.73753227593906
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7262147453104583
+184,Incomplete List of Disallowed Inputs,Base,0.7231615692874376
+668,Exposure of Resource to Wrong Sphere,Class,0.7199112400978647
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7198221140596756
+912,Hidden Functionality,Class,0.7163785604144279
+41,Improper Resolution of Path Equivalence,Base,0.714454530822692
+829,Inclusion of Functionality from Untrusted Control Sphere,Base,0.7127884435964149
+749,Exposed Dangerous Method or Function,Base,0.7125131375902567
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7100524977248883

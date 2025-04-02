@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+407,Inefficient Algorithmic Complexity,Class,0.785433523275439
+1176,Inefficient CPU Computation,Class,0.7549004213492558
+405,Asymmetric Resource Consumption (Amplification),Class,0.7536248446228349
+799,Improper Control of Interaction Frequency,Class,0.7449336921076861
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7403425418417194
+617,Reachable Assertion,Base,0.7334031603849508
+130,Improper Handling of Length Parameter Inconsistency,Base,0.733338537564892
+131,Incorrect Calculation of Buffer Size,Base,0.7318083251537082
+41,Improper Resolution of Path Equivalence,Base,0.7317937675132038
+668,Exposure of Resource to Wrong Sphere,Class,0.7304223159041415

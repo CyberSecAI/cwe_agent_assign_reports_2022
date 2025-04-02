@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+191,Integer Underflow (Wrap or Wraparound),Base,0.7786616178734115
+805,Buffer Access with Incorrect Length Value,Base,0.7693714793558368
+131,Incorrect Calculation of Buffer Size,Base,0.7648742009788287
+126,Buffer Over-read,Variant,0.7622727963728517
+823,Use of Out-of-range Pointer Offset,Base,0.7600810222248516
+125,Out-of-bounds Read,Base,0.7600058099734783
+197,Numeric Truncation Error,Base,0.755732924624008
+124,Buffer Underwrite ('Buffer Underflow'),Base,0.7530619660265232
+193,Off-by-one Error,Base,0.753030232891729
+366,Race Condition within a Thread,Base,0.7521689484939424

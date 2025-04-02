@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+911,Improper Update of Reference Count,Base,0.7829244308516983
+366,Race Condition within a Thread,Base,0.7724000489192854
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7708863324380207
+404,Improper Resource Shutdown or Release,Class,0.7705985842533113
+667,Improper Locking,Class,0.7632957768386477
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7567655945575271
+415,Double Free,Variant,0.7477013739582072
+131,Incorrect Calculation of Buffer Size,Base,0.7417351857070922
+665,Improper Initialization,Class,0.7382931743726328
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7381535977115264

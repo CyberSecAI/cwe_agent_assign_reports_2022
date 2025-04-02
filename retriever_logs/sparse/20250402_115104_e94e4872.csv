@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,5220.981241457791,unknown
+203,Observable Discrepancy,5187.3660264067885,unknown
+611,Improper Restriction of XML External Entity Reference,5187.275878581296,unknown
+319,Cleartext Transmission of Sensitive Information,5109.2819904661565,unknown
+209,Generation of Error Message Containing Sensitive Information,5075.785293951927,unknown

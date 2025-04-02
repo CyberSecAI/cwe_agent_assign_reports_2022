@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5046.544961938117,unknown
+667,Improper Locking,5029.7654990578385,unknown
+125,Out-of-bounds Read,5011.573702925104,unknown
+190,Integer Overflow or Wraparound,5003.495969163469,unknown
+1284,Improper Validation of Specified Quantity in Input,5003.088021075373,unknown

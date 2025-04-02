@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7344489937080603
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7321813671210727
+289,Authentication Bypass by Alternate Name,Base,0.7182805212408087
+653,Improper Isolation or Compartmentalization,Class,0.7146788472170185
+300,Channel Accessible by Non-Endpoint,Class,0.7070166942217716
+657,Violation of Secure Design Principles,Class,0.7010178061709663
+303,Incorrect Implementation of Authentication Algorithm,Base,0.699859985239637
+472,External Control of Assumed-Immutable Web Parameter,Base,0.6970219815630033
+291,Reliance on IP Address for Authentication,Variant,0.696695237231174
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.6955578250041929

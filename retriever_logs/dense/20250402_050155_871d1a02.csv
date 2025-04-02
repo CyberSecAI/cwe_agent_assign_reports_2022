@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7794548698416733
+639,Authorization Bypass Through User-Controlled Key,Base,0.7777288377190196
+266,Incorrect Privilege Assignment,Base,0.7699978814127453
+274,Improper Handling of Insufficient Privileges,Base,0.7658563126362319
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7656661708818386
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7648966248788001
+267,Privilege Defined With Unsafe Actions,Base,0.7596863066698045
+552,Files or Directories Accessible to External Parties,Base,0.7585662034504614
+668,Exposure of Resource to Wrong Sphere,Class,0.7584569253697004
+281,Improper Preservation of Permissions,Base,0.7560502759604035

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,Base,3.318083972332292,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.9087242253648844,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.73416,0
+289,Authentication Bypass by Alternate Name,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+202,Exposure of Sensitive Information Through Data Queries,Base,2.4949747352328804,0

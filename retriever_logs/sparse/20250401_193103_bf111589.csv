@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,8433.76649247563,unknown
+364,Signal Handler Race Condition,8393.349522183646,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),8344.735144853006,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7615.699406878719,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7581.687815316624,unknown

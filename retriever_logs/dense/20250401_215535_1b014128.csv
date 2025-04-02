@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7775380772006687
+319,Cleartext Transmission of Sensitive Information,Base,0.7731313670007318
+300,Channel Accessible by Non-Endpoint,Class,0.7717824853866045
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7716397447461332
+295,Improper Certificate Validation,Base,0.7709423716707897
+203,Observable Discrepancy,Base,0.7686708911470768
+330,Use of Insufficiently Random Values,Class,0.7624406739536157
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7622351354059753
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7611567982857994
+668,Exposure of Resource to Wrong Sphere,Class,0.7602992221661788

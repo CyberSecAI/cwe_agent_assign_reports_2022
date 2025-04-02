@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7698277059127228
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.75670018108197
+653,Improper Isolation or Compartmentalization,Class,0.7522103082857907
+662,Improper Synchronization,Class,0.7503412900956823
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7472009144980232
+274,Improper Handling of Insufficient Privileges,Base,0.7470826132718588
+404,Improper Resource Shutdown or Release,Class,0.7468980284728517
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7460267169510046
+73,External Control of File Name or Path,Base,0.7406228411512317
+691,Insufficient Control Flow Management,Pillar,0.7392058813602443

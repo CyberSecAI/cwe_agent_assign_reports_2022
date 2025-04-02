@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+183,Permissive List of Allowed Inputs,base,4.505800000000001,0
+187,Partial String Comparison,variant,4.39872,0
+182,Collapse of Data into Unsafe Value,base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.8870000000000005,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.7206,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.5671999999999997,0
+184,Incomplete List of Disallowed Inputs,Base,3.3076491620214075,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,2.8775047029080953,0
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),base,2.7742,0
+770,Allocation of Resources Without Limits or Throttling,base,2.73416,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+798,Use of Hard-coded Credentials,5212.867135613338,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5207.283694929638,base_query
+125,Out-of-bounds Read,5197.420705124626,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5175.150511790383,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5174.194988190105,base_query

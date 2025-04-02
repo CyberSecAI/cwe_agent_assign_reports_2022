@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7555182114354483
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7549980834954337
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7522556675010855
+799,Improper Control of Interaction Frequency,Class,0.7518380802674443
+41,Improper Resolution of Path Equivalence,Base,0.7501529253103009
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7489083563163472
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7440512396399364
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7429170059650755
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7404391212495238
+405,Asymmetric Resource Consumption (Amplification),Class,0.7398472441381316

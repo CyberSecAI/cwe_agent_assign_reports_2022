@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7762579492133647
+668,Exposure of Resource to Wrong Sphere,Class,0.7687216216703208
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7667484513331977
+41,Improper Resolution of Path Equivalence,Base,0.7615151411135515
+184,Incomplete List of Disallowed Inputs,Base,0.7585787636575388
+73,External Control of File Name or Path,Base,0.7577710823520081
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7551242256307606
+653,Improper Isolation or Compartmentalization,Class,0.7528457256375389
+138,Improper Neutralization of Special Elements,Class,0.7509498849030103
+404,Improper Resource Shutdown or Release,Class,0.7505779753848227

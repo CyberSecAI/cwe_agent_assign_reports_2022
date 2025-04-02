@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7463966284112226
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.745669042913273
+131,Incorrect Calculation of Buffer Size,Base,0.7448410394480097
+184,Incomplete List of Disallowed Inputs,Base,0.7406043983171091
+124,Buffer Underwrite ('Buffer Underflow'),Base,0.740245950061586
+191,Integer Underflow (Wrap or Wraparound),Base,0.7383042168808294
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7373124689002297
+126,Buffer Over-read,Variant,0.73564348385071
+125,Out-of-bounds Read,Base,0.7346389013588936
+805,Buffer Access with Incorrect Length Value,Base,0.7334353348455704

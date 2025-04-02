@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7645606109245826
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7633454249737524
+184,Incomplete List of Disallowed Inputs,Base,0.7408693334948866
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7392443444816501
+356,Product UI does not Warn User of Unsafe Actions,Base,0.7349655598211546
+138,Improper Neutralization of Special Elements,Class,0.7295150433623996
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7232317030357918
+668,Exposure of Resource to Wrong Sphere,Class,0.7227002610587632
+41,Improper Resolution of Path Equivalence,Base,0.7226754935321915
+653,Improper Isolation or Compartmentalization,Class,0.721636401020739

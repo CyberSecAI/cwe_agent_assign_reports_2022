@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7873600941845199
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7789053612682231
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7733033775575444
+667,Improper Locking,Class,0.7706365803848354
+404,Improper Resource Shutdown or Release,Class,0.7693647014409173
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7689901167891386
+657,Violation of Secure Design Principles,Class,0.7678437618905278
+345,Insufficient Verification of Data Authenticity,Class,0.7669953922398343
+665,Improper Initialization,Class,0.7666556010933936
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7651226053931586

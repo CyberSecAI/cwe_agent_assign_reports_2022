@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+611,Improper Restriction of XML External Entity Reference,4532.196906561954,base_query
+1390,Weak Authentication,4531.419848280874,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4437.991677403454,base_query
+319,Cleartext Transmission of Sensitive Information,4432.792797426619,base_query
+347,Improper Verification of Cryptographic Signature,4432.50570652893,base_query

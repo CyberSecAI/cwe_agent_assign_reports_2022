@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+204,Observable Response Discrepancy,Base,0.7864517219106324
+668,Exposure of Resource to Wrong Sphere,Class,0.7788519087222804
+203,Observable Discrepancy,Base,0.7785728421773422
+208,Observable Timing Discrepancy,Base,0.7659572625374309
+345,Insufficient Verification of Data Authenticity,Class,0.7624123392142792
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7616271518861679
+205,Observable Behavioral Discrepancy,Base,0.7597515825305561
+41,Improper Resolution of Path Equivalence,Base,0.7596781350695232
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.7568422819050513
+23,Relative Path Traversal,Base,0.7552582768145393

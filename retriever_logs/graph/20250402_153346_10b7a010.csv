@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,Base,3.315922457243329,0
+73,External Control of File Name or Path,base,3.2255600000000006,0
+41,Improper Resolution of Path Equivalence,base,3.1252000000000004,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.906022440312496,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.897637486544019,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0

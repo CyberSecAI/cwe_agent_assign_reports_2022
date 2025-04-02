@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1188,Initialization of a Resource with an Insecure Default,6591.493177615242,base_query
+798,Use of Hard-coded Credentials,6290.9238548017165,base_query
+1391,Use of Weak Credentials,6149.5257599291635,base_query
+321,Use of Hard-coded Cryptographic Key,6145.003365504607,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6086.616487662445,base_query

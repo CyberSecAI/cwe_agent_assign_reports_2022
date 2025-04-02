@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+838,Inappropriate Encoding for Output Context,Base,0.7639190036207855
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7621480892523103
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7428206417402103
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7399793669645224
+125,Out-of-bounds Read,Base,0.7370206829323125
+138,Improper Neutralization of Special Elements,Class,0.7349834775314913
+134,Use of Externally-Controlled Format String,Base,0.7342725929619409
+184,Incomplete List of Disallowed Inputs,Base,0.7339739051735692
+191,Integer Underflow (Wrap or Wraparound),Base,0.731837014899813
+115,Misinterpretation of Input,Base,0.7301572456439838

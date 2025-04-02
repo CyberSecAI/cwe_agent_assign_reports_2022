@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.766279832703461
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7641098989786935
+345,Insufficient Verification of Data Authenticity,Class,0.7639843011761774
+138,Improper Neutralization of Special Elements,Class,0.7633378405859763
+668,Exposure of Resource to Wrong Sphere,Class,0.7565149796117454
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.753128003254799
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7508066861673421
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7499462439974559
+404,Improper Resource Shutdown or Release,Class,0.7488545743934965
+502,Deserialization of Untrusted Data,Base,0.7477956273896003

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.8027543187892764
+41,Improper Resolution of Path Equivalence,Base,0.7907799111189708
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7892624763263503
+295,Improper Certificate Validation,Base,0.7885835346552871
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7881948948314967
+345,Insufficient Verification of Data Authenticity,Class,0.787536649654547
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7867507907487229
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7859669474790015
+274,Improper Handling of Insufficient Privileges,Base,0.7841871862092341
+131,Incorrect Calculation of Buffer Size,Base,0.7805423115713597

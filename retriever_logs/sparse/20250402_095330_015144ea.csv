@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,4393.588295193139,unknown
+287,Improper Authentication,4300.866781321837,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),4290.794333253845,unknown
+863,Incorrect Authorization,4273.48345694838,unknown
+90,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection'),4176.480286063273,unknown

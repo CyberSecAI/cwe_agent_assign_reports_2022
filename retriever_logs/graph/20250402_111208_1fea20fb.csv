@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+208,Observable Timing Discrepancy,base,4.329000000000001,0
+259,Use of Hard-coded Password,variant,4.0104,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.7088137540802752,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+798,Use of Hard-coded Credentials,Base,2.493080814652568,0
+836,Use of Password Hash Instead of Password for Authentication,Base,2.4911766550638514,0
+257,Storing Passwords in a Recoverable Format,Base,2.4832307961162696,0
+480,Use of Incorrect Operator,base,2.3998000000000004,0

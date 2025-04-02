@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+170,Improper Null Termination,base,4.329000000000001,0
+617,Reachable Assertion,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+822,Untrusted Pointer Dereference,base,4.329000000000001,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.8784,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,3.5671999999999997,0
+128,Wrap-around Error,base,3.5671999999999997,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,3.3566,0
+131,Incorrect Calculation of Buffer Size,Base,2.9174359363474123,0
+193,Off-by-one Error,Base,2.910649601155996,0

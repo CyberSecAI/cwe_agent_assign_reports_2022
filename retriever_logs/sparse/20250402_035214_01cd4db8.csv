@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,6789.625686877898,base_query
+789,Memory Allocation with Excessive Size Value,6756.581481369826,base_query
+1333,Inefficient Regular Expression Complexity,6478.817872274398,base_query
+400,Uncontrolled Resource Consumption,6391.0167288271,base_query
+611,Improper Restriction of XML External Entity Reference,6388.784361387842,base_query

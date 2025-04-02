@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7729337291431464
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7689527694192755
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7630238742734632
+667,Improper Locking,Class,0.7624667632870591
+41,Improper Resolution of Path Equivalence,Base,0.7609449515057265
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.751620843596885
+23,Relative Path Traversal,Base,0.7499967056624486
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7474835911865554
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7469654130966092
+665,Improper Initialization,Class,0.7464012996847796

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,7565.897297166559,base_query
+125,Out-of-bounds Read,7452.785823515859,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7451.67800314323,base_query
+190,Integer Overflow or Wraparound,7450.013154089303,base_query
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),7349.75080108753,base_query

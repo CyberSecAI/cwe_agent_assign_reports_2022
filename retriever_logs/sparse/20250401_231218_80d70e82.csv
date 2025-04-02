@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8135.629561321583,unknown
+23,Relative Path Traversal,7838.609045989149,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),7575.4579530281235,unknown
+24,Path Traversal: '../filedir',7092.465686878217,unknown
+918,Server-Side Request Forgery (SSRF),6968.087854767715,unknown

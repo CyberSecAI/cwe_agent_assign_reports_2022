@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7720273757375157
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7699192063311276
+755,Improper Handling of Exceptional Conditions,Class,0.764816949784207
+404,Improper Resource Shutdown or Release,Class,0.7647780106957001
+345,Insufficient Verification of Data Authenticity,Class,0.7645714976583677
+668,Exposure of Resource to Wrong Sphere,Class,0.7632469899479388
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.762936814449924
+799,Improper Control of Interaction Frequency,Class,0.7620841464471982
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7605517525294669
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.76046875638448

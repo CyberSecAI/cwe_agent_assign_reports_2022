@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,8654.00250944052,base_query
+116,Improper Encoding or Escaping of Output,8207.816652084046,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,8140.041679469959,base_query
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),8109.9240794459065,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),8077.239523158571,base_query

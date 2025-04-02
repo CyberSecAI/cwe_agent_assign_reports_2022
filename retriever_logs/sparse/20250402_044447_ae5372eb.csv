@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,5892.391391949772,base_query
+472,External Control of Assumed-Immutable Web Parameter,5810.043066563954,base_query
+1391,Use of Weak Credentials,5780.835183184641,base_query
+312,Cleartext Storage of Sensitive Information,5734.598548344285,base_query
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,5730.340932239492,base_query

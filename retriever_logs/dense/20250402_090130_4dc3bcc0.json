@@ -1,0 +1,70 @@
+{
+  "retriever": "dense",
+  "query": "# Vulnerability Description\n\n    The Tawk.To Live Chat WordPress plugin before 0.6.0 does not have capability and CSRF checks in the tawkto_setwidget and tawkto_removewidget AJAX actions, available to any authenticated user. The first one allows low-privileged users (including simple subscribers) to change the tawkto-embed-widget-page-id and tawkto-embed-widget-widget-id parameters. Any authenticated user can thus link the vulnerable website to their own Tawk.to instance. Consequently, they will be able to monitor the vulnerable website and interact with its visitors (receive contact messages, answer, ...). They will also be able to display an arbitrary Knowledge Base. The second one will remove the live chat widget from pages.\n\n    # Keyphrase-Specific CWE Analysis\n    This vulnerability contains multiple keyphrases that may map to different CWEs. \n    Please analyze each keyphrase separately and determine the most appropriate CWE(s) for each.\n\n    ## ROOTCAUSE: 'lack of capability and CSRF checks'\n\nRelevant CWEs for this ROOTCAUSE:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 994.78)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 691.70)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-863: Incorrect Authorization (Score: 652.13)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-285: Improper Authorization (Score: 626.36)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 5. CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') (Score: 621.29)\n\nThe product does not neutralize or incorrectly neutralizes user-controllable input before it is placed in output that is used as a web page that is served to other users....\n\n## ROOTCAUSE: 'low-privileged users can change parameters'\n\nRelevant CWEs for this ROOTCAUSE:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 994.78)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 691.70)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-863: Incorrect Authorization (Score: 652.13)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-285: Improper Authorization (Score: 626.36)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 5. CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') (Score: 621.29)\n\nThe product does not neutralize or incorrectly neutralizes user-controllable input before it is placed in output that is used as a web page that is served to other users....\n\n## IMPACT: 'link vulnerable website to their own Tawk.to instance, monitor website and interact with visitors, display arbitrary Knowledge Base'\n\nRelevant CWEs for this IMPACT:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 994.78)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 691.70)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-863: Incorrect Authorization (Score: 652.13)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') (Score: 621.29)\n\nThe product does not neutralize or incorrectly neutralizes user-controllable input before it is placed in output that is used as a web page that is served to other users....\n\n### 5. CWE-306: Missing Authentication for Critical Function (Score: 235.38)\n\nThe product does not perform any authentication for functionality that requires a provable user identity or consumes a significant amount of resources....\n\n## VECTOR: 'changing tawkto-embed-widget-page-id and tawkto-embed-widget-widget-id parameters'\n\nRelevant CWEs for this VECTOR:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 994.78)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 691.70)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-863: Incorrect Authorization (Score: 652.13)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') (Score: 621.29)\n\nThe product does not neutralize or incorrectly neutralizes user-controllable input before it is placed in output that is used as a web page that is served to other users....\n\n### 5. CWE-639: Authorization Bypass Through User-Controlled Key (Score: 202.53)\n\nThe system's authorization functionality does not prevent one user from gaining access to another user's data or record by modifying the key value identifying the data....\n\n## ATTACKER: 'any authenticated user'\n\nRelevant CWEs for this ATTACKER:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 994.78)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 691.70)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-863: Incorrect Authorization (Score: 652.13)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-285: Improper Authorization (Score: 626.36)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 5. CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') (Score: 621.29)\n\nThe product does not neutralize or incorrectly neutralizes user-controllable input before it is placed in output that is used as a web page that is served to other users....\n\n## PRODUCT: 'Tawk.To Live Chat WordPress plugin'\n\nRelevant CWEs for this PRODUCT:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 994.78)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 691.70)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-863: Incorrect Authorization (Score: 652.13)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-285: Improper Authorization (Score: 626.36)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 5. CWE-306: Missing Authentication for Critical Function (Score: 235.38)\n\nThe product does not perform any authentication for functionality that requires a provable user identity or consumes a significant amount of resources....\n\n## VERSION: 'before 0.6.0'\n\nRelevant CWEs for this VERSION:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 994.78)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 691.70)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-863: Incorrect Authorization (Score: 652.13)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-285: Improper Authorization (Score: 626.36)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 5. CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') (Score: 621.29)\n\nThe product does not neutralize or incorrectly neutralizes user-controllable input before it is placed in output that is used as a web page that is served to other users....\n\n## COMPONENT: 'tawkto_setwidget and tawkto_removewidget AJAX actions'\n\nRelevant CWEs for this COMPONENT:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 994.78)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 691.70)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-863: Incorrect Authorization (Score: 652.13)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-285: Improper Authorization (Score: 626.36)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 5. CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') (Score: 621.29)\n\nThe product does not neutralize or incorrectly neutralizes user-controllable input before it is placed in output that is used as a web page that is served to other users....\n\n\n    # Analysis Instructions\n    1. For each keyphrase, identify the most appropriate CWE(s) that represent the weakness.\n    2. Consider how the different keyphrases might relate to each other in the vulnerability chain.\n    3. Provide a final determination of primary CWE(s) and any secondary CWEs.\n    4. Format your response using the standard analysis template.\n\n    Please analyze how these different weaknesses interact and provide a comprehensive CWE classification.\n    ",
+  "keyphrases": {},
+  "timestamp": "2025-04-02 09:01:30",
+  "cve_id": "unknown",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "472",
+      "name": "External Control of Assumed-Immutable Web Parameter",
+      "type": "Base",
+      "score": 0.7468815217311575
+    },
+    {
+      "cwe_id": "425",
+      "name": "Direct Request ('Forced Browsing')",
+      "type": "Base",
+      "score": 0.7320155133177761
+    },
+    {
+      "cwe_id": "790",
+      "name": "Improper Filtering of Special Elements",
+      "type": "Class",
+      "score": 0.7182628086277668
+    },
+    {
+      "cwe_id": "451",
+      "name": "User Interface (UI) Misrepresentation of Critical Information",
+      "type": "Class",
+      "score": 0.7080075769205447
+    },
+    {
+      "cwe_id": "807",
+      "name": "Reliance on Untrusted Inputs in a Security Decision",
+      "type": "Base",
+      "score": 0.7079636351656837
+    },
+    {
+      "cwe_id": "74",
+      "name": "Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')",
+      "type": "Class",
+      "score": 0.7063464338122156
+    },
+    {
+      "cwe_id": "923",
+      "name": "Improper Restriction of Communication Channel to Intended Endpoints",
+      "type": "Class",
+      "score": 0.7045861398779755
+    },
+    {
+      "cwe_id": "1390",
+      "name": "Weak Authentication",
+      "type": "Class",
+      "score": 0.7033612775385858
+    },
+    {
+      "cwe_id": "201",
+      "name": "Insertion of Sensitive Information Into Sent Data",
+      "type": "Base",
+      "score": 0.7028320786532888
+    },
+    {
+      "cwe_id": "116",
+      "name": "Improper Encoding or Escaping of Output",
+      "type": "Class",
+      "score": 0.7020192991329832
+    }
+  ]
+}

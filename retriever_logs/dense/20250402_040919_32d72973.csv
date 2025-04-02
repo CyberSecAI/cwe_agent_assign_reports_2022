@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7787746937372337
+131,Incorrect Calculation of Buffer Size,Base,0.7713800565530233
+125,Out-of-bounds Read,Base,0.7712711664421752
+674,Uncontrolled Recursion,Class,0.7632532178152787
+191,Integer Underflow (Wrap or Wraparound),Base,0.7619353728709489
+193,Off-by-one Error,Base,0.7613790116934114
+41,Improper Resolution of Path Equivalence,Base,0.760951281066093
+252,Unchecked Return Value,Base,0.7599706630482942
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7586895672573701
+667,Improper Locking,Class,0.7578337106612206

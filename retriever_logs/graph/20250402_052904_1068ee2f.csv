@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+190,Integer Overflow or Wraparound,base,5.031000000000001,0
+170,Improper Null Termination,base,5.031000000000001,0
+195,Signed to Unsigned Conversion Error,variant,4.5264,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+617,Reachable Assertion,base,4.329000000000001,0
+123,Write-what-where Condition,base,3.8870000000000005,0
+789,Memory Allocation with Excessive Size Value,variant,3.7507200000000003,0
+463,Deletion of Data Structure Sentinel,base,3.6399999999999997,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,3.5671999999999997,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,3.3566,0

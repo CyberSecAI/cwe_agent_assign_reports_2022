@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),8306.75650066275,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7989.170070010235,unknown
+1386,Insecure Operation on Windows Junction / Mount Point,7536.4974111149895,unknown
+863,Incorrect Authorization,7511.727009079136,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7494.576867623709,unknown

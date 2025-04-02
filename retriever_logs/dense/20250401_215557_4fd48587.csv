@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.777735520596601
+668,Exposure of Resource to Wrong Sphere,Class,0.7640741234387507
+639,Authorization Bypass Through User-Controlled Key,Base,0.7629112281604399
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7618452669945898
+425,Direct Request ('Forced Browsing'),Base,0.7613437279339417
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7602627313415845
+552,Files or Directories Accessible to External Parties,Base,0.7600951703011103
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7598683465669873
+41,Improper Resolution of Path Equivalence,Base,0.7518934963351955
+359,Exposure of Private Personal Information to an Unauthorized Actor,Base,0.751035950908449

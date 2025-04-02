@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+415,Double Free,5850.28147088168,base_query
+824,Access of Uninitialized Pointer,5590.434307090425,base_query
+681,Incorrect Conversion between Numeric Types,5488.508876689741,base_query
+252,Unchecked Return Value,5485.545937280436,base_query
+190,Integer Overflow or Wraparound,5476.064503064189,base_query

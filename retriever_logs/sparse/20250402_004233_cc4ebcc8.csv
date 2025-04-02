@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,7496.550299230879,base_query
+639,Authorization Bypass Through User-Controlled Key,7174.469911916771,base_query
+863,Incorrect Authorization,6900.33960843193,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6886.236087941455,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,6833.463162111862,base_query

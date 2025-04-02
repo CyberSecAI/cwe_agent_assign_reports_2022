@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+916,Use of Password Hash With Insufficient Computational Effort,Base,0.7985595564297545
+1391,Use of Weak Credentials,Class,0.7687519881659244
+328,Use of Weak Hash,Base,0.7686234530495972
+836,Use of Password Hash Instead of Password for Authentication,Base,0.7615405373104527
+798,Use of Hard-coded Credentials,Base,0.7568003272438426
+1390,Weak Authentication,Class,0.7449664524918465
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7434907168479344
+330,Use of Insufficiently Random Values,Class,0.7387629135809684
+307,Improper Restriction of Excessive Authentication Attempts,Base,0.7381204110348759
+759,Use of a One-Way Hash without a Salt,Variant,0.7375345022627118

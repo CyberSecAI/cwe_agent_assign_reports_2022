@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7794399494617603
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7784909123035665
+668,Exposure of Resource to Wrong Sphere,Class,0.7764904913602315
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7720941261135323
+639,Authorization Bypass Through User-Controlled Key,Base,0.7720588208062408
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7707542110451688
+41,Improper Resolution of Path Equivalence,Base,0.7707194330045244
+1390,Weak Authentication,Class,0.7691624546430089
+799,Improper Control of Interaction Frequency,Class,0.7675017465639757
+319,Cleartext Transmission of Sensitive Information,Base,0.7674010560195437

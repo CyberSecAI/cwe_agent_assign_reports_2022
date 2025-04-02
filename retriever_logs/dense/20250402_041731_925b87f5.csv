@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7664403893284768
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7632859060872561
+665,Improper Initialization,Class,0.753660846698004
+404,Improper Resource Shutdown or Release,Class,0.7536538209601908
+125,Out-of-bounds Read,Base,0.7491877147425954
+824,Access of Uninitialized Pointer,Base,0.7485056580001188
+667,Improper Locking,Class,0.7479187453789733
+457,Use of Uninitialized Variable,Variant,0.7477861290761265
+908,Use of Uninitialized Resource,Base,0.7473046317079043
+252,Unchecked Return Value,Base,0.7443754392493818

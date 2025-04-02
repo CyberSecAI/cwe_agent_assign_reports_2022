@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.5264,0
+472,External Control of Assumed-Immutable Web Parameter,base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+603,Use of Client-Side Authentication,base,3.6399999999999997,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+321,Use of Hard-coded Cryptographic Key,Variant,3.014096277831151,0
+208,Observable Timing Discrepancy,Base,2.8913185279779676,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.5519999999999996,0
+798,Use of Hard-coded Credentials,Base,2.487109719259229,0

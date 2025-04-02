@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7741809907457188
+471,Modification of Assumed-Immutable Data (MAID),Base,0.7590475007451484
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7526538542707025
+41,Improper Resolution of Path Equivalence,Base,0.7423548940020543
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7400945421348908
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7400676308813727
+552,Files or Directories Accessible to External Parties,Base,0.7389379836223753
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7375831857026758
+73,External Control of File Name or Path,Base,0.7348591616652831
+639,Authorization Bypass Through User-Controlled Key,Base,0.7342315561742518

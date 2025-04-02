@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),6541.248488007969,base_query
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),6310.667573830101,base_query
+330,Use of Insufficiently Random Values,6080.283198151862,base_query
+352,Cross-Site Request Forgery (CSRF),6042.661308602139,base_query
+1391,Use of Weak Credentials,6041.017211362969,base_query

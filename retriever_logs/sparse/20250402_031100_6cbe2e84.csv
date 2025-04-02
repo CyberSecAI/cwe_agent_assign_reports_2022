@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,6551.6978826894265,unknown
+863,Incorrect Authorization,6533.850360825189,unknown
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6454.984045740325,unknown
+287,Improper Authentication,6413.200986075435,unknown
+285,Improper Authorization,6327.555786827888,unknown

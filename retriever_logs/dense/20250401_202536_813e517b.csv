@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+177,Improper Handling of URL Encoding (Hex Encoding),Variant,0.7979067579696792
+173,Improper Handling of Alternate Encoding,Variant,0.7892527727371694
+41,Improper Resolution of Path Equivalence,Base,0.7874787420701874
+23,Relative Path Traversal,Base,0.7815437244738777
+611,Improper Restriction of XML External Entity Reference,Base,0.7805475782541214
+116,Improper Encoding or Escaping of Output,Class,0.7769435872714047
+668,Exposure of Resource to Wrong Sphere,Class,0.7696919112901792
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7658183610994265
+838,Inappropriate Encoding for Output Context,Base,0.7653301286886736
+923,Improper Restriction of Communication Channel to Intended Endpoints,Class,0.764783739564943

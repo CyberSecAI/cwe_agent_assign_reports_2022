@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,4729.818215306374,unknown
+942,Permissive Cross-domain Policy with Untrusted Domains,4719.9263971602895,unknown
+1390,Weak Authentication,4618.293745864876,unknown
+863,Incorrect Authorization,4553.028944118973,unknown
+639,Authorization Bypass Through User-Controlled Key,4513.04003452873,unknown

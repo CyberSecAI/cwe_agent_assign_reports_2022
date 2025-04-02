@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,5408.874567823701,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,5368.3059872235635,unknown
+319,Cleartext Transmission of Sensitive Information,5264.338147798396,unknown
+425,Direct Request ('Forced Browsing'),5185.5278389822415,unknown
+639,Authorization Bypass Through User-Controlled Key,5153.676729562602,unknown

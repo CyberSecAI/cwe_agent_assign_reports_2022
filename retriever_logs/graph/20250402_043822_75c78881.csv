@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+941,Incorrectly Specified Destination in a Communication Channel,Base,2.902073796723141,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.893709096962099,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.892816294877696,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+208,Observable Timing Discrepancy,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+244,Improper Clearing of Heap Memory Before Release ('Heap Inspection'),variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0

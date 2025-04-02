@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,6461.278317048889,base_query
+774,Allocation of File Descriptors or Handles Without Limits or Throttling,6333.007859302839,base_query
+789,Memory Allocation with Excessive Size Value,6142.15861690261,base_query
+1284,Improper Validation of Specified Quantity in Input,5727.5771397594,base_query
+400,Uncontrolled Resource Consumption,5656.889628385043,base_query

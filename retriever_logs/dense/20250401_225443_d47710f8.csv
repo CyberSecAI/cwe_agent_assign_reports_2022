@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7699930198431972
+404,Improper Resource Shutdown or Release,Class,0.7695631045984219
+274,Improper Handling of Insufficient Privileges,Base,0.7693167342031826
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7680610150798797
+667,Improper Locking,Class,0.767021250117549
+653,Improper Isolation or Compartmentalization,Class,0.7664107145851723
+668,Exposure of Resource to Wrong Sphere,Class,0.7657366834651067
+125,Out-of-bounds Read,Base,0.7632755366947889
+266,Incorrect Privilege Assignment,Base,0.761453874205022
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7584583539885066

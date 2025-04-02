@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1204,Generation of Weak Initialization Vector (IV),6875.435427414165,unknown
+203,Observable Discrepancy,6469.154393217074,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6376.30012549325,unknown
+1391,Use of Weak Credentials,6301.841486903397,unknown
+863,Incorrect Authorization,6236.607442302704,unknown

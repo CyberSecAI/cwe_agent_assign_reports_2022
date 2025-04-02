@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1240,Use of a Cryptographic Primitive with a Risky Implementation,7025.802003488956,base_query
+863,Incorrect Authorization,5891.198181364545,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5888.290050409309,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5871.734492857976,base_query
+347,Improper Verification of Cryptographic Signature,5848.451545013464,base_query

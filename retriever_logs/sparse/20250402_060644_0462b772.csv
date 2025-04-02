@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,6684.6791886903175,unknown
+125,Out-of-bounds Read,6562.927900377767,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,6467.206288023171,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,6446.440545604665,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6424.125789829346,unknown

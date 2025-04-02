@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.767257068999356
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.766140926795589
+799,Improper Control of Interaction Frequency,Class,0.7617185415627672
+405,Asymmetric Resource Consumption (Amplification),Class,0.7554988873885002
+668,Exposure of Resource to Wrong Sphere,Class,0.7501323221204754
+404,Improper Resource Shutdown or Release,Class,0.7500860196076293
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7469053535037056
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7457993142418619
+41,Improper Resolution of Path Equivalence,Base,0.7451465771806505
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7427337418006068

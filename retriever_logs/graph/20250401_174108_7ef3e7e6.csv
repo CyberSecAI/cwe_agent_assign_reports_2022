@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,2.8651999999999997,0
+208,Observable Timing Discrepancy,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+836,Use of Password Hash Instead of Password for Authentication,Base,2.4989190110252837,0
+256,Plaintext Storage of a Password,base,2.4699999999999998,0
+532,Insertion of Sensitive Information into Log File,base,2.4699999999999998,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.3400000000000003,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.2100000000000004,0

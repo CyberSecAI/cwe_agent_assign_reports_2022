@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7867863994612725
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7795861826571896
+404,Improper Resource Shutdown or Release,Class,0.7759034674057308
+662,Improper Synchronization,Class,0.7691601295571407
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7578174105081197
+274,Improper Handling of Insufficient Privileges,Base,0.7539640878354854
+665,Improper Initialization,Class,0.7536597673965615
+657,Violation of Secure Design Principles,Class,0.7528378436390005
+653,Improper Isolation or Compartmentalization,Class,0.7528334424188923
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7517791161028411

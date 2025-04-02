@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7600199796079385
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7600034021218507
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7567901704696817
+345,Insufficient Verification of Data Authenticity,Class,0.75593598957194
+404,Improper Resource Shutdown or Release,Class,0.7559300870554957
+405,Asymmetric Resource Consumption (Amplification),Class,0.7541210422511946
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7537214654290108
+668,Exposure of Resource to Wrong Sphere,Class,0.7533124732294236
+138,Improper Neutralization of Special Elements,Class,0.752132378264861
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),Variant,0.7518590254081268

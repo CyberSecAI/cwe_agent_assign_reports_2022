@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.0104,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+208,Observable Timing Discrepancy,base,2.73416,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.7146069478817005,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0
+798,Use of Hard-coded Credentials,Base,2.491790835758264,0
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,base,2.4699999999999998,0
+532,Insertion of Sensitive Information into Log File,base,2.4699999999999998,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+41,Improper Resolution of Path Equivalence,base,5.031000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+73,External Control of File Name or Path,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.329000000000001,0
+123,Write-what-where Condition,base,4.329000000000001,0
+125,Out-of-bounds Read,base,3.8870000000000005,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),base,3.4361600000000005,0
+1284,Improper Validation of Specified Quantity in Input,base,3.4200400000000006,0

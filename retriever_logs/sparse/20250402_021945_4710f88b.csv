@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,4962.654451167807,base_query
+125,Out-of-bounds Read,4938.290561133338,base_query
+472,External Control of Assumed-Immutable Web Parameter,4882.834043098705,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,4845.466837525208,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4827.3357867052555,base_query

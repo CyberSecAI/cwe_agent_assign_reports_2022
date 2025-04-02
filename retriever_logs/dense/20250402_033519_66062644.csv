@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+476,NULL Pointer Dereference,Base,0.7831296383179085
+822,Untrusted Pointer Dereference,Base,0.7821527233996772
+667,Improper Locking,Class,0.7645846621967209
+824,Access of Uninitialized Pointer,Base,0.7617939800172742
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7583730889621129
+366,Race Condition within a Thread,Base,0.7582003749106581
+252,Unchecked Return Value,Base,0.7494043033011348
+823,Use of Out-of-range Pointer Offset,Base,0.7489733577899976
+404,Improper Resource Shutdown or Release,Class,0.747481273883719
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7471186361031641

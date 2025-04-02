@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),5818.899695316496,unknown
+328,Use of Weak Hash,5584.3935917695035,unknown
+1386,Insecure Operation on Windows Junction / Mount Point,5509.690896104749,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5391.699635122254,unknown
+61,UNIX Symbolic Link (Symlink) Following,5355.3923056477115,unknown

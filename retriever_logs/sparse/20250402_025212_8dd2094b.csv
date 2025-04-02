@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,6367.956786187072,base_query
+927,Use of Implicit Intent for Sensitive Communication,5583.6370902122435,base_query
+1021,Improper Restriction of Rendered UI Layers or Frames,5561.731648279944,base_query
+863,Incorrect Authorization,5550.547288597846,base_query
+285,Improper Authorization,5483.301128725573,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+73,External Control of File Name or Path,base,5.031000000000001,0
+425,Direct Request ('Forced Browsing'),base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,4.329000000000001,0
+434,Unrestricted Upload of File with Dangerous Type,base,4.329000000000001,0
+41,Improper Resolution of Path Equivalence,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7565062641736483
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7449076839767854
+138,Improper Neutralization of Special Elements,Class,0.7360299422641596
+184,Incomplete List of Disallowed Inputs,Base,0.733213534028684
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7294152174441583
+131,Incorrect Calculation of Buffer Size,Base,0.7260597807424298
+41,Improper Resolution of Path Equivalence,Base,0.7258694542786365
+125,Out-of-bounds Read,Base,0.7227751066807209
+691,Insufficient Control Flow Management,Pillar,0.7211908570378918
+129,Improper Validation of Array Index,Variant,0.7201100952071076

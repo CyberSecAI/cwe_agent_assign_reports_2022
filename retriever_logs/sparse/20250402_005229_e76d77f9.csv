@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,6846.256776179075,base_query
+770,Allocation of Resources Without Limits or Throttling,6836.894193696967,base_query
+1333,Inefficient Regular Expression Complexity,6551.612101115287,base_query
+407,Inefficient Algorithmic Complexity,6463.762968017237,base_query
+1284,Improper Validation of Specified Quantity in Input,6450.179456213005,base_query

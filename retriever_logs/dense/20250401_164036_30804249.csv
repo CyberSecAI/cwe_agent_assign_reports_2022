@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7745364477605154
+289,Authentication Bypass by Alternate Name,Base,0.7666868406787897
+41,Improper Resolution of Path Equivalence,Base,0.7645257157981518
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7641968047498423
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7628954264334784
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.762618167395245
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7593076688503932
+472,External Control of Assumed-Immutable Web Parameter,Base,0.757729506455831
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7546422483170108
+639,Authorization Bypass Through User-Controlled Key,Base,0.7539878835832795

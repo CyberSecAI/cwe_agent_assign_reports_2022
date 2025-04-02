@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,6118.602656831713,unknown
+863,Incorrect Authorization,5975.486768922833,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5928.43798767657,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5819.016777620513,unknown
+306,Missing Authentication for Critical Function,5815.726931586079,unknown

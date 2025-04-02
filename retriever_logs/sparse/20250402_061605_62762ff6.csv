@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,5987.814171404391,base_query
+863,Incorrect Authorization,5864.565858031836,base_query
+266,Incorrect Privilege Assignment,5799.0802958596305,base_query
+287,Improper Authentication,5791.257774661155,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5724.449526700549,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7462640176123315
+405,Asymmetric Resource Consumption (Amplification),Class,0.7444992151936989
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7441538800949508
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7418707170562392
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7361561107704948
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7335530222845075
+653,Improper Isolation or Compartmentalization,Class,0.7317067519077525
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7313790775378595
+184,Incomplete List of Disallowed Inputs,Base,0.7301101945831765
+691,Insufficient Control Flow Management,Pillar,0.7300391037222798

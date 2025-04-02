@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,7363.428964065333,unknown
+125,Out-of-bounds Read,7323.7143651843435,unknown
+476,NULL Pointer Dereference,7314.450943051671,unknown
+190,Integer Overflow or Wraparound,7309.334977324214,unknown
+1284,Improper Validation of Specified Quantity in Input,7210.707675990419,unknown

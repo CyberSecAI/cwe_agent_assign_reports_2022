@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6190.448314831364,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6167.1544586077725,base_query
+125,Out-of-bounds Read,6159.370611405896,base_query
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),6157.244660874203,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6143.172936485274,base_query

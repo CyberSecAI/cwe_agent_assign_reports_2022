@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7886950925711352
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7766586802814224
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7756891472082021
+668,Exposure of Resource to Wrong Sphere,Class,0.7683737656114231
+755,Improper Handling of Exceptional Conditions,Class,0.767876321261608
+404,Improper Resource Shutdown or Release,Class,0.7672725504302209
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7667952070695125
+789,Memory Allocation with Excessive Size Value,Variant,0.7646150601220713
+407,Inefficient Algorithmic Complexity,Class,0.7622676272322644
+130,Improper Handling of Length Parameter Inconsistency,Base,0.760383826598215

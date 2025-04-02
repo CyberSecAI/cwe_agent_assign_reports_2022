@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5785.994866684402,base_query
+770,Allocation of Resources Without Limits or Throttling,5781.673845400111,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5509.749483184987,base_query
+789,Memory Allocation with Excessive Size Value,5478.221882241041,base_query
+400,Uncontrolled Resource Consumption,5382.827797611469,base_query

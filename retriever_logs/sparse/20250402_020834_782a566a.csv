@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+472,External Control of Assumed-Immutable Web Parameter,5766.13281196905,unknown
+863,Incorrect Authorization,5727.427197801435,unknown
+425,Direct Request ('Forced Browsing'),5722.107438989164,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5620.408476950846,unknown
+285,Improper Authorization,5611.68607054049,unknown

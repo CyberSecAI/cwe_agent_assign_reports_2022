@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+441,Unintended Proxy or Intermediary ('Confused Deputy'),5248.886268062746,unknown
+863,Incorrect Authorization,5106.018850466033,unknown
+287,Improper Authentication,5074.778605926859,unknown
+285,Improper Authorization,5026.713961670924,unknown
+1390,Weak Authentication,5024.456750316234,unknown

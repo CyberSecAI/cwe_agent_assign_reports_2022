@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+823,Use of Out-of-range Pointer Offset,base,3.8038000000000003,0
+190,Integer Overflow or Wraparound,base,3.1486000000000005,0
+124,Buffer Underwrite ('Buffer Underflow'),base,3.0654000000000003,0
+1284,Improper Validation of Specified Quantity in Input,base,2.92864,0
+787,Out-of-bounds Write,base,2.7196000000000002,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,2.6784000000000003,0
+131,Incorrect Calculation of Buffer Size,Base,2.5793479085529145,0
+824,Access of Uninitialized Pointer,Base,2.565047852225092,0
+822,Untrusted Pointer Dereference,Base,2.560599519628691,0
+123,Write-what-where Condition,base,2.353,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+822,Untrusted Pointer Dereference,4487.780859755757,base_query
+125,Out-of-bounds Read,4481.258420704667,base_query
+427,Uncontrolled Search Path Element,4449.9181206608755,base_query
+918,Server-Side Request Forgery (SSRF),4401.0553741510885,base_query
+1236,Improper Neutralization of Formula Elements in a CSV File,4357.289022883364,base_query

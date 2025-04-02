@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+289,Authentication Bypass by Alternate Name,base,4.329000000000001,0
+823,Use of Out-of-range Pointer Offset,base,4.329000000000001,0
+173,Improper Handling of Alternate Encoding,variant,3.8784,0
+129,Improper Validation of Array Index,variant,3.8784,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0
+183,Permissive List of Allowed Inputs,base,3.2094400000000007,0

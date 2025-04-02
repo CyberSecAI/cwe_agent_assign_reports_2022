@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.757,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.984,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+252,Unchecked Return Value,base,2.6104000000000003,0

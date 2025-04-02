@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+276,Incorrect Default Permissions,Base,0.7703260054999144
+330,Use of Insufficiently Random Values,Class,0.7672021604653967
+639,Authorization Bypass Through User-Controlled Key,Base,0.765850680113315
+41,Improper Resolution of Path Equivalence,Base,0.7644921662972688
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7643703100220535
+552,Files or Directories Accessible to External Parties,Base,0.7629665395992242
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.762128201186391
+668,Exposure of Resource to Wrong Sphere,Class,0.7615054052169211
+267,Privilege Defined With Unsafe Actions,Base,0.7605770402316954
+1391,Use of Weak Credentials,Class,0.7582307461933417

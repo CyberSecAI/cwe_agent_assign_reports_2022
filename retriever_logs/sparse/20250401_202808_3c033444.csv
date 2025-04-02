@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5742.695431221287,unknown
+125,Out-of-bounds Read,5637.60074190709,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5567.533613236114,unknown
+863,Incorrect Authorization,5564.195697341911,unknown
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,5547.420444976864,unknown

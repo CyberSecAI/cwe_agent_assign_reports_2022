@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.7105751678210477,0
+259,Use of Hard-coded Password,Variant,2.7090971962780364,0
+798,Use of Hard-coded Credentials,Base,2.5045866550418445,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+256,Plaintext Storage of a Password,base,2.4699999999999998,0
+392,Missing Report of Error Condition,base,2.4699999999999998,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0
+523,Unprotected Transport of Credentials,base,2.1762,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.04,0

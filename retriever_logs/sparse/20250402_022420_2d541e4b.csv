@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,6329.229827950722,unknown
+863,Incorrect Authorization,6237.053289963473,unknown
+285,Improper Authorization,6109.829628191861,unknown
+287,Improper Authentication,6049.2564718650965,unknown
+306,Missing Authentication for Critical Function,6009.023675527788,unknown

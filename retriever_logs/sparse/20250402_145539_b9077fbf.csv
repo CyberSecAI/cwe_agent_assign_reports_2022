@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,7172.8252030756385,unknown
+1284,Improper Validation of Specified Quantity in Input,7073.809468852258,unknown
+770,Allocation of Resources Without Limits or Throttling,6914.39324965284,unknown
+789,Memory Allocation with Excessive Size Value,6910.408802471799,unknown
+1333,Inefficient Regular Expression Complexity,6890.306955402818,unknown

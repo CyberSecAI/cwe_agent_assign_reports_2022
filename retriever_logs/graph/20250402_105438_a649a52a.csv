@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+789,Memory Allocation with Excessive Size Value,variant,3.8784,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.7206,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+427,Uncontrolled Search Path Element,base,3.6399999999999997,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.5671999999999997,0

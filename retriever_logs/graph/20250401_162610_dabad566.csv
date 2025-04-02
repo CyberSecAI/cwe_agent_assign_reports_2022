@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+193,Off-by-one Error,base,3.8038000000000003,0
+190,Integer Overflow or Wraparound,base,3.5698000000000003,0
+1284,Improper Validation of Specified Quantity in Input,base,3.0784,0
+476,NULL Pointer Dereference,base,2.8651999999999997,0
+131,Incorrect Calculation of Buffer Size,Base,2.584182413902277,0
+125,Out-of-bounds Read,Base,2.4880880182942593,0
+681,Incorrect Conversion between Numeric Types,Base,2.4797421359670295,0
+364,Signal Handler Race Condition,base,2.3400000000000003,0
+787,Out-of-bounds Write,base,2.2776000000000005,0
+126,Buffer Over-read,variant,2.2704,0

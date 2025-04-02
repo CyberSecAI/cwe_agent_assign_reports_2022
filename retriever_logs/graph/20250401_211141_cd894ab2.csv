@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,4.472,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.4866,0
+183,Permissive List of Allowed Inputs,base,3.4200400000000006,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,3.3032685144258123,0
+426,Untrusted Search Path,base,2.7742,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.688,0
+20,Improper Input Validation,class,2.5519999999999996,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,Base,2.493361802218746,0
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,2.484820758176571,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),9794.769245130778,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),9723.350247592718,unknown
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),9550.524615689223,unknown
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),9517.9768970756,unknown
+116,Improper Encoding or Escaping of Output,9509.843777159736,unknown

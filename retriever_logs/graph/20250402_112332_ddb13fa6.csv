@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+193,Off-by-one Error,base,4.329000000000001,0
+125,Out-of-bounds Read,base,3.8870000000000005,0
+457,Use of Uninitialized Variable,variant,3.8784,0
+322,Key Exchange without Entity Authentication,base,3.5671999999999997,0
+787,Out-of-bounds Write,base,3.302,0
+456,Missing Initialization of a Variable,variant,3.24,0
+252,Unchecked Return Value,Base,2.903221048424081,0
+571,Expression is Always True,base,2.8651999999999997,0
+570,Expression is Always False,base,2.8651999999999997,0

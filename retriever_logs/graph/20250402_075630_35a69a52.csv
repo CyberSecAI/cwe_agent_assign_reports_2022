@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.8870000000000005,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.320856122302459,0
+73,External Control of File Name or Path,Base,3.1947073318946195,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.132,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.8929168809094707,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+770,Allocation of Resources Without Limits or Throttling,base,2.8651999999999997,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,2.8651999999999997,0

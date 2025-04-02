@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+611,Improper Restriction of XML External Entity Reference,7696.321425517385,base_query
+941,Incorrectly Specified Destination in a Communication Channel,7284.165515062918,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6999.36269828779,base_query
+918,Server-Side Request Forgery (SSRF),6939.413812535973,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,6921.887145302347,base_query

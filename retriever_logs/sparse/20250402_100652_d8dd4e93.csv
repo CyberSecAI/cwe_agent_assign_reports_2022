@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6295.700391270806,base_query
+472,External Control of Assumed-Immutable Web Parameter,6056.646017196002,base_query
+863,Incorrect Authorization,5987.090611140151,base_query
+285,Improper Authorization,5845.7966228895275,base_query
+306,Missing Authentication for Critical Function,5744.975022250084,base_query

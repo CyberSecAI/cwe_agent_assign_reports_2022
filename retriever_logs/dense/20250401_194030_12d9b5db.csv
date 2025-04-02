@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7742609089485643
+41,Improper Resolution of Path Equivalence,Base,0.7710665305689139
+918,Server-Side Request Forgery (SSRF),Base,0.7666816632622466
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7657947553939413
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7641494259004331
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7631929035825656
+404,Improper Resource Shutdown or Release,Class,0.7602322786165543
+799,Improper Control of Interaction Frequency,Class,0.7588331233418419
+73,External Control of File Name or Path,Base,0.75716416115414
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7560434647449923

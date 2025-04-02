@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5713.748198008729,base_query
+822,Untrusted Pointer Dereference,5616.778003973346,base_query
+1284,Improper Validation of Specified Quantity in Input,5607.60541601037,base_query
+667,Improper Locking,5606.22248076391,base_query
+190,Integer Overflow or Wraparound,5592.057517637074,base_query

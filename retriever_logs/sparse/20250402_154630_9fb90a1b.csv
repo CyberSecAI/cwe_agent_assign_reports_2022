@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,6312.826844240037,unknown
+770,Allocation of Resources Without Limits or Throttling,6272.178018088097,unknown
+1284,Improper Validation of Specified Quantity in Input,6020.561702189127,unknown
+1333,Inefficient Regular Expression Complexity,5998.2363390131695,unknown
+400,Uncontrolled Resource Consumption,5849.973906535121,unknown

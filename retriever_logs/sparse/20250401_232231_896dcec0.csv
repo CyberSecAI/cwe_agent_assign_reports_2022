@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,4772.514892253015,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4426.907605654373,base_query
+425,Direct Request ('Forced Browsing'),4389.385994471231,base_query
+306,Missing Authentication for Critical Function,4374.581374357197,base_query
+212,Improper Removal of Sensitive Information Before Storage or Transfer,4356.320489392179,base_query

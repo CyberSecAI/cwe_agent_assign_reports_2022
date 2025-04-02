@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+226,Sensitive Information in Resource Not Removed Before Reuse,base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+193,Off-by-one Error,base,3.4200400000000006,0
+201,Insertion of Sensitive Information Into Sent Data,Base,3.3253027411631955,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,3.321981711003348,0
+184,Incomplete List of Disallowed Inputs,Base,2.9081856339562906,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.9051829903462334,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,5621.291616963922,unknown
+295,Improper Certificate Validation,5395.9658797005695,unknown
+340,Generation of Predictable Numbers or Identifiers,5311.799237033063,unknown
+346,Origin Validation Error,5296.747490674873,unknown
+330,Use of Insufficiently Random Values,5224.4251000417225,unknown

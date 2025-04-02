@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5160.133164841878,unknown
+909,Missing Initialization of Resource,5080.280865186578,unknown
+908,Use of Uninitialized Resource,5016.171213927747,unknown
+190,Integer Overflow or Wraparound,5005.446826477498,unknown
+911,Improper Update of Reference Count,4996.904982335394,unknown

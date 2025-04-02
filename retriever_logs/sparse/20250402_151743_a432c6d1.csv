@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,5668.8497644690915,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5667.750892235232,unknown
+1391,Use of Weak Credentials,5646.299743632238,unknown
+916,Use of Password Hash With Insufficient Computational Effort,5624.890877846296,unknown
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),5489.626236999855,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+259,Use of Hard-coded Password,variant,2.8104,0
+341,Predictable from Observable State,base,2.4699999999999998,0
+640,Weak Password Recovery Mechanism for Forgotten Password,base,2.4699999999999998,0
+208,Observable Timing Discrepancy,base,2.2100000000000004,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0
+1291,Public Key Re-Use for Signing both Debug and Production Code,base,2.1762,0
+301,Reflection Attack in an Authentication Protocol,base,2.1762,0
+311,Missing Encryption of Sensitive Data,class,2.1279999999999997,0
+339,Small Seed Space in PRNG,variant,1.91472,0

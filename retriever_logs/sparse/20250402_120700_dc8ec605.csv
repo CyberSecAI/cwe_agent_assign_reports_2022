@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,4638.315712237244,unknown
+602,Client-Side Enforcement of Server-Side Security,4605.999792767225,unknown
+208,Observable Timing Discrepancy,4442.451848365024,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,4429.966271795651,unknown
+287,Improper Authentication,4362.3148709638945,unknown

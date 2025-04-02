@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+407,Inefficient Algorithmic Complexity,5014.200832562248,unknown
+1333,Inefficient Regular Expression Complexity,4980.298826204467,unknown
+754,Improper Check for Unusual or Exceptional Conditions,4975.358894484668,unknown
+770,Allocation of Resources Without Limits or Throttling,4957.664193862686,unknown
+1176,Inefficient CPU Computation,4944.81247228017,unknown

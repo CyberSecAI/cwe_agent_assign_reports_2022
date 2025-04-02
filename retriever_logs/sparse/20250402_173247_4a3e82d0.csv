@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+178,Improper Handling of Case Sensitivity,3971.240950277871,base_query
+23,Relative Path Traversal,3785.239507439809,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),3708.373400620215,base_query
+41,Improper Resolution of Path Equivalence,3587.527841471868,base_query
+639,Authorization Bypass Through User-Controlled Key,3566.350523284266,base_query

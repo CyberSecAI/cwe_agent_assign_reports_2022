@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,6027.168384914127,base_query
+295,Improper Certificate Validation,5966.816698378339,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,5853.621672954053,base_query
+789,Memory Allocation with Excessive Size Value,5815.955905599446,base_query
+863,Incorrect Authorization,5749.4529224542675,base_query

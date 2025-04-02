@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7422995381589154
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7409884470162146
+1391,Use of Weak Credentials,Class,0.7405436913733114
+639,Authorization Bypass Through User-Controlled Key,Base,0.7369857101476873
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7368002628896768
+274,Improper Handling of Insufficient Privileges,Base,0.735823357111857
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7355058925504039
+798,Use of Hard-coded Credentials,Base,0.7348095216397732
+276,Incorrect Default Permissions,Base,0.7347843425362267
+266,Incorrect Privilege Assignment,Base,0.7341248918354846

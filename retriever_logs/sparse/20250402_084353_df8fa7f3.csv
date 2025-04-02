@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+158,Improper Neutralization of Null Byte or NUL Character,5407.389077964876,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5403.789779230427,unknown
+1333,Inefficient Regular Expression Complexity,5386.205837392284,unknown
+626,Null Byte Interaction Error (Poison Null Byte),5250.464698089191,unknown
+94,Improper Control of Generation of Code ('Code Injection'),5232.686323702942,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+386,Symbolic Name not Mapping to Correct Object,base,4.4954,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.3201184122821394,0
+184,Incomplete List of Disallowed Inputs,base,3.2188,0
+73,External Control of File Name or Path,Base,3.1947134307044243,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.90435302871536,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0

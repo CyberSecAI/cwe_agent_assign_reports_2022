@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,9245.837250511342,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),8020.43723756821,base_query
+426,Untrusted Search Path,7705.216843986489,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7648.765300029727,base_query
+23,Relative Path Traversal,7471.512195752363,base_query

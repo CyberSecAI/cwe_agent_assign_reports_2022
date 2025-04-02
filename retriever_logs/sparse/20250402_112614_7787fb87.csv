@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,5669.308424742964,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5269.223275290873,base_query
+184,Incomplete List of Disallowed Inputs,5189.067823247495,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5175.366615041826,base_query
+863,Incorrect Authorization,5143.923585058169,base_query

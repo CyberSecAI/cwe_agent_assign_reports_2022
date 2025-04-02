@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,5046.45971460715,base_query
+476,NULL Pointer Dereference,5013.0377577826575,base_query
+252,Unchecked Return Value,4978.917329186071,base_query
+789,Memory Allocation with Excessive Size Value,4967.864970175885,base_query
+822,Untrusted Pointer Dereference,4928.786030781709,base_query

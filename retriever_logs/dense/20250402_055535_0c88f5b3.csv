@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.787711512728095
+668,Exposure of Resource to Wrong Sphere,Class,0.7832683169906115
+789,Memory Allocation with Excessive Size Value,Variant,0.7715987051724428
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7667775642977777
+41,Improper Resolution of Path Equivalence,Base,0.7663766381412231
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7657807174400961
+667,Improper Locking,Class,0.765327162630242
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7636972144168074
+405,Asymmetric Resource Consumption (Amplification),Class,0.7632703974046197
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7625739553578335

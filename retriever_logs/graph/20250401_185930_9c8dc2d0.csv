@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+259,Use of Hard-coded Password,variant,3.2424,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+321,Use of Hard-coded Cryptographic Key,variant,2.8104,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+312,Cleartext Storage of Sensitive Information,Base,2.5104453498583097,0
+798,Use of Hard-coded Credentials,Base,2.4878333477419847,0

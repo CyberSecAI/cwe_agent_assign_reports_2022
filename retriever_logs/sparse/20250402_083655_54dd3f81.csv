@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,8665.159575069956,base_query
+116,Improper Encoding or Escaping of Output,8618.876694543907,base_query
+1284,Improper Validation of Specified Quantity in Input,8570.7921158508,base_query
+190,Integer Overflow or Wraparound,8553.758316398156,base_query
+170,Improper Null Termination,8484.953775724356,base_query

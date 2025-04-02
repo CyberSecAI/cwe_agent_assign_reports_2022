@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7557842902977735
+41,Improper Resolution of Path Equivalence,Base,0.7544944088657863
+407,Inefficient Algorithmic Complexity,Class,0.7483492053419188
+799,Improper Control of Interaction Frequency,Class,0.7470191710905426
+405,Asymmetric Resource Consumption (Amplification),Class,0.7451676486760173
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.74139845332886
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7404127901966089
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7393678731845237
+639,Authorization Bypass Through User-Controlled Key,Base,0.7388005150833734
+330,Use of Insufficiently Random Values,Class,0.7387186343478374

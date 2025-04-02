@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.5671999999999997,0
+73,External Control of File Name or Path,base,3.0420000000000007,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,2.8651999999999997,0
+770,Allocation of Resources Without Limits or Throttling,base,2.8651999999999997,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),base,2.7742,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.6784000000000003,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+20,Improper Input Validation,class,2.5519999999999996,0

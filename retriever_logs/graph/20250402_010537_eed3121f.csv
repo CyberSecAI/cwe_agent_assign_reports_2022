@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+205,Observable Behavioral Discrepancy,base,4.329000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,2.9005600000000005,0
+201,Insertion of Sensitive Information Into Sent Data,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.5519999999999996,0
+514,Covert Channel,class,2.5519999999999996,0
+1021,Improper Restriction of Rendered UI Layers or Frames,base,2.4699999999999998,0
+223,Omission of Security-relevant Information,base,2.4699999999999998,0
+248,Uncaught Exception,base,2.4699999999999998,0
+476,NULL Pointer Dereference,base,2.2568,0

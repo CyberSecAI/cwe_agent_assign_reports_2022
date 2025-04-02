@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+289,Authentication Bypass by Alternate Name,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,4.329000000000001,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+358,Improperly Implemented Security Check for Standard,base,3.6399999999999997,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+325,Missing Cryptographic Step,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,3.6399999999999997,0
+433,Unparsed Raw Web Content Delivery,variant,3.24,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+52,Path Equivalence: '/multiple/trailing/slash//',variant,2.5507200000000005,0

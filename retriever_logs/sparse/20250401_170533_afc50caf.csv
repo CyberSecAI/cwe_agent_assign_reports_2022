@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,7260.215150284405,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7146.0076666218465,unknown
+138,Improper Neutralization of Special Elements,7128.791470756282,unknown
+1236,Improper Neutralization of Formula Elements in a CSV File,7081.975096778139,unknown
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),7015.040131769254,unknown

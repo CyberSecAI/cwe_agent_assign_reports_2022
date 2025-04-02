@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+824,Access of Uninitialized Pointer,Base,0.7841428735835515
+415,Double Free,Variant,0.7810976775690649
+404,Improper Resource Shutdown or Release,Class,0.77411773830692
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7708951576994931
+617,Reachable Assertion,Base,0.7644793783822434
+131,Incorrect Calculation of Buffer Size,Base,0.7620968087258264
+667,Improper Locking,Class,0.7601204223478614
+252,Unchecked Return Value,Base,0.7587181752680706
+125,Out-of-bounds Read,Base,0.7566675291377489
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7520855433536091

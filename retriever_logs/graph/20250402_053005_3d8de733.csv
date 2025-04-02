@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.0104,0
+523,Unprotected Transport of Credentials,base,3.6399999999999997,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,3.6399999999999997,0
+494,Download of Code Without Integrity Check,base,2.821,0
+208,Observable Timing Discrepancy,base,2.73416,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.714567267143236,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+312,Cleartext Storage of Sensitive Information,Base,2.50044894743107,0

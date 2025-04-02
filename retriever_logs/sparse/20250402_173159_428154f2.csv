@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,7692.547810340672,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7458.169866857373,base_query
+138,Improper Neutralization of Special Elements,7306.706872123201,base_query
+943,Improper Neutralization of Special Elements in Data Query Logic,7247.217601996702,base_query
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),7169.530550171376,base_query

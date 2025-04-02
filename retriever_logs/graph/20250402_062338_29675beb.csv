@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,Base,2.483397255555258,0
+1230,Exposure of Sensitive Information Through Metadata,base,2.4699999999999998,0
+612,Improper Authorization of Index Containing Sensitive Information,base,2.4699999999999998,0
+347,Improper Verification of Cryptographic Signature,base,2.4699999999999998,0
+918,Server-Side Request Forgery (SSRF),base,2.4699999999999998,0
+252,Unchecked Return Value,base,2.3295999999999997,0

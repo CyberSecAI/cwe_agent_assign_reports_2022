@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,6122.556959831688,base_query
+259,Use of Hard-coded Password,6049.41160023743,base_query
+798,Use of Hard-coded Credentials,5988.73172647123,base_query
+863,Incorrect Authorization,5917.4394618057795,base_query
+306,Missing Authentication for Critical Function,5911.232666220206,base_query

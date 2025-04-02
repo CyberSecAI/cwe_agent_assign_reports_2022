@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,6374.80209002754,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),6115.382520179933,base_query
+1386,Insecure Operation on Windows Junction / Mount Point,5714.127168224586,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5713.977750608626,base_query
+472,External Control of Assumed-Immutable Web Parameter,5712.916672796821,base_query

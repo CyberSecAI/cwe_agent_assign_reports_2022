@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7547742743068051
+73,External Control of File Name or Path,Base,0.7464869929849469
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7412911106006601
+274,Improper Handling of Insufficient Privileges,Base,0.7402655531190616
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7374046441285012
+427,Uncontrolled Search Path Element,Base,0.7358574166278771
+250,Execution with Unnecessary Privileges,Base,0.7292314901119628
+267,Privilege Defined With Unsafe Actions,Base,0.7288427489034424
+1220,Insufficient Granularity of Access Control,Base,0.7283868572210215
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7276754472169302

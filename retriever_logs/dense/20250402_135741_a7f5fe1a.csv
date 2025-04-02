@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7871213122332226
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7842058547495692
+328,Use of Weak Hash,Base,0.780839932834605
+330,Use of Insufficiently Random Values,Class,0.7806083154104027
+667,Improper Locking,Class,0.7799497085222442
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7778704395799487
+755,Improper Handling of Exceptional Conditions,Class,0.7765585171669198
+345,Insufficient Verification of Data Authenticity,Class,0.7750052983001148
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7741209594287994
+41,Improper Resolution of Path Equivalence,Base,0.7730109343245319

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,5237.548212855718,base_query
+297,Improper Validation of Certificate with Host Mismatch,5010.311711909576,base_query
+617,Reachable Assertion,4890.458361958797,base_query
+770,Allocation of Resources Without Limits or Throttling,4825.583960886939,base_query
+295,Improper Certificate Validation,4800.703545944335,base_query

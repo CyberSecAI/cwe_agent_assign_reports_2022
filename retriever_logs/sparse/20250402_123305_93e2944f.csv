@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),7041.251718691941,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6741.849744206159,base_query
+1386,Insecure Operation on Windows Junction / Mount Point,6601.311870925488,base_query
+732,Incorrect Permission Assignment for Critical Resource,6555.37050761761,base_query
+863,Incorrect Authorization,6409.833376711477,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+285,Improper Authorization,5682.629369760125,base_query
+863,Incorrect Authorization,5601.5206771400235,base_query
+287,Improper Authentication,5553.054686410817,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,5519.984600337542,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5519.064161011701,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,6814.817015001949,base_query
+451,User Interface (UI) Misrepresentation of Critical Information,6768.909857224556,base_query
+295,Improper Certificate Validation,6595.993820403444,base_query
+1007,Insufficient Visual Distinction of Homoglyphs Presented to User,6434.811875736962,base_query
+297,Improper Validation of Certificate with Host Mismatch,6230.767928324836,base_query

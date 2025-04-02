@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+674,Uncontrolled Recursion,Class,0.751845704567385
+625,Permissive Regular Expression,Base,0.750051354869431
+129,Improper Validation of Array Index,Variant,0.7458271105514693
+131,Incorrect Calculation of Buffer Size,Base,0.7453053533884042
+125,Out-of-bounds Read,Base,0.7429403083310262
+788,Access of Memory Location After End of Buffer,Base,0.7367598526149892
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7342390149805522
+617,Reachable Assertion,Base,0.734200733226188
+191,Integer Underflow (Wrap or Wraparound),Base,0.733795311580115
+252,Unchecked Return Value,Base,0.7335912498040709

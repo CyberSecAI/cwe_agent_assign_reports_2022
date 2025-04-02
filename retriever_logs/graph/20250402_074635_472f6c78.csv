@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+386,Symbolic Name not Mapping to Correct Object,base,3.4502,0
+252,Unchecked Return Value,base,3.0784,0
+61,UNIX Symbolic Link (Symlink) Following,compound,3.002,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9025182791035427,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,base,4.329000000000001,0
+125,Out-of-bounds Read,base,3.8870000000000005,0
+787,Out-of-bounds Write,base,3.302,0
+290,Authentication Bypass by Spoofing,base,3.2656,0
+20,Improper Input Validation,class,2.92,0
+822,Untrusted Pointer Dereference,base,2.8651999999999997,0
+823,Use of Out-of-range Pointer Offset,base,2.8651999999999997,0
+824,Access of Uninitialized Pointer,base,2.8651999999999997,0
+825,Expired Pointer Dereference,base,2.8651999999999997,0
+1260,Improper Handling of Overlap Between Protected Memory Ranges,base,2.8651999999999997,0

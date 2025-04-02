@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+787,Out-of-bounds Write,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,3.8038000000000003,0
+839,Numeric Range Comparison Without Minimum Check,base,3.8038000000000003,0
+124,Buffer Underwrite ('Buffer Underflow'),base,3.3566,0
+824,Access of Uninitialized Pointer,Base,2.8803544612331855,0
+125,Out-of-bounds Read,Base,2.8772599682918187,0
+197,Numeric Truncation Error,base,2.7742,0
+195,Signed to Unsigned Conversion Error,variant,2.688,0
+131,Incorrect Calculation of Buffer Size,Base,2.5656319598508626,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,2.554728618857194,0

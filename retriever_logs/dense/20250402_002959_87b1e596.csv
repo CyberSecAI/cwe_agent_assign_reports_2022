@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7785885499726233
+184,Incomplete List of Disallowed Inputs,Base,0.777530445973347
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7757555001723323
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7701609045089545
+274,Improper Handling of Insufficient Privileges,Base,0.7691250751535216
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.767020094992275
+183,Permissive List of Allowed Inputs,Base,0.7667041178537897
+668,Exposure of Resource to Wrong Sphere,Class,0.7659428744352534
+41,Improper Resolution of Path Equivalence,Base,0.7647727021018234
+653,Improper Isolation or Compartmentalization,Class,0.7637485307543853

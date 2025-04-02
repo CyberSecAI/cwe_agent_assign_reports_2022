@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7659722323467437
+41,Improper Resolution of Path Equivalence,Base,0.7459836155251945
+184,Incomplete List of Disallowed Inputs,Base,0.7409165595688658
+691,Insufficient Control Flow Management,Pillar,0.7399643684577202
+1173,Improper Use of Validation Framework,Base,0.7375570084995976
+138,Improper Neutralization of Special Elements,Class,0.7370274183285999
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7348483737257054
+668,Exposure of Resource to Wrong Sphere,Class,0.7342038938862818
+23,Relative Path Traversal,Base,0.7319544663614137
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7317905958680866

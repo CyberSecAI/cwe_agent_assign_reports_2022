@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,4638.1851824759415,base_query
+1284,Improper Validation of Specified Quantity in Input,4422.919003422808,base_query
+191,Integer Underflow (Wrap or Wraparound),4399.276870254661,base_query
+193,Off-by-one Error,4009.0617257512918,base_query
+125,Out-of-bounds Read,3999.355879119201,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7587593646300783
+1220,Insufficient Granularity of Access Control,Base,0.751025902152235
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7505149987093652
+668,Exposure of Resource to Wrong Sphere,Class,0.7504548542591005
+274,Improper Handling of Insufficient Privileges,Base,0.7496538097030818
+653,Improper Isolation or Compartmentalization,Class,0.7489383265623701
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7411815784401132
+404,Improper Resource Shutdown or Release,Class,0.7389054611567449
+1390,Weak Authentication,Class,0.738678391242552
+552,Files or Directories Accessible to External Parties,Base,0.7371192621413758

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+287,Improper Authentication,6879.551940446409,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,6712.6711914499765,base_query
+863,Incorrect Authorization,6607.603185420813,base_query
+798,Use of Hard-coded Credentials,6534.407258454774,base_query
+522,Insufficiently Protected Credentials,6524.601558019604,base_query

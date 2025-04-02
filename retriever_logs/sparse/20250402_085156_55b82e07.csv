@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,6152.694580701622,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6074.778714642732,base_query
+1269,Product Released in Non-Release Configuration,6029.593692015177,base_query
+863,Incorrect Authorization,5961.913655763057,base_query
+259,Use of Hard-coded Password,5940.937618012067,base_query

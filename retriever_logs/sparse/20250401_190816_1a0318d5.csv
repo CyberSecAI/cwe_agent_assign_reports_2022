@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5918.874435796893,unknown
+285,Improper Authorization,5908.33679313492,unknown
+611,Improper Restriction of XML External Entity Reference,5773.753930425255,unknown
+639,Authorization Bypass Through User-Controlled Key,5719.794760653185,unknown
+306,Missing Authentication for Critical Function,5707.403665717663,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,5365.1293174289085,base_query
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,5323.859357687851,base_query
+863,Incorrect Authorization,5186.001497297467,base_query
+639,Authorization Bypass Through User-Controlled Key,5064.838574127438,base_query
+201,Insertion of Sensitive Information Into Sent Data,5044.56359310329,base_query

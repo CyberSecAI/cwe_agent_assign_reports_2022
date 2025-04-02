@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7490.12351973976,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7469.456612204366,base_query
+116,Improper Encoding or Escaping of Output,7461.495619579247,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7402.65905016368,base_query
+667,Improper Locking,7387.7220224163075,base_query

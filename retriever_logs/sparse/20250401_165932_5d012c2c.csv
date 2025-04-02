@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,4906.884520983055,base_query
+732,Incorrect Permission Assignment for Critical Resource,4608.674946420593,base_query
+321,Use of Hard-coded Cryptographic Key,4591.419336458154,base_query
+639,Authorization Bypass Through User-Controlled Key,4585.717385916814,base_query
+863,Incorrect Authorization,4580.751926733867,base_query

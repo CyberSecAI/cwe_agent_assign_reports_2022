@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+73,External Control of File Name or Path,base,5.031000000000001,0
+434,Unrestricted Upload of File with Dangerous Type,base,5.031000000000001,0
+178,Improper Handling of Case Sensitivity,base,4.505800000000001,0
+430,Deployment of Wrong Handler,base,4.3888,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.329000000000001,0
+1275,Sensitive Cookie with Improper SameSite Attribute,variant,3.8784,0
+351,Insufficient Type Distinction,base,3.6399999999999997,0
+252,Unchecked Return Value,base,3.4200400000000006,0
+386,Symbolic Name not Mapping to Correct Object,base,3.3191600000000006,0

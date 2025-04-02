@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,7630.57782402864,unknown
+770,Allocation of Resources Without Limits or Throttling,7580.409414694476,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7509.574050697987,unknown
+116,Improper Encoding or Escaping of Output,7476.899121448189,unknown
+1284,Improper Validation of Specified Quantity in Input,7472.519857171261,unknown

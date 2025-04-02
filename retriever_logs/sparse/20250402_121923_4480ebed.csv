@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,5825.092042767458,base_query
+204,Observable Response Discrepancy,5642.878366367304,base_query
+208,Observable Timing Discrepancy,5637.546703674139,base_query
+639,Authorization Bypass Through User-Controlled Key,5548.123523997285,base_query
+1390,Weak Authentication,5322.056361315202,base_query

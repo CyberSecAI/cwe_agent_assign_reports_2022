@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7713446729913884
+1021,Improper Restriction of Rendered UI Layers or Frames,Base,0.7710799571658201
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7681928800420981
+404,Improper Resource Shutdown or Release,Class,0.7661277359159427
+667,Improper Locking,Class,0.7654254256012593
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.764302624270852
+668,Exposure of Resource to Wrong Sphere,Class,0.7596359345671971
+184,Incomplete List of Disallowed Inputs,Base,0.7595621483472821
+653,Improper Isolation or Compartmentalization,Class,0.7579345543750975
+41,Improper Resolution of Path Equivalence,Base,0.7577422288618166

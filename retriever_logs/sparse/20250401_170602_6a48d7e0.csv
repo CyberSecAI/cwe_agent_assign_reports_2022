@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5180.7462825302055,unknown
+476,NULL Pointer Dereference,5066.75851619375,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5035.1405817731375,unknown
+125,Out-of-bounds Read,4993.316681107768,unknown
+190,Integer Overflow or Wraparound,4981.1756128297175,unknown

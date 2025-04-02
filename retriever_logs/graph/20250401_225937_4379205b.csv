@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+259,Use of Hard-coded Password,variant,4.0104,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+798,Use of Hard-coded Credentials,Base,2.494345249233068,0
+288,Authentication Bypass Using an Alternate Path or Channel,Base,2.487274291139633,0
+257,Storing Passwords in a Recoverable Format,Base,2.482732148408468,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0

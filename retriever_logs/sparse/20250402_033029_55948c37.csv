@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,6464.124040581887,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6268.649590295928,base_query
+209,Generation of Error Message Containing Sensitive Information,6225.942244103379,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,6200.146398937524,base_query
+319,Cleartext Transmission of Sensitive Information,6199.663685730135,base_query

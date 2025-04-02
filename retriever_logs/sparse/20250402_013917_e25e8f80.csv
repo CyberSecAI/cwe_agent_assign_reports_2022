@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),6442.963821673873,base_query
+295,Improper Certificate Validation,6345.572663684952,base_query
+297,Improper Validation of Certificate with Host Mismatch,6197.588713709842,base_query
+611,Improper Restriction of XML External Entity Reference,6190.791263079791,base_query
+1289,Improper Validation of Unsafe Equivalence in Input,6188.3393087603445,base_query

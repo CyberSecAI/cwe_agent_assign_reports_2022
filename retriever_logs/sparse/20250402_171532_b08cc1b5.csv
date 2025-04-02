@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1256,Improper Restriction of Software Interfaces to Hardware Features,5026.748485761549,unknown
+770,Allocation of Resources Without Limits or Throttling,4971.101484544195,unknown
+863,Incorrect Authorization,4809.324855214553,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,4791.47430088266,unknown
+639,Authorization Bypass Through User-Controlled Key,4783.158469271502,unknown

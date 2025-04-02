@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7684703401883775
+1391,Use of Weak Credentials,Class,0.76518886857817
+1390,Weak Authentication,Class,0.7612038322551082
+798,Use of Hard-coded Credentials,Base,0.7603023817798069
+345,Insufficient Verification of Data Authenticity,Class,0.7587770288224142
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7569803245946461
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7563823384509725
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7524756161631956
+294,Authentication Bypass by Capture-replay,Base,0.7500698928315627
+639,Authorization Bypass Through User-Controlled Key,Base,0.7476255602502281

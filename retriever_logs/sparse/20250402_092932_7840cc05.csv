@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,3558.9915973740835,base_query
+287,Improper Authentication,3407.304857592461,base_query
+306,Missing Authentication for Critical Function,3343.204470545992,base_query
+916,Use of Password Hash With Insufficient Computational Effort,3333.192910177063,base_query
+639,Authorization Bypass Through User-Controlled Key,3319.696883441464,base_query

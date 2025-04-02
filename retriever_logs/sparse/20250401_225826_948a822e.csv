@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,8148.54654530749,base_query
+798,Use of Hard-coded Credentials,7496.736465124287,base_query
+732,Incorrect Permission Assignment for Critical Resource,7316.254363790961,base_query
+259,Use of Hard-coded Password,7209.926771841863,base_query
+863,Incorrect Authorization,7095.746334866074,base_query

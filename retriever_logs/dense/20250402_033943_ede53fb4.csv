@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+602,Client-Side Enforcement of Server-Side Security,Class,0.7546664912289635
+639,Authorization Bypass Through User-Controlled Key,Base,0.7432622851833608
+668,Exposure of Resource to Wrong Sphere,Class,0.7418979931397207
+1220,Insufficient Granularity of Access Control,Base,0.7392305753118079
+653,Improper Isolation or Compartmentalization,Class,0.7375708117114463
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7341355286469502
+1390,Weak Authentication,Class,0.7327376468185237
+657,Violation of Secure Design Principles,Class,0.731936375039731
+41,Improper Resolution of Path Equivalence,Base,0.728039048571492
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7258997260551203

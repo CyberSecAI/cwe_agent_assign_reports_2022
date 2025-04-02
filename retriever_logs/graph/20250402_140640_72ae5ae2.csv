@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+410,Insufficient Resource Pool,base,4.329000000000001,0
+787,Out-of-bounds Write,base,3.653,0
+1325,Improperly Controlled Sequential Memory Allocation,Base,3.3350839955208005,0
+789,Memory Allocation with Excessive Size Value,Variant,3.0293264678477243,0
+128,Wrap-around Error,base,2.9120000000000004,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,2.9120000000000004,0
+131,Incorrect Calculation of Buffer Size,Base,2.9032586854476943,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7812150712768309
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7784099128671639
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7748172002884475
+41,Improper Resolution of Path Equivalence,Base,0.7732430376768832
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.77034797831644
+668,Exposure of Resource to Wrong Sphere,Class,0.7696745707575092
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7670883825911604
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7663629817315114
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7659755109833227
+923,Improper Restriction of Communication Channel to Intended Endpoints,Class,0.7658476869519504

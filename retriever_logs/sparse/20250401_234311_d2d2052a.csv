@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,5261.143446767079,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5111.991026111382,unknown
+203,Observable Discrepancy,4966.979132538574,unknown
+300,Channel Accessible by Non-Endpoint,4912.1838215016,unknown
+295,Improper Certificate Validation,4874.029939904802,unknown

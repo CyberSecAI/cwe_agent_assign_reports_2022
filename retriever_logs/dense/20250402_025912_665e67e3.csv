@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+613,Insufficient Session Expiration,Base,0.7536883377480863
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7443586095645771
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7436527931304839
+799,Improper Control of Interaction Frequency,Class,0.7426800593340459
+653,Improper Isolation or Compartmentalization,Class,0.7414085908489825
+274,Improper Handling of Insufficient Privileges,Base,0.7405519180229548
+1390,Weak Authentication,Class,0.74035862254891
+404,Improper Resource Shutdown or Release,Class,0.7402519231299807
+1391,Use of Weak Credentials,Class,0.7365775559685699
+668,Exposure of Resource to Wrong Sphere,Class,0.7365351275573659

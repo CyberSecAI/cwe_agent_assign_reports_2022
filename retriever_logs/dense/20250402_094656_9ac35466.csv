@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+312,Cleartext Storage of Sensitive Information,Base,0.7212569969116647
+653,Improper Isolation or Compartmentalization,Class,0.714493740321655
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.707468199297834
+274,Improper Handling of Insufficient Privileges,Base,0.7046604599592362
+73,External Control of File Name or Path,Base,0.704188299003535
+552,Files or Directories Accessible to External Parties,Base,0.7031982136508923
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7016893509760466
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7005942187135612
+23,Relative Path Traversal,Base,0.7005285748794015
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.6982334977486107

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7864852474466844
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7861933066390039
+41,Improper Resolution of Path Equivalence,Base,0.7716919171719466
+73,External Control of File Name or Path,Base,0.7694480819346885
+667,Improper Locking,Class,0.7645539601572093
+668,Exposure of Resource to Wrong Sphere,Class,0.7626715737893023
+404,Improper Resource Shutdown or Release,Class,0.7624969509479637
+427,Uncontrolled Search Path Element,Base,0.7588774393202158
+23,Relative Path Traversal,Base,0.7571620893990186
+266,Incorrect Privilege Assignment,Base,0.7543175547089849

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7541959904403966
+274,Improper Handling of Insufficient Privileges,Base,0.7531097428122622
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7497245923128206
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7484630910279368
+668,Exposure of Resource to Wrong Sphere,Class,0.7475708937543297
+639,Authorization Bypass Through User-Controlled Key,Base,0.7471616025721546
+404,Improper Resource Shutdown or Release,Class,0.7449814439480421
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7415947553621542
+1390,Weak Authentication,Class,0.7389256174057259
+1220,Insufficient Granularity of Access Control,Base,0.7385969930724863

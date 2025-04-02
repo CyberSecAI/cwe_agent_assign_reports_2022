@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1004,Sensitive Cookie Without 'HttpOnly' Flag,Variant,0.7783863181814615
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7720427853834366
+784,Reliance on Cookies without Validation and Integrity Checking in a Security Decision,Variant,0.7695512870849197
+565,Reliance on Cookies without Validation and Integrity Checking,Base,0.7694125708248626
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7630840413796176
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,Variant,0.7567037527364882
+41,Improper Resolution of Path Equivalence,Base,0.752530944352747
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7524495895469194
+425,Direct Request ('Forced Browsing'),Base,0.747472654545795
+184,Incomplete List of Disallowed Inputs,Base,0.7471436758809222

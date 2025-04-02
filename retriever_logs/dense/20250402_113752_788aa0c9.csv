@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7970122991172741
+667,Improper Locking,Class,0.7846750762717782
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.777984815256929
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7773871101136781
+125,Out-of-bounds Read,Base,0.7693970113640194
+131,Incorrect Calculation of Buffer Size,Base,0.7678445897204387
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7674410736422665
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7647625403207625
+252,Unchecked Return Value,Base,0.7644599001556343
+668,Exposure of Resource to Wrong Sphere,Class,0.7644285537538373

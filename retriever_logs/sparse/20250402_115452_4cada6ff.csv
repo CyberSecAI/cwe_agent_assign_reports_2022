@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7283.1780513455915,unknown
+916,Use of Password Hash With Insufficient Computational Effort,7121.428896015607,unknown
+116,Improper Encoding or Escaping of Output,6965.475174133489,unknown
+184,Incomplete List of Disallowed Inputs,6716.759140909546,unknown
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),6669.343372205675,unknown

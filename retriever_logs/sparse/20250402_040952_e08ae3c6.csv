@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,8124.245607796083,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7989.42132106202,unknown
+789,Memory Allocation with Excessive Size Value,7825.720125195081,unknown
+1284,Improper Validation of Specified Quantity in Input,7742.243831210211,unknown
+1333,Inefficient Regular Expression Complexity,7669.796229574447,unknown

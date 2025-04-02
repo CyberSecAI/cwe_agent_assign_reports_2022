@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+909,Missing Initialization of Resource,4875.677958803244,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),4861.202805289194,base_query
+665,Improper Initialization,4801.480982180491,base_query
+908,Use of Uninitialized Resource,4746.152972325316,base_query
+252,Unchecked Return Value,4706.346974121554,base_query

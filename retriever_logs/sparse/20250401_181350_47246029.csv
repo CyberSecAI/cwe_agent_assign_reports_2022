@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,5933.500711406508,base_query
+1284,Improper Validation of Specified Quantity in Input,5698.900667767584,base_query
+252,Unchecked Return Value,5681.072357251031,base_query
+667,Improper Locking,5679.658538192497,base_query
+476,NULL Pointer Dereference,5655.201108676408,base_query

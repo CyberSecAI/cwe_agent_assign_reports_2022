@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+125,Out-of-bounds Read,Base,0.7826431029785406
+131,Incorrect Calculation of Buffer Size,Base,0.7794633266870281
+805,Buffer Access with Incorrect Length Value,Base,0.7759523936794446
+823,Use of Out-of-range Pointer Offset,Base,0.7738943249367295
+191,Integer Underflow (Wrap or Wraparound),Base,0.7717319453037973
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7710786683714528
+126,Buffer Over-read,Variant,0.7683019840774348
+404,Improper Resource Shutdown or Release,Class,0.7673991699464232
+197,Numeric Truncation Error,Base,0.7669119448127237
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7635799461421404

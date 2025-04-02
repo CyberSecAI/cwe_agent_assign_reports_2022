@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,6743.6770458051715,base_query
+789,Memory Allocation with Excessive Size Value,6523.489028818511,base_query
+328,Use of Weak Hash,6503.614884579204,base_query
+400,Uncontrolled Resource Consumption,6397.292653404176,base_query
+1284,Improper Validation of Specified Quantity in Input,6381.382671558015,base_query

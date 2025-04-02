@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,5533.928292433002,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5139.272677696694,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5123.636638718665,base_query
+927,Use of Implicit Intent for Sensitive Communication,5109.386665312196,base_query
+863,Incorrect Authorization,5049.3260168024835,base_query

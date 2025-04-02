@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,5760.554775121991,unknown
+625,Permissive Regular Expression,5633.423804871893,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5409.972519470521,unknown
+23,Relative Path Traversal,5155.268883520263,unknown
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),5084.235338949065,unknown

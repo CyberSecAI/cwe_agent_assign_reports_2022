@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+259,Use of Hard-coded Password,variant,3.9907200000000005,0
+472,External Control of Assumed-Immutable Web Parameter,base,3.5828,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+208,Observable Timing Discrepancy,Base,2.886400853888505,0
+321,Use of Hard-coded Cryptographic Key,variant,2.7907200000000008,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0
+257,Storing Passwords in a Recoverable Format,Base,2.479528980826951,0
+565,Reliance on Cookies without Validation and Integrity Checking,base,2.4699999999999998,0

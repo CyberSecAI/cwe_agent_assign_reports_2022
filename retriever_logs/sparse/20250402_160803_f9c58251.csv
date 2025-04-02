@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+472,External Control of Assumed-Immutable Web Parameter,6108.908668244619,unknown
+863,Incorrect Authorization,6057.089405969202,unknown
+285,Improper Authorization,5970.189644803454,unknown
+639,Authorization Bypass Through User-Controlled Key,5965.585142319916,unknown
+306,Missing Authentication for Critical Function,5788.612861132875,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,6509.894893700168,unknown
+259,Use of Hard-coded Password,6337.088246175406,unknown
+798,Use of Hard-coded Credentials,6308.878527862266,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6198.963075179847,unknown
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6198.346782765504,unknown

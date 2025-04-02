@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7880765476840315
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7733803867983771
+457,Use of Uninitialized Variable,Variant,0.7679708565178225
+668,Exposure of Resource to Wrong Sphere,Class,0.7679660439118637
+704,Incorrect Type Conversion or Cast,Class,0.7645236933169366
+665,Improper Initialization,Class,0.764089781170824
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7632910208966259
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.763270866386367
+667,Improper Locking,Class,0.7621996949870495
+404,Improper Resource Shutdown or Release,Class,0.7621948939478342

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+405,Asymmetric Resource Consumption (Amplification),Class,0.7824721667440225
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7643882635133132
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7605695159219177
+404,Improper Resource Shutdown or Release,Class,0.7438103925719677
+799,Improper Control of Interaction Frequency,Class,0.7429771167134845
+653,Improper Isolation or Compartmentalization,Class,0.7423286910640075
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7405335151458214
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7339849569589448
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7313173271309369
+913,Improper Control of Dynamically-Managed Code Resources,Class,0.7275442686294543

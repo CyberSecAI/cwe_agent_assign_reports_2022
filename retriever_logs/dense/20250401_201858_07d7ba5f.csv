@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7760422623797681
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7724938336222663
+434,Unrestricted Upload of File with Dangerous Type,Base,0.7707623219497426
+73,External Control of File Name or Path,Base,0.7673503588648807
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7659057428945871
+184,Incomplete List of Disallowed Inputs,Base,0.7657368704768022
+425,Direct Request ('Forced Browsing'),Base,0.76485605887945
+23,Relative Path Traversal,Base,0.7643619678417393
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7638699948798857
+552,Files or Directories Accessible to External Parties,Base,0.7619738782443987

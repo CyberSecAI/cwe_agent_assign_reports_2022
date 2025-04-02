@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1391,Use of Weak Credentials,Class,0.7941734472125244
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7884029212007798
+345,Insufficient Verification of Data Authenticity,Class,0.775280045983469
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7750252360190467
+1390,Weak Authentication,Class,0.7744280948254082
+798,Use of Hard-coded Credentials,Base,0.7727475613364916
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7712749317402967
+328,Use of Weak Hash,Base,0.7670733472356515
+330,Use of Insufficiently Random Values,Class,0.7660053504656019
+657,Violation of Secure Design Principles,Class,0.762920802319048

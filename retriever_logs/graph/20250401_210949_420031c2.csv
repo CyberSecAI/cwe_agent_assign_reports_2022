@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.302,0
+41,Improper Resolution of Path Equivalence,base,2.9120000000000004,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.8989690254145186,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.8651999999999997,0
+457,Use of Uninitialized Variable,variant,2.8320000000000003,0

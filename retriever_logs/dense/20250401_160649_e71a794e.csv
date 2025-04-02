@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+617,Reachable Assertion,Base,0.7989320486714067
+824,Access of Uninitialized Pointer,Base,0.7919950444308331
+476,NULL Pointer Dereference,Base,0.7691447943150247
+131,Incorrect Calculation of Buffer Size,Base,0.7680484374383243
+404,Improper Resource Shutdown or Release,Class,0.7676353027653005
+252,Unchecked Return Value,Base,0.7660537070109459
+667,Improper Locking,Class,0.7656626087897164
+125,Out-of-bounds Read,Base,0.7647236694317783
+129,Improper Validation of Array Index,Variant,0.7609465326106214
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7602941140685727

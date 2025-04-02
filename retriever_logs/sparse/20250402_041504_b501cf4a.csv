@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,4959.06374609821,unknown
+285,Improper Authorization,4941.688275112503,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4929.991868293366,unknown
+754,Improper Check for Unusual or Exceptional Conditions,4739.931959895053,unknown
+732,Incorrect Permission Assignment for Critical Resource,4728.129156321458,unknown

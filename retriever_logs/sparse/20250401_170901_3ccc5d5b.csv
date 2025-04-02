@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,4531.684003825201,base_query
+203,Observable Discrepancy,4393.294595810532,base_query
+295,Improper Certificate Validation,4265.8602686896675,base_query
+204,Observable Response Discrepancy,4249.769858446862,base_query
+451,User Interface (UI) Misrepresentation of Critical Information,4229.779189029098,base_query

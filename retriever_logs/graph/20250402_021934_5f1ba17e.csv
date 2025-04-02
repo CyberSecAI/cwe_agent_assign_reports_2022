@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.757,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,base,3.6399999999999997,0
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),base,3.6399999999999997,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,3.4866,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.4866,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.4866,0
+41,Improper Resolution of Path Equivalence,base,3.1252000000000004,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0

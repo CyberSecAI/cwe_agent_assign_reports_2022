@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7092.738310685809,unknown
+863,Incorrect Authorization,7025.935438358325,unknown
+287,Improper Authentication,6905.435246328319,unknown
+285,Improper Authorization,6893.910253414755,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6879.8948016845225,unknown

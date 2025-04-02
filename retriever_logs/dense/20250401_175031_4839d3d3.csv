@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+824,Access of Uninitialized Pointer,Base,0.7830667567239653
+131,Incorrect Calculation of Buffer Size,Base,0.7637316213576845
+476,NULL Pointer Dereference,Base,0.7630345759089028
+191,Integer Underflow (Wrap or Wraparound),Base,0.7626397785777359
+125,Out-of-bounds Read,Base,0.7613524723603207
+193,Off-by-one Error,Base,0.7606088579243075
+415,Double Free,Variant,0.7584349286382834
+681,Incorrect Conversion between Numeric Types,Base,0.7530923475010146
+667,Improper Locking,Class,0.7517650006461871
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),Base,0.7507628771882914

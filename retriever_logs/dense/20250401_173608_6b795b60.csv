@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+674,Uncontrolled Recursion,Class,0.7450348106624537
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7449911822170383
+691,Insufficient Control Flow Management,Pillar,0.7378813593058958
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7314589537129975
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.727659320965929
+131,Incorrect Calculation of Buffer Size,Base,0.7268993304965385
+191,Integer Underflow (Wrap or Wraparound),Base,0.7266844676477401
+667,Improper Locking,Class,0.7248374850503315
+41,Improper Resolution of Path Equivalence,Base,0.7243061744351563
+653,Improper Isolation or Compartmentalization,Class,0.7234743559223157

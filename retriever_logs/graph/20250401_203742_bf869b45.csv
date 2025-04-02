@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+386,Symbolic Name not Mapping to Correct Object,base,4.914000000000001,0
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9345479243424712,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.9184000000000005,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+41,Improper Resolution of Path Equivalence,Base,2.6414632072850748,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0
+427,Uncontrolled Search Path Element,Base,2.493424613914703,0

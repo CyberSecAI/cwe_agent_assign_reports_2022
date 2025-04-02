@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),5449.743374701808,base_query
+502,Deserialization of Untrusted Data,5279.654103047455,base_query
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,5068.331986613982,base_query
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),5031.838943211248,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5002.208241384328,base_query

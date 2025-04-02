@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,4759.470329130418,base_query
+1390,Weak Authentication,4750.622572683437,base_query
+472,External Control of Assumed-Immutable Web Parameter,4658.2820842345845,base_query
+863,Incorrect Authorization,4534.223257652478,base_query
+287,Improper Authentication,4529.569261745062,base_query

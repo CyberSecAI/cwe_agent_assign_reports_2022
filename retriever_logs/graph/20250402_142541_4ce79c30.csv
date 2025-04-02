@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+321,Use of Hard-coded Cryptographic Key,variant,4.1184,0
+259,Use of Hard-coded Password,variant,4.1184,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.24,0
+425,Direct Request ('Forced Browsing'),Base,2.892975813284566,0
+184,Incomplete List of Disallowed Inputs,base,2.8651999999999997,0
+473,PHP External Variable Modification,variant,2.6784000000000003,0
+287,Improper Authentication,class,2.5519999999999996,0

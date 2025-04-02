@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.302,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+41,Improper Resolution of Path Equivalence,Base,2.6346459978172936,0
+287,Improper Authentication,class,2.5519999999999996,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0
+274,Improper Handling of Insufficient Privileges,Base,2.489261572802383,0
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,2.4873214991557626,0
+204,Observable Response Discrepancy,base,2.4699999999999998,0

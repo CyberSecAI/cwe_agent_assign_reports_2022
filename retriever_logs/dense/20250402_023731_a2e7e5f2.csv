@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7940928047499811
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7905909431695444
+184,Incomplete List of Disallowed Inputs,Base,0.7809872137053658
+41,Improper Resolution of Path Equivalence,Base,0.7769895494692967
+183,Permissive List of Allowed Inputs,Base,0.7704155004445294
+73,External Control of File Name or Path,Base,0.769850800712095
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7690171041493373
+668,Exposure of Resource to Wrong Sphere,Class,0.7661345533557637
+404,Improper Resource Shutdown or Release,Class,0.7644972437076469
+436,Interpretation Conflict,Class,0.761885833565648

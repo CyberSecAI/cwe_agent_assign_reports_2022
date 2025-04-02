@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+123,Write-what-where Condition,base,5.031000000000001,0
+41,Improper Resolution of Path Equivalence,base,5.031000000000001,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.8204,0
+416,Use After Free,variant,4.5264,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+825,Expired Pointer Dereference,base,4.329000000000001,0
+1341,Multiple Releases of Same Resource or Handle,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+73,External Control of File Name or Path,base,4.329000000000001,0

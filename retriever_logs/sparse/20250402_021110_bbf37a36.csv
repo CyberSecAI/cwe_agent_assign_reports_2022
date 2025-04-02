@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+798,Use of Hard-coded Credentials,6782.123023009586,unknown
+863,Incorrect Authorization,6593.090422291374,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6579.344299210862,unknown
+321,Use of Hard-coded Cryptographic Key,6574.884009249431,unknown
+639,Authorization Bypass Through User-Controlled Key,6539.062066808117,unknown

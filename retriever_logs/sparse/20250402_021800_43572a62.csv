@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5768.430338453154,base_query
+285,Improper Authorization,5716.887136254252,base_query
+639,Authorization Bypass Through User-Controlled Key,5578.630938227188,base_query
+434,Unrestricted Upload of File with Dangerous Type,5445.468355709112,base_query
+425,Direct Request ('Forced Browsing'),5445.214787952708,base_query

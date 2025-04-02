@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+287,Improper Authentication,5912.1041752240635,unknown
+306,Missing Authentication for Critical Function,5844.430197275913,unknown
+321,Use of Hard-coded Cryptographic Key,5812.933318057396,unknown
+1390,Weak Authentication,5807.016981181679,unknown
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5766.081085116945,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,5477.2585854870895,base_query
+789,Memory Allocation with Excessive Size Value,5252.192304403705,base_query
+203,Observable Discrepancy,5135.842522735271,base_query
+404,Improper Resource Shutdown or Release,5094.841335721455,base_query
+400,Uncontrolled Resource Consumption,5062.7883593792685,base_query

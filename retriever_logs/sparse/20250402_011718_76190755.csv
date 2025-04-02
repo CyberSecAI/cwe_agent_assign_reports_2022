@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,6203.8469757121775,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6148.267941993479,base_query
+941,Incorrectly Specified Destination in a Communication Channel,6142.251968202107,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,6136.840740074598,base_query
+863,Incorrect Authorization,6030.271397968902,base_query

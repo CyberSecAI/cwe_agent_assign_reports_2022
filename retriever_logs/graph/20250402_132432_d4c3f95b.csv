@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+787,Out-of-bounds Write,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+617,Reachable Assertion,base,3.8870000000000005,0
+416,Use After Free,variant,3.7507200000000003,0
+123,Write-what-where Condition,base,3.3566,0
+1325,Improperly Controlled Sequential Memory Allocation,Base,3.3226730924925043,0
+789,Memory Allocation with Excessive Size Value,Variant,3.022141471693453,0
+824,Access of Uninitialized Pointer,Base,2.912713524086466,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+693,Protection Mechanism Failure,Pillar,0.7685484337401225
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7507146757450913
+274,Improper Handling of Insufficient Privileges,Base,0.747042263632637
+184,Incomplete List of Disallowed Inputs,Base,0.7466807548477972
+653,Improper Isolation or Compartmentalization,Class,0.7465931873665494
+668,Exposure of Resource to Wrong Sphere,Class,0.7456984577581571
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7444097489076661
+41,Improper Resolution of Path Equivalence,Base,0.7437455444014646
+691,Insufficient Control Flow Management,Pillar,0.7428156566326056
+697,Incorrect Comparison,Pillar,0.740465341434842

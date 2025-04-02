@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),7553.283874228497,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7541.317384979578,unknown
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),7217.766203973291,unknown
+502,Deserialization of Untrusted Data,7165.028827803156,unknown
+116,Improper Encoding or Escaping of Output,7101.92085145036,unknown

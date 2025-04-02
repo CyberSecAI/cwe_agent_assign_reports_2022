@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+708,Incorrect Ownership Assignment,base,3.6399999999999997,0
+325,Missing Cryptographic Step,base,3.2656,0
+259,Use of Hard-coded Password,variant,3.2227200000000003,0
+352,Cross-Site Request Forgery (CSRF),compound,3.002,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.9018998891420167,0
+208,Observable Timing Discrepancy,Base,2.8990394793040313,0

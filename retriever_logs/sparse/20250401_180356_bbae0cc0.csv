@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,5625.102140340302,base_query
+941,Incorrectly Specified Destination in a Communication Channel,5608.532975935565,base_query
+863,Incorrect Authorization,5531.506070079733,base_query
+285,Improper Authorization,5398.013404280158,base_query
+668,Exposure of Resource to Wrong Sphere,5385.587334908432,base_query

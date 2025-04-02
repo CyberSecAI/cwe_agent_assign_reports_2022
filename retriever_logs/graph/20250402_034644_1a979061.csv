@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+195,Signed to Unsigned Conversion Error,variant,4.5264,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+823,Use of Out-of-range Pointer Offset,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+825,Expired Pointer Dereference,base,4.329000000000001,0
+131,Incorrect Calculation of Buffer Size,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+197,Numeric Truncation Error,base,3.6399999999999997,0
+681,Incorrect Conversion between Numeric Types,base,3.4866,0

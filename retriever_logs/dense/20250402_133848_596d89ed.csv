@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.8045374423549804
+404,Improper Resource Shutdown or Release,Class,0.8003416077616853
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7933570656148002
+366,Race Condition within a Thread,Base,0.7735843143598707
+662,Improper Synchronization,Class,0.7683928556283381
+909,Missing Initialization of Resource,Class,0.7680590638941225
+665,Improper Initialization,Class,0.7675776976882784
+908,Use of Uninitialized Resource,Base,0.7625201670459889
+413,Improper Resource Locking,Base,0.7598044141833591
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7556773447852392

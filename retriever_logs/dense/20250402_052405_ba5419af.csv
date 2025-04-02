@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7629762647493712
+665,Improper Initialization,Class,0.7620027215815706
+1391,Use of Weak Credentials,Class,0.7594682531779154
+41,Improper Resolution of Path Equivalence,Base,0.7593160659401419
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7591381097463401
+345,Insufficient Verification of Data Authenticity,Class,0.7582289336603577
+1188,Initialization of a Resource with an Insecure Default,Base,0.7571592741079826
+73,External Control of File Name or Path,Base,0.7569570400337318
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7562651760562428
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.754971480116198

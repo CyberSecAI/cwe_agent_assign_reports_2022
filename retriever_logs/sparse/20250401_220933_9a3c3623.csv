@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7559.500647773422,base_query
+116,Improper Encoding or Escaping of Output,7405.136532553674,base_query
+138,Improper Neutralization of Special Elements,7150.212522284555,base_query
+1236,Improper Neutralization of Formula Elements in a CSV File,7057.986396008338,base_query
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),6939.6063238995075,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+410,Insufficient Resource Pool,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.212000000000001,0
+190,Integer Overflow or Wraparound,base,3.3732400000000005,0
+772,Missing Release of Resource after Effective Lifetime,base,3.055,0
+352,Cross-Site Request Forgery (CSRF),compound,3.002,0
+20,Improper Input Validation,class,2.984,0
+1325,Improperly Controlled Sequential Memory Allocation,base,2.9250000000000003,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,2.9120000000000004,0
+770,Allocation of Resources Without Limits or Throttling,Base,2.8813042440129517,0

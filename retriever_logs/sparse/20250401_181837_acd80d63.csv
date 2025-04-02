@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,6426.032523519308,base_query
+1256,Improper Restriction of Software Interfaces to Hardware Features,6105.760288523145,base_query
+863,Incorrect Authorization,5959.026985918105,base_query
+306,Missing Authentication for Critical Function,5940.960531853481,base_query
+285,Improper Authorization,5904.993772553183,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+294,Authentication Bypass by Capture-replay,Base,0.7770376248641891
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7762880859527383
+668,Exposure of Resource to Wrong Sphere,Class,0.7760583096459213
+1391,Use of Weak Credentials,Class,0.7756260808173037
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7691778181543382
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7671498839012754
+345,Insufficient Verification of Data Authenticity,Class,0.7669194028108631
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7661386892837633
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7646732235050397
+798,Use of Hard-coded Credentials,Base,0.760814580723042

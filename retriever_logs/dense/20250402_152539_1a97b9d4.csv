@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+312,Cleartext Storage of Sensitive Information,Base,0.7794547781948888
+1391,Use of Weak Credentials,Class,0.7747529309403433
+257,Storing Passwords in a Recoverable Format,Base,0.7743586090244705
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7576791280960038
+916,Use of Password Hash With Insufficient Computational Effort,Base,0.7511568700242252
+798,Use of Hard-coded Credentials,Base,0.7493080188632799
+1392,Use of Default Credentials,Base,0.7394202012037874
+319,Cleartext Transmission of Sensitive Information,Base,0.7361556654108218
+656,Reliance on Security Through Obscurity,Class,0.7343332438028707
+331,Insufficient Entropy,Base,0.7337348538765596

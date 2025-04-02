@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,6181.558388005522,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5940.659301329696,base_query
+770,Allocation of Resources Without Limits or Throttling,5932.136744277451,base_query
+1284,Improper Validation of Specified Quantity in Input,5828.540829688294,base_query
+617,Reachable Assertion,5803.841436013438,base_query

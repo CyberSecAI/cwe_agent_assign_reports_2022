@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+328,Use of Weak Hash,6622.399688994966,base_query
+611,Improper Restriction of XML External Entity Reference,6556.418479150398,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6438.236439690413,base_query
+116,Improper Encoding or Escaping of Output,6421.051633308627,base_query
+1284,Improper Validation of Specified Quantity in Input,6385.146770517483,base_query

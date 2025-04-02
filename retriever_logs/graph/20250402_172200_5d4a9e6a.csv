@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+772,Missing Release of Resource after Effective Lifetime,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+908,Use of Uninitialized Resource,base,4.329000000000001,0
+416,Use After Free,variant,3.8784,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.7507200000000003,0
+123,Write-what-where Condition,base,3.3566,0
+126,Buffer Over-read,variant,3.1008,0
+476,NULL Pointer Dereference,Base,2.9138460858941233,0
+822,Untrusted Pointer Dereference,Base,2.9035788913309846,0
+911,Improper Update of Reference Count,Base,2.9028200832871924,0

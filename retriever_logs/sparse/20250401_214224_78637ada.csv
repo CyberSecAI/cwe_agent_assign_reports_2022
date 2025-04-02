@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+617,Reachable Assertion,7933.885792877584,base_query
+1284,Improper Validation of Specified Quantity in Input,7780.040285727677,base_query
+252,Unchecked Return Value,7702.727057681017,base_query
+190,Integer Overflow or Wraparound,7682.553339756916,base_query
+754,Improper Check for Unusual or Exceptional Conditions,7641.94070386015,base_query

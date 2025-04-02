@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+909,Missing Initialization of Resource,Class,0.7948469099341602
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7914241483520792
+665,Improper Initialization,Class,0.7897639600340073
+404,Improper Resource Shutdown or Release,Class,0.7874189966784997
+667,Improper Locking,Class,0.777551717999992
+824,Access of Uninitialized Pointer,Base,0.776281185528168
+908,Use of Uninitialized Resource,Base,0.7752033914654433
+457,Use of Uninitialized Variable,Variant,0.7734057162942183
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7688320324316285
+252,Unchecked Return Value,Base,0.7649032743859787

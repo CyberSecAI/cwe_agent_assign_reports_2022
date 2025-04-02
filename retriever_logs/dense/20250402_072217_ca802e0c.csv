@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),Base,0.8560231840810656
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7722934718247486
+441,Unintended Proxy or Intermediary ('Confused Deputy'),Class,0.7620627554048027
+617,Reachable Assertion,Base,0.7411425257856963
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7411323859653599
+436,Interpretation Conflict,Class,0.7389674143924467
+41,Improper Resolution of Path Equivalence,Base,0.7388434473358294
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7367200528447533
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7362477037760957
+204,Observable Response Discrepancy,Base,0.7349138300226188

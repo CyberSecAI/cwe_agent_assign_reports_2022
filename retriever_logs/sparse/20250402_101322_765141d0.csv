@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+611,Improper Restriction of XML External Entity Reference,6679.7462058017345,unknown
+116,Improper Encoding or Escaping of Output,6213.640308256166,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6190.537720753225,unknown
+209,Generation of Error Message Containing Sensitive Information,6134.419282574798,unknown
+319,Cleartext Transmission of Sensitive Information,6118.482272182726,unknown

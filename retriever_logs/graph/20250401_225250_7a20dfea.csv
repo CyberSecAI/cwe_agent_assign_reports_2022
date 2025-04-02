@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+804,Guessable CAPTCHA,base,4.329000000000001,0
+73,External Control of File Name or Path,base,3.2255600000000006,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.8979325521047614,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.821,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+532,Insertion of Sensitive Information into Log File,base,2.4699999999999998,0

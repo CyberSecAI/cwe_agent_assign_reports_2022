@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),6182.794614638038,base_query
+61,UNIX Symbolic Link (Symlink) Following,5966.021836863007,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5965.683077514466,base_query
+668,Exposure of Resource to Wrong Sphere,5951.970047484598,base_query
+379,Creation of Temporary File in Directory with Insecure Permissions,5930.523988452279,base_query

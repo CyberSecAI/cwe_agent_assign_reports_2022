@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.779967135431407
+209,Generation of Error Message Containing Sensitive Information,Base,0.7796445553572449
+211,Externally-Generated Error Message Containing Sensitive Information,Base,0.7749609126482524
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.7593525815531962
+204,Observable Response Discrepancy,Base,0.7592178660359067
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7587085449680239
+668,Exposure of Resource to Wrong Sphere,Class,0.758434233094665
+359,Exposure of Private Personal Information to an Unauthorized Actor,Base,0.7579205815847591
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7566062158924058
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7558063563228704

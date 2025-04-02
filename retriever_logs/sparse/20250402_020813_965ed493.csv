@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+502,Deserialization of Untrusted Data,3672.877536824701,unknown
+639,Authorization Bypass Through User-Controlled Key,3657.733847501755,unknown
+425,Direct Request ('Forced Browsing'),3638.7406209642527,unknown
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),3604.1830996275294,unknown
+434,Unrestricted Upload of File with Dangerous Type,3603.4099686589802,unknown

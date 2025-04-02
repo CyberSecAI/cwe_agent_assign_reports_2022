@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7741359419291761
+668,Exposure of Resource to Wrong Sphere,Class,0.7726664835995978
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7671455806274161
+755,Improper Handling of Exceptional Conditions,Class,0.7626018216390918
+667,Improper Locking,Class,0.7581527329057501
+41,Improper Resolution of Path Equivalence,Base,0.758140593266953
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7572813008545483
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7571472109981423
+657,Violation of Secure Design Principles,Class,0.7543125373025354
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7538712234906733

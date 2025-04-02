@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+347,Improper Verification of Cryptographic Signature,4142.988661515621,base_query
+125,Out-of-bounds Read,4139.120379054676,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,4096.505310528041,base_query
+1284,Improper Validation of Specified Quantity in Input,4075.1163475643352,base_query
+295,Improper Certificate Validation,3946.8381512161377,base_query

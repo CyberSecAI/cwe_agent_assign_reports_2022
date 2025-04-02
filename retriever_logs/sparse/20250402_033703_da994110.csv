@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),6306.966855899081,unknown
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),6277.405333988446,unknown
+639,Authorization Bypass Through User-Controlled Key,5967.3567114402895,unknown
+668,Exposure of Resource to Wrong Sphere,5850.936529606282,unknown
+1333,Inefficient Regular Expression Complexity,5844.092421795036,unknown

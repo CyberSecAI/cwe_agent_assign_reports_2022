@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.77510418489805
+312,Cleartext Storage of Sensitive Information,Base,0.7692178460766523
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7665417679916883
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7653667952629086
+319,Cleartext Transmission of Sensitive Information,Base,0.7643647980045569
+667,Improper Locking,Class,0.7626836175361363
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7619556521617344
+1391,Use of Weak Credentials,Class,0.7597155079850164
+203,Observable Discrepancy,Base,0.7576814139762349
+657,Violation of Secure Design Principles,Class,0.7574810355814905

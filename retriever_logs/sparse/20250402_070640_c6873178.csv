@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,6007.661570310202,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5955.184884812335,base_query
+209,Generation of Error Message Containing Sensitive Information,5888.687322940176,base_query
+204,Observable Response Discrepancy,5861.640413858715,base_query
+116,Improper Encoding or Escaping of Output,5833.273660487069,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+321,Use of Hard-coded Cryptographic Key,variant,4.1184,0
+259,Use of Hard-coded Password,variant,4.1184,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+425,Direct Request ('Forced Browsing'),base,2.8651999999999997,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.821,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.6784000000000003,0
+798,Use of Hard-coded Credentials,Base,2.474256141998625,0
+288,Authentication Bypass Using an Alternate Path or Channel,Base,2.4731491659544043,0

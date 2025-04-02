@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+782,Exposed IOCTL with Insufficient Access Control,Variant,0.7879392807157024
+274,Improper Handling of Insufficient Privileges,Base,0.7702036818744527
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7660445340380666
+653,Improper Isolation or Compartmentalization,Class,0.7621575224939899
+1220,Insufficient Granularity of Access Control,Base,0.7613091500806459
+691,Insufficient Control Flow Management,Pillar,0.7583444847047126
+667,Improper Locking,Class,0.7527864680483577
+404,Improper Resource Shutdown or Release,Class,0.7517837622569484
+668,Exposure of Resource to Wrong Sphere,Class,0.748735148061128
+41,Improper Resolution of Path Equivalence,Base,0.7481806699370354

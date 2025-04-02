@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,4.212000000000001,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+428,Unquoted Search Path or Element,base,3.6399999999999997,0
+214,Invocation of Process Using Visible Sensitive Information,base,3.6399999999999997,0
+526,Cleartext Storage of Sensitive Information in an Environment Variable,variant,3.2424,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.8941228890939503,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.890864576533083,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0

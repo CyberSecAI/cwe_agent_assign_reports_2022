@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.769665459261363
+668,Exposure of Resource to Wrong Sphere,Class,0.7693528340908489
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.76579709408065
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7590979932689064
+405,Asymmetric Resource Consumption (Amplification),Class,0.7482269896933431
+653,Improper Isolation or Compartmentalization,Class,0.7466554340718446
+667,Improper Locking,Class,0.7461160178237894
+799,Improper Control of Interaction Frequency,Class,0.7455412871607829
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7450976855697414
+131,Incorrect Calculation of Buffer Size,Base,0.7424730741335346

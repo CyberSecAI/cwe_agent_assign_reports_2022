@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,5101.104155705292,base_query
+754,Improper Check for Unusual or Exceptional Conditions,5064.3079614903545,base_query
+312,Cleartext Storage of Sensitive Information,5048.35527351422,base_query
+321,Use of Hard-coded Cryptographic Key,4910.149822416989,base_query
+1391,Use of Weak Credentials,4820.940289426039,base_query

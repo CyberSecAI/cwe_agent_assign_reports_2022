@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+602,Client-Side Enforcement of Server-Side Security,Class,0.7989590930979138
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7720894601329736
+657,Violation of Secure Design Principles,Class,0.7622278609569949
+668,Exposure of Resource to Wrong Sphere,Class,0.7612767886252303
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7569256999094338
+41,Improper Resolution of Path Equivalence,Base,0.7546017275942136
+799,Improper Control of Interaction Frequency,Class,0.7544109667265138
+472,External Control of Assumed-Immutable Web Parameter,Base,0.753348583942679
+653,Improper Isolation or Compartmentalization,Class,0.752277004717738
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7501754898896531

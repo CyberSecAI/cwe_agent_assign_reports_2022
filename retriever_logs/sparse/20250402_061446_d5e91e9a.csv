@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,5968.187123058515,base_query
+252,Unchecked Return Value,5032.522600845997,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5000.112600857257,base_query
+125,Out-of-bounds Read,4999.958899444226,base_query
+863,Incorrect Authorization,4992.523831076207,base_query

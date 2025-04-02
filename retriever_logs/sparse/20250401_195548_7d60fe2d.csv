@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,6235.532531965616,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,6223.946756976515,unknown
+863,Incorrect Authorization,6120.15142226919,unknown
+203,Observable Discrepancy,6110.481426312239,unknown
+639,Authorization Bypass Through User-Controlled Key,6100.881677883981,unknown

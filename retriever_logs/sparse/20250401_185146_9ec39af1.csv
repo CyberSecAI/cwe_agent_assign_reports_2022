@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6277.190559526938,unknown
+23,Relative Path Traversal,5994.981010560637,unknown
+863,Incorrect Authorization,5954.298061749559,unknown
+1390,Weak Authentication,5913.381075607346,unknown
+639,Authorization Bypass Through User-Controlled Key,5904.875275806733,unknown

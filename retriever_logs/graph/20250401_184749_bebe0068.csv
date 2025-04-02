@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.653,0
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),base,2.7742,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,2.697495216135527,0
+425,Direct Request ('Forced Browsing'),Base,2.6250420800158447,0
+23,Relative Path Traversal,base,2.4699999999999998,0
+787,Out-of-bounds Write,base,2.3295999999999997,0
+73,External Control of File Name or Path,base,2.2100000000000004,0
+184,Incomplete List of Disallowed Inputs,base,2.2100000000000004,0
+183,Permissive List of Allowed Inputs,base,2.2100000000000004,0

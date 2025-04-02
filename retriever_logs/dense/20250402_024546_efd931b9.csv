@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1285,Improper Validation of Specified Index  Position  or Offset in Input,Base,0.7220310576195266
+1391,Use of Weak Credentials,Class,0.717996023702397
+345,Insufficient Verification of Data Authenticity,Class,0.7179033412295917
+667,Improper Locking,Class,0.7163142603599615
+755,Improper Handling of Exceptional Conditions,Class,0.7159170832067587
+693,Protection Mechanism Failure,Pillar,0.7158643456129634
+657,Violation of Secure Design Principles,Class,0.7150950467991493
+179,Incorrect Behavior Order: Early Validation,Base,0.714404120080238
+824,Access of Uninitialized Pointer,Base,0.7118406269975812
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7113854855769886

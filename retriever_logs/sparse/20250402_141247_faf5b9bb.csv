@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5971.537842897401,unknown
+770,Allocation of Resources Without Limits or Throttling,5862.408387336503,unknown
+653,Improper Isolation or Compartmentalization,5860.087450955163,unknown
+1421,Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution,5720.154350853572,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5709.140067166622,unknown

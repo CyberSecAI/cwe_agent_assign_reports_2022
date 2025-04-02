@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+23,Relative Path Traversal,5059.6150079048,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5038.698088581981,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5034.837352549474,base_query
+295,Improper Certificate Validation,4916.861150016263,base_query
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),4900.428400014799,base_query

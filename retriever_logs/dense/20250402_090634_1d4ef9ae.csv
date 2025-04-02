@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7757515470163769
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,Variant,0.7688918156464829
+330,Use of Insufficiently Random Values,Class,0.7663269627784104
+295,Improper Certificate Validation,Base,0.7610086773133531
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7597188834671316
+41,Improper Resolution of Path Equivalence,Base,0.7580157223337832
+345,Insufficient Verification of Data Authenticity,Class,0.7554547321891506
+1391,Use of Weak Credentials,Class,0.7516581346404531
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7499440686146174
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7485673726027318

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5961.494168278697,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,5931.957872295087,unknown
+285,Improper Authorization,5849.808298441532,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5831.8906522382285,unknown
+1390,Weak Authentication,5816.766896601968,unknown

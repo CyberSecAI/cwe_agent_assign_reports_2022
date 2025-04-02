@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+805,Buffer Access with Incorrect Length Value,base,4.329000000000001,0
+322,Key Exchange without Entity Authentication,base,3.5671999999999997,0
+125,Out-of-bounds Read,base,3.4866,0
+290,Authentication Bypass by Spoofing,base,3.2656,0
+325,Missing Cryptographic Step,base,3.2656,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.055,0
+130,Improper Handling of Length Parameter Inconsistency,Base,2.9048358404053016,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,base,2.8651999999999997,0

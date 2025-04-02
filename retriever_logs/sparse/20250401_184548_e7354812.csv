@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7191.995985240171,base_query
+328,Use of Weak Hash,6476.841095450111,base_query
+1391,Use of Weak Credentials,6297.372389052242,base_query
+732,Incorrect Permission Assignment for Critical Resource,6281.443890709478,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6132.988936830044,base_query

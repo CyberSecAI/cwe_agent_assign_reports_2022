@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7846270483841902
+345,Insufficient Verification of Data Authenticity,Class,0.7758754065258286
+1391,Use of Weak Credentials,Class,0.7740045139005071
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7731116824423936
+319,Cleartext Transmission of Sensitive Information,Base,0.7693964442317409
+330,Use of Insufficiently Random Values,Class,0.7685095855500255
+328,Use of Weak Hash,Base,0.7672533117927016
+639,Authorization Bypass Through User-Controlled Key,Base,0.7660090694478522
+668,Exposure of Resource to Wrong Sphere,Class,0.7643337360082848
+1390,Weak Authentication,Class,0.7636028999940668

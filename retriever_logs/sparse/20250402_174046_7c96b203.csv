@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8378.222690697954,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,8074.168516026173,unknown
+116,Improper Encoding or Escaping of Output,7966.333625620303,unknown
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7805.641037417228,unknown
+863,Incorrect Authorization,7784.736130754423,unknown

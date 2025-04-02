@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7593438473496575
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7587887123098025
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7545811354195158
+1220,Insufficient Granularity of Access Control,Base,0.7506603273549064
+691,Insufficient Control Flow Management,Pillar,0.7453339229640237
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7451959115986437
+653,Improper Isolation or Compartmentalization,Class,0.7441220110138782
+184,Incomplete List of Disallowed Inputs,Base,0.7406399343895453
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7404949992875111
+668,Exposure of Resource to Wrong Sphere,Class,0.7392088457034113

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,2.5033220577050805,0
+1191,On-Chip Debug and Test Interface With Improper Access Control,Base,2.4860069769458764,0
+1329,Reliance on Component That is Not Updateable,base,2.4699999999999998,0
+1274,Improper Access Control for Volatile Memory Containing Boot Code,base,2.4699999999999998,0
+1338,Improper Protections Against Hardware Overheating,base,2.4699999999999998,0
+1248,Semiconductor Defects in Hardware Logic with Security-Sensitive Implications,base,2.4699999999999998,0
+1326,Missing Immutable Root of Trust in Hardware,base,2.4699999999999998,0
+1221,Incorrect Register Defaults or Module Parameters,base,2.4699999999999998,0
+1310,Missing Ability to Patch ROM Code,base,2.4699999999999998,0
+476,NULL Pointer Dereference,base,2.2100000000000004,0

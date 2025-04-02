@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+822,Untrusted Pointer Dereference,base,4.329000000000001,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.8784,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+252,Unchecked Return Value,base,2.821,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+782,Exposed IOCTL with Insufficient Access Control,Variant,2.621632981769377,0
+456,Missing Initialization of a Variable,variant,2.5507200000000005,0
+274,Improper Handling of Insufficient Privileges,Base,2.4960450021708667,0
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,2.4943666106304776,0

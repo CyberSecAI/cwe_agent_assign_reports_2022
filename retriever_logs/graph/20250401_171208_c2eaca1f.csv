@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+325,Missing Cryptographic Step,base,3.2656,0
+20,Improper Input Validation,class,2.984,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.6784000000000003,0
+923,Improper Restriction of Communication Channel to Intended Endpoints,class,2.5519999999999996,0
+1289,Improper Validation of Unsafe Equivalence in Input,Base,2.4888045020655625,0
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),base,2.4699999999999998,0
+1240,Use of a Cryptographic Primitive with a Risky Implementation,base,2.4699999999999998,0

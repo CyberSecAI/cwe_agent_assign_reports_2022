@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1423,Exposure of Sensitive Information caused by Shared Microarchitectural Predictor State that Influences Transient Execution,7471.8565321933265,unknown
+201,Insertion of Sensitive Information Into Sent Data,7332.424570053258,unknown
+863,Incorrect Authorization,7325.534381665594,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,7305.401269728839,unknown
+668,Exposure of Resource to Wrong Sphere,7234.1239569419095,unknown

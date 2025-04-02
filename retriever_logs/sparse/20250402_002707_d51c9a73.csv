@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,5949.976516437372,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5936.43712028454,unknown
+319,Cleartext Transmission of Sensitive Information,5935.888663154694,unknown
+203,Observable Discrepancy,5896.867029952848,unknown
+306,Missing Authentication for Critical Function,5816.961603031233,unknown

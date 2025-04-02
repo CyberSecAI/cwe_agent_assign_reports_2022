@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.792897153888352
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7809397096238668
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7733683382338962
+23,Relative Path Traversal,Base,0.7729807420317933
+668,Exposure of Resource to Wrong Sphere,Class,0.7718381769235857
+73,External Control of File Name or Path,Base,0.7678182491688994
+356,Product UI does not Warn User of Unsafe Actions,Base,0.7667386635998422
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7628660800985028
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7584206080294355
+404,Improper Resource Shutdown or Release,Class,0.7566549344002624

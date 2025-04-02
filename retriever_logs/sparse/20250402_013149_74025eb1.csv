@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+502,Deserialization of Untrusted Data,7757.249964648967,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7287.305403962308,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,7225.3136867954445,unknown
+863,Incorrect Authorization,7204.907620727661,unknown
+918,Server-Side Request Forgery (SSRF),7189.377806525308,unknown

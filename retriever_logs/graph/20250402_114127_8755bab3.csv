@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+259,Use of Hard-coded Password,variant,4.0104,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.821,0
+425,Direct Request ('Forced Browsing'),base,2.73416,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.73416,0
+472,External Control of Assumed-Immutable Web Parameter,Base,2.6355908548676634,0
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),variant,2.5507200000000005,0
+798,Use of Hard-coded Credentials,Base,2.491795673346155,0
+250,Execution with Unnecessary Privileges,base,2.4699999999999998,0

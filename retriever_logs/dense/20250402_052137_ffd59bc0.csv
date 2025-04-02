@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7636340525526145
+131,Incorrect Calculation of Buffer Size,Base,0.7636245345030412
+823,Use of Out-of-range Pointer Offset,Base,0.7613515230572896
+805,Buffer Access with Incorrect Length Value,Base,0.7585877600381997
+125,Out-of-bounds Read,Base,0.7555224336995462
+191,Integer Underflow (Wrap or Wraparound),Base,0.7533469829900947
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7510823448791697
+404,Improper Resource Shutdown or Release,Class,0.7493492348118034
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7486295808729713
+667,Improper Locking,Class,0.7482013923335284

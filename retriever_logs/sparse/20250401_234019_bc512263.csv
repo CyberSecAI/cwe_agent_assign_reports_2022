@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7260.338558042535,base_query
+295,Improper Certificate Validation,6724.499278683218,base_query
+476,NULL Pointer Dereference,6608.208554555124,base_query
+125,Out-of-bounds Read,6567.422749219904,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6447.447866956089,base_query

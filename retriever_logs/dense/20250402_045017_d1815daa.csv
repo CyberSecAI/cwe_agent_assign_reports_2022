@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.773260989957317
+23,Relative Path Traversal,Base,0.7723774179346898
+552,Files or Directories Accessible to External Parties,Base,0.7710636972485392
+41,Improper Resolution of Path Equivalence,Base,0.768447279265376
+184,Incomplete List of Disallowed Inputs,Base,0.7669319175220222
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7650510798915036
+425,Direct Request ('Forced Browsing'),Base,0.7642722361722226
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7640830918309278
+183,Permissive List of Allowed Inputs,Base,0.7567778149743168
+668,Exposure of Resource to Wrong Sphere,Class,0.7555659544930751

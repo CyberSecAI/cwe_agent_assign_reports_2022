@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,6102.953510336604,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5825.344245487217,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5806.241420899323,base_query
+203,Observable Discrepancy,5772.680590312422,base_query
+707,Improper Neutralization,5674.43928730186,base_query

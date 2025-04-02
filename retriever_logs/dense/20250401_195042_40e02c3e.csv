@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7795776736152396
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7793114092073794
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7738551762798289
+300,Channel Accessible by Non-Endpoint,Class,0.7696293887925123
+345,Insufficient Verification of Data Authenticity,Class,0.7653359530411432
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7628258923185331
+319,Cleartext Transmission of Sensitive Information,Base,0.760661390660986
+295,Improper Certificate Validation,Base,0.7605022838201074
+799,Improper Control of Interaction Frequency,Class,0.7601902014378905
+203,Observable Discrepancy,Base,0.7595505122738364

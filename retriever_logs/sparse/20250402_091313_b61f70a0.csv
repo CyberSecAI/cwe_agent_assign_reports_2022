@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7066.417763316901,unknown
+770,Allocation of Resources Without Limits or Throttling,6199.269433996963,unknown
+1269,Product Released in Non-Release Configuration,6184.854593107292,unknown
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),6133.994546768302,unknown
+400,Uncontrolled Resource Consumption,6108.865089380997,unknown

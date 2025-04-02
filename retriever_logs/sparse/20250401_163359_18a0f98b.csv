@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+347,Improper Verification of Cryptographic Signature,5269.270963367001,base_query
+285,Improper Authorization,5067.176209057298,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,4940.739767049257,base_query
+863,Incorrect Authorization,4931.696046445024,base_query
+1390,Weak Authentication,4867.246109486243,base_query

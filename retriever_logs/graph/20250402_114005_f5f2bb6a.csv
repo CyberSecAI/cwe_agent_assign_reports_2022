@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+358,Improperly Implemented Security Check for Standard,base,3.6399999999999997,0
+325,Missing Cryptographic Step,base,3.6399999999999997,0
+208,Observable Timing Discrepancy,Base,2.893927235585957,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.5519999999999996,0
+798,Use of Hard-coded Credentials,Base,2.4865241171867223,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0

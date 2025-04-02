@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,8028.826071802838,base_query
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),7254.479865822452,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7053.457441248212,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6947.649165725311,base_query
+1333,Inefficient Regular Expression Complexity,6861.740245090451,base_query

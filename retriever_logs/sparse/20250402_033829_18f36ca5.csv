@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),5418.573213742564,base_query
+668,Exposure of Resource to Wrong Sphere,5284.869252897864,base_query
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,5253.824004653116,base_query
+404,Improper Resource Shutdown or Release,5239.9013287619355,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5110.116448712395,base_query

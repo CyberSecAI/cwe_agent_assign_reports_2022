@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5130.9294130180415,unknown
+1284,Improper Validation of Specified Quantity in Input,5026.395233356637,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4992.899736104681,unknown
+190,Integer Overflow or Wraparound,4989.995775421441,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),4953.771156682604,unknown

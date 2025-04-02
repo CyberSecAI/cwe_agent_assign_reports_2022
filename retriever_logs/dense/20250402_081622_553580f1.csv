@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+611,Improper Restriction of XML External Entity Reference,Base,0.8069141068251505
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7846641813340588
+552,Files or Directories Accessible to External Parties,Base,0.7628339755005782
+668,Exposure of Resource to Wrong Sphere,Class,0.7594175679726104
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7587802112226021
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7573832008085162
+41,Improper Resolution of Path Equivalence,Base,0.753317564246816
+319,Cleartext Transmission of Sensitive Information,Base,0.7505999939740509
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7496851222140866
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.7495670598440303

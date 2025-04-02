@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+454,External Initialization of Trusted Variables or Data Stores,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,3.5671999999999997,0
+193,Off-by-one Error,base,3.4200400000000006,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.0043200000000003,0
+295,Improper Certificate Validation,base,2.7742,0
+1322,Use of Blocking Code in Single-threaded  Non-blocking Context,base,2.73416,0
+617,Reachable Assertion,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+456,Missing Initialization of a Variable,Variant,2.636228482250087,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0

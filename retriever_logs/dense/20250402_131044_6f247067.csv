@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7653922485099548
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7644742898210926
+639,Authorization Bypass Through User-Controlled Key,Base,0.7627703063193897
+1220,Insufficient Granularity of Access Control,Base,0.7526475724318464
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7520459627390308
+668,Exposure of Resource to Wrong Sphere,Class,0.7514092072895758
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7492725320939593
+184,Incomplete List of Disallowed Inputs,Base,0.7478083264808649
+425,Direct Request ('Forced Browsing'),Base,0.7466313036767153
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7463816670665329

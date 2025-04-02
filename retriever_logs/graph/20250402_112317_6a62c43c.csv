@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+410,Insufficient Resource Pool,base,4.329000000000001,0
+789,Memory Allocation with Excessive Size Value,variant,3.8784,0
+617,Reachable Assertion,base,3.4866,0
+190,Integer Overflow or Wraparound,base,3.3732400000000005,0
+41,Improper Resolution of Path Equivalence,Base,3.3065775783391875,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.1252000000000004,0

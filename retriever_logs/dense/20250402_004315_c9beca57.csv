@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1220,Insufficient Granularity of Access Control,Base,0.7872592580124542
+691,Insufficient Control Flow Management,Pillar,0.7810307587489062
+653,Improper Isolation or Compartmentalization,Class,0.7744113185893031
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.7683329539266494
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7677150583828841
+274,Improper Handling of Insufficient Privileges,Base,0.7634892981070418
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.76108952070822
+799,Improper Control of Interaction Frequency,Class,0.7582845878590145
+693,Protection Mechanism Failure,Pillar,0.7571150218715289
+657,Violation of Secure Design Principles,Class,0.7563796238608279

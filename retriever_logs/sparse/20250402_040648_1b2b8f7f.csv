@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,7215.087968975305,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7187.00593955957,base_query
+1284,Improper Validation of Specified Quantity in Input,7169.384577121472,base_query
+823,Use of Out-of-range Pointer Offset,7088.257680250217,base_query
+190,Integer Overflow or Wraparound,7031.151271823047,base_query

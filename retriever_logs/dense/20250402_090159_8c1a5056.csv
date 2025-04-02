@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+693,Protection Mechanism Failure,Pillar,0.771927607303431
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7544616219434715
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7514671390645433
+1391,Use of Weak Credentials,Class,0.7496724914397697
+657,Violation of Secure Design Principles,Class,0.748782408844324
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7466084931724007
+345,Insufficient Verification of Data Authenticity,Class,0.7452801165037182
+1390,Weak Authentication,Class,0.7427094081983361
+798,Use of Hard-coded Credentials,Base,0.7412403200457112
+691,Insufficient Control Flow Management,Pillar,0.7406137956627963

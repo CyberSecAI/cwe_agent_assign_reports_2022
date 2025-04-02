@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+184,Incomplete List of Disallowed Inputs,base,3.8870000000000005,0
+354,Improper Validation of Integrity Check Value,base,3.6399999999999997,0
+353,Missing Support for Integrity Check,base,3.6399999999999997,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+1284,Improper Validation of Specified Quantity in Input,base,3.4200400000000006,0
+41,Improper Resolution of Path Equivalence,Base,3.3197104527405252,0

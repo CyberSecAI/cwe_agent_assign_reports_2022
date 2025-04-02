@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),5704.289289860625,unknown
+863,Incorrect Authorization,5678.062585364504,unknown
+425,Direct Request ('Forced Browsing'),5615.722759654606,unknown
+639,Authorization Bypass Through User-Controlled Key,5589.618892083667,unknown
+285,Improper Authorization,5549.845333610466,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+390,Detection of Error Condition Without Action,base,4.329000000000001,0
+401,Missing Release of Memory after Effective Lifetime,variant,3.8784,0
+1284,Improper Validation of Specified Quantity in Input,base,3.4200400000000006,0
+416,Use After Free,variant,3.24,0
+41,Improper Resolution of Path Equivalence,Base,2.9091329166009032,0
+606,Unchecked Input for Loop Condition,Base,2.904048002850054,0
+476,NULL Pointer Dereference,base,2.8651999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+364,Signal Handler Race Condition,base,2.8651999999999997,0
+1265,Unintended Reentrant Invocation of Non-reentrant Code Via Nested Calls,base,2.8651999999999997,0

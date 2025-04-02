@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+276,Incorrect Default Permissions,5667.433493081598,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,5372.286952866774,base_query
+668,Exposure of Resource to Wrong Sphere,5354.820774042926,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5341.357649620248,base_query
+863,Incorrect Authorization,5208.671633830332,base_query

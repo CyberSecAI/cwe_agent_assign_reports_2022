@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,5433.729198760636,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5409.981061258435,unknown
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),5390.708527750789,unknown
+259,Use of Hard-coded Password,5307.488548732586,unknown
+798,Use of Hard-coded Credentials,5244.944828718751,unknown

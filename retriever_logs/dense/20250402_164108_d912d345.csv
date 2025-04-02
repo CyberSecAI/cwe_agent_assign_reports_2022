@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.804450343914771
+404,Improper Resource Shutdown or Release,Class,0.7825134289602298
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7808882012082112
+908,Use of Uninitialized Resource,Base,0.7772602664239978
+824,Access of Uninitialized Pointer,Base,0.7771034643024599
+681,Incorrect Conversion between Numeric Types,Base,0.776435275573415
+125,Out-of-bounds Read,Base,0.774121044262779
+704,Incorrect Type Conversion or Cast,Class,0.7728084124882476
+457,Use of Uninitialized Variable,Variant,0.771374760367798
+665,Improper Initialization,Class,0.7687987721570917

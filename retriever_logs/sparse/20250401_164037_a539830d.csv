@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,5608.077689516101,base_query
+863,Incorrect Authorization,5396.23200723306,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5379.845677701595,base_query
+178,Improper Handling of Case Sensitivity,5375.829118974449,base_query
+285,Improper Authorization,5361.848321597692,base_query

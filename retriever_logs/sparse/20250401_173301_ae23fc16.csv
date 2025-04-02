@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+798,Use of Hard-coded Credentials,5077.0677319871265,base_query
+639,Authorization Bypass Through User-Controlled Key,5074.311101590528,base_query
+259,Use of Hard-coded Password,5073.98492486801,base_query
+1390,Weak Authentication,4951.051941799062,base_query
+1391,Use of Weak Credentials,4881.75789354292,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,8978.900028651025,unknown
+770,Allocation of Resources Without Limits or Throttling,8933.02697985217,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,8675.553202090772,unknown
+1284,Improper Validation of Specified Quantity in Input,8655.664462194327,unknown
+190,Integer Overflow or Wraparound,8496.357916176748,unknown

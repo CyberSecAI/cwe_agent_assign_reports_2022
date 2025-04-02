@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,5330.741950607253,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5204.209209047657,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5111.097383297255,base_query
+927,Use of Implicit Intent for Sensitive Communication,5045.855606566615,base_query
+330,Use of Insufficiently Random Values,5023.791315221125,base_query

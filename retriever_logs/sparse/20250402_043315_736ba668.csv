@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+208,Observable Timing Discrepancy,6621.091338651659,base_query
+1254,Incorrect Comparison Logic Granularity,6279.3580611540665,base_query
+203,Observable Discrepancy,6245.768175521313,base_query
+863,Incorrect Authorization,6099.2687914329035,base_query
+668,Exposure of Resource to Wrong Sphere,6035.970636933362,base_query

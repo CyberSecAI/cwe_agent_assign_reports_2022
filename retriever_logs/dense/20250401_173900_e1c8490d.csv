@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+707,Improper Neutralization,Pillar,0.7535782720127735
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7427818483961071
+653,Improper Isolation or Compartmentalization,Class,0.7424690864379969
+657,Violation of Secure Design Principles,Class,0.7366898927809032
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7353077561614255
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7343282802172348
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7324841181026651
+668,Exposure of Resource to Wrong Sphere,Class,0.7297318504265371
+345,Insufficient Verification of Data Authenticity,Class,0.7269001245835411
+274,Improper Handling of Insufficient Privileges,Base,0.7247011387408657

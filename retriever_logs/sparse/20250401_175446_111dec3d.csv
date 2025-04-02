@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+943,Improper Neutralization of Special Elements in Data Query Logic,3851.8578917610253,unknown
+863,Incorrect Authorization,3783.5763760962736,unknown
+697,Incorrect Comparison,3736.900935262113,unknown
+639,Authorization Bypass Through User-Controlled Key,3702.436594436326,unknown
+285,Improper Authorization,3615.407454691582,unknown

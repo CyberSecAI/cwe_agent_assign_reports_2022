@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+386,Symbolic Name not Mapping to Correct Object,base,4.4954,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+416,Use After Free,variant,3.24,0
+252,Unchecked Return Value,base,3.06904,0
+476,NULL Pointer Dereference,base,2.8651999999999997,0
+123,Write-what-where Condition,base,2.7014000000000005,0
+415,Double Free,variant,2.68272,0
+73,External Control of File Name or Path,base,2.6816400000000002,0

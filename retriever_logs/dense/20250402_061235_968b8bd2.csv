@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+799,Improper Control of Interaction Frequency,Class,0.7948683762176615
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.745606029453798
+405,Asymmetric Resource Consumption (Amplification),Class,0.736566778598934
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7344284983947981
+606,Unchecked Input for Loop Condition,Base,0.7332721226842519
+1220,Insufficient Granularity of Access Control,Base,0.7267530112309577
+691,Insufficient Control Flow Management,Pillar,0.7255978547248332
+653,Improper Isolation or Compartmentalization,Class,0.7238582514958524
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7235175552432441
+184,Incomplete List of Disallowed Inputs,Base,0.7206664214013464

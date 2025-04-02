@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7824478499908141
+457,Use of Uninitialized Variable,Variant,0.7807344004574427
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7791317731866436
+404,Improper Resource Shutdown or Release,Class,0.7759527503581759
+908,Use of Uninitialized Resource,Base,0.7713989070253429
+665,Improper Initialization,Class,0.769853132756737
+131,Incorrect Calculation of Buffer Size,Base,0.7685024766762444
+125,Out-of-bounds Read,Base,0.7670616346008534
+909,Missing Initialization of Resource,Class,0.7633793193572764
+667,Improper Locking,Class,0.7632484585537458

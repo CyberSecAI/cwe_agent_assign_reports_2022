@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,7654.9451015966,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7320.5216608863775,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7086.754907239696,unknown
+116,Improper Encoding or Escaping of Output,6965.667309091416,unknown
+863,Incorrect Authorization,6827.801531594684,unknown

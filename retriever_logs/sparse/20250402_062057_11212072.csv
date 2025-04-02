@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6119.422443385589,unknown
+99,Improper Control of Resource Identifiers ('Resource Injection'),5737.8604421422715,unknown
+863,Incorrect Authorization,5690.466239918155,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5598.1250443833615,unknown
+285,Improper Authorization,5576.791472585333,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+184,Incomplete List of Disallowed Inputs,Base,0.7719837444518277
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7715492716968417
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7625772539671367
+1336,Improper Neutralization of Special Elements Used in a Template Engine,Base,0.7618906962659519
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7592400649018626
+41,Improper Resolution of Path Equivalence,Base,0.7563239748809112
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7552829858133348
+138,Improper Neutralization of Special Elements,Class,0.7546911502136211
+345,Insufficient Verification of Data Authenticity,Class,0.7490865913260232
+425,Direct Request ('Forced Browsing'),Base,0.748542937010501

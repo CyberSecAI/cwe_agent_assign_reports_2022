@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,4864.881304440856,base_query
+311,Missing Encryption of Sensitive Data,4781.781580567698,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4768.105250505477,base_query
+1390,Weak Authentication,4735.00383349655,base_query
+863,Incorrect Authorization,4729.46989221107,base_query

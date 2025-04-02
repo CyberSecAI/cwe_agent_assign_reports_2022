@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7720069011575856
+404,Improper Resource Shutdown or Release,Class,0.7696345641725132
+41,Improper Resolution of Path Equivalence,Base,0.7677737458682469
+274,Improper Handling of Insufficient Privileges,Base,0.7660966197384597
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7654046688184306
+639,Authorization Bypass Through User-Controlled Key,Base,0.7637116771223451
+1188,Initialization of a Resource with an Insecure Default,Base,0.7634380421104935
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7630379973061805
+665,Improper Initialization,Class,0.7612635612961285
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7599491263321193

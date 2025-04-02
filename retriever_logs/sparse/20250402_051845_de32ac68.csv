@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+401,Missing Release of Memory after Effective Lifetime,6995.650982974503,base_query
+754,Improper Check for Unusual or Exceptional Conditions,6840.4959456725965,base_query
+770,Allocation of Resources Without Limits or Throttling,6773.170339529112,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6654.257370032333,base_query
+789,Memory Allocation with Excessive Size Value,6568.802650595646,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,5194.468460122026,unknown
+250,Execution with Unnecessary Privileges,4777.587740668459,unknown
+1286,Improper Validation of Syntactic Correctness of Input,4612.295083962583,unknown
+755,Improper Handling of Exceptional Conditions,4612.0058703729665,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),4522.704334962704,unknown

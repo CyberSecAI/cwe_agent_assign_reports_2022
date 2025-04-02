@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,4753.817489166629,base_query
+319,Cleartext Transmission of Sensitive Information,4706.9049271400745,base_query
+798,Use of Hard-coded Credentials,4627.881197798699,base_query
+668,Exposure of Resource to Wrong Sphere,4543.060684081377,base_query
+1391,Use of Weak Credentials,4523.677828824189,base_query

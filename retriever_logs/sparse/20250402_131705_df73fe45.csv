@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,5626.088432313731,unknown
+667,Improper Locking,5608.393927212019,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5524.5099388802,unknown
+789,Memory Allocation with Excessive Size Value,5520.353754232628,unknown
+1284,Improper Validation of Specified Quantity in Input,5498.748180606554,unknown

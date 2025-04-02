@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,5965.23522993961,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5667.801460815095,unknown
+1256,Improper Restriction of Software Interfaces to Hardware Features,5606.545666001116,unknown
+789,Memory Allocation with Excessive Size Value,5579.196439841963,unknown
+639,Authorization Bypass Through User-Controlled Key,5554.227785467366,unknown

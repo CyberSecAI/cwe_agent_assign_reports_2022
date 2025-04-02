@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+789,Memory Allocation with Excessive Size Value,variant,3.7507200000000003,0
+41,Improper Resolution of Path Equivalence,base,3.4361600000000005,0
+126,Buffer Over-read,variant,3.3168,0
+20,Improper Input Validation,class,2.92,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,2.9120000000000004,0
+128,Wrap-around Error,base,2.9120000000000004,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,2.901759556076795,0

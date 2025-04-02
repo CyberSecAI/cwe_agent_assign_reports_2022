@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+942,Permissive Cross-domain Policy with Untrusted Domains,8821.103271554186,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8468.630450526078,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8095.724729228794,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,8030.908893760212,base_query
+116,Improper Encoding or Escaping of Output,8021.118589832547,base_query

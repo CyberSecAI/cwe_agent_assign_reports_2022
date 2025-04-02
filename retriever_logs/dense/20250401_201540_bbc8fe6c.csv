@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+459,Incomplete Cleanup,Base,0.8035268502919972
+404,Improper Resource Shutdown or Release,Class,0.8033644322845982
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.8016067278814957
+667,Improper Locking,Class,0.7902472798924561
+252,Unchecked Return Value,Base,0.782605450271831
+274,Improper Handling of Insufficient Privileges,Base,0.7778156352217029
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7725489178805331
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7722400816164932
+665,Improper Initialization,Class,0.7715639187932268
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7701634783554072

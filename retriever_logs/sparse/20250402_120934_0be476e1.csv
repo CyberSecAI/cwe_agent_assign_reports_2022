@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,7695.929668663817,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7520.413755805855,unknown
+125,Out-of-bounds Read,7455.2578074033845,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7432.073539747638,unknown
+863,Incorrect Authorization,7409.753564295925,unknown

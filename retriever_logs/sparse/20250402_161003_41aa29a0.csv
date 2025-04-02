@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6511.5570118069345,base_query
+822,Untrusted Pointer Dereference,6436.433524334037,base_query
+125,Out-of-bounds Read,6354.612960557969,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6320.892375223465,base_query
+787,Out-of-bounds Write,6297.948587096854,base_query

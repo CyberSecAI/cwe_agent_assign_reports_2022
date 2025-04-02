@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7619555525980435
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7570426962539358
+404,Improper Resource Shutdown or Release,Class,0.7562392939542173
+1188,Initialization of a Resource with an Insecure Default,Base,0.7527730130262333
+668,Exposure of Resource to Wrong Sphere,Class,0.7520785903479925
+665,Improper Initialization,Class,0.742609965446947
+405,Asymmetric Resource Consumption (Amplification),Class,0.7365340496017904
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7359977945717641
+345,Insufficient Verification of Data Authenticity,Class,0.7346784214864075
+1391,Use of Weak Credentials,Class,0.734253444205123

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.8266940957958873
+1386,Insecure Operation on Windows Junction / Mount Point,Base,0.825388123911413
+427,Uncontrolled Search Path Element,Base,0.7961068469755255
+73,External Control of File Name or Path,Base,0.7834264498403483
+41,Improper Resolution of Path Equivalence,Base,0.7713376398897109
+23,Relative Path Traversal,Base,0.7641385565635624
+61,UNIX Symbolic Link (Symlink) Following,Compound,0.762996045959004
+667,Improper Locking,Class,0.7557113569326018
+668,Exposure of Resource to Wrong Sphere,Class,0.7533083107215
+552,Files or Directories Accessible to External Parties,Base,0.7531413074448505

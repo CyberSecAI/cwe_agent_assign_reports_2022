@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0
+274,Improper Handling of Insufficient Privileges,Base,2.498622841249466,0
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,2.4929134880949526,0
+266,Incorrect Privilege Assignment,Base,2.4922430589548115,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+1262,Improper Access Control for Register Interface,base,2.4699999999999998,0
+250,Execution with Unnecessary Privileges,base,2.4699999999999998,0
+328,Use of Weak Hash,base,2.4699999999999998,0

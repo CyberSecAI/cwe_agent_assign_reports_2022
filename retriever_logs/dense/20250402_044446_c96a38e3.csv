@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7996681906346028
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7968545500580722
+1391,Use of Weak Credentials,Class,0.7849538915037291
+784,Reliance on Cookies without Validation and Integrity Checking in a Security Decision,Variant,0.774884702881189
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,Variant,0.7715549424548913
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7690582624740685
+565,Reliance on Cookies without Validation and Integrity Checking,Base,0.7675150895648966
+319,Cleartext Transmission of Sensitive Information,Base,0.7664355649545511
+1390,Weak Authentication,Class,0.7635750585614158
+312,Cleartext Storage of Sensitive Information,Base,0.7612419262552522

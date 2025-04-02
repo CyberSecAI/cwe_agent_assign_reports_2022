@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,6229.873419078466,base_query
+863,Incorrect Authorization,6087.505835083089,base_query
+425,Direct Request ('Forced Browsing'),6044.822378489179,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),6042.755934842949,base_query
+285,Improper Authorization,6024.07070139352,base_query

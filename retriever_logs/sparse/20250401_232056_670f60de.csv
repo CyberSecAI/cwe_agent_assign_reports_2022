@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7687.621538685191,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,7546.423585097226,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,7399.307027106309,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,7299.287878643892,unknown
+312,Cleartext Storage of Sensitive Information,7262.289773082037,unknown

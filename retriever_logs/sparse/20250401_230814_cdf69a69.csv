@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+908,Use of Uninitialized Resource,5111.6204676402685,base_query
+1284,Improper Validation of Specified Quantity in Input,4917.447143207844,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),4881.375797887108,base_query
+909,Missing Initialization of Resource,4790.824283474572,base_query
+665,Improper Initialization,4780.693900505512,base_query

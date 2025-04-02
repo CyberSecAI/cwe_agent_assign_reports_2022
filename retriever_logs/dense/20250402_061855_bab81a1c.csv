@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7777610267146586
+668,Exposure of Resource to Wrong Sphere,Class,0.7735440164547185
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.764126098009719
+693,Protection Mechanism Failure,Pillar,0.76326022685655
+657,Violation of Secure Design Principles,Class,0.7606577163816126
+41,Improper Resolution of Path Equivalence,Base,0.7605371122522439
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.759777329900943
+1390,Weak Authentication,Class,0.75897083174569
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7584000233594625
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),Variant,0.7562206219832548

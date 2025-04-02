@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+306,Missing Authentication for Critical Function,5575.410309820218,base_query
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),5574.282339776922,base_query
+1390,Weak Authentication,5474.761993861082,base_query
+346,Origin Validation Error,5449.4099631272165,base_query
+472,External Control of Assumed-Immutable Web Parameter,5449.096989350039,base_query

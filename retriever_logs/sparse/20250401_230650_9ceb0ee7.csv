@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1256,Improper Restriction of Software Interfaces to Hardware Features,5217.521709555467,unknown
+1419,Incorrect Initialization of Resource,5203.5893988272555,unknown
+1421,Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution,5061.031764177574,unknown
+668,Exposure of Resource to Wrong Sphere,5000.050172040974,unknown
+639,Authorization Bypass Through User-Controlled Key,4975.517109626952,unknown

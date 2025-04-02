@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1391,Use of Weak Credentials,Class,0.7607024050230168
+274,Improper Handling of Insufficient Privileges,Base,0.7563032041282223
+668,Exposure of Resource to Wrong Sphere,Class,0.7546696104456032
+798,Use of Hard-coded Credentials,Base,0.7543865909402894
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7495292806312727
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7488336057978603
+1188,Initialization of a Resource with an Insecure Default,Base,0.7486395924747369
+1390,Weak Authentication,Class,0.7483230002261723
+345,Insufficient Verification of Data Authenticity,Class,0.747788367864892
+657,Violation of Secure Design Principles,Class,0.7454005899461358

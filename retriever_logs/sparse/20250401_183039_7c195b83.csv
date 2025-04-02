@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+732,Incorrect Permission Assignment for Critical Resource,6009.083543059424,base_query
+798,Use of Hard-coded Credentials,5822.13602970083,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5790.538922949629,base_query
+863,Incorrect Authorization,5767.293541378066,base_query
+285,Improper Authorization,5746.6888379297625,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+704,Incorrect Type Conversion or Cast,Class,0.7841681464881176
+681,Incorrect Conversion between Numeric Types,Base,0.7665016029781462
+131,Incorrect Calculation of Buffer Size,Base,0.7514808525928915
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7501591132884525
+667,Improper Locking,Class,0.7487287137354384
+682,Incorrect Calculation,Pillar,0.7459797496155864
+662,Improper Synchronization,Class,0.7457638617302085
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7455220976534223
+197,Numeric Truncation Error,Base,0.7424915619398089
+404,Improper Resource Shutdown or Release,Class,0.7399234972267652

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+386,Symbolic Name not Mapping to Correct Object,base,4.914000000000001,0
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+708,Incorrect Ownership Assignment,base,3.6399999999999997,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.927116103575399,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.7239999999999998,0
+41,Improper Resolution of Path Equivalence,Base,2.6372282871300676,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,2.4821736081835453,0
+732,Incorrect Permission Assignment for Critical Resource,class,2.48,0
+340,Generation of Predictable Numbers or Identifiers,class,2.48,0

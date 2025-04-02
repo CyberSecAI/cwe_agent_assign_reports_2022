@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),6761.764134309623,base_query
+1284,Improper Validation of Specified Quantity in Input,6721.015665808979,base_query
+754,Improper Check for Unusual or Exceptional Conditions,6626.741303301223,base_query
+789,Memory Allocation with Excessive Size Value,6571.489335852272,base_query
+190,Integer Overflow or Wraparound,6565.906369152745,base_query

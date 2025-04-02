@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7658850813883046
+1288,Improper Validation of Consistency within Input,Base,0.7316816611811984
+404,Improper Resource Shutdown or Release,Class,0.7309147600419903
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7243912352402966
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7242465815919494
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7231057035949907
+115,Misinterpretation of Input,Base,0.7205222210776883
+405,Asymmetric Resource Consumption (Amplification),Class,0.7191352982274242
+179,Incorrect Behavior Order: Early Validation,Base,0.7189617957204102
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7160587809882474

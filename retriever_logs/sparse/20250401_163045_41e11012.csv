@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1244,Internal Asset Exposed to Unsafe Debug Access Level or State,4959.429476840148,unknown
+1191,On-Chip Debug and Test Interface With Improper Access Control,4696.774849451915,unknown
+1326,Missing Immutable Root of Trust in Hardware,4608.759195159745,unknown
+345,Insufficient Verification of Data Authenticity,4576.676163358946,unknown
+306,Missing Authentication for Critical Function,4551.099094133445,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+259,Use of Hard-coded Password,variant,2.9184000000000005,0
+208,Observable Timing Discrepancy,Base,2.8946515963380546,0
+916,Use of Password Hash With Insufficient Computational Effort,base,2.4699999999999998,0
+276,Incorrect Default Permissions,base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,base,2.3400000000000003,0
+1260,Improper Handling of Overlap Between Protected Memory Ranges,base,2.3400000000000003,0

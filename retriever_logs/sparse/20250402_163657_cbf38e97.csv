@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5481.733199357495,unknown
+863,Incorrect Authorization,5464.437670447757,unknown
+732,Incorrect Permission Assignment for Critical Resource,5458.781654494727,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5457.715251861199,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5441.383905117501,unknown

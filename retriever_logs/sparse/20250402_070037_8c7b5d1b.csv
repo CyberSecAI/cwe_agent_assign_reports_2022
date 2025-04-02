@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,5123.089869515562,base_query
+319,Cleartext Transmission of Sensitive Information,4987.5308556417185,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,4981.335090312791,base_query
+203,Observable Discrepancy,4851.1025619667425,base_query
+916,Use of Password Hash With Insufficient Computational Effort,4736.964254500516,base_query

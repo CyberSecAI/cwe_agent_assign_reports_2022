@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+522,Insufficiently Protected Credentials,1822.245181308466,unknown
+347,Improper Verification of Cryptographic Signature,1792.451691723698,unknown
+287,Improper Authentication,1754.0431683727284,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,1717.6114349124794,unknown
+1390,Weak Authentication,1711.5345233299165,unknown

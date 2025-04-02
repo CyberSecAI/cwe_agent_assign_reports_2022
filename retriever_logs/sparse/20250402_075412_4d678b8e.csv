@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+908,Use of Uninitialized Resource,5171.241623019295,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5090.24506167345,base_query
+125,Out-of-bounds Read,5069.422593352686,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5033.76469657805,base_query
+823,Use of Out-of-range Pointer Offset,5028.018198599905,base_query

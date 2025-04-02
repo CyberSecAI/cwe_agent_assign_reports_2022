@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1220,Insufficient Granularity of Access Control,Base,0.7544318797119914
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7496432818314861
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7491201716768707
+274,Improper Handling of Insufficient Privileges,Base,0.745637404482616
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.745335719174992
+799,Improper Control of Interaction Frequency,Class,0.7411851904659572
+668,Exposure of Resource to Wrong Sphere,Class,0.7407244778223492
+639,Authorization Bypass Through User-Controlled Key,Base,0.7374469081594479
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.737063264754363
+653,Improper Isolation or Compartmentalization,Class,0.7358713130929655

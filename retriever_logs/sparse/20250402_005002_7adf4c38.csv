@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,4853.482547709556,unknown
+472,External Control of Assumed-Immutable Web Parameter,4799.743466409949,unknown
+1236,Improper Neutralization of Formula Elements in a CSV File,4663.434610642693,unknown
+306,Missing Authentication for Critical Function,4617.694274847453,unknown
+863,Incorrect Authorization,4611.793584535311,unknown

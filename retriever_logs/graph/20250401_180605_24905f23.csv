@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.7206,0
+288,Authentication Bypass Using an Alternate Path or Channel,base,3.6399999999999997,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.4866,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,3.3117951816624127,0
+352,Cross-Site Request Forgery (CSRF),compound,3.1500000000000004,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0

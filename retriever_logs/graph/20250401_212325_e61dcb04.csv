@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+182,Collapse of Data into Unsafe Value,base,4.329000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,4.212000000000001,0
+35,Path Traversal: '.../...//',variant,3.8784,0
+34,Path Traversal: '....//',variant,3.8784,0
+33,Path Traversal: '....' (Multiple Dot),variant,3.8784,0
+184,Incomplete List of Disallowed Inputs,base,3.8038000000000003,0
+416,Use After Free,variant,3.24,0
+73,External Control of File Name or Path,Base,3.190776854346584,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9111938294260087,0

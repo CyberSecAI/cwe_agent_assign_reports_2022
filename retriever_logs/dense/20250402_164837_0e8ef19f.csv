@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7676695737442665
+404,Improper Resource Shutdown or Release,Class,0.7579855953083503
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7539263495343442
+665,Improper Initialization,Class,0.7513127021759811
+667,Improper Locking,Class,0.7506230054615973
+691,Insufficient Control Flow Management,Pillar,0.7503396661234807
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7456965457711482
+41,Improper Resolution of Path Equivalence,Base,0.7455119050620849
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7453848128961706
+184,Incomplete List of Disallowed Inputs,Base,0.7442213162997787

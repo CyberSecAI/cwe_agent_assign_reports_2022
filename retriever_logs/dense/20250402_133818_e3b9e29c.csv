@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7678297102188566
+653,Improper Isolation or Compartmentalization,Class,0.7648352177840329
+274,Improper Handling of Insufficient Privileges,Base,0.7647154889913824
+668,Exposure of Resource to Wrong Sphere,Class,0.7634182348003224
+266,Incorrect Privilege Assignment,Base,0.7617344975538597
+267,Privilege Defined With Unsafe Actions,Base,0.7598905976667816
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7591786838624222
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7587898632776365
+23,Relative Path Traversal,Base,0.756903310996251
+73,External Control of File Name or Path,Base,0.7561946076055697

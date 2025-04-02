@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7656720378842624
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7610574334641246
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7551731967470086
+23,Relative Path Traversal,Base,0.7551107432740493
+138,Improper Neutralization of Special Elements,Class,0.7508874640788634
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.749513323472704
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7474495465801552
+668,Exposure of Resource to Wrong Sphere,Class,0.7470132984859207
+184,Incomplete List of Disallowed Inputs,Base,0.7459295377742045
+625,Permissive Regular Expression,Base,0.745834081710317

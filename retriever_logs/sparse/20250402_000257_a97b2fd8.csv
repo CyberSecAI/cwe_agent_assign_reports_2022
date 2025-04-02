@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+927,Use of Implicit Intent for Sensitive Communication,4917.206928478058,base_query
+667,Improper Locking,4860.046580288009,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),4801.200786373528,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4690.887358878581,base_query
+863,Incorrect Authorization,4611.334619840003,base_query

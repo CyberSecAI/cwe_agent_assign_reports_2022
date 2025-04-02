@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+321,Use of Hard-coded Cryptographic Key,variant,4.1184,0
+259,Use of Hard-coded Password,variant,4.1184,0
+73,External Control of File Name or Path,base,3.3566,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.055,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.821,0
+425,Direct Request ('Forced Browsing'),base,2.73416,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+257,Storing Passwords in a Recoverable Format,Base,2.4921152391484402,0
+798,Use of Hard-coded Credentials,Base,2.4915196281789815,0
+472,External Control of Assumed-Immutable Web Parameter,Base,2.4885855401300567,0

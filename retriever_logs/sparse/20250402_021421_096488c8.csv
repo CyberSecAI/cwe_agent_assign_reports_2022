@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,7715.439140249069,base_query
+328,Use of Weak Hash,6869.386790083342,base_query
+760,Use of a One-Way Hash with a Predictable Salt,6766.252473081547,base_query
+759,Use of a One-Way Hash without a Salt,6662.911504179014,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6024.512674920429,base_query

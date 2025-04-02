@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6022.377291934977,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5820.305184952777,base_query
+502,Deserialization of Untrusted Data,5751.811728628749,base_query
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,5707.916394635846,base_query
+611,Improper Restriction of XML External Entity Reference,5693.887435544501,base_query

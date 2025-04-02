@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5617.333696552667,base_query
+319,Cleartext Transmission of Sensitive Information,5560.070630848144,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,5480.534713420157,base_query
+300,Channel Accessible by Non-Endpoint,5351.726307568184,base_query
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),5345.6108073008445,base_query

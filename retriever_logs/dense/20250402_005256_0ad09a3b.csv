@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+303,Incorrect Implementation of Authentication Algorithm,Base,0.779333563752577
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7761754587592948
+90,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection'),Base,0.7686747826506238
+1390,Weak Authentication,Class,0.7657495899760995
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7644470578542677
+639,Authorization Bypass Through User-Controlled Key,Base,0.7634031772635994
+41,Improper Resolution of Path Equivalence,Base,0.7614625733917406
+204,Observable Response Discrepancy,Base,0.7609460121974987
+23,Relative Path Traversal,Base,0.7572504336269601
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7561015325518171

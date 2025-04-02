@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.3350516892803674,0
+73,External Control of File Name or Path,Base,3.205528757804395,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9100198141922164,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+182,Collapse of Data into Unsafe Value,base,2.821,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0

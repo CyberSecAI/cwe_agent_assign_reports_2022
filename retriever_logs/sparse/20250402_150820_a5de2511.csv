@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,5130.543468174274,base_query
+1284,Improper Validation of Specified Quantity in Input,5004.904382800928,base_query
+789,Memory Allocation with Excessive Size Value,4998.514897874658,base_query
+203,Observable Discrepancy,4960.062054038267,base_query
+863,Incorrect Authorization,4915.092196279636,base_query

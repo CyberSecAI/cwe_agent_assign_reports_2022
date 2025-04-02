@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+123,Write-what-where Condition,base,4.8204,0
+416,Use After Free,variant,4.332,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+825,Expired Pointer Dereference,base,4.329000000000001,0
+252,Unchecked Return Value,base,3.8038000000000003,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+290,Authentication Bypass by Spoofing,base,3.6399999999999997,0

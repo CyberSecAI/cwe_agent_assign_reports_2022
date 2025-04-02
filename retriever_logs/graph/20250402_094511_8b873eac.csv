@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+289,Authentication Bypass by Alternate Name,base,4.329000000000001,0
+523,Unprotected Transport of Credentials,base,3.6399999999999997,0
+312,Cleartext Storage of Sensitive Information,base,3.6399999999999997,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+433,Unparsed Raw Web Content Delivery,variant,3.24,0
+41,Improper Resolution of Path Equivalence,Base,3.2073365368566056,0
+178,Improper Handling of Case Sensitivity,Base,3.196130359709768,0

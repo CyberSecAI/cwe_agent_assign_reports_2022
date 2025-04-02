@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7631821984993965
+274,Improper Handling of Insufficient Privileges,Base,0.7523016977261574
+41,Improper Resolution of Path Equivalence,Base,0.7516461931416478
+668,Exposure of Resource to Wrong Sphere,Class,0.7508689638980475
+425,Direct Request ('Forced Browsing'),Base,0.7426738691113628
+552,Files or Directories Accessible to External Parties,Base,0.7408439626934109
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7397911242652134
+1390,Weak Authentication,Class,0.7394735358376621
+23,Relative Path Traversal,Base,0.7373224831036722
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7368104409523395

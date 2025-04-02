@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7997.822838941447,unknown
+125,Out-of-bounds Read,7234.64288857967,unknown
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),7186.726080762737,unknown
+822,Untrusted Pointer Dereference,7123.473831698439,unknown
+823,Use of Out-of-range Pointer Offset,7075.77449158643,unknown

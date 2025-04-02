@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,5374.523265823246,unknown
+472,External Control of Assumed-Immutable Web Parameter,5318.400795663578,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5278.534072604293,unknown
+863,Incorrect Authorization,5248.932553816415,unknown
+285,Improper Authorization,5138.46861458014,unknown

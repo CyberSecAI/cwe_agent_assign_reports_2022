@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+386,Symbolic Name not Mapping to Correct Object,base,4.4954,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,3.6399999999999997,0
+73,External Control of File Name or Path,base,3.3566,0
+486,Comparison of Classes by Name,variant,3.11472,0
+363,Race Condition Enabling Link Following,base,2.8651999999999997,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,2.821,0
+201,Insertion of Sensitive Information Into Sent Data,base,2.7742,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0

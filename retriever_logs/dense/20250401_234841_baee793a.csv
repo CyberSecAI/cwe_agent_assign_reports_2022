@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+61,UNIX Symbolic Link (Symlink) Following,Compound,0.8222459933009936
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.8152908681370512
+41,Improper Resolution of Path Equivalence,Base,0.7767711863443925
+23,Relative Path Traversal,Base,0.7671566532909161
+73,External Control of File Name or Path,Base,0.764075738722278
+345,Insufficient Verification of Data Authenticity,Class,0.7607200490228565
+668,Exposure of Resource to Wrong Sphere,Class,0.759374758995155
+798,Use of Hard-coded Credentials,Base,0.753553023278238
+755,Improper Handling of Exceptional Conditions,Class,0.7512238432209333
+1391,Use of Weak Credentials,Class,0.7512015569543735

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,4175.941398364742,unknown
+178,Improper Handling of Case Sensitivity,4145.526043778514,unknown
+287,Improper Authentication,4056.3358352703904,unknown
+306,Missing Authentication for Critical Function,3941.5874151276307,unknown
+347,Improper Verification of Cryptographic Signature,3881.6912238114965,unknown

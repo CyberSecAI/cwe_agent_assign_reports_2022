@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.78114703518924
+131,Incorrect Calculation of Buffer Size,Base,0.7742674641419082
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.771247914398013
+41,Improper Resolution of Path Equivalence,Base,0.7684948546215198
+23,Relative Path Traversal,Base,0.7673768200164663
+125,Out-of-bounds Read,Base,0.767219071568159
+667,Improper Locking,Class,0.7644980736581982
+191,Integer Underflow (Wrap or Wraparound),Base,0.7560625256963088
+404,Improper Resource Shutdown or Release,Class,0.7560622559690153
+126,Buffer Over-read,Variant,0.7558037073556954

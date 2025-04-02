@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.764255627472148
+667,Improper Locking,Class,0.7620043649378104
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7615220759565715
+668,Exposure of Resource to Wrong Sphere,Class,0.7600717047430485
+41,Improper Resolution of Path Equivalence,Base,0.7567577237783265
+653,Improper Isolation or Compartmentalization,Class,0.7566579531044924
+125,Out-of-bounds Read,Base,0.756645894746415
+404,Improper Resource Shutdown or Release,Class,0.754492749504341
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7527087037442217
+755,Improper Handling of Exceptional Conditions,Class,0.7516838023758305

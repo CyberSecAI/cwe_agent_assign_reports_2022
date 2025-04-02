@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+838,Inappropriate Encoding for Output Context,Base,0.7433977837910173
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.727941986966006
+653,Improper Isolation or Compartmentalization,Class,0.7176773045780133
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7175918292196322
+150,Improper Neutralization of Escape  Meta  or Control Sequences,Variant,0.7175622809411737
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7150081614951078
+173,Improper Handling of Alternate Encoding,Variant,0.7114166904479489
+138,Improper Neutralization of Special Elements,Class,0.7103173770587208
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7076732827511378
+184,Incomplete List of Disallowed Inputs,Base,0.7073403672959975

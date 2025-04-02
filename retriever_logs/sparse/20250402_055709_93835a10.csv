@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,4100.702921237221,unknown
+798,Use of Hard-coded Credentials,4015.844300501288,unknown
+178,Improper Handling of Case Sensitivity,4014.0540973689554,unknown
+1390,Weak Authentication,3960.9351230993598,unknown
+347,Improper Verification of Cryptographic Signature,3911.879601002748,unknown

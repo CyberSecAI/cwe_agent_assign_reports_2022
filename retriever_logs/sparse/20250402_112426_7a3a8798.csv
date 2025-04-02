@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,5467.2772865841325,base_query
+203,Observable Discrepancy,5443.403867177917,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,5385.207096682292,base_query
+798,Use of Hard-coded Credentials,5326.37768012469,base_query
+1240,Use of a Cryptographic Primitive with a Risky Implementation,5324.430157622923,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+681,Incorrect Conversion between Numeric Types,Base,0.783775205951648
+131,Incorrect Calculation of Buffer Size,Base,0.774029000149329
+191,Integer Underflow (Wrap or Wraparound),Base,0.7700309941763048
+197,Numeric Truncation Error,Base,0.7695211152216943
+129,Improper Validation of Array Index,Variant,0.7669511994234322
+125,Out-of-bounds Read,Base,0.7643221631324193
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7553811274366783
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7545448392656611
+23,Relative Path Traversal,Base,0.7534879867038571
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7530238189423769

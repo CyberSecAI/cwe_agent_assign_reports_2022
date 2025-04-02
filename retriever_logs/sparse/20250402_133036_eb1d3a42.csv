@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,4272.638800457872,unknown
+639,Authorization Bypass Through User-Controlled Key,4131.623215269648,unknown
+425,Direct Request ('Forced Browsing'),4110.186624589975,unknown
+287,Improper Authentication,4104.3270300673785,unknown
+184,Incomplete List of Disallowed Inputs,4053.4908573160765,unknown

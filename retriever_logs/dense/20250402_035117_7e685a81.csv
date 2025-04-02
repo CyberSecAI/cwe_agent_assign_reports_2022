@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+282,Improper Ownership Management,Class,0.7642999897894298
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7437223344666275
+653,Improper Isolation or Compartmentalization,Class,0.7403888050837144
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7391655252318898
+708,Incorrect Ownership Assignment,Base,0.7349220729441606
+667,Improper Locking,Class,0.7333455646029824
+404,Improper Resource Shutdown or Release,Class,0.7325561386092896
+274,Improper Handling of Insufficient Privileges,Base,0.7323095721030876
+691,Insufficient Control Flow Management,Pillar,0.7271691589423486
+657,Violation of Secure Design Principles,Class,0.724529765826676

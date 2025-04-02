@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7387.777529122556,base_query
+23,Relative Path Traversal,7151.87830794982,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6890.658027534212,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),6678.691820381831,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),6656.054547934624,base_query

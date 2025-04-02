@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+691,Insufficient Control Flow Management,Pillar,0.7656345196463803
+665,Improper Initialization,Class,0.7622072689095634
+73,External Control of File Name or Path,Base,0.7563945919370179
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7544052334838377
+667,Improper Locking,Class,0.7533742023324701
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7522451875448204
+252,Unchecked Return Value,Base,0.7511961573509299
+457,Use of Uninitialized Variable,Variant,0.7506210874632889
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7472241136202311
+131,Incorrect Calculation of Buffer Size,Base,0.7456124345614941

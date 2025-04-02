@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+23,Relative Path Traversal,Base,0.7889050562105838
+184,Incomplete List of Disallowed Inputs,Base,0.7789234788608519
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7759635980560681
+434,Unrestricted Upload of File with Dangerous Type,Base,0.775258481152437
+41,Improper Resolution of Path Equivalence,Base,0.7704934364337218
+73,External Control of File Name or Path,Base,0.7702373978001014
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7634256386747535
+552,Files or Directories Accessible to External Parties,Base,0.7599413587761699
+138,Improper Neutralization of Special Elements,Class,0.7591469169408036
+36,Absolute Path Traversal,Base,0.7573504193220402

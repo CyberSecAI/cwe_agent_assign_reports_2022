@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+300,Channel Accessible by Non-Endpoint,Class,0.7980740783733229
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.78317560968262
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7715539878657247
+319,Cleartext Transmission of Sensitive Information,Base,0.7702060300369843
+799,Improper Control of Interaction Frequency,Class,0.7690000269377986
+940,Improper Verification of Source of a Communication Channel,Base,0.7683715095127688
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.767130720560083
+303,Incorrect Implementation of Authentication Algorithm,Base,0.763884997020795
+1391,Use of Weak Credentials,Class,0.7622260619080069
+345,Insufficient Verification of Data Authenticity,Class,0.7606129987172278

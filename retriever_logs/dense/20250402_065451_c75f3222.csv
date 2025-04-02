@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7604181659044066
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7489630536947294
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7489387861801292
+665,Improper Initialization,Class,0.7443377607870876
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7429934831476468
+41,Improper Resolution of Path Equivalence,Base,0.7428236357787548
+404,Improper Resource Shutdown or Release,Class,0.7399603610681995
+639,Authorization Bypass Through User-Controlled Key,Base,0.7392011876905287
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7384543223757253
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7370978845925874

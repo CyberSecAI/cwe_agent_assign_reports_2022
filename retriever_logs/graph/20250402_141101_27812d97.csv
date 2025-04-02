@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,4.3056,0
+259,Use of Hard-coded Password,variant,4.0104,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),base,3.6399999999999997,0
+183,Permissive List of Allowed Inputs,base,3.3732400000000005,0
+184,Incomplete List of Disallowed Inputs,base,3.3566,0
+20,Improper Input Validation,class,2.984,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.7907200000000008,0

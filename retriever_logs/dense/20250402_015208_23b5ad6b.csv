@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7688637736802695
+667,Improper Locking,Class,0.7557194485617098
+404,Improper Resource Shutdown or Release,Class,0.7524708177944024
+366,Race Condition within a Thread,Base,0.7430959450444452
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7404957744850779
+665,Improper Initialization,Class,0.7366674868144908
+415,Double Free,Variant,0.7351593873012452
+416,Use After Free,Variant,0.7337648134512658
+457,Use of Uninitialized Variable,Variant,0.7310926691280338
+908,Use of Uninitialized Resource,Base,0.7306182158167518

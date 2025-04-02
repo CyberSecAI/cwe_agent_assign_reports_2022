@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,5843.169591517391,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5771.772304831369,base_query
+441,Unintended Proxy or Intermediary ('Confused Deputy'),5754.431374832082,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5587.997767032393,base_query
+863,Incorrect Authorization,5540.7683301843035,base_query

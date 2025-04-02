@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+668,Exposure of Resource to Wrong Sphere,5690.305681204536,base_query
+863,Incorrect Authorization,5653.676053817274,base_query
+1390,Weak Authentication,5588.474464827743,base_query
+285,Improper Authorization,5578.558213226166,base_query
+287,Improper Authentication,5523.648469987013,base_query

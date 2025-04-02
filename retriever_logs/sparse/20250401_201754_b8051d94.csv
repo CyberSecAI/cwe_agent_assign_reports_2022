@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6135.565167766239,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5966.931373148238,unknown
+427,Uncontrolled Search Path Element,5690.378760863427,unknown
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),5588.566497005661,unknown
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),5575.956104250724,unknown

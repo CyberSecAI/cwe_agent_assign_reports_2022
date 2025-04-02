@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7072.0133263541275,unknown
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),6866.990095443485,unknown
+863,Incorrect Authorization,6765.729203519303,unknown
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),6758.81647776684,unknown
+918,Server-Side Request Forgery (SSRF),6712.324399544827,unknown

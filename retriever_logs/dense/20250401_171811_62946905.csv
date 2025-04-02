@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7552302554809777
+502,Deserialization of Untrusted Data,Base,0.7509651344256452
+345,Insufficient Verification of Data Authenticity,Class,0.7508707394967411
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7490850996503778
+407,Inefficient Algorithmic Complexity,Class,0.7476513831256695
+138,Improper Neutralization of Special Elements,Class,0.7466643113633313
+134,Use of Externally-Controlled Format String,Base,0.7460527817379563
+41,Improper Resolution of Path Equivalence,Base,0.744695294318527
+252,Unchecked Return Value,Base,0.744237631100964
+667,Improper Locking,Class,0.7434245867850838

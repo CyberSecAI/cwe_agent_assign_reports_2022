@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.772834036122219
+73,External Control of File Name or Path,Base,0.7721951014205657
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7700190951335819
+41,Improper Resolution of Path Equivalence,Base,0.7693030642927379
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7686394594140594
+184,Incomplete List of Disallowed Inputs,Base,0.765553872658967
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7651133108388419
+668,Exposure of Resource to Wrong Sphere,Class,0.7569408761562292
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7553620586342331
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7538470060533399

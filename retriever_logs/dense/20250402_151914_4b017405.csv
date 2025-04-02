@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7189946822334539
+330,Use of Insufficiently Random Values,Class,0.715934825148463
+1391,Use of Weak Credentials,Class,0.7060813072023551
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7035462213671493
+130,Improper Handling of Length Parameter Inconsistency,Base,0.6995827633833271
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),Base,0.6961264552187753
+824,Access of Uninitialized Pointer,Base,0.695358685748739
+252,Unchecked Return Value,Base,0.693193670695258
+134,Use of Externally-Controlled Format String,Base,0.6927554162640222
+129,Improper Validation of Array Index,Variant,0.689716942268174

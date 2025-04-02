@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,5480.932820130579,base_query
+863,Incorrect Authorization,5313.83252410331,base_query
+285,Improper Authorization,5260.940759961316,base_query
+472,External Control of Assumed-Immutable Web Parameter,5226.256003184961,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5170.576401143762,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,5808.115392998435,base_query
+125,Out-of-bounds Read,5779.403766828887,base_query
+667,Improper Locking,5659.252712355521,base_query
+843,Access of Resource Using Incompatible Type ('Type Confusion'),5622.018521664636,base_query
+415,Double Free,5617.398405590326,base_query

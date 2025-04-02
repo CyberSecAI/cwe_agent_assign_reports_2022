@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+252,Unchecked Return Value,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+824,Access of Uninitialized Pointer,base,4.329000000000001,0
+125,Out-of-bounds Read,base,4.329000000000001,0
+1275,Sensitive Cookie with Improper SameSite Attribute,variant,3.8784,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0

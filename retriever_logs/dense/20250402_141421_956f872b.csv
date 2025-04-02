@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7700501504017159
+125,Out-of-bounds Read,Base,0.7692735136935245
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7654806627922096
+131,Incorrect Calculation of Buffer Size,Base,0.76350443430374
+129,Improper Validation of Array Index,Variant,0.762440992609146
+252,Unchecked Return Value,Base,0.7584278118153385
+191,Integer Underflow (Wrap or Wraparound),Base,0.7568946764448865
+824,Access of Uninitialized Pointer,Base,0.7565724539297948
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7548381245636121
+667,Improper Locking,Class,0.7536144901000839

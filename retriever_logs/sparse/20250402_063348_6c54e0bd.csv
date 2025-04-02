@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,5018.959873532158,base_query
+319,Cleartext Transmission of Sensitive Information,4927.53429143433,base_query
+257,Storing Passwords in a Recoverable Format,4758.1245865437,base_query
+1390,Weak Authentication,4697.491605723842,base_query
+321,Use of Hard-coded Cryptographic Key,4688.179470282434,base_query

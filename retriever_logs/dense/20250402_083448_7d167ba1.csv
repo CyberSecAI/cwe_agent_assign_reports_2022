@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7808125072303662
+805,Buffer Access with Incorrect Length Value,Base,0.7773618919639145
+908,Use of Uninitialized Resource,Base,0.7730325559942952
+824,Access of Uninitialized Pointer,Base,0.7709985271731039
+667,Improper Locking,Class,0.7706525742888328
+457,Use of Uninitialized Variable,Variant,0.7701924429639995
+125,Out-of-bounds Read,Base,0.7697830432020532
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7692618172226799
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7687780974423727
+404,Improper Resource Shutdown or Release,Class,0.7685089835995284

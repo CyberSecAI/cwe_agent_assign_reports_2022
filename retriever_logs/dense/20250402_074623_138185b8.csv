@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.743194094681019
+834,Excessive Iteration,Class,0.7425661230661288
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),Base,0.7356693748259149
+606,Unchecked Input for Loop Condition,Base,0.7325473116341195
+789,Memory Allocation with Excessive Size Value,Variant,0.7237749450546724
+674,Uncontrolled Recursion,Class,0.7215770937119592
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7214452852907542
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7186048449019933
+667,Improper Locking,Class,0.7174308937620044
+404,Improper Resource Shutdown or Release,Class,0.7163493770227732

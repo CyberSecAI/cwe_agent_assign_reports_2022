@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+134,Use of Externally-Controlled Format String,Base,0.7831521136080994
+23,Relative Path Traversal,Base,0.762171198292113
+125,Out-of-bounds Read,Base,0.7601843634093856
+41,Improper Resolution of Path Equivalence,Base,0.7557670089500096
+789,Memory Allocation with Excessive Size Value,Variant,0.7553400801764103
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7547483298096442
+131,Incorrect Calculation of Buffer Size,Base,0.752739202424733
+668,Exposure of Resource to Wrong Sphere,Class,0.7501902267649065
+73,External Control of File Name or Path,Base,0.7499665457840397
+404,Improper Resource Shutdown or Release,Class,0.7470347755407498

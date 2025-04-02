@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+379,Creation of Temporary File in Directory with Insecure Permissions,6533.788088462275,unknown
+732,Incorrect Permission Assignment for Critical Resource,6326.606507449509,unknown
+863,Incorrect Authorization,6318.786470756555,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6301.433095650514,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),6289.740719625177,unknown

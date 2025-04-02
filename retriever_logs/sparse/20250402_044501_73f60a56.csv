@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,4528.847055137877,unknown
+697,Incorrect Comparison,4393.524601121136,unknown
+287,Improper Authentication,4315.892634168184,unknown
+1289,Improper Validation of Unsafe Equivalence in Input,4287.642863177758,unknown
+308,Use of Single-factor Authentication,4207.642444465299,unknown

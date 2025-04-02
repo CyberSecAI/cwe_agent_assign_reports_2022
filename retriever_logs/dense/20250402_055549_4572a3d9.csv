@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+312,Cleartext Storage of Sensitive Information,Base,0.799145093844621
+319,Cleartext Transmission of Sensitive Information,Base,0.7804214520197512
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7694462630310124
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7680257252229994
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7605176236629696
+1391,Use of Weak Credentials,Class,0.7566986838762854
+522,Insufficiently Protected Credentials,Class,0.7535338885483398
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,Variant,0.7523518400748342
+311,Missing Encryption of Sensitive Data,Class,0.7517578312128742
+639,Authorization Bypass Through User-Controlled Key,Base,0.7489274982600211

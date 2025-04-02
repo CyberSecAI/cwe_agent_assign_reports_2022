@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7992753469578996
+1288,Improper Validation of Consistency within Input,Base,0.7760811129587978
+197,Numeric Truncation Error,Base,0.7629117786150426
+606,Unchecked Input for Loop Condition,Base,0.7557922297858287
+183,Permissive List of Allowed Inputs,Base,0.7542927672135422
+681,Incorrect Conversion between Numeric Types,Base,0.7524889959916352
+129,Improper Validation of Array Index,Variant,0.7517317074949826
+179,Incorrect Behavior Order: Early Validation,Base,0.7514900045855235
+115,Misinterpretation of Input,Base,0.7483180080957381
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7468756384678908

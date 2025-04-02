@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+523,Unprotected Transport of Credentials,base,3.6399999999999997,0
+259,Use of Hard-coded Password,variant,2.8104,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+312,Cleartext Storage of Sensitive Information,Base,2.50343698380916,0
+639,Authorization Bypass Through User-Controlled Key,base,2.4699999999999998,0
+472,External Control of Assumed-Immutable Web Parameter,base,2.2921600000000004,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0
+386,Symbolic Name not Mapping to Correct Object,base,2.1985600000000005,0
+1291,Public Key Re-Use for Signing both Debug and Production Code,base,2.1762,0
+257,Storing Passwords in a Recoverable Format,base,2.1762,0

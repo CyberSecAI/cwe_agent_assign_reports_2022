@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+330,Use of Insufficiently Random Values,Class,0.7982514376989561
+331,Insufficient Entropy,Base,0.7978701258548383
+1391,Use of Weak Credentials,Class,0.7605657836354969
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7570222004184048
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7564348810226602
+319,Cleartext Transmission of Sensitive Information,Base,0.7541556056214798
+345,Insufficient Verification of Data Authenticity,Class,0.7531214580972988
+203,Observable Discrepancy,Base,0.7529710925964995
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7483252630333527
+799,Improper Control of Interaction Frequency,Class,0.7471557073498811

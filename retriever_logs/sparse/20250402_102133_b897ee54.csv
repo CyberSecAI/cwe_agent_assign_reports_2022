@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),6584.541116149514,base_query
+1333,Inefficient Regular Expression Complexity,5975.584793786536,base_query
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),5969.831874319181,base_query
+116,Improper Encoding or Escaping of Output,5962.158417871441,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5951.580708222919,base_query

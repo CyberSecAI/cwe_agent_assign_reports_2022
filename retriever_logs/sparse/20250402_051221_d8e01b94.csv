@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7394.783661720405,base_query
+138,Improper Neutralization of Special Elements,7312.701617164463,base_query
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),7301.972968470751,base_query
+184,Incomplete List of Disallowed Inputs,7279.521286394665,base_query
+116,Improper Encoding or Escaping of Output,7254.536033723183,base_query

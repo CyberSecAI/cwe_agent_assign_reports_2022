@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,5185.292993709481,base_query
+259,Use of Hard-coded Password,4956.155410935838,base_query
+1299,Missing Protection Mechanism for Alternate Hardware Interface,4951.241307427758,base_query
+208,Observable Timing Discrepancy,4910.337985469006,base_query
+204,Observable Response Discrepancy,4874.579675249061,base_query

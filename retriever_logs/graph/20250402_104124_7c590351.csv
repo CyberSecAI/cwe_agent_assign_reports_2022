@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,5.031000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+123,Write-what-where Condition,base,4.329000000000001,0
+117,Improper Output Neutralization for Logs,base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.653,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.1356,0
+184,Incomplete List of Disallowed Inputs,Base,2.893700531190473,0
+134,Use of Externally-Controlled Format String,Base,2.8924706311152915,0
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),Base,2.891635547175052,0

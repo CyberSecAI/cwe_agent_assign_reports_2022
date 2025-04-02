@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7642133977009764
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.757879696210153
+404,Improper Resource Shutdown or Release,Class,0.7552054140330895
+1220,Insufficient Granularity of Access Control,Base,0.7546232152894867
+668,Exposure of Resource to Wrong Sphere,Class,0.7538094493628591
+667,Improper Locking,Class,0.7530094012453763
+274,Improper Handling of Insufficient Privileges,Base,0.7517060909162141
+693,Protection Mechanism Failure,Pillar,0.7495275191306938
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7486556982391366
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7474865873078258

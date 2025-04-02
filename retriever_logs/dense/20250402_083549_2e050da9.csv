@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7582974753890079
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7472646773435512
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7446880470836335
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.744119612056316
+668,Exposure of Resource to Wrong Sphere,Class,0.7417646654046823
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7414093831289631
+184,Incomplete List of Disallowed Inputs,Base,0.7403583995912821
+274,Improper Handling of Insufficient Privileges,Base,0.739723306903
+41,Improper Resolution of Path Equivalence,Base,0.7384841722378754
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7368976604906974

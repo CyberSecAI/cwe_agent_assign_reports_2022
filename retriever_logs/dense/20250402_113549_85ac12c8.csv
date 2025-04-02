@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7610588475508415
+668,Exposure of Resource to Wrong Sphere,Class,0.7575474448146107
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7550638495962038
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7539569142470854
+41,Improper Resolution of Path Equivalence,Base,0.7511800418909169
+23,Relative Path Traversal,Base,0.746686766698972
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7459767004952205
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7459561831234954
+552,Files or Directories Accessible to External Parties,Base,0.7458129620544627
+203,Observable Discrepancy,Base,0.7451260094661579

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.8040842778594084
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7894822007179907
+459,Incomplete Cleanup,Base,0.7782230394550005
+404,Improper Resource Shutdown or Release,Class,0.7750150602479717
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7711503981953152
+274,Improper Handling of Insufficient Privileges,Base,0.7600009469489014
+639,Authorization Bypass Through User-Controlled Key,Base,0.7588403154314016
+668,Exposure of Resource to Wrong Sphere,Class,0.7559701271971537
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7550296738221508
+552,Files or Directories Accessible to External Parties,Base,0.7547129103975402

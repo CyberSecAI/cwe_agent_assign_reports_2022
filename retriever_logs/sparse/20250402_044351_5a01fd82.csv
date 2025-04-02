@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,6182.408864553597,base_query
+1390,Weak Authentication,6026.778847116002,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5951.839345991849,base_query
+259,Use of Hard-coded Password,5949.441182468637,base_query
+798,Use of Hard-coded Credentials,5924.561995912533,base_query

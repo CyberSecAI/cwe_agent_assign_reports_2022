@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7558206509452776
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7542865562618838
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7509654513542608
+943,Improper Neutralization of Special Elements in Data Query Logic,Class,0.7480193319363897
+319,Cleartext Transmission of Sensitive Information,Base,0.7442375582788546
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7431570329812978
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7420761410488252
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.7407954736380464
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.73737401994077
+1391,Use of Weak Credentials,Class,0.737314053833231

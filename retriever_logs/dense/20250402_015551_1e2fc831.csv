@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1236,Improper Neutralization of Formula Elements in a CSV File,Base,0.7812845641846711
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7605095867053426
+184,Incomplete List of Disallowed Inputs,Base,0.74701799078676
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7457782228589941
+943,Improper Neutralization of Special Elements in Data Query Logic,Class,0.7427106285707955
+138,Improper Neutralization of Special Elements,Class,0.7328191092521067
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7324399187193356
+73,External Control of File Name or Path,Base,0.7298415155527136
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7261523081713087
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),Base,0.7238635631743469

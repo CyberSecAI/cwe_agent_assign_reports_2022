@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,5880.053300171166,base_query
+942,Permissive Cross-domain Policy with Untrusted Domains,5215.748034542226,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4964.095440457008,base_query
+204,Observable Response Discrepancy,4941.341071638672,base_query
+125,Out-of-bounds Read,4928.998679992854,base_query

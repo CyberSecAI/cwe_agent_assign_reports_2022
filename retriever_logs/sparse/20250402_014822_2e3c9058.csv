@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,5457.521929401489,base_query
+197,Numeric Truncation Error,5330.010312354729,base_query
+1325,Improperly Controlled Sequential Memory Allocation,5300.652951839055,base_query
+1284,Improper Validation of Specified Quantity in Input,5224.878645156532,base_query
+190,Integer Overflow or Wraparound,5215.028732823506,base_query

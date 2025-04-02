@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+191,Integer Underflow (Wrap or Wraparound),Base,0.7806557251976047
+476,NULL Pointer Dereference,Base,0.7784237752986602
+197,Numeric Truncation Error,Base,0.7646850163306467
+681,Incorrect Conversion between Numeric Types,Base,0.7596156860291042
+824,Access of Uninitialized Pointer,Base,0.7584732440409566
+252,Unchecked Return Value,Base,0.7574460894318444
+170,Improper Null Termination,Base,0.755105018072084
+822,Untrusted Pointer Dereference,Base,0.7482199353336338
+131,Incorrect Calculation of Buffer Size,Base,0.7463256799850737
+667,Improper Locking,Class,0.7450558620047142

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+129,Improper Validation of Array Index,Variant,0.7632719505625984
+131,Incorrect Calculation of Buffer Size,Base,0.7225563235036309
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7154741403071195
+125,Out-of-bounds Read,Base,0.711427584905375
+824,Access of Uninitialized Pointer,Base,0.7094744663513188
+252,Unchecked Return Value,Base,0.7031629607268621
+193,Off-by-one Error,Base,0.7012460975185099
+681,Incorrect Conversion between Numeric Types,Base,0.6981252067818677
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.695838589489949
+704,Incorrect Type Conversion or Cast,Class,0.6955054887240849

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7690238306293109
+131,Incorrect Calculation of Buffer Size,Base,0.7537782758668857
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7524347021771549
+41,Improper Resolution of Path Equivalence,Base,0.7508951999748461
+668,Exposure of Resource to Wrong Sphere,Class,0.750167250930787
+129,Improper Validation of Array Index,Variant,0.7493142327233305
+191,Integer Underflow (Wrap or Wraparound),Base,0.7491497531753138
+404,Improper Resource Shutdown or Release,Class,0.7456091468365209
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7456004970901838
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7431476147560012

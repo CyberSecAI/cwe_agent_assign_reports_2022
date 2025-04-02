@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+73,External Control of File Name or Path,Base,0.789603487117891
+1391,Use of Weak Credentials,Class,0.7852150074175877
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7825599254776912
+798,Use of Hard-coded Credentials,Base,0.7782277213818234
+345,Insufficient Verification of Data Authenticity,Class,0.7759598318182748
+41,Improper Resolution of Path Equivalence,Base,0.7759171773190601
+23,Relative Path Traversal,Base,0.7755626710303127
+330,Use of Insufficiently Random Values,Class,0.7720923184696903
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.771751690239187
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7709255057932654

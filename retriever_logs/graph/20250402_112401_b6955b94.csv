@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+187,Partial String Comparison,variant,4.332,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+182,Collapse of Data into Unsafe Value,base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.302,0
+184,Incomplete List of Disallowed Inputs,Base,3.1907682617774533,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.9120000000000004,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,2.8651999999999997,0
+183,Permissive List of Allowed Inputs,base,2.831400000000001,0
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),variant,2.6784000000000003,0
+185,Incorrect Regular Expression,class,2.5519999999999996,0

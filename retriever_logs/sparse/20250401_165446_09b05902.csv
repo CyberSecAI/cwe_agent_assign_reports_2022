@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+943,Improper Neutralization of Special Elements in Data Query Logic,4663.931345977288,unknown
+90,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection'),4653.477620579034,unknown
+1390,Weak Authentication,4547.985933796002,unknown
+472,External Control of Assumed-Immutable Web Parameter,4490.7054588544515,unknown
+863,Incorrect Authorization,4472.498836977414,unknown

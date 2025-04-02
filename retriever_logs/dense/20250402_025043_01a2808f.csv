@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+457,Use of Uninitialized Variable,Variant,0.7575860108612587
+789,Memory Allocation with Excessive Size Value,Variant,0.7469942416337874
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7445894235968482
+404,Improper Resource Shutdown or Release,Class,0.7419046854050912
+909,Missing Initialization of Resource,Class,0.7381034767578261
+667,Improper Locking,Class,0.7344717787162055
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7343330764681796
+405,Asymmetric Resource Consumption (Amplification),Class,0.732274639248807
+908,Use of Uninitialized Resource,Base,0.7319210148308314
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7315987084906621

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,4483.6057124291065,unknown
+863,Incorrect Authorization,4475.488090639166,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,4425.546405744002,unknown
+918,Server-Side Request Forgery (SSRF),4391.430205942156,unknown
+639,Authorization Bypass Through User-Controlled Key,4350.644043451755,unknown

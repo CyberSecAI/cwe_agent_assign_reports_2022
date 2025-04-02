@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),base,4.329000000000001,0
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),variant,3.8784,0
+252,Unchecked Return Value,Base,2.8982859022470207,0
+476,NULL Pointer Dereference,Base,2.8951162746879096,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.73416,0
+1325,Improperly Controlled Sequential Memory Allocation,base,2.73416,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.5950914726435235,0
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,class,2.5519999999999996,0
+621,Variable Extraction Error,variant,2.5507200000000005,0

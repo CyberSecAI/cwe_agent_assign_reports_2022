@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7464.882211468838,unknown
+295,Improper Certificate Validation,6107.209593657931,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,6103.893809358902,unknown
+732,Incorrect Permission Assignment for Critical Resource,6046.996565084526,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),5992.219490057241,unknown

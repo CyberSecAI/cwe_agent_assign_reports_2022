@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,6797.8353285805015,unknown
+863,Incorrect Authorization,6614.867675726259,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6542.0223084524205,unknown
+287,Improper Authentication,6516.735910141426,unknown
+285,Improper Authorization,6482.342298614023,unknown

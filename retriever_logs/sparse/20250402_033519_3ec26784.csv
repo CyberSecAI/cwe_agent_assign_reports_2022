@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,6041.806946432209,unknown
+823,Use of Out-of-range Pointer Offset,5995.877864421728,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5930.008267029989,unknown
+476,NULL Pointer Dereference,5895.132087066866,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5857.822170461998,unknown

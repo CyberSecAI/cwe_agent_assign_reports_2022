@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+170,Improper Null Termination,base,3.8870000000000005,0
+195,Signed to Unsigned Conversion Error,variant,3.3936,0
+73,External Control of File Name or Path,base,3.3566,0
+787,Out-of-bounds Write,base,3.302,0
+681,Incorrect Conversion between Numeric Types,base,3.302,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0

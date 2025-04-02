@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+407,Inefficient Algorithmic Complexity,Class,0.763951499208523
+626,Null Byte Interaction Error (Poison Null Byte),Variant,0.7471753311411862
+184,Incomplete List of Disallowed Inputs,Base,0.7469825976367649
+158,Improper Neutralization of Null Byte or NUL Character,Variant,0.7417066681028983
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7411933881748138
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.739518673929469
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7394425830111888
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7382705595487336
+330,Use of Insufficiently Random Values,Class,0.7367476555995826
+252,Unchecked Return Value,Base,0.7367474801652468

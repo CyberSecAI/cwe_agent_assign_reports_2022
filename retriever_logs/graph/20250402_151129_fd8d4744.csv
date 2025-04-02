@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+193,Off-by-one Error,base,3.8038000000000003,0
+190,Integer Overflow or Wraparound,base,3.523,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0
+41,Improper Resolution of Path Equivalence,base,2.9120000000000004,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,2.9120000000000004,0
+170,Improper Null Termination,base,2.8651999999999997,0
+606,Unchecked Input for Loop Condition,base,2.8651999999999997,0
+1322,Use of Blocking Code in Single-threaded  Non-blocking Context,base,2.8651999999999997,0
+476,NULL Pointer Dereference,base,2.73416,0

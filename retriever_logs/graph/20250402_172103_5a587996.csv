@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+822,Untrusted Pointer Dereference,base,4.329000000000001,0
+782,Exposed IOCTL with Insufficient Access Control,variant,3.8784,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.8784,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,3.5671999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+193,Off-by-one Error,base,2.821,0
+295,Improper Certificate Validation,base,2.7742,0
+1322,Use of Blocking Code in Single-threaded  Non-blocking Context,base,2.73416,0

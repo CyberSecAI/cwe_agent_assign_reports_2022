@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7929441378472164
+667,Improper Locking,Class,0.7854512938040266
+41,Improper Resolution of Path Equivalence,Base,0.7795053521418094
+131,Incorrect Calculation of Buffer Size,Base,0.7733994046958442
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7728282936831385
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7712744802872703
+73,External Control of File Name or Path,Base,0.7711218528291408
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7708230020503967
+653,Improper Isolation or Compartmentalization,Class,0.7690275044185637
+668,Exposure of Resource to Wrong Sphere,Class,0.7688863012994926

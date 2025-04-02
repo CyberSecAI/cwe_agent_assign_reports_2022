@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+23,Relative Path Traversal,Base,0.8123593751027658
+24,Path Traversal: '../filedir',Variant,0.8113042763345549
+41,Improper Resolution of Path Equivalence,Base,0.8021817352998005
+73,External Control of File Name or Path,Base,0.7942263595568976
+36,Absolute Path Traversal,Base,0.7877765759316784
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7845148804839739
+25,Path Traversal: '/../filedir',Variant,0.7810837347341594
+27,Path Traversal: 'dir/../../filename',Variant,0.7741781159782233
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),Variant,0.7724711528430772
+552,Files or Directories Accessible to External Parties,Base,0.769370612210125

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7226.8125175920595,base_query
+116,Improper Encoding or Escaping of Output,7212.620434531342,base_query
+184,Incomplete List of Disallowed Inputs,7204.536341026487,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7188.082148851766,base_query
+138,Improper Neutralization of Special Elements,6854.8309556783,base_query

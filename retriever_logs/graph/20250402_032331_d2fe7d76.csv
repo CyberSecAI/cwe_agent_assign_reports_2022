@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+208,Observable Timing Discrepancy,base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+756,Missing Custom Error Page,base,2.8651999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.821,0
+73,External Control of File Name or Path,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+456,Missing Initialization of a Variable,variant,2.5507200000000005,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0

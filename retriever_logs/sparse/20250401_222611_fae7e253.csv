@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,5863.3760045273275,unknown
+319,Cleartext Transmission of Sensitive Information,5786.463588796268,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5726.185378372151,unknown
+863,Incorrect Authorization,5655.014248478782,unknown
+306,Missing Authentication for Critical Function,5582.854410219224,unknown

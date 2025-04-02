@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,4247.768538744026,base_query
+319,Cleartext Transmission of Sensitive Information,4083.2314737384145,base_query
+1390,Weak Authentication,3997.9897440516406,base_query
+1284,Improper Validation of Specified Quantity in Input,3945.423049956134,base_query
+863,Incorrect Authorization,3937.2914595528837,base_query

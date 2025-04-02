@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+823,Use of Out-of-range Pointer Offset,5435.079212057913,base_query
+184,Incomplete List of Disallowed Inputs,5373.291728635552,base_query
+125,Out-of-bounds Read,5280.367271846508,base_query
+843,Access of Resource Using Incompatible Type ('Type Confusion'),5210.967325630726,base_query
+434,Unrestricted Upload of File with Dangerous Type,5138.11126716752,base_query

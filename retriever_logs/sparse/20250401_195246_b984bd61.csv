@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+209,Generation of Error Message Containing Sensitive Information,4277.2013176342925,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),4235.518780891226,base_query
+863,Incorrect Authorization,4157.19416430706,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,4131.758274984982,base_query
+250,Execution with Unnecessary Privileges,4119.828055009049,base_query

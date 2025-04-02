@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,8502.660001233888,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7464.611002996173,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),7274.151507697109,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7264.326358751357,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7242.06283777255,base_query

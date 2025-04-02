@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.757,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,base,3.1252000000000004,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.821,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+456,Missing Initialization of a Variable,variant,2.5507200000000005,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+276,Incorrect Default Permissions,base,2.4699999999999998,0
+256,Plaintext Storage of a Password,base,2.4699999999999998,0

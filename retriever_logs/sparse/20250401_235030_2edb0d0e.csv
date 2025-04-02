@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,11302.817387204921,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),10775.793745462272,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),10673.537985466626,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,10529.095958798602,base_query
+789,Memory Allocation with Excessive Size Value,10486.618599761705,base_query

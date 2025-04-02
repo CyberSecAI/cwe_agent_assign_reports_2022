@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+59,Improper Link Resolution Before File Access ('Link Following'),base,3.8870000000000005,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.653,0
+41,Improper Resolution of Path Equivalence,Base,2.9146927201310477,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.7196000000000002,0
+434,Unrestricted Upload of File with Dangerous Type,Base,2.628375225537903,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,2.4700000000000006,0
+430,Deployment of Wrong Handler,base,2.3868000000000005,0
+178,Improper Handling of Case Sensitivity,Base,2.2759256112247948,0
+363,Race Condition Enabling Link Following,base,2.2100000000000004,0
+183,Permissive List of Allowed Inputs,base,2.2100000000000004,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,5.031000000000001,0
+434,Unrestricted Upload of File with Dangerous Type,base,5.031000000000001,0
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),base,4.329000000000001,0
+117,Improper Output Neutralization for Logs,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,4.329000000000001,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.888,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.8870000000000005,0

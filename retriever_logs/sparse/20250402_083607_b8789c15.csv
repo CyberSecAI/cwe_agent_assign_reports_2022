@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,8869.518011838223,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8702.500497770885,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8606.31347791543,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,8434.963578569746,base_query
+116,Improper Encoding or Escaping of Output,8325.55445053542,base_query

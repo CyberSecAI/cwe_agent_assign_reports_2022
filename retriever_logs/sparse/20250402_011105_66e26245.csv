@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7651.435966860888,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),6912.05336454853,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6607.981434412417,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6515.047998854004,unknown
+732,Incorrect Permission Assignment for Critical Resource,6475.062524966287,unknown

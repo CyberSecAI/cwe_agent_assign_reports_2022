@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,7110.590891080531,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6723.0938409490755,unknown
+1204,Generation of Weak Initialization Vector (IV),6651.971293323485,unknown
+1240,Use of a Cryptographic Primitive with a Risky Implementation,6554.904351976212,unknown
+203,Observable Discrepancy,6323.529072734677,unknown

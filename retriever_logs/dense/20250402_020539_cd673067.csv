@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+319,Cleartext Transmission of Sensitive Information,Base,0.7738848146175787
+208,Observable Timing Discrepancy,Base,0.7731649269077536
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7711696273688138
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7689749529554368
+1391,Use of Weak Credentials,Class,0.7689446532674193
+204,Observable Response Discrepancy,Base,0.7667305841399163
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7645101265451684
+203,Observable Discrepancy,Base,0.7638528757124023
+668,Exposure of Resource to Wrong Sphere,Class,0.7627012597925528
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.760949843562609

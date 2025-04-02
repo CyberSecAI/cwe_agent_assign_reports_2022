@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+73,External Control of File Name or Path,Base,0.812280330900935
+23,Relative Path Traversal,Base,0.8098361776217067
+41,Improper Resolution of Path Equivalence,Base,0.7970181388209164
+24,Path Traversal: '../filedir',Variant,0.7952855604683973
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7874110311811362
+36,Absolute Path Traversal,Base,0.7864807537833403
+184,Incomplete List of Disallowed Inputs,Base,0.7714450784341401
+552,Files or Directories Accessible to External Parties,Base,0.7704425166998699
+427,Uncontrolled Search Path Element,Base,0.7674922136565656
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7673768674049098

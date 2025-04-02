@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7748139084056724
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7730655613971569
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.769098329858416
+1288,Improper Validation of Consistency within Input,Base,0.7658089570904973
+657,Violation of Secure Design Principles,Class,0.7634900148032808
+345,Insufficient Verification of Data Authenticity,Class,0.7622709711880952
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7610373317174683
+653,Improper Isolation or Compartmentalization,Class,0.7594652272570755
+691,Insufficient Control Flow Management,Pillar,0.757758162912828
+667,Improper Locking,Class,0.7570224326768318

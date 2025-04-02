@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7652671274120901
+41,Improper Resolution of Path Equivalence,Base,0.7647318269211494
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7632619540309435
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),Variant,0.7606121089971605
+73,External Control of File Name or Path,Base,0.7505933472714696
+693,Protection Mechanism Failure,Pillar,0.7503801813130355
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7501943587015858
+274,Improper Handling of Insufficient Privileges,Base,0.7482622659230762
+345,Insufficient Verification of Data Authenticity,Class,0.7466450659995123
+23,Relative Path Traversal,Base,0.7447958704892685

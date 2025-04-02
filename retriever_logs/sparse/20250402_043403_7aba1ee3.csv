@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+911,Improper Update of Reference Count,4371.985135771907,base_query
+775,Missing Release of File Descriptor or Handle after Effective Lifetime,4368.057147524712,base_query
+770,Allocation of Resources Without Limits or Throttling,4297.230212031233,base_query
+772,Missing Release of Resource after Effective Lifetime,4240.595465795844,base_query
+404,Improper Resource Shutdown or Release,4190.356862667114,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,5918.701950378219,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,5743.484187945466,base_query
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5706.300761875244,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,5694.862442110371,base_query
+863,Incorrect Authorization,5645.830445630521,base_query

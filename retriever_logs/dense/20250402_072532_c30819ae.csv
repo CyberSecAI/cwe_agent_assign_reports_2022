@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1419,Incorrect Initialization of Resource,Class,0.7540156237452401
+665,Improper Initialization,Class,0.7498479994597806
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7498063162935115
+667,Improper Locking,Class,0.7443979975499497
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7393715473942002
+404,Improper Resource Shutdown or Release,Class,0.7392428862001899
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7365934921507076
+653,Improper Isolation or Compartmentalization,Class,0.7336083418571799
+662,Improper Synchronization,Class,0.7335878898483794
+909,Missing Initialization of Resource,Class,0.7306436268724461

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.8121562753857837
+41,Improper Resolution of Path Equivalence,Base,0.8042361560917318
+23,Relative Path Traversal,Base,0.8010117660272821
+24,Path Traversal: '../filedir',Variant,0.7924052668855653
+73,External Control of File Name or Path,Base,0.7856107229031489
+36,Absolute Path Traversal,Base,0.7770211061923777
+61,UNIX Symbolic Link (Symlink) Following,Compound,0.7722991332696598
+427,Uncontrolled Search Path Element,Base,0.7705732451641171
+552,Files or Directories Accessible to External Parties,Base,0.7649379179766955
+668,Exposure of Resource to Wrong Sphere,Class,0.7592538904174634

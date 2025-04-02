@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5960.756781991005,unknown
+296,Improper Following of a Certificate's Chain of Trust,5526.670443196906,unknown
+297,Improper Validation of Certificate with Host Mismatch,5497.8313726695715,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5303.39163903582,unknown
+125,Out-of-bounds Read,5153.205231608137,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+170,Improper Null Termination,base,3.8870000000000005,0
+681,Incorrect Conversion between Numeric Types,base,3.8870000000000005,0
+481,Assigning instead of Comparing,variant,3.8784,0
+190,Integer Overflow or Wraparound,base,3.8038000000000003,0
+787,Out-of-bounds Write,base,3.653,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+195,Signed to Unsigned Conversion Error,variant,3.3936,0
+457,Use of Uninitialized Variable,variant,3.1008,0
+476,NULL Pointer Dereference,base,2.8651999999999997,0

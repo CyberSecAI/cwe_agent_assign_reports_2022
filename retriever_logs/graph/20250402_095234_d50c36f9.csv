@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+178,Improper Handling of Case Sensitivity,base,5.031000000000001,0
+289,Authentication Bypass by Alternate Name,base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+433,Unparsed Raw Web Content Delivery,variant,3.24,0
+352,Cross-Site Request Forgery (CSRF),compound,3.1500000000000004,0
+613,Insufficient Session Expiration,Base,2.9145620564187147,0
+184,Incomplete List of Disallowed Inputs,base,2.73416,0

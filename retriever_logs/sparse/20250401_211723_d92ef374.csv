@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,7572.036873972223,unknown
+789,Memory Allocation with Excessive Size Value,7549.021200740748,unknown
+1325,Improperly Controlled Sequential Memory Allocation,7298.9415066559,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),7248.905739533048,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7244.967517864265,unknown

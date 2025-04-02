@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+613,Insufficient Session Expiration,Base,0.7746700446246368
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7649330878266767
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7635487350579867
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7633440497687611
+1390,Weak Authentication,Class,0.7626742336416311
+639,Authorization Bypass Through User-Controlled Key,Base,0.7621562364143418
+1391,Use of Weak Credentials,Class,0.7619820339388115
+668,Exposure of Resource to Wrong Sphere,Class,0.7617951613707107
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.761433573761405
+425,Direct Request ('Forced Browsing'),Base,0.7530537083449524

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1240,Use of a Cryptographic Primitive with a Risky Implementation,8529.618310156937,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,7474.2714010876725,unknown
+347,Improper Verification of Cryptographic Signature,7048.032884759393,unknown
+863,Incorrect Authorization,6949.69329919288,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6826.447949813494,unknown

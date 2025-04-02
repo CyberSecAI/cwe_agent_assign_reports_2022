@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5785.022241680457,base_query
+668,Exposure of Resource to Wrong Sphere,5773.013636656346,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5753.797891012292,base_query
+23,Relative Path Traversal,5716.305206093657,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5665.27343122847,base_query

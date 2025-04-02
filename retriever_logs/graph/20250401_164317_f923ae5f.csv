@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+288,Authentication Bypass Using an Alternate Path or Channel,base,3.6399999999999997,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.4866,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.302,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+911,Improper Update of Reference Count,base,2.8651999999999997,0
+826,Premature Release of Resource During Expected Lifetime,base,2.73416,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0

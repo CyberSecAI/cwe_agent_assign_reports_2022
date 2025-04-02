@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+290,Authentication Bypass by Spoofing,base,3.6399999999999997,0
+836,Use of Password Hash Instead of Password for Authentication,base,3.6399999999999997,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.3400000000000003,0
+208,Observable Timing Discrepancy,base,2.2100000000000004,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.2100000000000004,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0
+425,Direct Request ('Forced Browsing'),base,2.2089600000000003,0
+301,Reflection Attack in an Authentication Protocol,base,2.1762,0
+358,Improperly Implemented Security Check for Standard,base,2.1762,0
+523,Unprotected Transport of Credentials,base,2.1762,0

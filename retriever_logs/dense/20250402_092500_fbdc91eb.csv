@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7736465995003672
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7688279955946756
+789,Memory Allocation with Excessive Size Value,Variant,0.7583293981930347
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7468669335576039
+909,Missing Initialization of Resource,Class,0.7416625869377307
+191,Integer Underflow (Wrap or Wraparound),Base,0.7413227914039751
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7385134972442995
+405,Asymmetric Resource Consumption (Amplification),Class,0.7362661333390748
+772,Missing Release of Resource after Effective Lifetime,Base,0.7362382590416485
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7354872986786712

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+472,External Control of Assumed-Immutable Web Parameter,4508.557965313818,base_query
+1390,Weak Authentication,4408.62252482081,base_query
+287,Improper Authentication,4288.4480658427165,base_query
+201,Insertion of Sensitive Information Into Sent Data,4190.047656163445,base_query
+863,Incorrect Authorization,4183.597820138405,base_query

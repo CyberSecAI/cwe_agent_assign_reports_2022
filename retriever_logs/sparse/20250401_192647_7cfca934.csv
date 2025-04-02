@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,7407.346676793614,unknown
+611,Improper Restriction of XML External Entity Reference,7357.11678362524,unknown
+789,Memory Allocation with Excessive Size Value,7344.558057092383,unknown
+770,Allocation of Resources Without Limits or Throttling,7334.202529814108,unknown
+1284,Improper Validation of Specified Quantity in Input,7297.234223361887,unknown

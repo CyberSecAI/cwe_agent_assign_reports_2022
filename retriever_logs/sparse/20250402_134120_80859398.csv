@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,4654.080610203117,unknown
+863,Incorrect Authorization,4602.063832732139,unknown
+209,Generation of Error Message Containing Sensitive Information,4595.849020289918,unknown
+125,Out-of-bounds Read,4593.9060238088905,unknown
+617,Reachable Assertion,4593.313621861379,unknown

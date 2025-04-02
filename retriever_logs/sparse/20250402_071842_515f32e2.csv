@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,5779.830826178516,base_query
+1256,Improper Restriction of Software Interfaces to Hardware Features,5400.04802904002,base_query
+208,Observable Timing Discrepancy,5371.03933806445,base_query
+204,Observable Response Discrepancy,5151.866343984549,base_query
+1421,Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution,4969.704974254817,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,5113.613072638374,unknown
+1284,Improper Validation of Specified Quantity in Input,5038.434915941999,unknown
+770,Allocation of Resources Without Limits or Throttling,4997.64507883107,unknown
+789,Memory Allocation with Excessive Size Value,4958.449890918527,unknown
+833,Deadlock,4922.7132513465585,unknown

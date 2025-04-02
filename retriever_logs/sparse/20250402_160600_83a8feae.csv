@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+668,Exposure of Resource to Wrong Sphere,7594.28512656874,base_query
+212,Improper Removal of Sensitive Information Before Storage or Transfer,7316.094080525971,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,7243.871532792612,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,7060.112673830454,base_query
+863,Incorrect Authorization,7036.969059831001,base_query

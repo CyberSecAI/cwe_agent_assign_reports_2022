@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,6572.448957119951,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),6367.120157742751,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6258.835460568305,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6228.69851138285,base_query
+1284,Improper Validation of Specified Quantity in Input,6063.099055364846,base_query

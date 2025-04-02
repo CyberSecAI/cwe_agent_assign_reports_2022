@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7609.937312608913,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6626.889492032664,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6575.836444333509,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6482.202687893034,base_query
+667,Improper Locking,6475.640575018275,base_query

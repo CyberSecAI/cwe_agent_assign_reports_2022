@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,5716.289191291082,unknown
+798,Use of Hard-coded Credentials,5026.226765840743,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,4970.161759242176,unknown
+668,Exposure of Resource to Wrong Sphere,4950.081255160564,unknown
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,4946.077259549662,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.0104,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.8870000000000005,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,base,3.1252000000000004,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+73,External Control of File Name or Path,base,2.7014000000000005,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.6967879109904125,0
+798,Use of Hard-coded Credentials,Base,2.4880052630641094,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7939176149405351
+41,Improper Resolution of Path Equivalence,Base,0.7861773380361723
+798,Use of Hard-coded Credentials,Base,0.7796428260921979
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7779265462734581
+73,External Control of File Name or Path,Base,0.777250701078635
+427,Uncontrolled Search Path Element,Base,0.7760522344001815
+184,Incomplete List of Disallowed Inputs,Base,0.7757257626670868
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.7745150142777424
+345,Insufficient Verification of Data Authenticity,Class,0.7737452730809224
+23,Relative Path Traversal,Base,0.7727401355953286

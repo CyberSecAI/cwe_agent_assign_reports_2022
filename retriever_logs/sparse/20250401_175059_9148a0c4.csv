@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,5691.288851105436,base_query
+942,Permissive Cross-domain Policy with Untrusted Domains,4910.768797274148,base_query
+356,Product UI does not Warn User of Unsafe Actions,4695.6869345177865,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),4609.4480342334,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4593.703374894293,base_query

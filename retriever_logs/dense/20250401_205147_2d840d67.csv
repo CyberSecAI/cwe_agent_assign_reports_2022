@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7639502741646136
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7592896921674361
+788,Access of Memory Location After End of Buffer,Base,0.7535500020376555
+125,Out-of-bounds Read,Base,0.7523425934611503
+681,Incorrect Conversion between Numeric Types,Base,0.7486938946898074
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7476678390769873
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7473967781685776
+129,Improper Validation of Array Index,Variant,0.745109378410658
+457,Use of Uninitialized Variable,Variant,0.7449945475103292
+197,Numeric Truncation Error,Base,0.7449621510979052

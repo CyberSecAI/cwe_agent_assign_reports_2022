@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1389,Incorrect Parsing of Numbers with Different Radices,6239.121266933063,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6198.723470934374,base_query
+625,Permissive Regular Expression,5919.631948476816,base_query
+1333,Inefficient Regular Expression Complexity,5912.088935716112,base_query
+1286,Improper Validation of Syntactic Correctness of Input,5901.9487490878955,base_query

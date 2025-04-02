@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+424,Improper Protection of Alternate Path,Class,0.7527984296402492
+653,Improper Isolation or Compartmentalization,Class,0.7485384468654996
+274,Improper Handling of Insufficient Privileges,Base,0.7411975475537189
+668,Exposure of Resource to Wrong Sphere,Class,0.7357611894680252
+552,Files or Directories Accessible to External Parties,Base,0.7299834708254689
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7299481880257377
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.729081577249802
+404,Improper Resource Shutdown or Release,Class,0.7279632028279557
+41,Improper Resolution of Path Equivalence,Base,0.7233751621793825
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7229082247115445

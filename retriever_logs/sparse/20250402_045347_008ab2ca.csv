@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+798,Use of Hard-coded Credentials,5761.079492934029,base_query
+259,Use of Hard-coded Password,5722.320082690779,base_query
+863,Incorrect Authorization,5571.010931762008,base_query
+285,Improper Authorization,5503.517079272875,base_query
+639,Authorization Bypass Through User-Controlled Key,5471.015762215282,base_query

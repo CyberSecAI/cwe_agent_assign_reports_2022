@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7543999145718356
+552,Files or Directories Accessible to External Parties,Base,0.7519501972763993
+41,Improper Resolution of Path Equivalence,Base,0.7462472375796767
+404,Improper Resource Shutdown or Release,Class,0.7460225683715993
+668,Exposure of Resource to Wrong Sphere,Class,0.7458863574125327
+73,External Control of File Name or Path,Base,0.7443511116210868
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7432373611485242
+274,Improper Handling of Insufficient Privileges,Base,0.7427931484367545
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7413127312291696
+23,Relative Path Traversal,Base,0.7404386401864389

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+201,Insertion of Sensitive Information Into Sent Data,7177.732557108873,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,7105.132310924296,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,7086.119007910674,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,6930.660915056777,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,6853.666654751814,unknown

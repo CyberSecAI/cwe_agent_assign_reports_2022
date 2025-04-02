@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7737987715098873
+404,Improper Resource Shutdown or Release,Class,0.7493591887830591
+668,Exposure of Resource to Wrong Sphere,Class,0.7483299603780009
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7464966720533227
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7462298612077909
+129,Improper Validation of Array Index,Variant,0.7459202663261203
+138,Improper Neutralization of Special Elements,Class,0.7458348412245525
+407,Inefficient Algorithmic Complexity,Class,0.7454814360750737
+345,Insufficient Verification of Data Authenticity,Class,0.7448943839682471
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7443787513795098

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.777485458725182
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.74112382119022
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),Base,0.7384390805613028
+667,Improper Locking,Class,0.7365392949015306
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7333377089765842
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7324750584622345
+41,Improper Resolution of Path Equivalence,Base,0.7297869788994382
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7294209135193273
+203,Observable Discrepancy,Base,0.7268553897951504
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7266684034681176

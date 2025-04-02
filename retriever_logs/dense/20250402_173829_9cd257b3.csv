@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7575901769042397
+125,Out-of-bounds Read,Base,0.7546915357973878
+126,Buffer Over-read,Variant,0.7435578744895466
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7430705084423741
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7413089686042509
+667,Improper Locking,Class,0.7410745194648864
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7410569995821117
+191,Integer Underflow (Wrap or Wraparound),Base,0.7401946649601108
+41,Improper Resolution of Path Equivalence,Base,0.7399838510117132
+193,Off-by-one Error,Base,0.73897952082769

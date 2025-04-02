@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.8870000000000005,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.653,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+73,External Control of File Name or Path,base,3.3566,0
+352,Cross-Site Request Forgery (CSRF),compound,3.1500000000000004,0
+41,Improper Resolution of Path Equivalence,base,3.1252000000000004,0
+756,Missing Custom Error Page,base,2.8651999999999997,0

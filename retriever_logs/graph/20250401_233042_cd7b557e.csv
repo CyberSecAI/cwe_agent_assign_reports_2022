@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.378400000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,3.8038000000000003,0
+190,Integer Overflow or Wraparound,base,3.8038000000000003,0
+839,Numeric Range Comparison Without Minimum Check,base,3.8038000000000003,0
+124,Buffer Underwrite ('Buffer Underflow'),base,3.3566,0
+197,Numeric Truncation Error,base,3.2656,0
+824,Access of Uninitialized Pointer,Base,2.8824804334597554,0
+125,Out-of-bounds Read,Base,2.8819365327654562,0
+123,Write-what-where Condition,base,2.8651999999999997,0

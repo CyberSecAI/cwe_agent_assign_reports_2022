@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5797.9507491449895,unknown
+197,Numeric Truncation Error,5672.722778140286,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5667.386767189532,unknown
+193,Off-by-one Error,5618.523564825206,unknown
+476,NULL Pointer Dereference,5595.088267785242,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7922481267131458
+208,Observable Timing Discrepancy,Base,0.7847502792172762
+404,Improper Resource Shutdown or Release,Class,0.7801941407715491
+667,Improper Locking,Class,0.77421516298467
+203,Observable Discrepancy,Base,0.7698726150346054
+345,Insufficient Verification of Data Authenticity,Class,0.762428035067728
+909,Missing Initialization of Resource,Class,0.7591075576282864
+131,Incorrect Calculation of Buffer Size,Base,0.7589336527731997
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7529664077872381
+665,Improper Initialization,Class,0.7529298134003851

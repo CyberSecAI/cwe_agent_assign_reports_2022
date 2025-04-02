@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+843,Access of Resource Using Incompatible Type ('Type Confusion'),base,5.031000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+1287,Improper Validation of Specified Type of Input,base,3.6399999999999997,0
+73,External Control of File Name or Path,Base,3.2083356703153765,0
+41,Improper Resolution of Path Equivalence,Base,2.9193490846243444,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9159463313467997,0

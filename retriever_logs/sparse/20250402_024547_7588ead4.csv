@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1285,Improper Validation of Specified Index  Position  or Offset in Input,3752.6458262599735,base_query
+1284,Improper Validation of Specified Quantity in Input,3518.9610038608457,base_query
+179,Incorrect Behavior Order: Early Validation,3360.957623579565,base_query
+1288,Improper Validation of Consistency within Input,3220.8504101185918,base_query
+347,Improper Verification of Cryptographic Signature,3154.410564647082,base_query

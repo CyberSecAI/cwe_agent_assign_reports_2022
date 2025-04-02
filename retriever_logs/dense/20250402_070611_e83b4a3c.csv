@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+379,Creation of Temporary File in Directory with Insecure Permissions,Base,0.8073754376772111
+378,Creation of Temporary File With Insecure Permissions,Base,0.8022784297252481
+377,Insecure Temporary File,Class,0.7930306195485737
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7647831695250411
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.745302065119757
+73,External Control of File Name or Path,Base,0.7420761542578591
+427,Uncontrolled Search Path Element,Base,0.7409575198977205
+552,Files or Directories Accessible to External Parties,Base,0.733326454304139
+667,Improper Locking,Class,0.7311441447198457
+404,Improper Resource Shutdown or Release,Class,0.7307912667464643

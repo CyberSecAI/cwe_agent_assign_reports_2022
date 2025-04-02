@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,5542.798220647516,base_query
+927,Use of Implicit Intent for Sensitive Communication,5325.5996317635945,base_query
+863,Incorrect Authorization,4999.18582091531,base_query
+285,Improper Authorization,4888.050877206978,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4826.939666058698,base_query

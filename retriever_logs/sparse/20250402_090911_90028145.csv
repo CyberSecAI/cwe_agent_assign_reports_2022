@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,8479.066482951437,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8076.030640701041,unknown
+116,Improper Encoding or Escaping of Output,7998.155552326711,unknown
+863,Incorrect Authorization,7817.757773681983,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),7747.488011030645,unknown

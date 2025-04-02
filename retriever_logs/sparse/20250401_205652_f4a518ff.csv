@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,4605.67688903815,unknown
+319,Cleartext Transmission of Sensitive Information,4417.915318554166,unknown
+209,Generation of Error Message Containing Sensitive Information,4134.37477513532,unknown
+311,Missing Encryption of Sensitive Data,4085.502922726548,unknown
+532,Insertion of Sensitive Information into Log File,4038.4240626816936,unknown

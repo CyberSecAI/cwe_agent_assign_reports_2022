@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7544.862239945813,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7526.912921314423,base_query
+116,Improper Encoding or Escaping of Output,7196.931835886776,base_query
+138,Improper Neutralization of Special Elements,7196.67170045395,base_query
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),7183.601357571845,base_query

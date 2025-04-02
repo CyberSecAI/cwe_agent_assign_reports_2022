@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+918,Server-Side Request Forgery (SSRF),Base,0.7684715976308283
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7675899160105798
+294,Authentication Bypass by Capture-replay,Base,0.7664992323601448
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7663120104876137
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7648549529705425
+330,Use of Insufficiently Random Values,Class,0.7646028232019398
+1391,Use of Weak Credentials,Class,0.7638010250489724
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7614089508606108
+602,Client-Side Enforcement of Server-Side Security,Class,0.7609126377306465
+204,Observable Response Discrepancy,Base,0.7601083422335327

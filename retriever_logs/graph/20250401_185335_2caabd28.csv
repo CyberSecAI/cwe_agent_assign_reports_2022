@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,5.031000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+776,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),base,4.329000000000001,0
+827,Improper Control of Document Type Definition,variant,3.8784,0
+183,Permissive List of Allowed Inputs,base,3.8506000000000005,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),base,3.6399999999999997,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.3264,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.302,0

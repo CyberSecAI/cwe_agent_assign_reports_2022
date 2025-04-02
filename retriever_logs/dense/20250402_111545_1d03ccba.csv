@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7685418030616508
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7569932473284752
+138,Improper Neutralization of Special Elements,Class,0.7505428831871193
+23,Relative Path Traversal,Base,0.7490299731678441
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7475774648219584
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7473922102872133
+639,Authorization Bypass Through User-Controlled Key,Base,0.7470688453508054
+41,Improper Resolution of Path Equivalence,Base,0.7467138155400792
+668,Exposure of Resource to Wrong Sphere,Class,0.7441966335789418
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.742018538499562

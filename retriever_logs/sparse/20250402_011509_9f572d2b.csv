@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5571.544805054072,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5269.506976327782,unknown
+259,Use of Hard-coded Password,5269.483158790223,unknown
+798,Use of Hard-coded Credentials,5251.328483724554,unknown
+425,Direct Request ('Forced Browsing'),5168.28854763267,unknown

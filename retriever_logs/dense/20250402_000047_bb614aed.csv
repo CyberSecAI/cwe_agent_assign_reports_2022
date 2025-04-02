@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7501665604515944
+653,Improper Isolation or Compartmentalization,Class,0.7501048660543924
+691,Insufficient Control Flow Management,Pillar,0.7497482679700014
+404,Improper Resource Shutdown or Release,Class,0.747731142968666
+131,Incorrect Calculation of Buffer Size,Base,0.7434151269290645
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7414724948533649
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7410471142313466
+668,Exposure of Resource to Wrong Sphere,Class,0.7410375253041841
+125,Out-of-bounds Read,Base,0.7392960376723179
+274,Improper Handling of Insufficient Privileges,Base,0.7391862611075388

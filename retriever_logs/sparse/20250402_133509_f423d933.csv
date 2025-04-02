@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+209,Generation of Error Message Containing Sensitive Information,7475.90184632693,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,7416.37147960996,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7310.542691127801,unknown
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,7085.378250935592,unknown
+61,UNIX Symbolic Link (Symlink) Following,7034.979424757187,unknown

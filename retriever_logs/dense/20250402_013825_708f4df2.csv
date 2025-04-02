@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7839217530772263
+358,Improperly Implemented Security Check for Standard,Base,0.7785360645667586
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7767431532313827
+356,Product UI does not Warn User of Unsafe Actions,Base,0.7672377537950936
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7658406266489637
+184,Incomplete List of Disallowed Inputs,Base,0.763634877875325
+274,Improper Handling of Insufficient Privileges,Base,0.7624701365859756
+653,Improper Isolation or Compartmentalization,Class,0.7611691499968198
+668,Exposure of Resource to Wrong Sphere,Class,0.760199944699548
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7600308579174357

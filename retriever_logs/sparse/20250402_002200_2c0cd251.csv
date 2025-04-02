@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+824,Access of Uninitialized Pointer,5871.9236896617895,base_query
+193,Off-by-one Error,5545.672587004475,base_query
+681,Incorrect Conversion between Numeric Types,5458.295950155678,base_query
+476,NULL Pointer Dereference,5456.551138415091,base_query
+1284,Improper Validation of Specified Quantity in Input,5447.8745562144495,base_query

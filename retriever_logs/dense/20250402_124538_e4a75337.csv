@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7722529064070509
+274,Improper Handling of Insufficient Privileges,Base,0.7677159205079551
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.767525988598103
+41,Improper Resolution of Path Equivalence,Base,0.7668158808681107
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.765512635508357
+639,Authorization Bypass Through User-Controlled Key,Base,0.7642564079041422
+653,Improper Isolation or Compartmentalization,Class,0.7642156337332766
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7635461628829072
+552,Files or Directories Accessible to External Parties,Base,0.7628103416720924
+425,Direct Request ('Forced Browsing'),Base,0.7608728382547866

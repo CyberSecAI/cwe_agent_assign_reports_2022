@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),5948.521935922248,unknown
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),5841.338742133196,unknown
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5711.322473990743,unknown
+1333,Inefficient Regular Expression Complexity,5708.523112632232,unknown
+427,Uncontrolled Search Path Element,5520.035826457306,unknown

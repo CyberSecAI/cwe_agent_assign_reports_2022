@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,9230.967043830871,unknown
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),9155.00176326938,unknown
+611,Improper Restriction of XML External Entity Reference,9115.418622634808,unknown
+1284,Improper Validation of Specified Quantity in Input,9089.42154454726,unknown
+770,Allocation of Resources Without Limits or Throttling,9025.97056044871,unknown

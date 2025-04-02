@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),Base,0.8142060923613683
+1391,Use of Weak Credentials,Class,0.7841388668428424
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.773925911064878
+330,Use of Insufficiently Random Values,Class,0.7683907509508969
+303,Incorrect Implementation of Authentication Algorithm,Base,0.76769027498716
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7676211337642072
+319,Cleartext Transmission of Sensitive Information,Base,0.7647031769120478
+1390,Weak Authentication,Class,0.7643976905471804
+203,Observable Discrepancy,Base,0.7627171189330009
+328,Use of Weak Hash,Base,0.7614498734903308

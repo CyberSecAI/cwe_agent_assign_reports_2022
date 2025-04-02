@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,5573.926571858801,base_query
+863,Incorrect Authorization,5430.4880014868795,base_query
+287,Improper Authentication,5407.438474842479,base_query
+306,Missing Authentication for Critical Function,5340.119061850516,base_query
+347,Improper Verification of Cryptographic Signature,5315.478708962694,base_query

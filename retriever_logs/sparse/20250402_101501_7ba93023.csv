@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5588.895915579087,base_query
+1284,Improper Validation of Specified Quantity in Input,5424.095368893634,base_query
+789,Memory Allocation with Excessive Size Value,5372.555920895442,base_query
+667,Improper Locking,5366.1255491757265,base_query
+190,Integer Overflow or Wraparound,5363.759613418917,base_query

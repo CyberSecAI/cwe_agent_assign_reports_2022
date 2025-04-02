@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+158,Improper Neutralization of Null Byte or NUL Character,Variant,0.7797426257787073
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.762319678890475
+138,Improper Neutralization of Special Elements,Class,0.7581564936511608
+150,Improper Neutralization of Escape  Meta  or Control Sequences,Variant,0.7569010460615773
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7542750837946627
+184,Incomplete List of Disallowed Inputs,Base,0.7530246209167064
+41,Improper Resolution of Path Equivalence,Base,0.7490574151307325
+162,Improper Neutralization of Trailing Special Elements,Variant,0.7490494616789749
+170,Improper Null Termination,Base,0.7475606539714474
+707,Improper Neutralization,Pillar,0.7438963467659433

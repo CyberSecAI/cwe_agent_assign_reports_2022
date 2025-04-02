@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.8163486071772222
+472,External Control of Assumed-Immutable Web Parameter,Base,0.801666962716777
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7818516646489522
+1391,Use of Weak Credentials,Class,0.7645614133682233
+639,Authorization Bypass Through User-Controlled Key,Base,0.7641933395808911
+1390,Weak Authentication,Class,0.7640045397717099
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7619788528051645
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7575518880553244
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7571240819586778
+345,Insufficient Verification of Data Authenticity,Class,0.7484931876219596

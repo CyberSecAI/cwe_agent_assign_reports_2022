@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+425,Direct Request ('Forced Browsing'),base,4.329000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.8784,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.653,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0

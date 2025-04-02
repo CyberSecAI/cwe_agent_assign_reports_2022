@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7098.2866743924515,unknown
+942,Permissive Cross-domain Policy with Untrusted Domains,6211.7260412859005,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),6093.418569701133,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6081.046270063093,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,6024.553153223236,unknown

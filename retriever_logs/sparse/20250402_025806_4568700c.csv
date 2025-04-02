@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,8216.471540941406,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7604.1611263632785,base_query
+116,Improper Encoding or Escaping of Output,7549.890069399283,base_query
+1007,Insufficient Visual Distinction of Homoglyphs Presented to User,7477.81907809527,base_query
+184,Incomplete List of Disallowed Inputs,7022.6004862624695,base_query

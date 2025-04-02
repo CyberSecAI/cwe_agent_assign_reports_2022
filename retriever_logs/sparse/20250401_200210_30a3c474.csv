@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,7488.448205387467,unknown
+306,Missing Authentication for Critical Function,7215.201785101011,unknown
+863,Incorrect Authorization,7186.853781434536,unknown
+668,Exposure of Resource to Wrong Sphere,7111.090503923914,unknown
+770,Allocation of Resources Without Limits or Throttling,7100.051014688846,unknown

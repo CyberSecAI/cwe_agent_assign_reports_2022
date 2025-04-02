@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+123,Write-what-where Condition,base,4.8204,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+252,Unchecked Return Value,base,4.329000000000001,0
+416,Use After Free,variant,4.20432,0
+787,Out-of-bounds Write,base,3.7206,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0
+457,Use of Uninitialized Variable,variant,2.97312,0

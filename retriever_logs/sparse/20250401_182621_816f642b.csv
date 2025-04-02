@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,5117.835475596882,unknown
+256,Plaintext Storage of a Password,4641.879769165834,unknown
+532,Insertion of Sensitive Information into Log File,4628.872050405266,unknown
+203,Observable Discrepancy,4625.907015854017,unknown
+522,Insufficiently Protected Credentials,4619.194814015801,unknown

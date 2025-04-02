@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,4259.310166532897,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,4257.239063634667,unknown
+178,Improper Handling of Case Sensitivity,4210.328194317985,unknown
+625,Permissive Regular Expression,4069.876770178045,unknown
+863,Incorrect Authorization,3909.110876796125,unknown

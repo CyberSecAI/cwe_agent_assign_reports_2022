@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,4772.492640777793,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,4755.793916777615,unknown
+209,Generation of Error Message Containing Sensitive Information,4670.813880082395,unknown
+312,Cleartext Storage of Sensitive Information,4625.760129915147,unknown
+203,Observable Discrepancy,4528.670244749165,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+187,Partial String Comparison,variant,4.5264,0
+183,Permissive List of Allowed Inputs,base,4.505800000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+117,Improper Output Neutralization for Logs,base,4.329000000000001,0
+182,Collapse of Data into Unsafe Value,base,4.329000000000001,0
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),variant,3.8784,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.302,0
+73,External Control of File Name or Path,Base,3.189437949042041,0
+184,Incomplete List of Disallowed Inputs,Base,3.0555860161848267,0

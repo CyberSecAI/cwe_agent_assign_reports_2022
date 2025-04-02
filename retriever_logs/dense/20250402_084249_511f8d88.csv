@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+834,Excessive Iteration,Class,0.7667904527741931
+208,Observable Timing Discrepancy,Base,0.7379703081169531
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7315951082917034
+799,Improper Control of Interaction Frequency,Class,0.731143037619336
+405,Asymmetric Resource Consumption (Amplification),Class,0.72854540083354
+330,Use of Insufficiently Random Values,Class,0.7271285006547534
+407,Inefficient Algorithmic Complexity,Class,0.7213564582074947
+667,Improper Locking,Class,0.7212286054176018
+41,Improper Resolution of Path Equivalence,Base,0.7199723549442534
+345,Insufficient Verification of Data Authenticity,Class,0.7199664776938772

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7296.855612972242,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),6918.451781439492,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6517.650388144444,base_query
+1386,Insecure Operation on Windows Junction / Mount Point,6305.307006527727,base_query
+61,UNIX Symbolic Link (Symlink) Following,6234.50097362063,base_query

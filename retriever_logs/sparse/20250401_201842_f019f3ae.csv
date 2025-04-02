@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,4774.43322072613,unknown
+863,Incorrect Authorization,4742.960550944585,unknown
+927,Use of Implicit Intent for Sensitive Communication,4701.232808696338,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4678.320089626692,unknown
+252,Unchecked Return Value,4677.601070727512,unknown

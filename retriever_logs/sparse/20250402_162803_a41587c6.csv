@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,5984.64919042815,unknown
+116,Improper Encoding or Escaping of Output,5915.265660216933,unknown
+203,Observable Discrepancy,5909.455296839843,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5859.477174283728,unknown
+1236,Improper Neutralization of Formula Elements in a CSV File,5853.335921687564,unknown

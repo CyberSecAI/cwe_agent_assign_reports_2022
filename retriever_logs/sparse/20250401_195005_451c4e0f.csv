@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,6442.630240405909,unknown
+1236,Improper Neutralization of Formula Elements in a CSV File,6197.663947030715,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6160.561663877862,unknown
+203,Observable Discrepancy,6137.904861927507,unknown
+799,Improper Control of Interaction Frequency,6031.009887695251,unknown

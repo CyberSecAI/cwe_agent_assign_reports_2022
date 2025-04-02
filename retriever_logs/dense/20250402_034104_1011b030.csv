@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.8060200792907974
+252,Unchecked Return Value,Base,0.7693978698634786
+822,Untrusted Pointer Dereference,Base,0.7684819404733436
+606,Unchecked Input for Loop Condition,Base,0.7675463405952371
+183,Permissive List of Allowed Inputs,Base,0.7635204744395863
+125,Out-of-bounds Read,Base,0.7605477067117319
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.760457076508489
+184,Incomplete List of Disallowed Inputs,Base,0.7603085076500975
+1288,Improper Validation of Consistency within Input,Base,0.7589945087377342
+823,Use of Out-of-range Pointer Offset,Base,0.7581233920164226

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+942,Permissive Cross-domain Policy with Untrusted Domains,6338.665869436853,unknown
+203,Observable Discrepancy,6297.86447823284,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,6219.243448172615,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6208.555684546388,unknown
+319,Cleartext Transmission of Sensitive Information,6134.745623162059,unknown

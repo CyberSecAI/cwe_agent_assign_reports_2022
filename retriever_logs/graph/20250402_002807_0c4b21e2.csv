@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+410,Insufficient Resource Pool,base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+390,Detection of Error Condition Without Action,base,4.329000000000001,0
+789,Memory Allocation with Excessive Size Value,variant,3.8784,0
+401,Missing Release of Memory after Effective Lifetime,variant,3.8784,0
+190,Integer Overflow or Wraparound,base,3.4200400000000006,0
+20,Improper Input Validation,class,2.984,0
+1325,Improperly Controlled Sequential Memory Allocation,base,2.9250000000000003,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,2.9120000000000004,0

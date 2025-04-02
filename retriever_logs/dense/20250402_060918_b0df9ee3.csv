@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7675722867838002
+404,Improper Resource Shutdown or Release,Class,0.7597982735406157
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7595104474687143
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7561689857123444
+667,Improper Locking,Class,0.7546777247649581
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7546420757835686
+125,Out-of-bounds Read,Base,0.7530251224334062
+191,Integer Underflow (Wrap or Wraparound),Base,0.7469784184742325
+131,Incorrect Calculation of Buffer Size,Base,0.7456978864046229
+653,Improper Isolation or Compartmentalization,Class,0.7453203487145961

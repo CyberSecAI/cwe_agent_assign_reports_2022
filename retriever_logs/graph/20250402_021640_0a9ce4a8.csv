@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+756,Missing Custom Error Page,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.984,0
+770,Allocation of Resources Without Limits or Throttling,base,2.951,0
+209,Generation of Error Message Containing Sensitive Information,Base,2.9013583414279482,0
+73,External Control of File Name or Path,base,2.8651999999999997,0
+208,Observable Timing Discrepancy,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0

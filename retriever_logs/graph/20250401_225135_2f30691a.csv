@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+358,Improperly Implemented Security Check for Standard,base,3.6399999999999997,0
+325,Missing Cryptographic Step,base,3.6399999999999997,0
+787,Out-of-bounds Write,base,3.302,0
+73,External Control of File Name or Path,base,3.0420000000000007,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+20,Improper Input Validation,class,2.92,0
+208,Observable Timing Discrepancy,Base,2.899934687745783,0
+190,Integer Overflow or Wraparound,base,2.8651999999999997,0
+822,Untrusted Pointer Dereference,base,2.8651999999999997,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+252,Unchecked Return Value,base,3.8038000000000003,0
+410,Insufficient Resource Pool,base,3.6399999999999997,0
+412,Unrestricted Externally Accessible Lock,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.055,0
+689,Permission Race Condition During Resource Copy,compound,3.002,0
+425,Direct Request ('Forced Browsing'),base,2.8651999999999997,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0

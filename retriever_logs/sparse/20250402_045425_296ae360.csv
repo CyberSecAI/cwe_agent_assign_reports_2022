@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,6543.818240236791,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6467.843821975262,unknown
+116,Improper Encoding or Escaping of Output,6406.269639109485,unknown
+789,Memory Allocation with Excessive Size Value,6365.916619730837,unknown
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),6306.453645622732,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,6251.143288595027,unknown
+918,Server-Side Request Forgery (SSRF),6235.2284428864605,unknown
+789,Memory Allocation with Excessive Size Value,6231.347812861963,unknown
+116,Improper Encoding or Escaping of Output,6193.7230770144815,unknown
+770,Allocation of Resources Without Limits or Throttling,6182.044638901705,unknown

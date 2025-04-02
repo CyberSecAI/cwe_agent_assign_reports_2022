@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+330,Use of Insufficiently Random Values,Class,0.7962857350951611
+1004,Sensitive Cookie Without 'HttpOnly' Flag,Variant,0.7807411098551641
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7780178884636453
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,Variant,0.7761717665869039
+1391,Use of Weak Credentials,Class,0.7745079924618532
+319,Cleartext Transmission of Sensitive Information,Base,0.7673691948278345
+784,Reliance on Cookies without Validation and Integrity Checking in a Security Decision,Variant,0.765746946546334
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7645264365888655
+41,Improper Resolution of Path Equivalence,Base,0.762275373631742
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.760123036134477

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+927,Use of Implicit Intent for Sensitive Communication,5186.477639716849,base_query
+863,Incorrect Authorization,4966.350637853347,base_query
+770,Allocation of Resources Without Limits or Throttling,4949.862508400695,base_query
+667,Improper Locking,4867.290475447821,base_query
+639,Authorization Bypass Through User-Controlled Key,4860.1104211648135,base_query

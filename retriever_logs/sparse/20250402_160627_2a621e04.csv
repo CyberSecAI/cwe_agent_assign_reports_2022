@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+226,Sensitive Information in Resource Not Removed Before Reuse,5816.1879379018055,base_query
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5692.67857429169,base_query
+319,Cleartext Transmission of Sensitive Information,5666.092956570107,base_query
+798,Use of Hard-coded Credentials,5645.978913709761,base_query
+1391,Use of Weak Credentials,5524.8954169847475,base_query

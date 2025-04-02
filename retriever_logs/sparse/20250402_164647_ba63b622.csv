@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,4745.586832377777,unknown
+472,External Control of Assumed-Immutable Web Parameter,4707.490987676386,unknown
+807,Reliance on Untrusted Inputs in a Security Decision,4678.298798402755,unknown
+784,Reliance on Cookies without Validation and Integrity Checking in a Security Decision,4646.341375116653,unknown
+425,Direct Request ('Forced Browsing'),4642.205190425573,unknown

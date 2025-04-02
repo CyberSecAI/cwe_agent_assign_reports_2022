@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7556109413901629
+1263,Improper Physical Access Control,Class,0.7539697507122624
+667,Improper Locking,Class,0.7507562467006202
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7493692384721016
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7483775977009426
+653,Improper Isolation or Compartmentalization,Class,0.7434617628239595
+657,Violation of Secure Design Principles,Class,0.736834609465487
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7292693361624698
+131,Incorrect Calculation of Buffer Size,Base,0.72912625125754
+668,Exposure of Resource to Wrong Sphere,Class,0.7289636049336878

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,5753.724993792274,base_query
+639,Authorization Bypass Through User-Controlled Key,5643.137727001162,base_query
+863,Incorrect Authorization,5642.751874361588,base_query
+668,Exposure of Resource to Wrong Sphere,5641.706570719946,base_query
+312,Cleartext Storage of Sensitive Information,5547.072732589066,base_query

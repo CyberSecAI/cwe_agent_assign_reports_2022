@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7812690204180436
+404,Improper Resource Shutdown or Release,Class,0.7753323937792332
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7537063227623156
+833,Deadlock,Base,0.747915953687909
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7455904607778178
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7412890111698234
+799,Improper Control of Interaction Frequency,Class,0.7410069390614318
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7394305252369471
+755,Improper Handling of Exceptional Conditions,Class,0.7393337127542728
+668,Exposure of Resource to Wrong Sphere,Class,0.7386900548531582

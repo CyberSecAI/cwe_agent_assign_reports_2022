@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+73,External Control of File Name or Path,base,4.8204,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,4.329000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,4.212000000000001,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+184,Incomplete List of Disallowed Inputs,base,3.5698000000000003,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.0654000000000003,0
+61,UNIX Symbolic Link (Symlink) Following,compound,3.002,0

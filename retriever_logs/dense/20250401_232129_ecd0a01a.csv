@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1204,Generation of Weak Initialization Vector (IV),Base,0.8183704854064222
+1391,Use of Weak Credentials,Class,0.7944826585559474
+330,Use of Insufficiently Random Values,Class,0.7925973825899041
+294,Authentication Bypass by Capture-replay,Base,0.7748431072732571
+319,Cleartext Transmission of Sensitive Information,Base,0.7720064860542147
+331,Insufficient Entropy,Base,0.771502756966676
+345,Insufficient Verification of Data Authenticity,Class,0.7684599950835521
+203,Observable Discrepancy,Base,0.7656867896033369
+303,Incorrect Implementation of Authentication Algorithm,Base,0.765680483843683
+665,Improper Initialization,Class,0.7655030458062924

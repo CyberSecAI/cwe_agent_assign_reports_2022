@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,4678.631913091507,unknown
+863,Incorrect Authorization,4678.000504787585,unknown
+203,Observable Discrepancy,4674.693117630258,unknown
+208,Observable Timing Discrepancy,4669.045528463607,unknown
+639,Authorization Bypass Through User-Controlled Key,4596.459910559527,unknown

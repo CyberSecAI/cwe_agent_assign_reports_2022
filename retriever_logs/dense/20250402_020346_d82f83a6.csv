@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+366,Race Condition within a Thread,Base,0.7797682066276017
+131,Incorrect Calculation of Buffer Size,Base,0.7753890195421743
+667,Improper Locking,Class,0.7736298691707236
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7703217121040892
+805,Buffer Access with Incorrect Length Value,Base,0.7691104655409019
+125,Out-of-bounds Read,Base,0.7681233112814336
+404,Improper Resource Shutdown or Release,Class,0.7674846629920111
+823,Use of Out-of-range Pointer Offset,Base,0.7648695380374593
+191,Integer Underflow (Wrap or Wraparound),Base,0.76286561888026
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7604811100407851

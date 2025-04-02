@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,4781.530606942444,base_query
+1390,Weak Authentication,4702.725505350952,base_query
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),4698.590025244973,base_query
+287,Improper Authentication,4542.3479615278975,base_query
+301,Reflection Attack in an Authentication Protocol,4498.081238269305,base_query

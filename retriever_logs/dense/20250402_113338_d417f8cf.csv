@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.8033167645144226
+606,Unchecked Input for Loop Condition,Base,0.7736941110325892
+1288,Improper Validation of Consistency within Input,Base,0.773050347175567
+184,Incomplete List of Disallowed Inputs,Base,0.7670626172879715
+183,Permissive List of Allowed Inputs,Base,0.7578007457085325
+134,Use of Externally-Controlled Format String,Base,0.756516815093458
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7544671909592207
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7543126523397502
+138,Improper Neutralization of Special Elements,Class,0.7539210947548197
+1286,Improper Validation of Syntactic Correctness of Input,Base,0.7536019200717526

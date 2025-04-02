@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1391,Use of Weak Credentials,5003.793848427031,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,4963.414842087268,base_query
+1240,Use of a Cryptographic Primitive with a Risky Implementation,4807.2967913612,base_query
+203,Observable Discrepancy,4776.695801800286,base_query
+1390,Weak Authentication,4741.150303616196,base_query

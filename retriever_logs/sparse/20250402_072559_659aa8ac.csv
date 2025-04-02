@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,7760.940615831407,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7666.591038902871,base_query
+306,Missing Authentication for Critical Function,7594.075015345545,base_query
+863,Incorrect Authorization,7567.94255622956,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7559.292767263248,base_query

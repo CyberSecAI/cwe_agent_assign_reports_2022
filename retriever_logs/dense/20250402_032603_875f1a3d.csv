@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7686052920200312
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7684852351071428
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7556815416852098
+799,Improper Control of Interaction Frequency,Class,0.755658887040185
+404,Improper Resource Shutdown or Release,Class,0.751915187851255
+789,Memory Allocation with Excessive Size Value,Variant,0.7510154365316826
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7488744375935161
+405,Asymmetric Resource Consumption (Amplification),Class,0.748858698948861
+41,Improper Resolution of Path Equivalence,Base,0.7467403084377353
+131,Incorrect Calculation of Buffer Size,Base,0.7462226816555576

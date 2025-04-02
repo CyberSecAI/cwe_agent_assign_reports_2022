@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+489,Active Debug Code,base,4.329000000000001,0
+215,Insertion of Sensitive Information Into Debugging Code,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+523,Unprotected Transport of Credentials,base,3.6399999999999997,0
+312,Cleartext Storage of Sensitive Information,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+252,Unchecked Return Value,base,3.055,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.8963515906463493,0
+476,NULL Pointer Dereference,base,2.8651999999999997,0

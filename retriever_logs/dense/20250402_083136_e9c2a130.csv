@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+61,UNIX Symbolic Link (Symlink) Following,Compound,0.8095219216405641
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.802640085157765
+41,Improper Resolution of Path Equivalence,Base,0.7703951430681945
+23,Relative Path Traversal,Base,0.7440527361455898
+667,Improper Locking,Class,0.7413640371295916
+668,Exposure of Resource to Wrong Sphere,Class,0.7407951935087032
+62,UNIX Hard Link,Variant,0.7402130700409728
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7395426579693964
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.739510202077922
+73,External Control of File Name or Path,Base,0.7382923051656187

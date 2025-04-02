@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,4.329000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,2.9005600000000005,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.8949110719872007,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+681,Incorrect Conversion between Numeric Types,base,2.821,0
+770,Allocation of Resources Without Limits or Throttling,base,2.73416,0
+41,Improper Resolution of Path Equivalence,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0

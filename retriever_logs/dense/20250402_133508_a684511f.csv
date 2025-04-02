@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),Base,0.7806408128913435
+330,Use of Insufficiently Random Values,Class,0.7785981238981994
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7571952006389819
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7571512177265363
+331,Insufficient Entropy,Base,0.7481469551819933
+345,Insufficient Verification of Data Authenticity,Class,0.7448712143270619
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7448471618932397
+668,Exposure of Resource to Wrong Sphere,Class,0.7440162556103643
+667,Improper Locking,Class,0.7438963300623676
+203,Observable Discrepancy,Base,0.7418321781060665

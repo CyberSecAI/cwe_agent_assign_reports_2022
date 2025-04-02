@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),Variant,0.7604541933984823
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7500148508135839
+668,Exposure of Resource to Wrong Sphere,Class,0.7479412035522759
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7476748264137796
+138,Improper Neutralization of Special Elements,Class,0.7441596114249514
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7423201388541739
+653,Improper Isolation or Compartmentalization,Class,0.7414136287059592
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7411190981599278
+41,Improper Resolution of Path Equivalence,Base,0.7402391853253785
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7393732805887049

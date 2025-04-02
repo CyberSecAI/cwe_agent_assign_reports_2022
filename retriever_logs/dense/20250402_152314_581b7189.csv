@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+307,Improper Restriction of Excessive Authentication Attempts,Base,0.7672216342333187
+799,Improper Control of Interaction Frequency,Class,0.7604748274135198
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7570205104978618
+274,Improper Handling of Insufficient Privileges,Base,0.7547205293021834
+653,Improper Isolation or Compartmentalization,Class,0.7545091148351364
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7533211080605353
+1220,Insufficient Granularity of Access Control,Base,0.7502815333632915
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7500949426704115
+1390,Weak Authentication,Class,0.7488393035369543
+1263,Improper Physical Access Control,Class,0.747606096485244

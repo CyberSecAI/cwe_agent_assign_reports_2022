@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+170,Improper Null Termination,base,4.329000000000001,0
+193,Off-by-one Error,base,4.329000000000001,0
+617,Reachable Assertion,base,4.329000000000001,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,base,3.6399999999999997,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,3.2760000000000002,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.1356,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,2.8651999999999997,0
+190,Integer Overflow or Wraparound,base,2.8651999999999997,0
+128,Wrap-around Error,base,2.8651999999999997,0

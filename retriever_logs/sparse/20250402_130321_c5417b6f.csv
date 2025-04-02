@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,6547.548556917655,base_query
+1300,Improper Protection of Physical Side Channels,5865.9492579821945,base_query
+863,Incorrect Authorization,5820.718585823695,base_query
+1191,On-Chip Debug and Test Interface With Improper Access Control,5816.409816038179,base_query
+285,Improper Authorization,5740.84418745913,base_query

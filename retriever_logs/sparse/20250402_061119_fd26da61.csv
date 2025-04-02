@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,5942.257996808048,unknown
+770,Allocation of Resources Without Limits or Throttling,5865.671216248297,unknown
+863,Incorrect Authorization,5738.463026434624,unknown
+789,Memory Allocation with Excessive Size Value,5711.91182203123,unknown
+732,Incorrect Permission Assignment for Critical Resource,5678.635449020286,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),5397.615885110062,base_query
+863,Incorrect Authorization,5231.967516025864,base_query
+732,Incorrect Permission Assignment for Critical Resource,5121.041692656419,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5106.866194500293,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,5089.0740315006315,base_query

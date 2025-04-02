@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+499,Serializable Class Containing Sensitive Data,variant,3.8784,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+73,External Control of File Name or Path,base,3.2255600000000006,0
+41,Improper Resolution of Path Equivalence,base,3.1252000000000004,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,base,2.821,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.6784000000000003,0

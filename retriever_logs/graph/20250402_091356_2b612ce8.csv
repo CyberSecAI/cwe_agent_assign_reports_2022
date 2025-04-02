@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,2.7196000000000002,0
+289,Authentication Bypass by Alternate Name,base,2.2100000000000004,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,2.1866000000000003,0
+472,External Control of Assumed-Immutable Web Parameter,Base,2.125702962398676,0
+613,Insufficient Session Expiration,base,2.0930000000000004,0
+1275,Sensitive Cookie with Improper SameSite Attribute,variant,2.04,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.04,0
+433,Unparsed Raw Web Content Delivery,variant,2.04,0
+425,Direct Request ('Forced Browsing'),Base,1.776350247272082,0
+94,Improper Control of Generation of Code ('Code Injection'),base,1.7680000000000005,0

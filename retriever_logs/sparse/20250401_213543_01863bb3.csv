@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,7665.202789781217,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7589.296354961652,unknown
+190,Integer Overflow or Wraparound,7555.681349277861,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7473.309104663933,unknown
+125,Out-of-bounds Read,7423.928322248801,unknown

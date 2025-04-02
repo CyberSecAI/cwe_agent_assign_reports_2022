@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.780348542638345
+345,Insufficient Verification of Data Authenticity,Class,0.7711813232971366
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7701993473471958
+404,Improper Resource Shutdown or Release,Class,0.7694810860027591
+252,Unchecked Return Value,Base,0.7692357534262471
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7670245333689765
+667,Improper Locking,Class,0.7659366649294085
+295,Improper Certificate Validation,Base,0.7653573003174557
+131,Incorrect Calculation of Buffer Size,Base,0.7637926205901251
+668,Exposure of Resource to Wrong Sphere,Class,0.7631481986559778

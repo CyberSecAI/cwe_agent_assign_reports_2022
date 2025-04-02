@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,4298.631039191943,base_query
+347,Improper Verification of Cryptographic Signature,4286.584175824443,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,4169.716109121717,base_query
+287,Improper Authentication,4112.432367583627,base_query
+295,Improper Certificate Validation,4106.0502407660615,base_query

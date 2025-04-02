@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+123,Write-what-where Condition,base,5.031000000000001,0
+415,Double Free,variant,4.39872,0
+364,Signal Handler Race Condition,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+410,Insufficient Resource Pool,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+416,Use After Free,variant,3.888,0
+789,Memory Allocation with Excessive Size Value,variant,3.8784,0
+190,Integer Overflow or Wraparound,base,3.6540400000000006,0

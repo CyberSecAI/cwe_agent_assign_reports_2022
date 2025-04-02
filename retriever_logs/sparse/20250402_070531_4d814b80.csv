@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+782,Exposed IOCTL with Insufficient Access Control,7476.828833874582,base_query
+863,Incorrect Authorization,7230.767702235162,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7170.500465754011,base_query
+285,Improper Authorization,7113.696273910308,base_query
+1284,Improper Validation of Specified Quantity in Input,7046.187970358591,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,8078.864568332862,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,7459.199055564326,base_query
+99,Improper Control of Resource Identifiers ('Resource Injection'),7434.720619522269,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),7403.659274794114,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7336.358080354755,base_query

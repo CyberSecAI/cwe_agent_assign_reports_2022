@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+426,Untrusted Search Path,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+386,Symbolic Name not Mapping to Correct Object,base,2.9005600000000005,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.7907200000000008,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+456,Missing Initialization of a Variable,variant,2.5507200000000005,0
+266,Incorrect Privilege Assignment,Base,2.494195154622258,0
+274,Improper Handling of Insufficient Privileges,Base,2.486957006907383,0
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,2.486516647539224,0

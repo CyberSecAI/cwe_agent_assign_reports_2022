@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+822,Untrusted Pointer Dereference,base,4.329000000000001,0
+823,Use of Out-of-range Pointer Offset,base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+129,Improper Validation of Array Index,variant,3.8784,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.8784,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.1252000000000004,0
+125,Out-of-bounds Read,Base,2.8847247484052074,0

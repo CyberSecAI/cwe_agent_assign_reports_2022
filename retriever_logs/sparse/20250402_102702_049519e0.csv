@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,4853.023324974396,base_query
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,4797.942319329284,base_query
+125,Out-of-bounds Read,4746.282627739531,base_query
+863,Incorrect Authorization,4684.8325632666765,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4661.971602661307,base_query

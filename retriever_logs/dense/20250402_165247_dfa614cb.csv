@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7570239120852775
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7535679922595946
+668,Exposure of Resource to Wrong Sphere,Class,0.7503137430361708
+41,Improper Resolution of Path Equivalence,Base,0.7488089550932377
+789,Memory Allocation with Excessive Size Value,Variant,0.7487763054562278
+404,Improper Resource Shutdown or Release,Class,0.7486819380055464
+617,Reachable Assertion,Base,0.7485132305250604
+674,Uncontrolled Recursion,Class,0.748186607473475
+125,Out-of-bounds Read,Base,0.7481263334726108
+129,Improper Validation of Array Index,Variant,0.7449355967986248

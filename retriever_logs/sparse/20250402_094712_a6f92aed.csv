@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,7914.763354407923,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7776.707260467721,base_query
+916,Use of Password Hash With Insufficient Computational Effort,7548.33140038284,base_query
+184,Incomplete List of Disallowed Inputs,7289.181881343379,base_query
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),7264.1398320616645,base_query

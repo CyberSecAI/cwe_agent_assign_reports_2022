@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),Base,0.8005254963552042
+300,Channel Accessible by Non-Endpoint,Class,0.7828534476944642
+1391,Use of Weak Credentials,Class,0.7648616407417745
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7644952303308208
+319,Cleartext Transmission of Sensitive Information,Base,0.7640105669432877
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.760327738655063
+345,Insufficient Verification of Data Authenticity,Class,0.7582317620806505
+668,Exposure of Resource to Wrong Sphere,Class,0.7551928017161094
+203,Observable Discrepancy,Base,0.7534818807337084
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7523764073538652

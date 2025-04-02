@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5917.874813072159,unknown
+214,Invocation of Process Using Visible Sensitive Information,5773.555281278155,unknown
+863,Incorrect Authorization,5760.837730518327,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5727.11086080033,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5699.563263071717,unknown

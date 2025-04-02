@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,6159.675548960341,base_query
+1007,Insufficient Visual Distinction of Homoglyphs Presented to User,5891.5623918531655,base_query
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),5811.335489846453,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5786.889936799762,base_query
+138,Improper Neutralization of Special Elements,5773.147853873526,base_query

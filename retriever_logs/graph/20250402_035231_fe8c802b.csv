@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+386,Symbolic Name not Mapping to Correct Object,base,4.914000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+184,Incomplete List of Disallowed Inputs,base,3.5698000000000003,0
+416,Use After Free,variant,3.24,0
+73,External Control of File Name or Path,Base,3.1829684006598704,0
+182,Collapse of Data into Unsafe Value,base,3.055,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9128148993482723,0
+363,Race Condition Enabling Link Following,Base,2.8930775629689016,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,2.8651999999999997,0

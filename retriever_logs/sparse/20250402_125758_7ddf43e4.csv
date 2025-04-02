@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7239.573494787246,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),6781.010362580896,base_query
+863,Incorrect Authorization,6236.709276924779,base_query
+1386,Insecure Operation on Windows Junction / Mount Point,6204.2397690026455,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6179.350582870942,base_query

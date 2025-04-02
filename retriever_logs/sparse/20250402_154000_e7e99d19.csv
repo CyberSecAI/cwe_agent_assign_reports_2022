@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5350.448091007079,unknown
+297,Improper Validation of Certificate with Host Mismatch,5143.749003218478,unknown
+941,Incorrectly Specified Destination in a Communication Channel,5095.083602910695,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,4953.8893999044885,unknown
+799,Improper Control of Interaction Frequency,4876.598877033724,unknown

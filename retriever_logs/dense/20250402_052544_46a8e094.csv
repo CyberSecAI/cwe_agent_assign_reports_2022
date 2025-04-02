@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+405,Asymmetric Resource Consumption (Amplification),Class,0.756786539587647
+1176,Inefficient CPU Computation,Class,0.7478759856182012
+407,Inefficient Algorithmic Complexity,Class,0.7399006604104081
+404,Improper Resource Shutdown or Release,Class,0.722591884685335
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7153385614225032
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.715274013682009
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7129492066458906
+799,Improper Control of Interaction Frequency,Class,0.7124008891369229
+653,Improper Isolation or Compartmentalization,Class,0.707586379730402
+41,Improper Resolution of Path Equivalence,Base,0.7075668516215838

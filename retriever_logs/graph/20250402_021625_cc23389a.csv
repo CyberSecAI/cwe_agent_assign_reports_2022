@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,4.329000000000001,0
+226,Sensitive Information in Resource Not Removed Before Reuse,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+183,Permissive List of Allowed Inputs,base,4.2952,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.3308479221764786,0
+184,Incomplete List of Disallowed Inputs,Base,3.2012975459958364,0

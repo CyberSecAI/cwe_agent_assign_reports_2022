@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7768276865744337
+303,Incorrect Implementation of Authentication Algorithm,Base,0.771422182024424
+1390,Weak Authentication,Class,0.7710181417686295
+345,Insufficient Verification of Data Authenticity,Class,0.7702138183639525
+1391,Use of Weak Credentials,Class,0.7691811599300915
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7657062490641493
+41,Improper Resolution of Path Equivalence,Base,0.7644973725545916
+668,Exposure of Resource to Wrong Sphere,Class,0.763134318768971
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.763028320661441
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7601583108660124

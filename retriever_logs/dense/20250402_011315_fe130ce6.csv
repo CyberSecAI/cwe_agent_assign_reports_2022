@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+134,Use of Externally-Controlled Format String,Base,0.7927133899358191
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7647061061615499
+138,Improper Neutralization of Special Elements,Class,0.7612233625803737
+184,Incomplete List of Disallowed Inputs,Base,0.7588986000563535
+73,External Control of File Name or Path,Base,0.7539457014370915
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7516388680131887
+1286,Improper Validation of Syntactic Correctness of Input,Base,0.7456254020915162
+116,Improper Encoding or Escaping of Output,Class,0.7436780023052743
+41,Improper Resolution of Path Equivalence,Base,0.7424803866902966
+125,Out-of-bounds Read,Base,0.7415186013443339

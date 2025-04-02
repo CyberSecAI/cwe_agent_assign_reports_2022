@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7378321179199547
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7324137528778721
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7303659537026733
+691,Insufficient Control Flow Management,Pillar,0.7294511590988132
+41,Improper Resolution of Path Equivalence,Base,0.7207043538205196
+668,Exposure of Resource to Wrong Sphere,Class,0.7186564106077706
+184,Incomplete List of Disallowed Inputs,Base,0.7135900132189243
+138,Improper Neutralization of Special Elements,Class,0.7132496340581111
+274,Improper Handling of Insufficient Privileges,Base,0.7131559605087644
+1220,Insufficient Granularity of Access Control,Base,0.711909497461827

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5622.36199814415,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5541.879944521089,unknown
+415,Double Free,5478.482147330786,unknown
+364,Signal Handler Race Condition,5366.1124114302,unknown
+667,Improper Locking,5287.664920230608,unknown

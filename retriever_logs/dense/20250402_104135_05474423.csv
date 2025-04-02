@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+134,Use of Externally-Controlled Format String,Base,0.7873507796825867
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7832862319402226
+131,Incorrect Calculation of Buffer Size,Base,0.7827945303457864
+668,Exposure of Resource to Wrong Sphere,Class,0.7802915775290484
+345,Insufficient Verification of Data Authenticity,Class,0.7800859478868811
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7798710810854096
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.779736207210137
+755,Improper Handling of Exceptional Conditions,Class,0.7794743071097836
+252,Unchecked Return Value,Base,0.7790198502927396
+667,Improper Locking,Class,0.777073711479357

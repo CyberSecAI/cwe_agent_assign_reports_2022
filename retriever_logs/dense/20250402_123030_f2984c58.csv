@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+274,Improper Handling of Insufficient Privileges,Base,0.7656176340640344
+653,Improper Isolation or Compartmentalization,Class,0.7647839337862935
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7642216529124507
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.762933571363775
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7627198003437454
+345,Insufficient Verification of Data Authenticity,Class,0.7618765883892409
+668,Exposure of Resource to Wrong Sphere,Class,0.7604780060825912
+667,Improper Locking,Class,0.758484109590015
+691,Insufficient Control Flow Management,Pillar,0.7577510023363363
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7560951536016081

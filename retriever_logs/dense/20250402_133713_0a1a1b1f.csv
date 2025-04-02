@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7864066077075061
+1391,Use of Weak Credentials,Class,0.7712229010385185
+330,Use of Insufficiently Random Values,Class,0.761290592951247
+613,Insufficient Session Expiration,Base,0.7549999052119092
+319,Cleartext Transmission of Sensitive Information,Base,0.7512841559078937
+799,Improper Control of Interaction Frequency,Class,0.7494284336848083
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7493059021349058
+404,Improper Resource Shutdown or Release,Class,0.7456069564888063
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7450510689391359
+203,Observable Discrepancy,Base,0.7449108215385765

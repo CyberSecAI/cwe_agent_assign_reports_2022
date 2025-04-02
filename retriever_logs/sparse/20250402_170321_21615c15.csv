@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),5334.456641489327,unknown
+1390,Weak Authentication,5088.463745653986,unknown
+863,Incorrect Authorization,5073.355335886995,unknown
+201,Insertion of Sensitive Information Into Sent Data,5070.09817081875,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5053.247608029931,unknown

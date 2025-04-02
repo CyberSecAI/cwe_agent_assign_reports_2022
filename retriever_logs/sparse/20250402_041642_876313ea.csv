@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+927,Use of Implicit Intent for Sensitive Communication,4922.696372186808,unknown
+863,Incorrect Authorization,4659.714651676758,unknown
+667,Improper Locking,4629.730906282219,unknown
+285,Improper Authorization,4597.634468553909,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4570.008171559544,unknown

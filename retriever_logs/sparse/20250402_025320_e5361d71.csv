@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,5110.108230115096,base_query
+863,Incorrect Authorization,4968.588369069131,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,4944.0966260817295,base_query
+1390,Weak Authentication,4904.429416701937,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4759.180000921083,base_query

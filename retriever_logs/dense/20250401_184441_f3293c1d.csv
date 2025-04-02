@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7762841357785928
+457,Use of Uninitialized Variable,Variant,0.7681202754717025
+665,Improper Initialization,Class,0.7546821321065349
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7446195694177262
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7431746603183707
+138,Improper Neutralization of Special Elements,Class,0.7421350154394116
+184,Incomplete List of Disallowed Inputs,Base,0.7406439067784694
+456,Missing Initialization of a Variable,Variant,0.7354131100805879
+252,Unchecked Return Value,Base,0.7351412960100939
+183,Permissive List of Allowed Inputs,Base,0.7329794059997479

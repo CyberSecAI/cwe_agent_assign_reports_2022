@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,8055.49089840672,unknown
+1284,Improper Validation of Specified Quantity in Input,7854.810390475556,unknown
+863,Incorrect Authorization,7777.541365021377,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7699.3150600142735,unknown
+285,Improper Authorization,7633.597465690751,unknown

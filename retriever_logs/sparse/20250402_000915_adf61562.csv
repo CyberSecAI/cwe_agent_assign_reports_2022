@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5604.980259712977,unknown
+1284,Improper Validation of Specified Quantity in Input,5417.13451383036,unknown
+297,Improper Validation of Certificate with Host Mismatch,5386.8979820010845,unknown
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),5335.8335054061135,unknown
+125,Out-of-bounds Read,5328.180867715799,unknown

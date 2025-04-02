@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,4690.968969380408,unknown
+285,Improper Authorization,4615.179456047881,unknown
+639,Authorization Bypass Through User-Controlled Key,4498.565157685385,unknown
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),4402.825288194256,unknown
+267,Privilege Defined With Unsafe Actions,4375.429182931032,unknown

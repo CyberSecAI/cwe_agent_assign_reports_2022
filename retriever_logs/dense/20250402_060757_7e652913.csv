@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+274,Improper Handling of Insufficient Privileges,Base,0.7668423251854591
+345,Insufficient Verification of Data Authenticity,Class,0.7655886592060276
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7635438490660285
+639,Authorization Bypass Through User-Controlled Key,Base,0.7615892095970137
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7587854793579529
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7579211336019754
+184,Incomplete List of Disallowed Inputs,Base,0.7574756968030132
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7563437541667497
+668,Exposure of Resource to Wrong Sphere,Class,0.7553757839414372
+41,Improper Resolution of Path Equivalence,Base,0.7544350610744982

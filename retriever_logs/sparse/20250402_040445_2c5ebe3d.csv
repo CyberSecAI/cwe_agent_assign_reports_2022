@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,4719.356627489053,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,4702.360399418259,unknown
+125,Out-of-bounds Read,4620.748132140516,unknown
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),4614.99281015523,unknown
+347,Improper Verification of Cryptographic Signature,4535.514305274962,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,5107.992514924631,unknown
+863,Incorrect Authorization,4942.0994092278015,unknown
+732,Incorrect Permission Assignment for Critical Resource,4895.193614437823,unknown
+285,Improper Authorization,4878.181403142092,unknown
+639,Authorization Bypass Through User-Controlled Key,4766.52404918955,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+203,Observable Discrepancy,Base,0.7771821616501615
+345,Insufficient Verification of Data Authenticity,Class,0.777117279342171
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7690308704489037
+668,Exposure of Resource to Wrong Sphere,Class,0.7660617954724316
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7654452061557696
+41,Improper Resolution of Path Equivalence,Base,0.7630289368983213
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7592971533197489
+667,Improper Locking,Class,0.7571572355583576
+23,Relative Path Traversal,Base,0.7571236909467982
+330,Use of Insufficiently Random Values,Class,0.7566401905091744

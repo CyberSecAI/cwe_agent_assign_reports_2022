@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,6506.0875666081765,unknown
+863,Incorrect Authorization,6381.597663784201,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6269.235551010478,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6267.758533302612,unknown
+125,Out-of-bounds Read,6249.785366453733,unknown

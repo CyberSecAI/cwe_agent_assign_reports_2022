@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+358,Improperly Implemented Security Check for Standard,base,3.6399999999999997,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+208,Observable Timing Discrepancy,Base,2.8946909628545012,0
+923,Improper Restriction of Communication Channel to Intended Endpoints,class,2.5519999999999996,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0
+325,Missing Cryptographic Step,Base,2.4781051394292515,0
+916,Use of Password Hash With Insufficient Computational Effort,base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0

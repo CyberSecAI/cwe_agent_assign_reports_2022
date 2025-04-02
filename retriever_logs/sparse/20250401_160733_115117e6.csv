@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),5599.777640740405,base_query
+502,Deserialization of Untrusted Data,5462.169527479547,base_query
+184,Incomplete List of Disallowed Inputs,5360.148965399776,base_query
+116,Improper Encoding or Escaping of Output,5351.126485562671,base_query
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,5293.718143335151,base_query

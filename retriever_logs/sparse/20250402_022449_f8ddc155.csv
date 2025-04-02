@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6962.946513217958,base_query
+125,Out-of-bounds Read,6934.3210722261,base_query
+190,Integer Overflow or Wraparound,6860.340439915372,base_query
+1284,Improper Validation of Specified Quantity in Input,6843.117746865694,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6793.691433956746,base_query

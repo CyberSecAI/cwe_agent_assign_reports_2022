@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+276,Incorrect Default Permissions,Base,0.7647115121989286
+427,Uncontrolled Search Path Element,Base,0.7500956518869728
+668,Exposure of Resource to Wrong Sphere,Class,0.7480143527475005
+73,External Control of File Name or Path,Base,0.7461266876757664
+798,Use of Hard-coded Credentials,Base,0.7444318004276578
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7411455154218628
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7404738880390789
+1391,Use of Weak Credentials,Class,0.7403295276851383
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7402727627489245
+345,Insufficient Verification of Data Authenticity,Class,0.7401939667024525

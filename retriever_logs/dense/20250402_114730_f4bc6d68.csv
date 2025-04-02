@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7978196637179858
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7536653506962173
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7525775020888534
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7519059637007397
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7493916424552477
+131,Incorrect Calculation of Buffer Size,Base,0.7455939937281004
+805,Buffer Access with Incorrect Length Value,Base,0.7451486052462202
+274,Improper Handling of Insufficient Privileges,Base,0.7410490285795008
+41,Improper Resolution of Path Equivalence,Base,0.7405651283295575
+404,Improper Resource Shutdown or Release,Class,0.7401278674578667

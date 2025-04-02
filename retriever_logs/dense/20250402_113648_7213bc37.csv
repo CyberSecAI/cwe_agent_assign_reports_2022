@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+427,Uncontrolled Search Path Element,Base,0.7778148869243589
+405,Asymmetric Resource Consumption (Amplification),Class,0.7662930153751708
+404,Improper Resource Shutdown or Release,Class,0.7647280681602071
+668,Exposure of Resource to Wrong Sphere,Class,0.7636430503704132
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7624267507687209
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7596540882967506
+41,Improper Resolution of Path Equivalence,Base,0.7594057692840294
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7581948095586957
+73,External Control of File Name or Path,Base,0.7572469112914171
+426,Untrusted Search Path,Base,0.7547547910774572

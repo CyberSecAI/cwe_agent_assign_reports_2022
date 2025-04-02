@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7537748260347907
+653,Improper Isolation or Compartmentalization,Class,0.747495070517771
+274,Improper Handling of Insufficient Privileges,Base,0.7449665221414976
+667,Improper Locking,Class,0.7446677485001678
+404,Improper Resource Shutdown or Release,Class,0.7417619103105411
+691,Insufficient Control Flow Management,Pillar,0.7391706966842133
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7390124193544944
+131,Incorrect Calculation of Buffer Size,Base,0.7355979156955321
+125,Out-of-bounds Read,Base,0.7347876477352403
+183,Permissive List of Allowed Inputs,Base,0.7330780129329428

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+457,Use of Uninitialized Variable,Variant,0.8167044047346231
+131,Incorrect Calculation of Buffer Size,Base,0.7840266948534644
+191,Integer Underflow (Wrap or Wraparound),Base,0.782138763970694
+197,Numeric Truncation Error,Base,0.7791806207472805
+805,Buffer Access with Incorrect Length Value,Base,0.77425964866635
+909,Missing Initialization of Resource,Class,0.7715274835402719
+126,Buffer Over-read,Variant,0.7692005655077555
+252,Unchecked Return Value,Base,0.7686151930371348
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7681018980111612
+665,Improper Initialization,Class,0.7677137151839287

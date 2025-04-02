@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+178,Improper Handling of Case Sensitivity,4694.545325442538,base_query
+1390,Weak Authentication,4602.641953969291,base_query
+863,Incorrect Authorization,4509.108226048151,base_query
+287,Improper Authentication,4508.808634163659,base_query
+285,Improper Authorization,4456.8988634019215,base_query

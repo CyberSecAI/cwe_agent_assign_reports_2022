@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,6077.563352049998,unknown
+295,Improper Certificate Validation,6033.438125772341,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5929.242623622312,unknown
+1240,Use of a Cryptographic Primitive with a Risky Implementation,5916.847023642211,unknown
+125,Out-of-bounds Read,5833.6273956804625,unknown

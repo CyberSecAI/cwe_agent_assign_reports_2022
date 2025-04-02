@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,4923.261237892152,unknown
+927,Use of Implicit Intent for Sensitive Communication,4546.073456153207,unknown
+191,Integer Underflow (Wrap or Wraparound),4347.323697795213,unknown
+863,Incorrect Authorization,4342.075429643284,unknown
+203,Observable Discrepancy,4326.39924303421,unknown

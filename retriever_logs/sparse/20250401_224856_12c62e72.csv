@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+126,Buffer Over-read,2988.196548523212,unknown
+617,Reachable Assertion,2973.82117572906,unknown
+1284,Improper Validation of Specified Quantity in Input,2933.26230187619,unknown
+190,Integer Overflow or Wraparound,2839.3988073624105,unknown
+125,Out-of-bounds Read,2739.072276061021,unknown

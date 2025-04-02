@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,5201.4868620527595,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,4866.119919132628,unknown
+476,NULL Pointer Dereference,4766.556997763233,unknown
+125,Out-of-bounds Read,4720.072020672355,unknown
+1342,Information Exposure through Microarchitectural State after Transient Execution,4631.550357334847,unknown

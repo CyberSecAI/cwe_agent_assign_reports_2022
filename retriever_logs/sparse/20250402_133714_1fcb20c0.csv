@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,6500.43612407035,base_query
+1391,Use of Weak Credentials,6289.5333625066305,base_query
+1204,Generation of Weak Initialization Vector (IV),6243.9167603608685,base_query
+1240,Use of a Cryptographic Primitive with a Risky Implementation,6136.8405867976435,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,6103.09948435831,base_query

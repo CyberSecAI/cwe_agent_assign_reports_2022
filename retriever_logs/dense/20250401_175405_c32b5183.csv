@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7621827009698974
+668,Exposure of Resource to Wrong Sphere,Class,0.7596558208590034
+41,Improper Resolution of Path Equivalence,Base,0.7471066642905382
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7419039086527673
+23,Relative Path Traversal,Base,0.7406888606861248
+552,Files or Directories Accessible to External Parties,Base,0.7374873157636128
+73,External Control of File Name or Path,Base,0.7357645159927201
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7355509799361963
+669,Incorrect Resource Transfer Between Spheres,Class,0.7289055225858893
+653,Improper Isolation or Compartmentalization,Class,0.7268930060705626

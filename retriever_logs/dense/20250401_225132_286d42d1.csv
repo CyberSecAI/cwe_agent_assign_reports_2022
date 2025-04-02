@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7717652951666811
+667,Improper Locking,Class,0.7597738976764937
+208,Observable Timing Discrepancy,Base,0.7565235367571327
+345,Insufficient Verification of Data Authenticity,Class,0.7534204322862791
+662,Improper Synchronization,Class,0.7532143963319761
+203,Observable Discrepancy,Base,0.7524614924398372
+404,Improper Resource Shutdown or Release,Class,0.7502382340445085
+330,Use of Insufficiently Random Values,Class,0.7489063620981607
+131,Incorrect Calculation of Buffer Size,Base,0.7483082371403085
+405,Asymmetric Resource Consumption (Amplification),Class,0.7480858901219508

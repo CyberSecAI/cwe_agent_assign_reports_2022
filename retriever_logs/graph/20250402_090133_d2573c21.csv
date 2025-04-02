@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+434,Unrestricted Upload of File with Dangerous Type,base,3.8870000000000005,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,2.9593297689931455,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.7196000000000002,0
+306,Missing Authentication for Critical Function,base,2.3295999999999997,0
+73,External Control of File Name or Path,base,2.2100000000000004,0
+494,Download of Code Without Integrity Check,base,2.2100000000000004,0
+184,Incomplete List of Disallowed Inputs,base,2.2100000000000004,0
+183,Permissive List of Allowed Inputs,base,2.2100000000000004,0
+472,External Control of Assumed-Immutable Web Parameter,Base,2.1351676846364818,0
+425,Direct Request ('Forced Browsing'),Base,2.1337449620478957,0

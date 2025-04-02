@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+404,Improper Resource Shutdown or Release,5527.116044650815,unknown
+863,Incorrect Authorization,5520.513678451511,unknown
+347,Improper Verification of Cryptographic Signature,5459.024100881379,unknown
+770,Allocation of Resources Without Limits or Throttling,5448.793715903183,unknown
+639,Authorization Bypass Through User-Controlled Key,5437.297211731445,unknown

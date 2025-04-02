@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7715198546562356
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7592294028237667
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7546792225970917
+184,Incomplete List of Disallowed Inputs,Base,0.7544860977164702
+138,Improper Neutralization of Special Elements,Class,0.7517306669620285
+116,Improper Encoding or Escaping of Output,Class,0.7500977128316906
+1286,Improper Validation of Syntactic Correctness of Input,Base,0.7492282867785067
+838,Inappropriate Encoding for Output Context,Base,0.7486428228618967
+799,Improper Control of Interaction Frequency,Class,0.7478066148198803
+185,Incorrect Regular Expression,Class,0.7436868234240338

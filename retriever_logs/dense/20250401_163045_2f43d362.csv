@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.796792499259974
+345,Insufficient Verification of Data Authenticity,Class,0.7817404648531039
+667,Improper Locking,Class,0.7683738405312848
+1220,Insufficient Granularity of Access Control,Base,0.7645864146381645
+1263,Improper Physical Access Control,Class,0.7609235863443746
+1285,Improper Validation of Specified Index  Position  or Offset in Input,Base,0.759806271268828
+755,Improper Handling of Exceptional Conditions,Class,0.7587043676353845
+1191,On-Chip Debug and Test Interface With Improper Access Control,Base,0.7570474089202452
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7559124675079056
+404,Improper Resource Shutdown or Release,Class,0.7554863253471805

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+259,Use of Hard-coded Password,5241.058038231241,unknown
+319,Cleartext Transmission of Sensitive Information,5221.182139266496,unknown
+798,Use of Hard-coded Credentials,5162.582262322738,unknown
+611,Improper Restriction of XML External Entity Reference,5139.9287147767955,unknown
+312,Cleartext Storage of Sensitive Information,5015.842568493839,unknown

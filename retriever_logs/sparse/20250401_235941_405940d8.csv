@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5349.822116673975,base_query
+1256,Improper Restriction of Software Interfaces to Hardware Features,5343.123166290063,base_query
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,5195.631944224997,base_query
+863,Incorrect Authorization,5162.512560637825,base_query
+639,Authorization Bypass Through User-Controlled Key,5103.8957935899725,base_query

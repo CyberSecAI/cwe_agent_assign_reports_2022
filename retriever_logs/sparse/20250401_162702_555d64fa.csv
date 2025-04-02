@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6533.253392776886,unknown
+125,Out-of-bounds Read,6497.097451499808,unknown
+476,NULL Pointer Dereference,6374.988170753339,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6363.669164988821,unknown
+754,Improper Check for Unusual or Exceptional Conditions,6290.233160613075,unknown

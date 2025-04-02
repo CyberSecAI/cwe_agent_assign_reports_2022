@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,6145.75190189938,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5902.290182887487,unknown
+347,Improper Verification of Cryptographic Signature,5833.655807565645,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5791.015924309546,unknown
+770,Allocation of Resources Without Limits or Throttling,5712.692858155667,unknown

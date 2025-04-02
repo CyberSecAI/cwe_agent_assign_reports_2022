@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,7600.195369832865,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),7315.786305026219,base_query
+1284,Improper Validation of Specified Quantity in Input,7219.419079162452,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7205.360342152262,base_query
+125,Out-of-bounds Read,7187.504213192038,base_query

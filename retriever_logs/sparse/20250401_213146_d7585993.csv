@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,6319.14862986503,base_query
+941,Incorrectly Specified Destination in a Communication Channel,5914.441273123034,base_query
+1284,Improper Validation of Specified Quantity in Input,5743.741431244877,base_query
+407,Inefficient Algorithmic Complexity,5727.044068825952,base_query
+789,Memory Allocation with Excessive Size Value,5662.347125710594,base_query

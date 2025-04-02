@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5914.735998611825,base_query
+770,Allocation of Resources Without Limits or Throttling,5834.747227732862,base_query
+639,Authorization Bypass Through User-Controlled Key,5809.65846957414,base_query
+1333,Inefficient Regular Expression Complexity,5783.154897978347,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,5778.685886176787,base_query

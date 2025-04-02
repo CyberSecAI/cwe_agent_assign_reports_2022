@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+834,Excessive Iteration,Class,0.7466421048073666
+407,Inefficient Algorithmic Complexity,Class,0.7382511801657146
+606,Unchecked Input for Loop Condition,Base,0.7311985704724718
+667,Improper Locking,Class,0.7279707539388026
+799,Improper Control of Interaction Frequency,Class,0.7265772164735903
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.726064609534008
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),Base,0.7256450969543156
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7247805637173479
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.724606060564276
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7229330291256055

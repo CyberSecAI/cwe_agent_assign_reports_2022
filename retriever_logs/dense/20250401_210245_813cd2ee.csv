@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7668999097224544
+184,Incomplete List of Disallowed Inputs,Base,0.7552903359367622
+138,Improper Neutralization of Special Elements,Class,0.7541780203993288
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.75255256087825
+116,Improper Encoding or Escaping of Output,Class,0.7489788764240133
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),Base,0.7483974024007591
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7478121736941611
+150,Improper Neutralization of Escape  Meta  or Control Sequences,Variant,0.7443792406883262
+73,External Control of File Name or Path,Base,0.7429982507579577
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),Base,0.7422116057730497

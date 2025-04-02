@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,5066.563850976934,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5057.687922921737,unknown
+1390,Weak Authentication,4925.7760562813855,unknown
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),4891.788378290776,unknown
+916,Use of Password Hash With Insufficient Computational Effort,4750.439220086055,unknown

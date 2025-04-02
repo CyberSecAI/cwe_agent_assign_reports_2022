@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),7229.3886693214135,unknown
+125,Out-of-bounds Read,7179.612810082461,unknown
+190,Integer Overflow or Wraparound,7146.055412383204,unknown
+1284,Improper Validation of Specified Quantity in Input,7062.763529192177,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6946.40086437345,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5113.050707385685,unknown
+415,Double Free,5106.864134297753,unknown
+911,Improper Update of Reference Count,5003.022713101032,unknown
+364,Signal Handler Race Condition,4948.70543134169,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4910.922599931754,unknown

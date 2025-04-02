@@ -1,0 +1,70 @@
+{
+  "retriever": "dense",
+  "query": "# Vulnerability Description\n\n    The OMGF WordPress plugin before 4.5.4 does not enforce path validation, authorisation and CSRF checks in the omgf_ajax_empty_dir AJAX action, which allows any authenticated users to delete arbitrary files or folders on the server.\n\n    # Keyphrase-Specific CWE Analysis\n    This vulnerability contains multiple keyphrases that may map to different CWEs. \n    Please analyze each keyphrase separately and determine the most appropriate CWE(s) for each.\n\n    ## WEAKNESS: 'no path validation'\n\nRelevant CWEs for this WEAKNESS:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 301.90)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 276.97)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-23: Relative Path Traversal (Score: 249.64)\n\nThe product uses external input to construct a pathname that should be within a restricted directory, but it does not properly neutralize sequences such as \"..\" that can resolve to a location that is outside of that directory....\n\n### 4. CWE-863: Incorrect Authorization (Score: 245.60)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-425: Direct Request ('Forced Browsing') (Score: 232.43)\n\nThe web application does not adequately enforce appropriate authorization on all restricted URLs, scripts, or files....\n\n## WEAKNESS: 'authorisation bypass'\n\nRelevant CWEs for this WEAKNESS:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 301.90)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 276.97)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-285: Improper Authorization (Score: 246.03)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 4. CWE-863: Incorrect Authorization (Score: 245.60)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-425: Direct Request ('Forced Browsing') (Score: 232.43)\n\nThe web application does not adequately enforce appropriate authorization on all restricted URLs, scripts, or files....\n\n## WEAKNESS: 'CSRF bypass'\n\nRelevant CWEs for this WEAKNESS:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 301.90)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 276.97)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-285: Improper Authorization (Score: 246.03)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 4. CWE-863: Incorrect Authorization (Score: 245.60)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-425: Direct Request ('Forced Browsing') (Score: 232.43)\n\nThe web application does not adequately enforce appropriate authorization on all restricted URLs, scripts, or files....\n\n## IMPACT: 'arbitrary file deletion'\n\nRelevant CWEs for this IMPACT:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 301.90)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 276.97)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-23: Relative Path Traversal (Score: 249.64)\n\nThe product uses external input to construct a pathname that should be within a restricted directory, but it does not properly neutralize sequences such as \"..\" that can resolve to a location that is outside of that directory....\n\n### 4. CWE-863: Incorrect Authorization (Score: 245.60)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-434: Unrestricted Upload of File with Dangerous Type (Score: 83.89)\n\nThe product allows the upload or transfer of dangerous file types that are automatically processed within its environment....\n\n## ATTACKER: 'authenticated users'\n\nRelevant CWEs for this ATTACKER:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 301.90)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 276.97)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-23: Relative Path Traversal (Score: 249.64)\n\nThe product uses external input to construct a pathname that should be within a restricted directory, but it does not properly neutralize sequences such as \"..\" that can resolve to a location that is outside of that directory....\n\n### 4. CWE-285: Improper Authorization (Score: 246.03)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 5. CWE-863: Incorrect Authorization (Score: 245.60)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n## PRODUCT: 'OMGF WordPress plugin'\n\nRelevant CWEs for this PRODUCT:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 301.90)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 276.97)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-285: Improper Authorization (Score: 246.03)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 4. CWE-863: Incorrect Authorization (Score: 245.60)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-425: Direct Request ('Forced Browsing') (Score: 232.43)\n\nThe web application does not adequately enforce appropriate authorization on all restricted URLs, scripts, or files....\n\n## VERSION: 'before 4.5.4'\n\nRelevant CWEs for this VERSION:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 301.90)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 276.97)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-23: Relative Path Traversal (Score: 249.64)\n\nThe product uses external input to construct a pathname that should be within a restricted directory, but it does not properly neutralize sequences such as \"..\" that can resolve to a location that is outside of that directory....\n\n### 4. CWE-285: Improper Authorization (Score: 246.03)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 5. CWE-863: Incorrect Authorization (Score: 245.60)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n## COMPONENT: 'omgf_ajax_empty_dir AJAX action'\n\nRelevant CWEs for this COMPONENT:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 301.90)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 276.97)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-23: Relative Path Traversal (Score: 249.64)\n\nThe product uses external input to construct a pathname that should be within a restricted directory, but it does not properly neutralize sequences such as \"..\" that can resolve to a location that is outside of that directory....\n\n### 4. CWE-285: Improper Authorization (Score: 246.03)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 5. CWE-863: Incorrect Authorization (Score: 245.60)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n\n    # Analysis Instructions\n    1. For each keyphrase, identify the most appropriate CWE(s) that represent the weakness.\n    2. Consider how the different keyphrases might relate to each other in the vulnerability chain.\n    3. Provide a final determination of primary CWE(s) and any secondary CWEs.\n    4. Format your response using the standard analysis template.\n\n    Please analyze how these different weaknesses interact and provide a comprehensive CWE classification.\n    ",
+  "keyphrases": {},
+  "timestamp": "2025-04-02 12:26:54",
+  "cve_id": "unknown",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "425",
+      "name": "Direct Request ('Forced Browsing')",
+      "type": "Base",
+      "score": 0.7367831792542522
+    },
+    {
+      "cwe_id": "472",
+      "name": "External Control of Assumed-Immutable Web Parameter",
+      "type": "Base",
+      "score": 0.7293427239666721
+    },
+    {
+      "cwe_id": "434",
+      "name": "Unrestricted Upload of File with Dangerous Type",
+      "type": "Base",
+      "score": 0.7183438049082171
+    },
+    {
+      "cwe_id": "352",
+      "name": "Cross-Site Request Forgery (CSRF)",
+      "type": "Compound",
+      "score": 0.7114072850472716
+    },
+    {
+      "cwe_id": "639",
+      "name": "Authorization Bypass Through User-Controlled Key",
+      "type": "Base",
+      "score": 0.7090928884213713
+    },
+    {
+      "cwe_id": "41",
+      "name": "Improper Resolution of Path Equivalence",
+      "type": "Base",
+      "score": 0.705826008598537
+    },
+    {
+      "cwe_id": "552",
+      "name": "Files or Directories Accessible to External Parties",
+      "type": "Base",
+      "score": 0.7013747817972449
+    },
+    {
+      "cwe_id": "807",
+      "name": "Reliance on Untrusted Inputs in a Security Decision",
+      "type": "Base",
+      "score": 0.7010536082356319
+    },
+    {
+      "cwe_id": "23",
+      "name": "Relative Path Traversal",
+      "type": "Base",
+      "score": 0.7005722984892933
+    },
+    {
+      "cwe_id": "178",
+      "name": "Improper Handling of Case Sensitivity",
+      "type": "Base",
+      "score": 0.7002105139249557
+    }
+  ]
+}

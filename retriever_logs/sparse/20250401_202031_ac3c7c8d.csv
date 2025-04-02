@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1240,Use of a Cryptographic Primitive with a Risky Implementation,7929.119335432435,unknown
+190,Integer Overflow or Wraparound,7225.33759487403,unknown
+125,Out-of-bounds Read,7161.259001165801,unknown
+193,Off-by-one Error,6918.43345170969,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,6825.050665122597,unknown

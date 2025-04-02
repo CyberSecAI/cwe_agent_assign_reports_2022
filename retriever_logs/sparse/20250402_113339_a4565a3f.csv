@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),7558.170251387494,unknown
+1284,Improper Validation of Specified Quantity in Input,7385.820921830296,unknown
+789,Memory Allocation with Excessive Size Value,7249.521365646491,unknown
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),7177.773323543298,unknown
+770,Allocation of Resources Without Limits or Throttling,7127.256273386207,unknown

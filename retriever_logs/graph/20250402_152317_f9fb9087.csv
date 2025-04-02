@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+259,Use of Hard-coded Password,variant,4.0104,0
+125,Out-of-bounds Read,base,3.8870000000000005,0
+787,Out-of-bounds Write,base,3.8870000000000005,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.055,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,base,2.8651999999999997,0
+1260,Improper Handling of Overlap Between Protected Memory Ranges,base,2.8651999999999997,0
+825,Expired Pointer Dereference,base,2.8651999999999997,0

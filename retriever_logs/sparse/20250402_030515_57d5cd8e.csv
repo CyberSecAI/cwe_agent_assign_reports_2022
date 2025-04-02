@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,4872.800012725466,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,4796.915964797887,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4791.952170366337,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),4770.071402001103,base_query
+61,UNIX Symbolic Link (Symlink) Following,4768.587857536446,base_query

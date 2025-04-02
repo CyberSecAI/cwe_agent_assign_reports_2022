@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7629802824269281
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7531209774197275
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7528816728487795
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7521933224345729
+668,Exposure of Resource to Wrong Sphere,Class,0.7499906050183394
+319,Cleartext Transmission of Sensitive Information,Base,0.7491304349901473
+1391,Use of Weak Credentials,Class,0.7482451671852486
+266,Incorrect Privilege Assignment,Base,0.748241455869023
+267,Privilege Defined With Unsafe Actions,Base,0.7472464574926951
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7472018756421817

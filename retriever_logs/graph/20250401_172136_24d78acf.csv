@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,5.031000000000001,0
+117,Improper Output Neutralization for Logs,base,4.329000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+625,Permissive Regular Expression,base,3.6399999999999997,0
+184,Incomplete List of Disallowed Inputs,Base,3.30498800988439,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.302,0
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),Base,3.2996896533298967,0
+145,Improper Neutralization of Section Delimiters,variant,3.2424,0
+183,Permissive List of Allowed Inputs,base,3.0420000000000007,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.9120000000000004,0

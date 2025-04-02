@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+213,Exposure of Sensitive Information Due to Incompatible Policies,Base,0.77385258804824
+668,Exposure of Resource to Wrong Sphere,Class,0.7674204880159111
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7604897039631553
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7584094174437848
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.757881069990106
+274,Improper Handling of Insufficient Privileges,Base,0.7560878935717896
+653,Improper Isolation or Compartmentalization,Class,0.751066216726541
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.7504261917592403
+267,Privilege Defined With Unsafe Actions,Base,0.7496875701982064
+203,Observable Discrepancy,Base,0.7496186415128998

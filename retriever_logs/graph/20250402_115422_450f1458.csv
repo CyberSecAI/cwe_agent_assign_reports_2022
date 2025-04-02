@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.8870000000000005,0
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),base,3.6399999999999997,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+427,Uncontrolled Search Path Element,base,3.6399999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,base,3.6399999999999997,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+259,Use of Hard-coded Password,variant,4.0104,0
+472,External Control of Assumed-Immutable Web Parameter,base,3.8870000000000005,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.055,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.8651999999999997,0
+208,Observable Timing Discrepancy,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+257,Storing Passwords in a Recoverable Format,Base,2.499205528582023,0
+798,Use of Hard-coded Credentials,Base,2.4877402424931763,0

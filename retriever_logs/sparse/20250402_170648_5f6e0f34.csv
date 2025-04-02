@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,6826.615955498268,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,6133.831940242254,unknown
+863,Incorrect Authorization,6132.6757877710215,unknown
+668,Exposure of Resource to Wrong Sphere,6114.7144635852,unknown
+285,Improper Authorization,5988.1124887628475,unknown

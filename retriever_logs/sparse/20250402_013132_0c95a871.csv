@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,5996.415361266366,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5747.928636496051,unknown
+415,Double Free,5687.707172947002,unknown
+364,Signal Handler Race Condition,5625.449283919481,unknown
+667,Improper Locking,5519.665354715307,unknown

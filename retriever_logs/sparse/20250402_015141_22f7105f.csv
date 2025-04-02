@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6297.176215442833,unknown
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),6288.059435720545,unknown
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),6268.516781761842,unknown
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,5792.695053513926,unknown
+1333,Inefficient Regular Expression Complexity,5773.89301594322,unknown

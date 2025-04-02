@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+297,Improper Validation of Certificate with Host Mismatch,4669.727981132233,unknown
+203,Observable Discrepancy,4659.936603169117,unknown
+295,Improper Certificate Validation,4632.59033113674,unknown
+1385,Missing Origin Validation in WebSockets,4447.147179411304,unknown
+204,Observable Response Discrepancy,4389.6490767639425,unknown

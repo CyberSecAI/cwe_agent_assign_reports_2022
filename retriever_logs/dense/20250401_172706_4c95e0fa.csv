@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7858022524968842
+404,Improper Resource Shutdown or Release,Class,0.7831022640915571
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7830577245405034
+125,Out-of-bounds Read,Base,0.7763439703067305
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.774961535518072
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7717118983445157
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7716069392591005
+131,Incorrect Calculation of Buffer Size,Base,0.7688069591649749
+908,Use of Uninitialized Resource,Base,0.7621917509146041
+41,Improper Resolution of Path Equivalence,Base,0.7604034293803584

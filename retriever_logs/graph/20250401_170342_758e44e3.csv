@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+434,Unrestricted Upload of File with Dangerous Type,base,5.031000000000001,0
+178,Improper Handling of Case Sensitivity,base,4.505800000000001,0
+430,Deployment of Wrong Handler,base,4.3888,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.653,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+351,Insufficient Type Distinction,base,3.6399999999999997,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,base,3.6399999999999997,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+674,Uncontrolled Recursion,Class,0.7912484249514704
+789,Memory Allocation with Excessive Size Value,Variant,0.7892073174638647
+404,Improper Resource Shutdown or Release,Class,0.7813763854276257
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7764516112731862
+405,Asymmetric Resource Consumption (Amplification),Class,0.7731179192657969
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.769785320745217
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7651296542187842
+668,Exposure of Resource to Wrong Sphere,Class,0.7550038496608789
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),Base,0.7518811937220875
+407,Inefficient Algorithmic Complexity,Class,0.750057840134894

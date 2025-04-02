@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7895410470515302
+625,Permissive Regular Expression,Base,0.7885515881801997
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7812979623956395
+23,Relative Path Traversal,Base,0.7714923259638776
+184,Incomplete List of Disallowed Inputs,Base,0.7693816022256665
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.762902101972174
+668,Exposure of Resource to Wrong Sphere,Class,0.7619644579355056
+185,Incorrect Regular Expression,Class,0.7597285324243317
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7568022274418996
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7540765373630615

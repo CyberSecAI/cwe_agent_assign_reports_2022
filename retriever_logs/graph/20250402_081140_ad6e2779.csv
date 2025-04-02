@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+73,External Control of File Name or Path,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+822,Untrusted Pointer Dereference,base,4.329000000000001,0
+681,Incorrect Conversion between Numeric Types,base,4.329000000000001,0
+123,Write-what-where Condition,base,3.8870000000000005,0
+789,Memory Allocation with Excessive Size Value,variant,3.8784,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.8784,0

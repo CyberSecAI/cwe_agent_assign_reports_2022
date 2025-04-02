@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,4.212000000000001,0
+252,Unchecked Return Value,base,3.8038000000000003,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+266,Incorrect Privilege Assignment,base,3.6399999999999997,0
+61,UNIX Symbolic Link (Symlink) Following,compound,3.002,0
+41,Improper Resolution of Path Equivalence,base,2.9941600000000004,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+911,Improper Update of Reference Count,base,2.8651999999999997,0

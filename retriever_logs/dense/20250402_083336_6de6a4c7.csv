@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7552444582374449
+407,Inefficient Algorithmic Complexity,Class,0.7545310999357628
+799,Improper Control of Interaction Frequency,Class,0.7482758123186288
+668,Exposure of Resource to Wrong Sphere,Class,0.7462854326171728
+427,Uncontrolled Search Path Element,Base,0.7461769900037357
+625,Permissive Regular Expression,Base,0.7448308878615791
+23,Relative Path Traversal,Base,0.744643859801881
+330,Use of Insufficiently Random Values,Class,0.7438852311043531
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7414419820089411
+73,External Control of File Name or Path,Base,0.7383521212075366

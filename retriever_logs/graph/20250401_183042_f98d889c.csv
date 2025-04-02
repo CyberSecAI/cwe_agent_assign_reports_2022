@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+94,Improper Control of Generation of Code ('Code Injection'),base,3.653,0
+798,Use of Hard-coded Credentials,base,3.6399999999999997,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9090173044594,0
+73,External Control of File Name or Path,Base,2.9059176349421834,0
+41,Improper Resolution of Path Equivalence,Base,2.9008525561144283,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.73416,0
+363,Race Condition Enabling Link Following,base,2.73416,0

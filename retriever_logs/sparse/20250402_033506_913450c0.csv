@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,5292.5080178911985,base_query
+319,Cleartext Transmission of Sensitive Information,5278.67788260027,base_query
+203,Observable Discrepancy,5059.307902293295,base_query
+1240,Use of a Cryptographic Primitive with a Risky Implementation,5020.692567187676,base_query
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),5002.900559792045,base_query

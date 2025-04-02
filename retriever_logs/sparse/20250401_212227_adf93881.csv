@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+259,Use of Hard-coded Password,7275.991192683239,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),7258.016067896195,base_query
+770,Allocation of Resources Without Limits or Throttling,7207.284283185488,base_query
+798,Use of Hard-coded Credentials,7193.546241362707,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7167.367914850864,base_query

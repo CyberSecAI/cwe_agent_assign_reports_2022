@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+208,Observable Timing Discrepancy,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+787,Out-of-bounds Write,base,3.302,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+20,Improper Input Validation,class,2.92,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.9048939063195727,0
+131,Incorrect Calculation of Buffer Size,Base,2.901606625412546,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+190,Integer Overflow or Wraparound,base,2.8651999999999997,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+364,Signal Handler Race Condition,7394.970926002608,base_query
+667,Improper Locking,6641.925293466505,base_query
+662,Improper Synchronization,6508.712705739681,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6456.20781259937,base_query
+415,Double Free,6265.008492613557,base_query

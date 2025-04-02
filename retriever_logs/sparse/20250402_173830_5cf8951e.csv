@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,8735.767155031022,unknown
+451,User Interface (UI) Misrepresentation of Critical Information,8328.685858860961,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7997.818701957291,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7753.8659504879115,unknown
+125,Out-of-bounds Read,7730.864383560629,unknown

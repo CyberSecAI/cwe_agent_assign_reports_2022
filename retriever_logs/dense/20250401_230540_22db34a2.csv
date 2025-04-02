@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1220,Insufficient Granularity of Access Control,Base,0.7658372052817833
+274,Improper Handling of Insufficient Privileges,Base,0.7642862420024636
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7605964817793114
+653,Improper Isolation or Compartmentalization,Class,0.759512604209025
+668,Exposure of Resource to Wrong Sphere,Class,0.7570770515178513
+639,Authorization Bypass Through User-Controlled Key,Base,0.7531939529313579
+41,Improper Resolution of Path Equivalence,Base,0.7512581532697297
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7508695442266692
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7508680061310938
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7505364481990426

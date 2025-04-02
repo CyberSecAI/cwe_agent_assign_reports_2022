@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.1184,0
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+358,Improperly Implemented Security Check for Standard,base,3.6399999999999997,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+325,Missing Cryptographic Step,Base,2.491338505364807,0
+798,Use of Hard-coded Credentials,Base,2.480457281674071,0
+392,Missing Report of Error Condition,base,2.3295999999999997,0
+472,External Control of Assumed-Immutable Web Parameter,base,2.2921600000000004,0
+190,Integer Overflow or Wraparound,base,2.2698,0

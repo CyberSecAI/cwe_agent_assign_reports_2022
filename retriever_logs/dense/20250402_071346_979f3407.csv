@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+129,Improper Validation of Array Index,Variant,0.736708153561756
+131,Incorrect Calculation of Buffer Size,Base,0.7356542914033473
+330,Use of Insufficiently Random Values,Class,0.7212304262041063
+407,Inefficient Algorithmic Complexity,Class,0.7209202478321605
+824,Access of Uninitialized Pointer,Base,0.7189807183624812
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7187442885102484
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7184986718302784
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7176997676358281
+134,Use of Externally-Controlled Format String,Base,0.71765454382304
+191,Integer Underflow (Wrap or Wraparound),Base,0.7175419717655644

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,5949.073215911895,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5917.9730183367465,base_query
+863,Incorrect Authorization,5890.042126833618,base_query
+639,Authorization Bypass Through User-Controlled Key,5793.499776548266,base_query
+285,Improper Authorization,5734.612005950577,base_query

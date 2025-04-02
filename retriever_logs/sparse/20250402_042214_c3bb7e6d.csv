@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+284,Improper Access Control,6812.417808087509,unknown
+20,Improper Input Validation,6504.930242211129,unknown
+190,Integer Overflow or Wraparound,6332.360467329027,unknown
+125,Out-of-bounds Read,5824.566429888957,unknown
+94,Improper Control of Generation of Code ('Code Injection'),5760.72606503583,unknown

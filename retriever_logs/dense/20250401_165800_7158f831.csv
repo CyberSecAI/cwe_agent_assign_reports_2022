@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+682,Incorrect Calculation,Pillar,0.7773022044956628
+131,Incorrect Calculation of Buffer Size,Base,0.7688394451224001
+667,Improper Locking,Class,0.7617715790133561
+909,Missing Initialization of Resource,Class,0.7601225594737868
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.75993263754701
+193,Off-by-one Error,Base,0.7592228049022368
+665,Improper Initialization,Class,0.7569423715121539
+404,Improper Resource Shutdown or Release,Class,0.756925040398525
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.755825350721481
+197,Numeric Truncation Error,Base,0.755079895896935

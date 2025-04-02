@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,7610.235566715951,unknown
+116,Improper Encoding or Escaping of Output,7245.078420938536,unknown
+1284,Improper Validation of Specified Quantity in Input,6846.276099897995,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6801.549631233113,unknown
+863,Incorrect Authorization,6744.822966150231,unknown

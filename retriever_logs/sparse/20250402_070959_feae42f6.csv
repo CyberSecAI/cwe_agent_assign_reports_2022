@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,5131.163802309422,unknown
+319,Cleartext Transmission of Sensitive Information,5113.252512063317,unknown
+639,Authorization Bypass Through User-Controlled Key,4935.628233177426,unknown
+306,Missing Authentication for Critical Function,4931.284021519164,unknown
+347,Improper Verification of Cryptographic Signature,4927.499369500675,unknown

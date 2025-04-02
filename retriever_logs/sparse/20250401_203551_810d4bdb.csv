@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,5043.333149258344,base_query
+1325,Improperly Controlled Sequential Memory Allocation,4698.904481556295,base_query
+248,Uncaught Exception,4682.046649940796,base_query
+617,Reachable Assertion,4548.215098080981,base_query
+476,NULL Pointer Dereference,4524.468835577266,base_query

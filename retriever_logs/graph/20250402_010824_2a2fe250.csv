@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+73,External Control of File Name or Path,Base,3.203049742719162,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.919063882936465,0
+41,Improper Resolution of Path Equivalence,Base,2.9071760164531275,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+911,Improper Update of Reference Count,base,2.8651999999999997,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.73416,0
+363,Race Condition Enabling Link Following,base,2.73416,0
+826,Premature Release of Resource During Expected Lifetime,base,2.73416,0

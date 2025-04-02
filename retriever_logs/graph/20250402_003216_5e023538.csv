@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.0104,0
+523,Unprotected Transport of Credentials,base,3.6399999999999997,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.7142244878959914,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+312,Cleartext Storage of Sensitive Information,Base,2.503690014947116,0
+798,Use of Hard-coded Credentials,Base,2.498662319864159,0
+257,Storing Passwords in a Recoverable Format,Base,2.4979361030851996,0
+532,Insertion of Sensitive Information into Log File,base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0

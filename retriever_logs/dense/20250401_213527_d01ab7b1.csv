@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7727909427541099
+668,Exposure of Resource to Wrong Sphere,Class,0.771724507870384
+274,Improper Handling of Insufficient Privileges,Base,0.7694263681243889
+266,Incorrect Privilege Assignment,Base,0.7675264754575275
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7638661105204091
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7625317665729138
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7610429637806386
+267,Privilege Defined With Unsafe Actions,Base,0.7583333612953673
+639,Authorization Bypass Through User-Controlled Key,Base,0.7576538921359471
+41,Improper Resolution of Path Equivalence,Base,0.7572402371951396

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.329000000000001,0
+825,Expired Pointer Dereference,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,4.329000000000001,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.8784,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.7507200000000003,0
+126,Buffer Over-read,variant,3.2544,0
+124,Buffer Underwrite ('Buffer Underflow'),base,2.9146000000000005,0
+822,Untrusted Pointer Dereference,Base,2.9140476871673338,0
+252,Unchecked Return Value,Base,2.912972437989666,0

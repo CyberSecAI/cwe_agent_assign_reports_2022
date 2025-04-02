@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+407,Inefficient Algorithmic Complexity,Class,0.7753774303578682
+799,Improper Control of Interaction Frequency,Class,0.7348757916803103
+405,Asymmetric Resource Consumption (Amplification),Class,0.7337397448452581
+1176,Inefficient CPU Computation,Class,0.7330395751017537
+668,Exposure of Resource to Wrong Sphere,Class,0.7289076718681813
+41,Improper Resolution of Path Equivalence,Base,0.7284305031277616
+1333,Inefficient Regular Expression Complexity,Base,0.7277309380057617
+625,Permissive Regular Expression,Base,0.7262014426550687
+129,Improper Validation of Array Index,Variant,0.7240637440412238
+138,Improper Neutralization of Special Elements,Class,0.722285356030635

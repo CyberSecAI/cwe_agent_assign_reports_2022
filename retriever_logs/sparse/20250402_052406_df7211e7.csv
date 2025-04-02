@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,7499.775080163773,unknown
+99,Improper Control of Resource Identifiers ('Resource Injection'),7145.089678074005,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7014.306835806698,unknown
+427,Uncontrolled Search Path Element,6949.300294176497,unknown
+863,Incorrect Authorization,6947.976495312435,unknown

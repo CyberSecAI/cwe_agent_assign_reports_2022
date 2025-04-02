@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+325,Missing Cryptographic Step,base,3.1018000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.6784000000000003,0
+923,Improper Restriction of Communication Channel to Intended Endpoints,class,2.5519999999999996,0
+295,Improper Certificate Validation,Base,2.4925078405032624,0
+1188,Initialization of a Resource with an Insecure Default,base,2.4699999999999998,0
+494,Download of Code Without Integrity Check,base,2.4699999999999998,0
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0

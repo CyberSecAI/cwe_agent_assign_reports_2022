@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+259,Use of Hard-coded Password,variant,4.0104,0
+836,Use of Password Hash Instead of Password for Authentication,base,3.6399999999999997,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),base,3.6399999999999997,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.6399999999999997,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,2.8651999999999997,0
+770,Allocation of Resources Without Limits or Throttling,base,2.8651999999999997,0
+123,Write-what-where Condition,base,2.7014000000000005,0

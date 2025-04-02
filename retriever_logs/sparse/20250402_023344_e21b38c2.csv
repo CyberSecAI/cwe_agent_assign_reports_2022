@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5969.284080432922,unknown
+297,Improper Validation of Certificate with Host Mismatch,5834.925141970782,unknown
+125,Out-of-bounds Read,5763.478804806639,unknown
+1284,Improper Validation of Specified Quantity in Input,5753.4747070502835,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5684.720592601386,unknown

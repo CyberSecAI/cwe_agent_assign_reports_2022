@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7756081183280039
+606,Unchecked Input for Loop Condition,Base,0.7601507830789085
+805,Buffer Access with Incorrect Length Value,Base,0.7568582558551284
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7547896733894258
+1288,Improper Validation of Consistency within Input,Base,0.7535724135384997
+131,Incorrect Calculation of Buffer Size,Base,0.7523732822577748
+184,Incomplete List of Disallowed Inputs,Base,0.7508905966982276
+125,Out-of-bounds Read,Base,0.7484063495473628
+191,Integer Underflow (Wrap or Wraparound),Base,0.7477327050417463
+126,Buffer Over-read,Variant,0.7427250273923358

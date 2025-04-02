@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7679553080257303
+404,Improper Resource Shutdown or Release,Class,0.7657038090332194
+41,Improper Resolution of Path Equivalence,Base,0.7629118452440088
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7627512723283916
+667,Improper Locking,Class,0.7623908754613842
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7588059104067113
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7582314595773736
+23,Relative Path Traversal,Base,0.7517023569812855
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7488568705640393
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7483114460764992

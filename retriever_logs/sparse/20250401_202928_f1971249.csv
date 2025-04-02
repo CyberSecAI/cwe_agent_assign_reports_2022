@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5263.352682609951,base_query
+863,Incorrect Authorization,4982.5598265356975,base_query
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,4942.517099142601,base_query
+125,Out-of-bounds Read,4892.059887223588,base_query
+285,Improper Authorization,4875.684998136993,base_query

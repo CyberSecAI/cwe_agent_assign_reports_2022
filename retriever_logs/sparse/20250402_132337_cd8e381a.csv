@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,5322.814366814441,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5109.725300542555,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5075.3397307528385,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5059.024216716888,unknown
+125,Out-of-bounds Read,5033.951600985658,unknown

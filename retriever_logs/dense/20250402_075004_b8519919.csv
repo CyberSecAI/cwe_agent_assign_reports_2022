@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+602,Client-Side Enforcement of Server-Side Security,Class,0.7962206023650095
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.770036925298363
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7647275894048228
+184,Incomplete List of Disallowed Inputs,Base,0.7625676931916869
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7562683920723541
+41,Improper Resolution of Path Equivalence,Base,0.7467444356189246
+603,Use of Client-Side Authentication,Base,0.7423679786306214
+73,External Control of File Name or Path,Base,0.7404215026170464
+639,Authorization Bypass Through User-Controlled Key,Base,0.7391449858610407
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7390047490143535

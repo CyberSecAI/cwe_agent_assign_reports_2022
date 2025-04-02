@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,6555.849211929492,unknown
+1333,Inefficient Regular Expression Complexity,6458.183586914905,unknown
+863,Incorrect Authorization,6344.0026671376245,unknown
+789,Memory Allocation with Excessive Size Value,6335.148683493566,unknown
+116,Improper Encoding or Escaping of Output,6326.680856181842,unknown

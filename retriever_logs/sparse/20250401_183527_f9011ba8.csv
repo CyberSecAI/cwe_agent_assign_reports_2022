@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,5759.576385444822,unknown
+770,Allocation of Resources Without Limits or Throttling,5683.273780537004,unknown
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),5470.334180181349,unknown
+674,Uncontrolled Recursion,5420.068783839589,unknown
+1325,Improperly Controlled Sequential Memory Allocation,5406.308522703236,unknown

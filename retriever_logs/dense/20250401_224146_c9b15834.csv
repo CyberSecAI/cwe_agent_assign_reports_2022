@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7675136548850211
+668,Exposure of Resource to Wrong Sphere,Class,0.7659307960107705
+404,Improper Resource Shutdown or Release,Class,0.7628955138835959
+345,Insufficient Verification of Data Authenticity,Class,0.7624593014876319
+274,Improper Handling of Insufficient Privileges,Base,0.7586617656056058
+657,Violation of Secure Design Principles,Class,0.7557095390288839
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7549639180594331
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7494616658982065
+653,Improper Isolation or Compartmentalization,Class,0.7485682239560436
+667,Improper Locking,Class,0.7483803456191095

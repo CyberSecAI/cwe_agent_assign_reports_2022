@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+799,Improper Control of Interaction Frequency,5227.347564116542,base_query
+125,Out-of-bounds Read,5224.817470130878,base_query
+1284,Improper Validation of Specified Quantity in Input,5209.6345230765,base_query
+190,Integer Overflow or Wraparound,5208.878663522034,base_query
+770,Allocation of Resources Without Limits or Throttling,5200.452600679092,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+799,Improper Control of Interaction Frequency,Class,0.7897211324224549
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7758854424182962
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7512650899616619
+1220,Insufficient Granularity of Access Control,Base,0.7434224789443737
+565,Reliance on Cookies without Validation and Integrity Checking,Base,0.7365628816470212
+653,Improper Isolation or Compartmentalization,Class,0.7359383948508053
+274,Improper Handling of Insufficient Privileges,Base,0.7356682802223263
+784,Reliance on Cookies without Validation and Integrity Checking in a Security Decision,Variant,0.735161695722488
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7331557042768408
+307,Improper Restriction of Excessive Authentication Attempts,Base,0.7320675578141324

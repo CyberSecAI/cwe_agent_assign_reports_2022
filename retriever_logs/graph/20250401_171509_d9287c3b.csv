@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+208,Observable Timing Discrepancy,base,4.329000000000001,0
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+259,Use of Hard-coded Password,variant,4.0104,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,base,3.1252000000000004,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+73,External Control of File Name or Path,base,2.7014000000000005,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7779664696392865
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7775139430661908
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7737663140210522
+1390,Weak Authentication,Class,0.7725524911883636
+289,Authentication Bypass by Alternate Name,Base,0.7666301471550625
+1391,Use of Weak Credentials,Class,0.765238973461165
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7651335605354963
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7626178806680556
+41,Improper Resolution of Path Equivalence,Base,0.7592769049832405
+668,Exposure of Resource to Wrong Sphere,Class,0.7581120150723406

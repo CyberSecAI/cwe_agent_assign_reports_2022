@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7906081708679227
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.788428730677712
+183,Permissive List of Allowed Inputs,Base,0.760920234041904
+184,Incomplete List of Disallowed Inputs,Base,0.7601942998537599
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7572806544582819
+274,Improper Handling of Insufficient Privileges,Base,0.756625985400071
+179,Incorrect Behavior Order: Early Validation,Base,0.753182435616911
+1391,Use of Weak Credentials,Class,0.7518228128213005
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.751799328551908
+41,Improper Resolution of Path Equivalence,Base,0.7493086964689624

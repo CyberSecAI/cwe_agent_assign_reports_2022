@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+356,Product UI does not Warn User of Unsafe Actions,Base,0.7681446992673464
+653,Improper Isolation or Compartmentalization,Class,0.7642251080994571
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7619597026752541
+184,Incomplete List of Disallowed Inputs,Base,0.7617157402675848
+667,Improper Locking,Class,0.7603287311531408
+274,Improper Handling of Insufficient Privileges,Base,0.7571574370985221
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7565352844439366
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7550524450339692
+404,Improper Resource Shutdown or Release,Class,0.7543489318123481
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.754346385742325

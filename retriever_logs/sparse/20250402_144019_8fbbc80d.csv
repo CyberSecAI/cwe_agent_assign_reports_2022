@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,6565.982761818155,unknown
+116,Improper Encoding or Escaping of Output,6211.909242700384,unknown
+297,Improper Validation of Certificate with Host Mismatch,6154.448443463841,unknown
+319,Cleartext Transmission of Sensitive Information,6138.846922427152,unknown
+300,Channel Accessible by Non-Endpoint,6111.715049346303,unknown

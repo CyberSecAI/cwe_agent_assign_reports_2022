@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7654837735671245
+41,Improper Resolution of Path Equivalence,Base,0.7591203025535778
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7578790693340957
+73,External Control of File Name or Path,Base,0.7574801531804156
+184,Incomplete List of Disallowed Inputs,Base,0.7503325587906223
+330,Use of Insufficiently Random Values,Class,0.7465002617281169
+427,Uncontrolled Search Path Element,Base,0.7451458998325912
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7437292966566591
+23,Relative Path Traversal,Base,0.7414757129511116
+116,Improper Encoding or Escaping of Output,Class,0.7388404663954794

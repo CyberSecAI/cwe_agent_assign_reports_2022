@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,7068.264836319957,base_query
+116,Improper Encoding or Escaping of Output,6533.306560220447,base_query
+863,Incorrect Authorization,6319.706509109777,base_query
+125,Out-of-bounds Read,6255.988702629872,base_query
+668,Exposure of Resource to Wrong Sphere,6206.552845530742,base_query

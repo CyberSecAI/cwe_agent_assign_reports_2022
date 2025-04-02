@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+328,Use of Weak Hash,5723.372741975033,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5522.145670580933,base_query
+863,Incorrect Authorization,5382.5705071777,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5325.209649500544,base_query
+639,Authorization Bypass Through User-Controlled Key,5301.646979747032,base_query

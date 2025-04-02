@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7757850923778475
+667,Improper Locking,Class,0.7553436658085171
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7498097147220247
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7413413415232746
+833,Deadlock,Base,0.7344757968217124
+772,Missing Release of Resource after Effective Lifetime,Base,0.7327640761364008
+775,Missing Release of File Descriptor or Handle after Effective Lifetime,Variant,0.7296271717462444
+413,Improper Resource Locking,Base,0.728537034630095
+405,Asymmetric Resource Consumption (Amplification),Class,0.7220368143591691
+668,Exposure of Resource to Wrong Sphere,Class,0.7192969979522419

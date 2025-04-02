@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6995.680346746205,base_query
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),6906.745799234785,base_query
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),6624.4644516724575,base_query
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),6619.306176616764,base_query
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),6485.869730334097,base_query

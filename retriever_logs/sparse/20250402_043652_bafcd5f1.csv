@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,5938.039843267533,unknown
+667,Improper Locking,5149.41962394657,unknown
+927,Use of Implicit Intent for Sensitive Communication,5138.056595384974,unknown
+863,Incorrect Authorization,5125.6687967680755,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5083.5224678050145,unknown

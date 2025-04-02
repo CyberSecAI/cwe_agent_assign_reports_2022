@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,6715.592458616401,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6707.811217579611,base_query
+434,Unrestricted Upload of File with Dangerous Type,6699.404410400537,base_query
+863,Incorrect Authorization,6639.03191233708,base_query
+285,Improper Authorization,6530.68281835995,base_query

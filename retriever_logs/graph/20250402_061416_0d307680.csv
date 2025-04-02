@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,5.213,0
+41,Improper Resolution of Path Equivalence,Base,2.8983150495049097,0
+190,Integer Overflow or Wraparound,base,2.8651999999999997,0
+129,Improper Validation of Array Index,variant,2.6784000000000003,0
+20,Improper Input Validation,class,2.5519999999999996,0
+36,Absolute Path Traversal,base,2.4699999999999998,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,2.4699999999999998,0
+170,Improper Null Termination,base,2.4232000000000005,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,2.4232000000000005,0
+823,Use of Out-of-range Pointer Offset,base,2.4232000000000005,0

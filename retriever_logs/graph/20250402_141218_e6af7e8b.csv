@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+125,Out-of-bounds Read,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+126,Buffer Over-read,variant,3.4704,0
+456,Missing Initialization of a Variable,variant,3.24,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.24,0
+822,Untrusted Pointer Dereference,Base,2.9273272813094917,0
+476,NULL Pointer Dereference,Base,2.915824450172213,0
+824,Access of Uninitialized Pointer,Base,2.9143659608126846,0
+73,External Control of File Name or Path,base,2.9109600000000007,0
+823,Use of Out-of-range Pointer Offset,Base,2.908938091204668,0

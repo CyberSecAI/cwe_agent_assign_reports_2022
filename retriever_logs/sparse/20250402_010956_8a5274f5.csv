@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6584.573791852019,base_query
+203,Observable Discrepancy,6539.03860895723,base_query
+347,Improper Verification of Cryptographic Signature,6295.20387906338,base_query
+208,Observable Timing Discrepancy,6184.852007893724,base_query
+125,Out-of-bounds Read,6184.477173152308,base_query

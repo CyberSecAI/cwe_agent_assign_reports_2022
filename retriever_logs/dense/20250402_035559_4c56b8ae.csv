@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+824,Access of Uninitialized Pointer,Base,0.7832436354122669
+191,Integer Underflow (Wrap or Wraparound),Base,0.763886157595531
+617,Reachable Assertion,Base,0.7607628853757016
+131,Incorrect Calculation of Buffer Size,Base,0.7595779979353211
+125,Out-of-bounds Read,Base,0.7580352738897926
+667,Improper Locking,Class,0.757184929213564
+193,Off-by-one Error,Base,0.7534764515284514
+606,Unchecked Input for Loop Condition,Base,0.7530344961270744
+476,NULL Pointer Dereference,Base,0.7527429796217564
+252,Unchecked Return Value,Base,0.7525526019783926

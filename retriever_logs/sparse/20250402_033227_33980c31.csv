@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,6700.4153670114065,base_query
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),6537.563513139,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6529.227922344061,base_query
+427,Uncontrolled Search Path Element,6489.116524248143,base_query
+138,Improper Neutralization of Special Elements,6472.298555106991,base_query

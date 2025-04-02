@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+170,Improper Null Termination,base,4.329000000000001,0
+839,Numeric Range Comparison Without Minimum Check,base,4.329000000000001,0
+124,Buffer Underwrite ('Buffer Underflow'),base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.212000000000001,0
+288,Authentication Bypass Using an Alternate Path or Channel,base,3.6399999999999997,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,3.5671999999999997,0
+128,Wrap-around Error,base,3.5671999999999997,0

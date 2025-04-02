@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7872669670375876
+184,Incomplete List of Disallowed Inputs,Base,0.7819183861995318
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7811964182708582
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7761927390308019
+73,External Control of File Name or Path,Base,0.7748557261126494
+41,Improper Resolution of Path Equivalence,Base,0.7740760066993129
+138,Improper Neutralization of Special Elements,Class,0.7715605785439623
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7696140236997577
+667,Improper Locking,Class,0.7683872991632477
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7651072216827107

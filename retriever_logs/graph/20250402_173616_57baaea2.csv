@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+259,Use of Hard-coded Password,variant,3.11472,0
+321,Use of Hard-coded Cryptographic Key,variant,2.68272,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+287,Improper Authentication,class,2.5519999999999996,0
+257,Storing Passwords in a Recoverable Format,Base,2.481809146729731,0
+256,Plaintext Storage of a Password,base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+480,Use of Incorrect Operator,base,2.3998000000000004,0

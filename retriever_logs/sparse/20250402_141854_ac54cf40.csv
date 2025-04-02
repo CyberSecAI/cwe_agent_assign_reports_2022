@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+668,Exposure of Resource to Wrong Sphere,5932.728189621531,base_query
+863,Incorrect Authorization,5901.696191730435,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5849.99652945708,base_query
+639,Authorization Bypass Through User-Controlled Key,5841.913842548759,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5802.44704059275,base_query

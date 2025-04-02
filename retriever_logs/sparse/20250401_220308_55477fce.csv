@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5258.645904464262,base_query
+668,Exposure of Resource to Wrong Sphere,5147.706260476978,base_query
+427,Uncontrolled Search Path Element,5100.559262177683,base_query
+61,UNIX Symbolic Link (Symlink) Following,5058.9110899828875,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),4991.92142444877,base_query

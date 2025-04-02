@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7725260256443823
+668,Exposure of Resource to Wrong Sphere,Class,0.7537595151149936
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7529151786167659
+404,Improper Resource Shutdown or Release,Class,0.751206974134174
+41,Improper Resolution of Path Equivalence,Base,0.7469142224520228
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7468852594141476
+665,Improper Initialization,Class,0.7467008710074146
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7453468045307099
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7406062822074948
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7400137477189589

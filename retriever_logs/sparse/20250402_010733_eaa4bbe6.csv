@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+611,Improper Restriction of XML External Entity Reference,6758.637616632147,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6627.265620791941,unknown
+259,Use of Hard-coded Password,6542.781432685868,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),6536.802122449246,unknown
+798,Use of Hard-coded Credentials,6423.550208146122,unknown

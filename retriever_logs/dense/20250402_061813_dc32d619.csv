@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+657,Violation of Secure Design Principles,Class,0.8085208579664265
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7784540177272357
+653,Improper Isolation or Compartmentalization,Class,0.7651365538125658
+404,Improper Resource Shutdown or Release,Class,0.755709040828661
+668,Exposure of Resource to Wrong Sphere,Class,0.7555660875008513
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7537813455124457
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7521651591934408
+667,Improper Locking,Class,0.748408043499142
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.747031279942488
+274,Improper Handling of Insufficient Privileges,Base,0.7463782171579569

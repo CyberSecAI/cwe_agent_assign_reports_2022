@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,6044.92066716258,base_query
+319,Cleartext Transmission of Sensitive Information,6024.8709583025,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5991.846443636854,base_query
+306,Missing Authentication for Critical Function,5965.600323950069,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5957.372453926888,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+625,Permissive Regular Expression,Base,0.771462415305913
+185,Incorrect Regular Expression,Class,0.7578610230794874
+777,Regular Expression without Anchors,Variant,0.7534822915408917
+1333,Inefficient Regular Expression Complexity,Base,0.7445274909680185
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.742633843573649
+138,Improper Neutralization of Special Elements,Class,0.7412689119358995
+668,Exposure of Resource to Wrong Sphere,Class,0.7391631130041071
+41,Improper Resolution of Path Equivalence,Base,0.7364575874574332
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7348453727987063
+184,Incomplete List of Disallowed Inputs,Base,0.7344090524002527

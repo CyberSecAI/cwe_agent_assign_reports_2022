@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6426.848804502143,base_query
+125,Out-of-bounds Read,6419.279415798992,base_query
+190,Integer Overflow or Wraparound,6220.529642175699,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6219.976831635167,base_query
+754,Improper Check for Unusual or Exceptional Conditions,6180.069682526694,base_query

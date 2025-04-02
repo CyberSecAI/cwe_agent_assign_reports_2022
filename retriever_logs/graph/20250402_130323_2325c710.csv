@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1332,Improper Handling of Faults that Lead to Instruction Skips,base,3.6399999999999997,0
+1247,Improper Protection Against Voltage and Clock Glitches,base,3.6399999999999997,0
+288,Authentication Bypass Using an Alternate Path or Channel,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,2.513728978827534,0
+420,Unprotected Alternate Channel,Base,2.482468790299354,0
+1191,On-Chip Debug and Test Interface With Improper Access Control,Base,2.4803987301628427,0
+1296,Incorrect Chaining or Granularity of Debug Components,base,2.4699999999999998,0
+1262,Improper Access Control for Register Interface,base,2.4699999999999998,0

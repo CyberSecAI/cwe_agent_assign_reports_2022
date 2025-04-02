@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5078.583500836328,base_query
+472,External Control of Assumed-Immutable Web Parameter,4914.072899508491,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),4839.651228843575,base_query
+287,Improper Authentication,4829.000269964646,base_query
+1390,Weak Authentication,4814.125264880696,base_query

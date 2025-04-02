@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+319,Cleartext Transmission of Sensitive Information,Base,0.779375100086216
+312,Cleartext Storage of Sensitive Information,Base,0.7748026710109434
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7665036519462235
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7632625714968752
+73,External Control of File Name or Path,Base,0.7626231536656056
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.761415976609398
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.760500173956314
+668,Exposure of Resource to Wrong Sphere,Class,0.7568762933150504
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7551738225077054
+134,Use of Externally-Controlled Format String,Base,0.7540068602205537

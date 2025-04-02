@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7496483549268692
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7464135371972738
+274,Improper Handling of Insufficient Privileges,Base,0.7452329184433142
+653,Improper Isolation or Compartmentalization,Class,0.7419919380008629
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7401642022665619
+1390,Weak Authentication,Class,0.7353713911805757
+1391,Use of Weak Credentials,Class,0.734690755249295
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7321943519584829
+1220,Insufficient Granularity of Access Control,Base,0.7315933728773039
+668,Exposure of Resource to Wrong Sphere,Class,0.7311312646945014

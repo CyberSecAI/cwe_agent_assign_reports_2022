@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+823,Use of Out-of-range Pointer Offset,5523.664301098713,base_query
+125,Out-of-bounds Read,5446.877682185362,base_query
+190,Integer Overflow or Wraparound,5345.681781883819,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5286.096828449425,base_query
+191,Integer Underflow (Wrap or Wraparound),5195.962224427028,base_query

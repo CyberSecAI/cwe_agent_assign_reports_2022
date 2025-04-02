@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7593456750272993
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.750145025154927
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7449913816650783
+131,Incorrect Calculation of Buffer Size,Base,0.7439836360231319
+404,Improper Resource Shutdown or Release,Class,0.7433122732715585
+667,Improper Locking,Class,0.7423332397326257
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7389267817649705
+274,Improper Handling of Insufficient Privileges,Base,0.7379002360858087
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.736390797999249
+125,Out-of-bounds Read,Base,0.7349340927029925

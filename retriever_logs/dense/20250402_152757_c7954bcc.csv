@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1421,Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution,Base,0.8066407822318922
+667,Improper Locking,Class,0.7852071890591867
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7824956360095506
+131,Incorrect Calculation of Buffer Size,Base,0.7813413846650137
+404,Improper Resource Shutdown or Release,Class,0.7811068171438305
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7802766376387348
+125,Out-of-bounds Read,Base,0.7799338200889054
+1342,Information Exposure through Microarchitectural State after Transient Execution,Base,0.776753394333716
+191,Integer Underflow (Wrap or Wraparound),Base,0.7764098654611662
+908,Use of Uninitialized Resource,Base,0.7762570455051916

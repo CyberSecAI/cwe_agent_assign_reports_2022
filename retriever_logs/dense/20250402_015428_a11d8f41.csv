@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7431226419790228
+668,Exposure of Resource to Wrong Sphere,Class,0.7401345681986683
+73,External Control of File Name or Path,Base,0.7381388814222876
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7365309575192968
+552,Files or Directories Accessible to External Parties,Base,0.7340851956149285
+23,Relative Path Traversal,Base,0.7334772791033634
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7332117259461571
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7299731906016595
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7291461771138592
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7286697054504203

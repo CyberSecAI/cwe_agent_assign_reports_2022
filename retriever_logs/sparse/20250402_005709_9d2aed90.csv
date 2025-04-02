@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,8460.118419999339,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8359.950518943113,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8204.606706037895,base_query
+138,Improper Neutralization of Special Elements,8031.6475033633105,base_query
+434,Unrestricted Upload of File with Dangerous Type,8022.376887748189,base_query

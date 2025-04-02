@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+668,Exposure of Resource to Wrong Sphere,5714.3458809281465,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,5617.313294773033,unknown
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,5520.145269654419,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5395.669123375351,unknown
+863,Incorrect Authorization,5351.483470401233,unknown

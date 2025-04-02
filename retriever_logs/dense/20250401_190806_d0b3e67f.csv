@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7644100625269731
+1336,Improper Neutralization of Special Elements Used in a Template Engine,Base,0.760045610620298
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7580513640907163
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7561763581513237
+639,Authorization Bypass Through User-Controlled Key,Base,0.7419924843844967
+319,Cleartext Transmission of Sensitive Information,Base,0.7373861525502703
+138,Improper Neutralization of Special Elements,Class,0.7352172447801661
+184,Incomplete List of Disallowed Inputs,Base,0.7346760694646335
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7329262157752526
+214,Invocation of Process Using Visible Sensitive Information,Base,0.7327877780687049

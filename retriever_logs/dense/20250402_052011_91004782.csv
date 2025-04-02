@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+73,External Control of File Name or Path,Base,0.8136067230955126
+41,Improper Resolution of Path Equivalence,Base,0.7831666422185183
+131,Incorrect Calculation of Buffer Size,Base,0.7748495661021266
+125,Out-of-bounds Read,Base,0.7728913617876545
+668,Exposure of Resource to Wrong Sphere,Class,0.770895212660051
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.76913332139134
+23,Relative Path Traversal,Base,0.7684188835822655
+191,Integer Underflow (Wrap or Wraparound),Base,0.7641909790063626
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7624515712144616
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7599343487965345

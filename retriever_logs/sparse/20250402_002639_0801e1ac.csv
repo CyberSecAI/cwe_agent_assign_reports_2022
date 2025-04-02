@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,6710.376641806866,base_query
+863,Incorrect Authorization,6691.673471759309,base_query
+441,Unintended Proxy or Intermediary ('Confused Deputy'),6675.982045524639,base_query
+1390,Weak Authentication,6474.439404014187,base_query
+287,Improper Authentication,6472.443519123704,base_query

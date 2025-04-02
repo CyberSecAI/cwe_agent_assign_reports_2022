@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+611,Improper Restriction of XML External Entity Reference,5433.069092628555,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,4986.899564592334,unknown
+319,Cleartext Transmission of Sensitive Information,4952.70601730967,unknown
+209,Generation of Error Message Containing Sensitive Information,4893.201962144716,unknown
+776,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),4887.259176489259,unknown

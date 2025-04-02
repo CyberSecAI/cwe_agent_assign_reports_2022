@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7516256343558981
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7448417249799557
+668,Exposure of Resource to Wrong Sphere,Class,0.7443027304235592
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7358594392382365
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7340171410443154
+552,Files or Directories Accessible to External Parties,Base,0.7338199026648711
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7335294776972487
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7317456839182042
+274,Improper Handling of Insufficient Privileges,Base,0.7294726477488556
+639,Authorization Bypass Through User-Controlled Key,Base,0.7290020230511041

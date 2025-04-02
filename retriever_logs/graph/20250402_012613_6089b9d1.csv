@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,4.5264,0
+456,Missing Initialization of a Variable,variant,4.39872,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,4.329000000000001,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+428,Unquoted Search Path or Element,base,3.6399999999999997,0
+454,External Initialization of Trusted Variables or Data Stores,base,3.6399999999999997,0
+73,External Control of File Name or Path,Base,3.2057904771397756,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9153072487496803,0

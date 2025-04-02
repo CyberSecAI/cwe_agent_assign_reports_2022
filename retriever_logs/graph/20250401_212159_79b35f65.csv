@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+787,Out-of-bounds Write,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+416,Use After Free,variant,3.7507200000000003,0
+123,Write-what-where Condition,base,3.3566,0
+126,Buffer Over-read,variant,3.3168,0
+456,Missing Initialization of a Variable,variant,3.24,0
+20,Improper Input Validation,class,2.92,0
+252,Unchecked Return Value,Base,2.9069346158075153,0
+824,Access of Uninitialized Pointer,Base,2.901087192891083,0
+125,Out-of-bounds Read,Base,2.8983946782092618,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,3619.0585722754445,base_query
+312,Cleartext Storage of Sensitive Information,3379.6043052609666,base_query
+916,Use of Password Hash With Insufficient Computational Effort,3363.1971736672504,base_query
+1391,Use of Weak Credentials,3358.1411242177355,base_query
+257,Storing Passwords in a Recoverable Format,3343.1033324006144,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,5962.737827322251,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5757.591452444091,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5714.417184814996,unknown
+138,Improper Neutralization of Special Elements,5691.592371787763,unknown
+116,Improper Encoding or Escaping of Output,5656.6309131233465,unknown

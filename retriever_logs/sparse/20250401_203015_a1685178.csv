@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,6228.587393778197,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6024.3492268578575,unknown
+502,Deserialization of Untrusted Data,5836.996020389066,unknown
+138,Improper Neutralization of Special Elements,5819.192091396071,unknown
+472,External Control of Assumed-Immutable Web Parameter,5800.684061472452,unknown

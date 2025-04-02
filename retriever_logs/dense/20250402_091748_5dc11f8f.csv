@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+267,Privilege Defined With Unsafe Actions,Base,0.7606699855584304
+266,Incorrect Privilege Assignment,Base,0.7522787926984482
+668,Exposure of Resource to Wrong Sphere,Class,0.7520376400813611
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7515678475796117
+653,Improper Isolation or Compartmentalization,Class,0.7471474376024465
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7470739105848883
+41,Improper Resolution of Path Equivalence,Base,0.7463736931044515
+274,Improper Handling of Insufficient Privileges,Base,0.7458730183588824
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7447939379186509
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7443625799272839

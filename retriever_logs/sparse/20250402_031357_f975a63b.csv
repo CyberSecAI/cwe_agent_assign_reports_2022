@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,7819.9858489458165,unknown
+770,Allocation of Resources Without Limits or Throttling,7729.59931443346,unknown
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),7705.751235672938,unknown
+1284,Improper Validation of Specified Quantity in Input,7698.819269051883,unknown
+863,Incorrect Authorization,7654.870550656554,unknown

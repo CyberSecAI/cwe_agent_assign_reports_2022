@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,5309.06720102393,base_query
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),4960.067041353239,base_query
+617,Reachable Assertion,4898.979740571447,base_query
+407,Inefficient Algorithmic Complexity,4851.863509877412,base_query
+770,Allocation of Resources Without Limits or Throttling,4832.306937594905,base_query

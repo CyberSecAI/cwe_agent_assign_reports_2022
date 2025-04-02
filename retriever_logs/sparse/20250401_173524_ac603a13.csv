@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5468.456822347961,unknown
+190,Integer Overflow or Wraparound,5404.8576885055145,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5400.665790907373,unknown
+191,Integer Underflow (Wrap or Wraparound),5214.656553539445,unknown
+843,Access of Resource Using Incompatible Type ('Type Confusion'),5165.3500826356585,unknown

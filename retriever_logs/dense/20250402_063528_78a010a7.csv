@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7580948322905892
+345,Insufficient Verification of Data Authenticity,Class,0.7553402222099475
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7551609827253778
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7550848746771737
+552,Files or Directories Accessible to External Parties,Base,0.7528653274164645
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7520772107264725
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7517052721221076
+668,Exposure of Resource to Wrong Sphere,Class,0.7513690442363927
+404,Improper Resource Shutdown or Release,Class,0.7506319584912751
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7489777107798299

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+625,Permissive Regular Expression,Base,0.7389375599198116
+1176,Inefficient CPU Computation,Class,0.7366839108778154
+637,Unnecessary Complexity in Protection Mechanism (Not Using 'Economy of Mechanism'),Class,0.7354478476918858
+407,Inefficient Algorithmic Complexity,Class,0.7319614483368075
+186,Overly Restrictive Regular Expression,Base,0.7292578869374273
+185,Incorrect Regular Expression,Class,0.7291336817887477
+799,Improper Control of Interaction Frequency,Class,0.7007105564190276
+405,Asymmetric Resource Consumption (Amplification),Class,0.6977298400415832
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.69388077374041
+41,Improper Resolution of Path Equivalence,Base,0.6926915088013864

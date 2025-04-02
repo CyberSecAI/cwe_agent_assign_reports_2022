@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7615635892264355
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7581043375347751
+184,Incomplete List of Disallowed Inputs,Base,0.7447813263719874
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7424867889096284
+138,Improper Neutralization of Special Elements,Class,0.7395699205423023
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7393195117714076
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7375652792294389
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),Base,0.7369590563745083
+799,Improper Control of Interaction Frequency,Class,0.734771161092572
+73,External Control of File Name or Path,Base,0.7347628172954337

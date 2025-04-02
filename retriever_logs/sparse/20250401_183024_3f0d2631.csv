@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,7195.56535658758,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7167.408398058674,unknown
+287,Improper Authentication,7050.703404027196,unknown
+770,Allocation of Resources Without Limits or Throttling,7026.4020320077925,unknown
+125,Out-of-bounds Read,7007.3239572027305,unknown

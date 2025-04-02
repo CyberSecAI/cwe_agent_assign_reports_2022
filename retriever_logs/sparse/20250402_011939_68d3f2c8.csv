@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,5493.676958479074,base_query
+476,NULL Pointer Dereference,5469.9765459341415,base_query
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),5363.800094165924,base_query
+822,Untrusted Pointer Dereference,5305.2791957856125,base_query
+789,Memory Allocation with Excessive Size Value,5279.960320210957,base_query

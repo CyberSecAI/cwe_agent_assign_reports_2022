@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+23,Relative Path Traversal,4142.590022379353,unknown
+611,Improper Restriction of XML External Entity Reference,4130.699123189624,unknown
+174,Double Decoding of the Same Data,4072.38564783035,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),3978.870772123548,unknown
+172,Encoding Error,3935.2388559809256,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+407,Inefficient Algorithmic Complexity,Class,0.7779728172033712
+41,Improper Resolution of Path Equivalence,Base,0.7418997956380711
+23,Relative Path Traversal,Base,0.7392409805378103
+1176,Inefficient CPU Computation,Class,0.7378573665314059
+668,Exposure of Resource to Wrong Sphere,Class,0.7377850264220078
+405,Asymmetric Resource Consumption (Amplification),Class,0.7362764303246836
+799,Improper Control of Interaction Frequency,Class,0.7272237600570253
+73,External Control of File Name or Path,Base,0.7253126374997694
+36,Absolute Path Traversal,Base,0.7218897088432144
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7209682253169462

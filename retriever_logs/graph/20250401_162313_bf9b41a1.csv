@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.8784,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+73,External Control of File Name or Path,Base,3.209838571821694,0
+41,Improper Resolution of Path Equivalence,Base,2.9238264531390503,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9152027273885874,0
+184,Incomplete List of Disallowed Inputs,Base,2.9086608688335063,0
+425,Direct Request ('Forced Browsing'),Base,2.9073692909660975,0

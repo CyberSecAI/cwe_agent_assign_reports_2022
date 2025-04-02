@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,2.821,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,2.498358514717351,0
+274,Improper Handling of Insufficient Privileges,Base,2.496943709745199,0
+392,Missing Report of Error Condition,base,2.4699999999999998,0
+455,Non-exit on Failed Initialization,base,2.4699999999999998,0
+250,Execution with Unnecessary Privileges,base,2.4699999999999998,0
+203,Observable Discrepancy,base,2.4699999999999998,0

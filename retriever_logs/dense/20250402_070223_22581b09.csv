@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+191,Integer Underflow (Wrap or Wraparound),Base,0.7644885711116216
+131,Incorrect Calculation of Buffer Size,Base,0.7606055542839194
+193,Off-by-one Error,Base,0.7596206673959707
+606,Unchecked Input for Loop Condition,Base,0.7588169905509373
+125,Out-of-bounds Read,Base,0.7575502108696531
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),Base,0.7574204782691727
+667,Improper Locking,Class,0.7547486293701874
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.752577768815414
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7517010501497792
+197,Numeric Truncation Error,Base,0.7501401388426645

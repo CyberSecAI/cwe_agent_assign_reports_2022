@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+798,Use of Hard-coded Credentials,Base,0.7859382210091159
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7822259686076029
+1391,Use of Weak Credentials,Class,0.7779286911967483
+303,Incorrect Implementation of Authentication Algorithm,Base,0.76683516074482
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.760948429850146
+1390,Weak Authentication,Class,0.7549155758634298
+345,Insufficient Verification of Data Authenticity,Class,0.7507069352909933
+291,Reliance on IP Address for Authentication,Variant,0.749350139734857
+307,Improper Restriction of Excessive Authentication Attempts,Base,0.7472027585231902
+305,Authentication Bypass by Primary Weakness,Base,0.7470555895314719

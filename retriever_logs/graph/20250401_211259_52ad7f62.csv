@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+183,Permissive List of Allowed Inputs,base,4.505800000000001,0
+125,Out-of-bounds Read,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+822,Untrusted Pointer Dereference,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+117,Improper Output Neutralization for Logs,base,4.329000000000001,0
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),base,4.329000000000001,0
+941,Incorrectly Specified Destination in a Communication Channel,base,4.329000000000001,0
+804,Guessable CAPTCHA,base,4.329000000000001,0
+187,Partial String Comparison,variant,3.888,0

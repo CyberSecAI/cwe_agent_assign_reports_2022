@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+434,Unrestricted Upload of File with Dangerous Type,Base,0.7605921980552284
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7406912153267959
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.737050117495304
+1391,Use of Weak Credentials,Class,0.7366336946480938
+425,Direct Request ('Forced Browsing'),Base,0.7327755391811233
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7309457128431238
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7294896402184604
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.729358652966021
+345,Insufficient Verification of Data Authenticity,Class,0.7291256652256759
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7245096635317729

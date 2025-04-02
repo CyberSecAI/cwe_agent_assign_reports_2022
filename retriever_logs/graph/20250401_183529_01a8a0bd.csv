@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1265,Unintended Reentrant Invocation of Non-reentrant Code Via Nested Calls,base,5.031000000000001,0
+128,Wrap-around Error,base,5.031000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+193,Off-by-one Error,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+410,Insufficient Resource Pool,base,4.329000000000001,0
+416,Use After Free,variant,3.7507200000000003,0
+663,Use of a Non-reentrant Function in a Concurrent Context,base,3.6399999999999997,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,3.5671999999999997,0
+787,Out-of-bounds Write,base,3.4866,0

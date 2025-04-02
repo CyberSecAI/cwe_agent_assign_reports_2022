@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+178,Improper Handling of Case Sensitivity,4174.200018100329,base_query
+472,External Control of Assumed-Immutable Web Parameter,4116.787286547374,base_query
+639,Authorization Bypass Through User-Controlled Key,4012.9648768101997,base_query
+312,Cleartext Storage of Sensitive Information,4008.5287087877145,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),3894.200848528948,base_query

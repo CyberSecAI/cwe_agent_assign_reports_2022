@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.779996504665574
+404,Improper Resource Shutdown or Release,Class,0.7771721221983829
+667,Improper Locking,Class,0.7762685658510158
+131,Incorrect Calculation of Buffer Size,Base,0.7697642070539878
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7680553994009962
+662,Improper Synchronization,Class,0.7661999114367634
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7658182718423743
+129,Improper Validation of Array Index,Variant,0.7629078975921745
+125,Out-of-bounds Read,Base,0.7618464779648757
+41,Improper Resolution of Path Equivalence,Base,0.7618404446884451

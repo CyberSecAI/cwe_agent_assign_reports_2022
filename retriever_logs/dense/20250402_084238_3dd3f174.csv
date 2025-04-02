@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+204,Observable Response Discrepancy,Base,0.7616046888543055
+208,Observable Timing Discrepancy,Base,0.7517619316364019
+205,Observable Behavioral Discrepancy,Base,0.7487147900706147
+203,Observable Discrepancy,Base,0.7471681710690719
+668,Exposure of Resource to Wrong Sphere,Class,0.7462028375733902
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7427433376331468
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7396760691913776
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7309146926153214
+345,Insufficient Verification of Data Authenticity,Class,0.7298449716459123
+667,Improper Locking,Class,0.7290043552311833

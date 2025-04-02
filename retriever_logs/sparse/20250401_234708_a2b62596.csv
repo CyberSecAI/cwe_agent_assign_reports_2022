@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,6598.5799240912165,unknown
+941,Incorrectly Specified Destination in a Communication Channel,5696.625900595519,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5509.264351839221,unknown
+356,Product UI does not Warn User of Unsafe Actions,5493.871422270412,unknown
+125,Out-of-bounds Read,5489.260990981081,unknown

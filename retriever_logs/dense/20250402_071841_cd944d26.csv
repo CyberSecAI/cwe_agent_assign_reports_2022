@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+691,Insufficient Control Flow Management,Pillar,0.7989684387087433
+205,Observable Behavioral Discrepancy,Base,0.773973032502781
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7627130552935071
+208,Observable Timing Discrepancy,Base,0.7567707854442254
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7567683919400141
+653,Improper Isolation or Compartmentalization,Class,0.7537263776409647
+206,Observable Internal Behavioral Discrepancy,Variant,0.7518387713247794
+207,Observable Behavioral Discrepancy With Equivalent Products,Variant,0.7501525071180819
+668,Exposure of Resource to Wrong Sphere,Class,0.7482473012089503
+696,Incorrect Behavior Order,Class,0.747283566752219

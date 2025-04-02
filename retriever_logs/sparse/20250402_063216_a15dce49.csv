@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7597.059930784115,unknown
+863,Incorrect Authorization,7548.829703079961,unknown
+798,Use of Hard-coded Credentials,7516.217806412632,unknown
+259,Use of Hard-coded Password,7475.9453096812385,unknown
+285,Improper Authorization,7440.769233407197,unknown

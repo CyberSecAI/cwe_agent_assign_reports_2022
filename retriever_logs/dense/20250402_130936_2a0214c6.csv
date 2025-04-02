@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7698989649630505
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7687935177645145
+191,Integer Underflow (Wrap or Wraparound),Base,0.7651653790807893
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7627871791979605
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7596310593448292
+131,Incorrect Calculation of Buffer Size,Base,0.754931620169732
+125,Out-of-bounds Read,Base,0.7544094192348908
+41,Improper Resolution of Path Equivalence,Base,0.7525925307888028
+404,Improper Resource Shutdown or Release,Class,0.7484422181099875
+667,Improper Locking,Class,0.7471370387951378

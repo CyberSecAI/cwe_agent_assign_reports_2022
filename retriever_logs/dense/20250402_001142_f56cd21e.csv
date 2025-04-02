@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7630044791900454
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7599216991846109
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7508003122425679
+668,Exposure of Resource to Wrong Sphere,Class,0.7505065171685223
+405,Asymmetric Resource Consumption (Amplification),Class,0.7423788761976097
+41,Improper Resolution of Path Equivalence,Base,0.7401890062625915
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7324966101102183
+667,Improper Locking,Class,0.7309216484283145
+653,Improper Isolation or Compartmentalization,Class,0.7280127309120419
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7259206166300555

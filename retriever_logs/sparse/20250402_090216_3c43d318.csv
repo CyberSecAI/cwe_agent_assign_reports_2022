@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),7049.018037571317,base_query
+789,Memory Allocation with Excessive Size Value,6896.34925913192,base_query
+770,Allocation of Resources Without Limits or Throttling,6831.728464963953,base_query
+833,Deadlock,6741.589651210652,base_query
+61,UNIX Symbolic Link (Symlink) Following,6734.005201524728,base_query

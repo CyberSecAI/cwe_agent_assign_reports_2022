@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,6709.3598197434085,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6704.745699779694,unknown
+116,Improper Encoding or Escaping of Output,6430.97587272683,unknown
+863,Incorrect Authorization,6416.162198806108,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6394.224585424714,unknown

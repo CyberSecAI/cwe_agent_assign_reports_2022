@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+416,Use After Free,variant,3.24,0
+252,Unchecked Return Value,base,3.2188,0
+386,Symbolic Name not Mapping to Correct Object,base,2.9005600000000005,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+364,Signal Handler Race Condition,base,2.8651999999999997,0
+476,NULL Pointer Dereference,base,2.8651999999999997,0
+123,Write-what-where Condition,base,2.7014000000000005,0
+415,Double Free,variant,2.68272,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0

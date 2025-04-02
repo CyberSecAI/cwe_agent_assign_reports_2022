@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+488,Exposure of Data Element to Wrong Session,base,4.329000000000001,0
+567,Unsynchronized Access to Shared Data in a Multithreaded Context,base,4.329000000000001,0
+804,Guessable CAPTCHA,base,4.329000000000001,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+73,External Control of File Name or Path,base,3.3566,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.9184000000000005,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,2.8912000000000004,0
+363,Race Condition Enabling Link Following,base,2.8651999999999997,0
+609,Double-Checked Locking,base,2.8651999999999997,0

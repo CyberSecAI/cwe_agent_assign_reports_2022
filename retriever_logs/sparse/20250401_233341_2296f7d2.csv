@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,7593.372181968804,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7520.3020685484025,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7282.204759446885,base_query
+138,Improper Neutralization of Special Elements,7119.2542657972745,base_query
+1284,Improper Validation of Specified Quantity in Input,7111.242466875614,base_query

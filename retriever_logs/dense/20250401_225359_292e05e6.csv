@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7542321878103477
+131,Incorrect Calculation of Buffer Size,Base,0.75378551929554
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7523109943515645
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7504653466465812
+191,Integer Underflow (Wrap or Wraparound),Base,0.7466248936997341
+125,Out-of-bounds Read,Base,0.7457691527264807
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7451875429095209
+755,Improper Handling of Exceptional Conditions,Class,0.7437054148567519
+129,Improper Validation of Array Index,Variant,0.7433345609021649
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7421928325667897

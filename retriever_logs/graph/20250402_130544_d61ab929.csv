@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,5.031000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+183,Permissive List of Allowed Inputs,base,4.0612,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.653,0
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),base,3.6399999999999997,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,base,3.6399999999999997,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+184,Incomplete List of Disallowed Inputs,Base,3.184888927957265,0
+20,Improper Input Validation,class,2.984,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7685541799580506
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7665307240190263
+668,Exposure of Resource to Wrong Sphere,Class,0.7637270296931086
+799,Improper Control of Interaction Frequency,Class,0.7625948838968062
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7622516534536039
+274,Improper Handling of Insufficient Privileges,Base,0.7603343750138841
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7602649919539226
+404,Improper Resource Shutdown or Release,Class,0.7555285667166025
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7550885473364434
+300,Channel Accessible by Non-Endpoint,Class,0.7536483562243712

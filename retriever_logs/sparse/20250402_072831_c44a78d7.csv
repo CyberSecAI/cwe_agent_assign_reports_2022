@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5836.972560425276,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5820.5807530608,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5674.595683260931,base_query
+770,Allocation of Resources Without Limits or Throttling,5583.377092719648,base_query
+667,Improper Locking,5515.192131233059,base_query

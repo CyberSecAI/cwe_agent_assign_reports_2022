@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1007,Insufficient Visual Distinction of Homoglyphs Presented to User,6675.767095254445,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),6548.133729565765,unknown
+1386,Insecure Operation on Windows Junction / Mount Point,6169.838108837636,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6078.319557902933,unknown
+863,Incorrect Authorization,6025.418508839533,unknown

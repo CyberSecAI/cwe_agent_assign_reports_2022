@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,5410.471838785074,base_query
+1191,On-Chip Debug and Test Interface With Improper Access Control,4913.655821906595,base_query
+668,Exposure of Resource to Wrong Sphere,4898.638222738736,base_query
+472,External Control of Assumed-Immutable Web Parameter,4794.767603094915,base_query
+863,Incorrect Authorization,4783.764203063786,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,5679.273850529167,unknown
+625,Permissive Regular Expression,5369.795192841647,unknown
+617,Reachable Assertion,5147.95695742639,unknown
+295,Improper Certificate Validation,5115.061768254088,unknown
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),4897.39164993504,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+187,Partial String Comparison,variant,4.5264,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+182,Collapse of Data into Unsafe Value,base,4.329000000000001,0
+787,Out-of-bounds Write,base,3.8870000000000005,0
+625,Permissive Regular Expression,base,3.6399999999999997,0
+128,Wrap-around Error,base,2.9120000000000004,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,2.9120000000000004,0
+131,Incorrect Calculation of Buffer Size,Base,2.9040288562573,0
+822,Untrusted Pointer Dereference,base,2.8651999999999997,0

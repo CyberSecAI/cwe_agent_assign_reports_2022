@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1420,Exposure of Sensitive Information during Transient Execution,6312.894284878034,base_query
+203,Observable Discrepancy,6010.540180968895,base_query
+1421,Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution,5780.896326323135,base_query
+208,Observable Timing Discrepancy,5711.303650451444,base_query
+1256,Improper Restriction of Software Interfaces to Hardware Features,5648.59638925549,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+472,External Control of Assumed-Immutable Web Parameter,Base,0.79813324324739
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7878762007426379
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7824617853692001
+653,Improper Isolation or Compartmentalization,Class,0.779060660172507
+274,Improper Handling of Insufficient Privileges,Base,0.7748334810061157
+639,Authorization Bypass Through User-Controlled Key,Base,0.7721132804829649
+668,Exposure of Resource to Wrong Sphere,Class,0.7716162938884823
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.769719708639435
+266,Incorrect Privilege Assignment,Base,0.7688249522606142
+138,Improper Neutralization of Special Elements,Class,0.7674988188016718

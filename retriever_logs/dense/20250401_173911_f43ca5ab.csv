@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1385,Missing Origin Validation in WebSockets,Variant,0.7987146552106131
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7765949002554696
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7727896661128584
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),Base,0.7677090029253388
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7668363521277636
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7639769317306245
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7501337812000781
+184,Incomplete List of Disallowed Inputs,Base,0.7497803108164307
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7485877751074155
+319,Cleartext Transmission of Sensitive Information,Base,0.7484671134125164

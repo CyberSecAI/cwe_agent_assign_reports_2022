@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),base,4.329000000000001,0
+193,Off-by-one Error,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),variant,3.8784,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+73,External Control of File Name or Path,base,3.2255600000000006,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.8651999999999997,0
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,base,2.8651999999999997,0

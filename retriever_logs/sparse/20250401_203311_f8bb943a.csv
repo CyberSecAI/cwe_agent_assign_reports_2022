@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7595.177919090938,unknown
+451,User Interface (UI) Misrepresentation of Critical Information,7263.7404730234175,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6607.702713920532,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6557.013588084359,unknown
+668,Exposure of Resource to Wrong Sphere,6539.318517421934,unknown

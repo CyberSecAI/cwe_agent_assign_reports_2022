@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+23,Relative Path Traversal,Base,0.7948236667553954
+41,Improper Resolution of Path Equivalence,Base,0.7918585981088321
+73,External Control of File Name or Path,Base,0.7810983133961136
+345,Insufficient Verification of Data Authenticity,Class,0.7801141628687068
+36,Absolute Path Traversal,Base,0.7719643333130526
+552,Files or Directories Accessible to External Parties,Base,0.7685166485406449
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.7684667855147349
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7683469185553757
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7673758317023853
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7647479003576956

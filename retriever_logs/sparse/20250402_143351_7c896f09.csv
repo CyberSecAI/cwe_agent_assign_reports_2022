@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,4777.548089943318,unknown
+209,Generation of Error Message Containing Sensitive Information,4129.2551397144825,unknown
+203,Observable Discrepancy,4001.6158332567734,unknown
+328,Use of Weak Hash,3943.998943501027,unknown
+1390,Weak Authentication,3902.2947123479553,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+434,Unrestricted Upload of File with Dangerous Type,Base,0.7427611563309158
+425,Direct Request ('Forced Browsing'),Base,0.7326678359344453
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7266655401573688
+352,Cross-Site Request Forgery (CSRF),Compound,0.7215295571740712
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7201614267890064
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7140594692954952
+502,Deserialization of Untrusted Data,Base,0.7128690372248165
+138,Improper Neutralization of Special Elements,Class,0.7110078899209187
+116,Improper Encoding or Escaping of Output,Class,0.7105802534779955
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7104964405455956

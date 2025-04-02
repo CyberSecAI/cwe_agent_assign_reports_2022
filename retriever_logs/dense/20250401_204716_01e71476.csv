@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+427,Uncontrolled Search Path Element,Base,0.7927064419518284
+73,External Control of File Name or Path,Base,0.7840517493605904
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7697075907598754
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7688448973885801
+426,Untrusted Search Path,Base,0.7681579394994792
+41,Improper Resolution of Path Equivalence,Base,0.768007938002544
+345,Insufficient Verification of Data Authenticity,Class,0.7665133559333595
+552,Files or Directories Accessible to External Parties,Base,0.7654500161308037
+668,Exposure of Resource to Wrong Sphere,Class,0.7649305546448555
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7635578286275246

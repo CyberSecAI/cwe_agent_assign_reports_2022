@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7643466284177238
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7530838755684058
+653,Improper Isolation or Compartmentalization,Class,0.7415479148737556
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7407604945522073
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7381935085165644
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7380516605351086
+552,Files or Directories Accessible to External Parties,Base,0.737836114269121
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7373485907750942
+669,Incorrect Resource Transfer Between Spheres,Class,0.734503003348059
+41,Improper Resolution of Path Equivalence,Base,0.7334922766334269

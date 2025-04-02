@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+226,Sensitive Information in Resource Not Removed Before Reuse,4807.947776310226,base_query
+863,Incorrect Authorization,4716.104991311171,base_query
+434,Unrestricted Upload of File with Dangerous Type,4683.616954213939,base_query
+201,Insertion of Sensitive Information Into Sent Data,4660.110701851439,base_query
+502,Deserialization of Untrusted Data,4653.270561886838,base_query

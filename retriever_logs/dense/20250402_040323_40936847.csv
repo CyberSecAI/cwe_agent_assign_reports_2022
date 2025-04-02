@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7509185783456984
+682,Incorrect Calculation,Pillar,0.7469673769293564
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7420491422899449
+667,Improper Locking,Class,0.7386329427731737
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7386227521841691
+193,Off-by-one Error,Base,0.7374604155564091
+131,Incorrect Calculation of Buffer Size,Base,0.7370081426709223
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.735108061461022
+697,Incorrect Comparison,Pillar,0.7346206103758975
+274,Improper Handling of Insufficient Privileges,Base,0.728780283069079

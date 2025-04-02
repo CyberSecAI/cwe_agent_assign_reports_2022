@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6139.904715727911,unknown
+138,Improper Neutralization of Special Elements,5661.573294832929,unknown
+625,Permissive Regular Expression,5629.632208994982,unknown
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),5611.469014481601,unknown
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),5579.256365187302,unknown

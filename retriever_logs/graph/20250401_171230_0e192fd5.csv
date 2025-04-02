@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+613,Insufficient Session Expiration,base,4.329000000000001,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+208,Observable Timing Discrepancy,base,2.8651999999999997,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.6784000000000003,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+287,Improper Authentication,class,2.5519999999999996,0
+1204,Generation of Weak Initialization Vector (IV),base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0

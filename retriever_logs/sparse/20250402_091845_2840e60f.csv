@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8583.559205745461,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),8369.759956259288,base_query
+116,Improper Encoding or Escaping of Output,8276.979743370055,base_query
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),8252.229279408448,base_query
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),8151.0314468503675,base_query

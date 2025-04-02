@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,9078.814159159941,base_query
+759,Use of a One-Way Hash without a Salt,8547.518209258604,base_query
+760,Use of a One-Way Hash with a Predictable Salt,8414.836637853849,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8315.240717580558,base_query
+259,Use of Hard-coded Password,8076.358980401814,base_query

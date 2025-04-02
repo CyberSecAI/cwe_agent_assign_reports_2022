@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+625,Permissive Regular Expression,Base,0.734983260486498
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7301795105261143
+185,Incorrect Regular Expression,Class,0.718580333374405
+799,Improper Control of Interaction Frequency,Class,0.7182336259067403
+407,Inefficient Algorithmic Complexity,Class,0.7139612861282556
+186,Overly Restrictive Regular Expression,Base,0.707385814496803
+405,Asymmetric Resource Consumption (Amplification),Class,0.7044178299454755
+184,Incomplete List of Disallowed Inputs,Base,0.7018336332293891
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7005995665734407
+41,Improper Resolution of Path Equivalence,Base,0.7004386334146788

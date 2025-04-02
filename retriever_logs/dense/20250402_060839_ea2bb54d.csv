@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7680717883525947
+267,Privilege Defined With Unsafe Actions,Base,0.765670999173466
+668,Exposure of Resource to Wrong Sphere,Class,0.7593647359925564
+639,Authorization Bypass Through User-Controlled Key,Base,0.7586398581659919
+472,External Control of Assumed-Immutable Web Parameter,Base,0.755384155881833
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7548224114859132
+274,Improper Handling of Insufficient Privileges,Base,0.7546588524522828
+266,Incorrect Privilege Assignment,Base,0.752255068960149
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7518441081837314
+552,Files or Directories Accessible to External Parties,Base,0.7493248686681192

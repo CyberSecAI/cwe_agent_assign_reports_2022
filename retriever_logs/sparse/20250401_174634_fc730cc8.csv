@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5761.100119726996,base_query
+863,Incorrect Authorization,5369.299446794979,base_query
+306,Missing Authentication for Critical Function,5290.944407524989,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5282.370171818848,base_query
+434,Unrestricted Upload of File with Dangerous Type,5250.248617802864,base_query

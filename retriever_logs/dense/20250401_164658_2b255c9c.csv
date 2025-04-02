@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7789201740952586
+943,Improper Neutralization of Special Elements in Data Query Logic,Class,0.7120935847358503
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7070928917376178
+162,Improper Neutralization of Trailing Special Elements,Variant,0.7040439148784862
+150,Improper Neutralization of Escape  Meta  or Control Sequences,Variant,0.7005081705599642
+643,Improper Neutralization of Data within XPath Expressions ('XPath Injection'),Base,0.6991628679741071
+146,Improper Neutralization of Expression/Command Delimiters,Variant,0.6975619806227566
+652,Improper Neutralization of Data within XQuery Expressions ('XQuery Injection'),Base,0.6903475270693553
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),Base,0.6851693723570286
+653,Improper Isolation or Compartmentalization,Class,0.6845952252333098

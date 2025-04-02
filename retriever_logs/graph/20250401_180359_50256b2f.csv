@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+941,Incorrectly Specified Destination in a Communication Channel,Base,2.9021214794097525,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+406,Insufficient Control of Network Message Volume (Network Amplification),class,2.5519999999999996,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0
+456,Missing Initialization of a Variable,variant,2.5507200000000005,0
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,2.4915392506550194,0

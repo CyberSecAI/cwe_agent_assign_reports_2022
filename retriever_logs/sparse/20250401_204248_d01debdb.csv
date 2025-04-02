@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6483.153922998591,unknown
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),5927.540638795143,unknown
+99,Improper Control of Resource Identifiers ('Resource Injection'),5754.68116563521,unknown
+863,Incorrect Authorization,5717.158771655838,unknown
+425,Direct Request ('Forced Browsing'),5648.413892981574,unknown

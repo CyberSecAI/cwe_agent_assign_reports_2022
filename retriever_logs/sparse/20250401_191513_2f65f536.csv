@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,6214.626785247942,unknown
+209,Generation of Error Message Containing Sensitive Information,6003.32447669178,unknown
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,5998.445955820945,unknown
+201,Insertion of Sensitive Information Into Sent Data,5770.164598538156,unknown
+639,Authorization Bypass Through User-Controlled Key,5743.5546283686945,unknown

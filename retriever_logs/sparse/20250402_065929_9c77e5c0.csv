@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,6866.20996207057,base_query
+668,Exposure of Resource to Wrong Sphere,6647.8208883016605,base_query
+863,Incorrect Authorization,6608.749300849399,base_query
+639,Authorization Bypass Through User-Controlled Key,6536.403880468258,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6519.033250932749,base_query

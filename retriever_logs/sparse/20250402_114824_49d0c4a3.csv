@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,4447.828221135164,base_query
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,4379.336422120659,base_query
+863,Incorrect Authorization,4250.913068144961,base_query
+639,Authorization Bypass Through User-Controlled Key,4219.033531504816,base_query
+250,Execution with Unnecessary Privileges,4119.6148452251255,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+252,Unchecked Return Value,base,4.329000000000001,0
+457,Use of Uninitialized Variable,variant,3.7507200000000003,0
+456,Missing Initialization of a Variable,variant,3.7507200000000003,0
+259,Use of Hard-coded Password,variant,3.11472,0
+911,Improper Update of Reference Count,base,2.8651999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,base,2.8651999999999997,0
+266,Incorrect Privilege Assignment,base,2.7742,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.73416,0

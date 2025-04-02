@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5673.67792658944,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5664.674646258526,unknown
+667,Improper Locking,5612.026029369584,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5590.716828505967,unknown
+1284,Improper Validation of Specified Quantity in Input,5573.351294416516,unknown

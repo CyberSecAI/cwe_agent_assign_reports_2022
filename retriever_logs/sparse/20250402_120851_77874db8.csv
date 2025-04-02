@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,6689.490297491473,unknown
+306,Missing Authentication for Critical Function,6600.705246880851,unknown
+259,Use of Hard-coded Password,6578.137544220979,unknown
+798,Use of Hard-coded Credentials,6521.668676510819,unknown
+1390,Weak Authentication,6494.089953856571,unknown

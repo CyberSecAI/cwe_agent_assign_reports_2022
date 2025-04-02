@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+390,Detection of Error Condition Without Action,base,2.8651999999999997,0
+416,Use After Free,variant,2.04,0
+123,Write-what-where Condition,base,1.7680000000000005,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,1.7680000000000005,0
+364,Signal Handler Race Condition,base,1.6848000000000003,0
+1265,Unintended Reentrant Invocation of Non-reentrant Code Via Nested Calls,base,1.6848000000000003,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,1.6848000000000003,0
+410,Insufficient Resource Pool,Base,1.684496709466168,0
+476,NULL Pointer Dereference,base,1.6718000000000002,0
+209,Generation of Error Message Containing Sensitive Information,base,1.5912000000000004,0

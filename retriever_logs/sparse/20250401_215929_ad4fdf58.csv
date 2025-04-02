@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,6229.76865124942,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,6175.560465251257,base_query
+306,Missing Authentication for Critical Function,6068.7188821154305,base_query
+287,Improper Authentication,6066.941709694823,base_query
+285,Improper Authorization,6058.79251460945,base_query

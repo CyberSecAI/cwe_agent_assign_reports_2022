@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+776,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),6290.994276218733,base_query
+611,Improper Restriction of XML External Entity Reference,6245.646521773139,base_query
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),5978.829468997917,base_query
+1333,Inefficient Regular Expression Complexity,5965.933941430707,base_query
+502,Deserialization of Untrusted Data,5784.845056619763,base_query

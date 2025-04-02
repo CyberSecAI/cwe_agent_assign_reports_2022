@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+193,Off-by-one Error,5870.488697560688,unknown
+824,Access of Uninitialized Pointer,5823.734176750651,unknown
+681,Incorrect Conversion between Numeric Types,5797.838028164644,unknown
+1284,Improper Validation of Specified Quantity in Input,5712.3324578020565,unknown
+125,Out-of-bounds Read,5694.004563595288,unknown

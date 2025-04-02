@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+191,Integer Underflow (Wrap or Wraparound),Base,0.7561889884405748
+617,Reachable Assertion,Base,0.7476994066239407
+407,Inefficient Algorithmic Complexity,Class,0.7462304480231432
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7460616176728608
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),Base,0.7384092628008274
+799,Improper Control of Interaction Frequency,Class,0.7350433136000438
+125,Out-of-bounds Read,Base,0.7336013779206276
+668,Exposure of Resource to Wrong Sphere,Class,0.7334652317319333
+755,Improper Handling of Exceptional Conditions,Class,0.7331539444610423
+131,Incorrect Calculation of Buffer Size,Base,0.7331098018998743

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+708,Incorrect Ownership Assignment,base,3.6399999999999997,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,3.055,0
+41,Improper Resolution of Path Equivalence,Base,3.0511200144950092,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.624197248191115,0

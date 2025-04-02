@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5013.579375837299,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),4780.78253477257,unknown
+23,Relative Path Traversal,4704.483479487046,unknown
+1333,Inefficient Regular Expression Complexity,4688.278810439606,unknown
+863,Incorrect Authorization,4657.83482261993,unknown

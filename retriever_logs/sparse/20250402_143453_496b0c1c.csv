@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,6757.883846583875,base_query
+639,Authorization Bypass Through User-Controlled Key,6625.094775489882,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,6600.702220634627,base_query
+863,Incorrect Authorization,6225.303795484787,base_query
+212,Improper Removal of Sensitive Information Before Storage or Transfer,6202.550929283719,base_query

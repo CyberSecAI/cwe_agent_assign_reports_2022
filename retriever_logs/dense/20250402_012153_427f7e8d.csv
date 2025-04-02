@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+823,Use of Out-of-range Pointer Offset,Base,0.7900776949318818
+805,Buffer Access with Incorrect Length Value,Base,0.7728573985575224
+191,Integer Underflow (Wrap or Wraparound),Base,0.7718661076318966
+131,Incorrect Calculation of Buffer Size,Base,0.7691803877844443
+125,Out-of-bounds Read,Base,0.7675381176155575
+126,Buffer Over-read,Variant,0.7663304698552182
+822,Untrusted Pointer Dereference,Base,0.7643863956504369
+824,Access of Uninitialized Pointer,Base,0.7607591297141365
+127,Buffer Under-read,Variant,0.757868408357596
+786,Access of Memory Location Before Start of Buffer,Base,0.7530816232135612

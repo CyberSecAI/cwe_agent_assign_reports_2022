@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,5486.101326394296,unknown
+356,Product UI does not Warn User of Unsafe Actions,4550.989932735071,unknown
+252,Unchecked Return Value,4540.959861942731,unknown
+863,Incorrect Authorization,4527.951693635061,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4524.428480412989,unknown

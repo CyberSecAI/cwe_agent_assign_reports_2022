@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+259,Use of Hard-coded Password,5606.948188906567,unknown
+798,Use of Hard-coded Credentials,5478.73008429287,unknown
+306,Missing Authentication for Critical Function,5332.083484930207,unknown
+1188,Initialization of a Resource with an Insecure Default,5310.2829970594,unknown
+916,Use of Password Hash With Insufficient Computational Effort,5277.634511799295,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6198.68353355274,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,6141.541135100449,base_query
+611,Improper Restriction of XML External Entity Reference,6104.449310823901,base_query
+319,Cleartext Transmission of Sensitive Information,6025.542113717753,base_query
+863,Incorrect Authorization,5960.88167220911,base_query

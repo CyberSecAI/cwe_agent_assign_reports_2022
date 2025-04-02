@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,8326.428245988056,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,8286.764888937554,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8270.26640871112,base_query
+863,Incorrect Authorization,8210.9338235955,base_query
+668,Exposure of Resource to Wrong Sphere,8038.4221208701565,base_query

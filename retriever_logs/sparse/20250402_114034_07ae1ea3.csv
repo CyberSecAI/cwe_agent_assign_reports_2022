@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,6503.547538740245,unknown
+770,Allocation of Resources Without Limits or Throttling,6286.882825086883,unknown
+252,Unchecked Return Value,6115.398506177515,unknown
+789,Memory Allocation with Excessive Size Value,6106.5435871232385,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6054.422301175019,unknown

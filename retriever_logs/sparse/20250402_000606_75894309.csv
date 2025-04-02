@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,6973.981451861956,base_query
+770,Allocation of Resources Without Limits or Throttling,6849.148571675363,base_query
+789,Memory Allocation with Excessive Size Value,6595.165431696425,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,6529.268713137819,base_query
+1176,Inefficient CPU Computation,6474.467230805087,base_query

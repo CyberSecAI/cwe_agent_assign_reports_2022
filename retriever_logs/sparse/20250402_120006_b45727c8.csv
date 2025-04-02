@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,5312.677029432834,base_query
+184,Incomplete List of Disallowed Inputs,5179.831112939815,base_query
+1284,Improper Validation of Specified Quantity in Input,4992.608280138911,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4967.873211980374,base_query
+346,Origin Validation Error,4965.182679787018,base_query

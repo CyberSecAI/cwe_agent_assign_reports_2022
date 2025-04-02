@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+940,Improper Verification of Source of a Communication Channel,Base,0.7777018564289738
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7763534585887731
+300,Channel Accessible by Non-Endpoint,Class,0.7649399343424625
+799,Improper Control of Interaction Frequency,Class,0.7512789530453681
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7456585785848939
+668,Exposure of Resource to Wrong Sphere,Class,0.7427558287803636
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7399121127194436
+405,Asymmetric Resource Consumption (Amplification),Class,0.7394952669273558
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7324914292163878
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7318811118184307

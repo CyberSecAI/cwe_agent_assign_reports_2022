@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+798,Use of Hard-coded Credentials,Base,0.7707484192038081
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7689625260072676
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.758856062864075
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7582051026729668
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7561868112786119
+1391,Use of Weak Credentials,Class,0.7551499570733928
+668,Exposure of Resource to Wrong Sphere,Class,0.7540215707188569
+345,Insufficient Verification of Data Authenticity,Class,0.7536451017598359
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7520012343845219
+1188,Initialization of a Resource with an Insecure Default,Base,0.7495731813051747

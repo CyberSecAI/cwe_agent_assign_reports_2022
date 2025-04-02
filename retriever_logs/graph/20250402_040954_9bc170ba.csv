@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+434,Unrestricted Upload of File with Dangerous Type,base,5.031000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+178,Improper Handling of Case Sensitivity,base,4.505800000000001,0
+430,Deployment of Wrong Handler,base,4.3888,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+410,Insufficient Resource Pool,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+789,Memory Allocation with Excessive Size Value,variant,3.8784,0

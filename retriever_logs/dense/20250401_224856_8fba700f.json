@@ -1,0 +1,70 @@
+{
+  "retriever": "dense",
+  "query": "# Vulnerability Description\n\n    In BIND 9.5.0 -> 9.11.29, 9.12.0 -> 9.16.13, and versions BIND 9.11.3-S1 -> 9.11.29-S1 and 9.16.8-S1 -> 9.16.13-S1 of BIND Supported Preview Edition, as well as release versions 9.17.0 -> 9.17.1 of the BIND 9.17 development branch, BIND servers are vulnerable if they are running an affected version and are configured to use GSS-TSIG features. In a configuration which uses BINDs default settings the vulnerable code path is not exposed, but a server can be rendered vulnerable by explicitly setting values for the tkey-gssapi-keytab or tkey-gssapi-credential configuration options. Although the default configuration is not vulnerable, GSS-TSIG is frequently used in networks where BIND is integrated with Samba, as well as in mixed-server environments that combine BIND servers with Active Directory domain controllers. For servers that meet these conditions, the ISC SPNEGO implementation is vulnerable to various attacks, depending on the CPU architecture for which BIND was built For named binaries compiled for 64-bit platforms, this flaw can be used to trigger a **buffer over-read**, leading to a server crash. For named binaries compiled for 32-bit platforms, this flaw can be used to trigger a server crash due to a **buffer overflow** and possibly also to achieve remote code execution. We have determined that standard SPNEGO implementations are available in the MIT and Heimdal Kerberos libraries, which support a broad range of operating systems, rendering the ISC implementation unnecessary and obsolete. Therefore, to reduce the attack surface for BIND users, we will be removing the ISC SPNEGO implementation in the April releases of BIND 9.11 and 9.16 (it had already been dropped from BIND 9.17). We would not normally remove something from a stable ESV (Extended Support Version) of BIND, but since system libraries can replace the ISC SPNEGO implementation, we have made an exception in this case for reasons of stability and security.\n\n    # Keyphrase-Specific CWE Analysis\n    This vulnerability contains multiple keyphrases that may map to different CWEs. \n    Please analyze each keyphrase separately and determine the most appropriate CWE(s) for each.\n\n    ## ROOTCAUSE: 'The ISC SPNEGO implementation has a bug in it.'\n\nRelevant CWEs for this ROOTCAUSE:\n\n### 1. CWE-126: Buffer Over-read (Score: 2705.11)\n\nThe product reads from a buffer using buffer access mechanisms such as indexes or pointers that reference memory locations after the targeted buffer....\n\n### 2. CWE-617: Reachable Assertion (Score: 1902.26)\n\nThe product contains an assert() or similar statement that can be triggered by an attacker, which leads to an application exit or other behavior that is more severe than necessary....\n\n### 3. CWE-863: Incorrect Authorization (Score: 1715.98)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-287: Improper Authentication (Score: 1695.68)\n\nWhen an actor claims to have a given identity, the product does not prove or insufficiently proves that the claim is correct....\n\n### 5. CWE-1284: Improper Validation of Specified Quantity in Input (Score: 1691.83)\n\nThe product receives input that is expected to specify a quantity (such as size or length), but it does not validate or incorrectly validates that the quantity has the required properties....\n\n## WEAKNESS: 'buffer over-read'\n\nRelevant CWEs for this WEAKNESS:\n\n### 1. CWE-126: Buffer Over-read (Score: 2705.11)\n\nThe product reads from a buffer using buffer access mechanisms such as indexes or pointers that reference memory locations after the targeted buffer....\n\n### 2. CWE-617: Reachable Assertion (Score: 1902.26)\n\nThe product contains an assert() or similar statement that can be triggered by an attacker, which leads to an application exit or other behavior that is more severe than necessary....\n\n### 3. CWE-863: Incorrect Authorization (Score: 1715.98)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-1284: Improper Validation of Specified Quantity in Input (Score: 1691.83)\n\nThe product receives input that is expected to specify a quantity (such as size or length), but it does not validate or incorrectly validates that the quantity has the required properties....\n\n### 5. CWE-190: Integer Overflow or Wraparound (Score: 1508.79)\n\nThe product performs a calculation that can\n         produce an integer overflow or wraparound when the logic\n         assumes that the resulting value will always be larger than\n         the original value. This occurs when an integer value is\n         incremented to a value that is too large to st...\n\n## WEAKNESS: 'buffer overflow'\n\nRelevant CWEs for this WEAKNESS:\n\n### 1. CWE-126: Buffer Over-read (Score: 2705.11)\n\nThe product reads from a buffer using buffer access mechanisms such as indexes or pointers that reference memory locations after the targeted buffer....\n\n### 2. CWE-617: Reachable Assertion (Score: 1902.26)\n\nThe product contains an assert() or similar statement that can be triggered by an attacker, which leads to an application exit or other behavior that is more severe than necessary....\n\n### 3. CWE-863: Incorrect Authorization (Score: 1715.98)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-1284: Improper Validation of Specified Quantity in Input (Score: 1691.83)\n\nThe product receives input that is expected to specify a quantity (such as size or length), but it does not validate or incorrectly validates that the quantity has the required properties....\n\n### 5. CWE-190: Integer Overflow or Wraparound (Score: 1508.79)\n\nThe product performs a calculation that can\n         produce an integer overflow or wraparound when the logic\n         assumes that the resulting value will always be larger than\n         the original value. This occurs when an integer value is\n         incremented to a value that is too large to st...\n\n## IMPACT: 'remote code execution'\n\nRelevant CWEs for this IMPACT:\n\n### 1. CWE-126: Buffer Over-read (Score: 2705.11)\n\nThe product reads from a buffer using buffer access mechanisms such as indexes or pointers that reference memory locations after the targeted buffer....\n\n### 2. CWE-617: Reachable Assertion (Score: 1902.26)\n\nThe product contains an assert() or similar statement that can be triggered by an attacker, which leads to an application exit or other behavior that is more severe than necessary....\n\n### 3. CWE-863: Incorrect Authorization (Score: 1715.98)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-1284: Improper Validation of Specified Quantity in Input (Score: 1691.83)\n\nThe product receives input that is expected to specify a quantity (such as size or length), but it does not validate or incorrectly validates that the quantity has the required properties....\n\n### 5. CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') (Score: 536.10)\n\nThe product contains a concurrent code sequence that requires temporary, exclusive access to a shared resource, but a timing window exists in which the shared resource can be modified by another code sequence operating concurrently....\n\n## PRODUCT: 'BIND'\n\nRelevant CWEs for this PRODUCT:\n\n### 1. CWE-126: Buffer Over-read (Score: 2705.11)\n\nThe product reads from a buffer using buffer access mechanisms such as indexes or pointers that reference memory locations after the targeted buffer....\n\n### 2. CWE-617: Reachable Assertion (Score: 1902.26)\n\nThe product contains an assert() or similar statement that can be triggered by an attacker, which leads to an application exit or other behavior that is more severe than necessary....\n\n### 3. CWE-863: Incorrect Authorization (Score: 1715.98)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-287: Improper Authentication (Score: 1695.68)\n\nWhen an actor claims to have a given identity, the product does not prove or insufficiently proves that the claim is correct....\n\n### 5. CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') (Score: 536.10)\n\nThe product contains a concurrent code sequence that requires temporary, exclusive access to a shared resource, but a timing window exists in which the shared resource can be modified by another code sequence operating concurrently....\n\n## VERSION: '9.5.0 -> 9.11.29, 9.12.0 -> 9.16.13, and versions BIND 9.11.3-S1 -> 9.11.29-S1 and 9.16.8-S1 -> 9.16.13-S1 of BIND Supported Preview Edition, as well as release versions 9.17.0 -> 9.17.1 of the BIND 9.17 development branch'\n\nRelevant CWEs for this VERSION:\n\n### 1. CWE-126: Buffer Over-read (Score: 2705.11)\n\nThe product reads from a buffer using buffer access mechanisms such as indexes or pointers that reference memory locations after the targeted buffer....\n\n### 2. CWE-617: Reachable Assertion (Score: 1902.26)\n\nThe product contains an assert() or similar statement that can be triggered by an attacker, which leads to an application exit or other behavior that is more severe than necessary....\n\n### 3. CWE-863: Incorrect Authorization (Score: 1715.98)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 4. CWE-1286: Improper Validation of Syntactic Correctness of Input (Score: 749.85)\n\nThe product receives input that is expected to be well-formed - i.e., to comply with a certain syntax - but it does not validate or incorrectly validates that the input complies with the syntax....\n\n### 5. CWE-400: Uncontrolled Resource Consumption (Score: 741.73)\n\nThe product does not properly control the allocation and maintenance of a limited resource, thereby enabling an actor to influence the amount of resources consumed, eventually leading to the exhaustion of available resources....\n\n\n    # Analysis Instructions\n    1. For each keyphrase, identify the most appropriate CWE(s) that represent the weakness.\n    2. Consider how the different keyphrases might relate to each other in the vulnerability chain.\n    3. Provide a final determination of primary CWE(s) and any secondary CWEs.\n    4. Format your response using the standard analysis template.\n\n    Please analyze how these different weaknesses interact and provide a comprehensive CWE classification.\n    ",
+  "keyphrases": {},
+  "timestamp": "2025-04-01 22:48:56",
+  "cve_id": "unknown",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "617",
+      "name": "Reachable Assertion",
+      "type": "Base",
+      "score": 0.7507651365200965
+    },
+    {
+      "cwe_id": "1391",
+      "name": "Use of Weak Credentials",
+      "type": "Class",
+      "score": 0.7399131539185899
+    },
+    {
+      "cwe_id": "131",
+      "name": "Incorrect Calculation of Buffer Size",
+      "type": "Base",
+      "score": 0.734816973912301
+    },
+    {
+      "cwe_id": "755",
+      "name": "Improper Handling of Exceptional Conditions",
+      "type": "Class",
+      "score": 0.731461950655343
+    },
+    {
+      "cwe_id": "303",
+      "name": "Incorrect Implementation of Authentication Algorithm",
+      "type": "Base",
+      "score": 0.7288814024999339
+    },
+    {
+      "cwe_id": "407",
+      "name": "Inefficient Algorithmic Complexity",
+      "type": "Class",
+      "score": 0.7287159163867067
+    },
+    {
+      "cwe_id": "703",
+      "name": "Improper Check or Handling of Exceptional Conditions",
+      "type": "Pillar",
+      "score": 0.7271751133903892
+    },
+    {
+      "cwe_id": "923",
+      "name": "Improper Restriction of Communication Channel to Intended Endpoints",
+      "type": "Class",
+      "score": 0.7267874247960187
+    },
+    {
+      "cwe_id": "824",
+      "name": "Access of Uninitialized Pointer",
+      "type": "Base",
+      "score": 0.7260943251989979
+    },
+    {
+      "cwe_id": "754",
+      "name": "Improper Check for Unusual or Exceptional Conditions",
+      "type": "Class",
+      "score": 0.7252003935590872
+    }
+  ]
+}

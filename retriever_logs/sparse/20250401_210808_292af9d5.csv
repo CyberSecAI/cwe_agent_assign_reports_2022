@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1391,Use of Weak Credentials,4915.946467968557,base_query
+1390,Weak Authentication,4764.010858806765,base_query
+306,Missing Authentication for Critical Function,4677.369691798739,base_query
+1188,Initialization of a Resource with an Insecure Default,4554.024755822414,base_query
+863,Incorrect Authorization,4545.605431263347,base_query

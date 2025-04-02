@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+170,Improper Null Termination,Base,0.7979763096703936
+191,Integer Underflow (Wrap or Wraparound),Base,0.7662792812472977
+131,Incorrect Calculation of Buffer Size,Base,0.7651678081355578
+125,Out-of-bounds Read,Base,0.7557245488612069
+197,Numeric Truncation Error,Base,0.7547205282719045
+805,Buffer Access with Incorrect Length Value,Base,0.7533671458892119
+126,Buffer Over-read,Variant,0.7468457450244806
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7448107798531961
+124,Buffer Underwrite ('Buffer Underflow'),Base,0.743970546517261
+909,Missing Initialization of Resource,Class,0.7437544031173782

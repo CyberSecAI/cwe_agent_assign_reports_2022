@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7790252652576308
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.774058708005875
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.769934863032917
+668,Exposure of Resource to Wrong Sphere,Class,0.7663711499596471
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.765998805790381
+203,Observable Discrepancy,Base,0.7657659625145692
+267,Privilege Defined With Unsafe Actions,Base,0.7654712910789752
+266,Incorrect Privilege Assignment,Base,0.7654141155350698
+732,Incorrect Permission Assignment for Critical Resource,Class,0.7617410567697874
+274,Improper Handling of Insufficient Privileges,Base,0.7554339352695283

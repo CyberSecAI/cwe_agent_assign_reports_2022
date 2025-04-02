@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7853788708699666
+1220,Insufficient Granularity of Access Control,Base,0.7709350470155281
+274,Improper Handling of Insufficient Privileges,Base,0.7671984461876291
+668,Exposure of Resource to Wrong Sphere,Class,0.7668487395201102
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7665012656800781
+653,Improper Isolation or Compartmentalization,Class,0.7615304959472872
+73,External Control of File Name or Path,Base,0.7605438572070681
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7591100004136844
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.757692649666174
+691,Insufficient Control Flow Management,Pillar,0.7573449648365275

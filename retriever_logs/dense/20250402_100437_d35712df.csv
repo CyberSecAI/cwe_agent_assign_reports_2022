@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7625057990142584
+366,Race Condition within a Thread,Base,0.742688137794709
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.742269338222529
+667,Improper Locking,Class,0.7409789011028296
+404,Improper Resource Shutdown or Release,Class,0.740290692175048
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7382037153214323
+41,Improper Resolution of Path Equivalence,Base,0.7361231280238215
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7334928874582278
+125,Out-of-bounds Read,Base,0.732803084303016
+131,Incorrect Calculation of Buffer Size,Base,0.731828025906091

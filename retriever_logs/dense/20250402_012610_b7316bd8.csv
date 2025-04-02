@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7944150143539794
+427,Uncontrolled Search Path Element,Base,0.790445679688756
+266,Incorrect Privilege Assignment,Base,0.7891903972760179
+73,External Control of File Name or Path,Base,0.7854649189036236
+276,Incorrect Default Permissions,Base,0.782903023644113
+267,Privilege Defined With Unsafe Actions,Base,0.776716944340649
+41,Improper Resolution of Path Equivalence,Base,0.7763536419715219
+668,Exposure of Resource to Wrong Sphere,Class,0.7761066836959176
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7750743022027475
+274,Improper Handling of Insufficient Privileges,Base,0.773281754172428

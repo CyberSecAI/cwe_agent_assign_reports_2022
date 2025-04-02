@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7785249826049219
+404,Improper Resource Shutdown or Release,Class,0.7699515061024601
+667,Improper Locking,Class,0.7658026080205508
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7655631906024907
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7605098014026261
+653,Improper Isolation or Compartmentalization,Class,0.7553430122516311
+274,Improper Handling of Insufficient Privileges,Base,0.7529164991453047
+665,Improper Initialization,Class,0.7514847185571674
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.751093495963564
+41,Improper Resolution of Path Equivalence,Base,0.7507233002045397

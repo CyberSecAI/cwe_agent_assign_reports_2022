@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,4893.450881564717,base_query
+941,Incorrectly Specified Destination in a Communication Channel,4839.178360294729,base_query
+285,Improper Authorization,4805.6306236946875,base_query
+319,Cleartext Transmission of Sensitive Information,4792.303297727736,base_query
+862,Missing Authorization,4714.194411281632,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5533.003361863439,unknown
+770,Allocation of Resources Without Limits or Throttling,5338.422467914221,unknown
+789,Memory Allocation with Excessive Size Value,5329.611814812819,unknown
+617,Reachable Assertion,5272.564343288752,unknown
+754,Improper Check for Unusual or Exceptional Conditions,5188.30971465112,unknown

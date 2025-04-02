@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7466396666368114
+184,Incomplete List of Disallowed Inputs,Base,0.7464217284976264
+41,Improper Resolution of Path Equivalence,Base,0.7457733669156207
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7445983002099903
+691,Insufficient Control Flow Management,Pillar,0.7391520748601844
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.738936182212488
+73,External Control of File Name or Path,Base,0.7379699299799429
+667,Improper Locking,Class,0.7318897905213041
+183,Permissive List of Allowed Inputs,Base,0.7304415115319436
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7292938460872043

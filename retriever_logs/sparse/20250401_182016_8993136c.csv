@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,6358.052161508528,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,6065.927909291001,base_query
+201,Insertion of Sensitive Information Into Sent Data,5741.50029926637,base_query
+863,Incorrect Authorization,5628.564125584351,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5615.818800830461,base_query

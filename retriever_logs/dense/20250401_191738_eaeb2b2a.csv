@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7856069828754224
+404,Improper Resource Shutdown or Release,Class,0.7613330971179003
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7591901401713811
+1288,Improper Validation of Consistency within Input,Base,0.7582858953685526
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7576792544159326
+1389,Incorrect Parsing of Numbers with Different Radices,Base,0.7554862698530234
+131,Incorrect Calculation of Buffer Size,Base,0.7551482746445707
+682,Incorrect Calculation,Pillar,0.7524767444900581
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7515999983264549
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7513149981292949

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,6630.862959750051,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,6527.287163250102,base_query
+863,Incorrect Authorization,6451.811622528645,base_query
+1284,Improper Validation of Specified Quantity in Input,6442.20756250775,base_query
+212,Improper Removal of Sensitive Information Before Storage or Transfer,6424.865541776619,base_query

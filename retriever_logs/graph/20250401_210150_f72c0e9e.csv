@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+386,Symbolic Name not Mapping to Correct Object,base,4.4954,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,3.6399999999999997,0
+73,External Control of File Name or Path,Base,3.212207296696425,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.926240189886407,0
+41,Improper Resolution of Path Equivalence,Base,2.922850116369793,0
+363,Race Condition Enabling Link Following,base,2.8651999999999997,0
+770,Allocation of Resources Without Limits or Throttling,base,2.73416,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.73416,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.6784000000000003,0

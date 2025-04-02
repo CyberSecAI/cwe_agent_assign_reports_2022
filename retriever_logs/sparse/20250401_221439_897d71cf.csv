@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),5063.100654734381,base_query
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),4972.27052648518,base_query
+1333,Inefficient Regular Expression Complexity,4900.7235133904305,base_query
+770,Allocation of Resources Without Limits or Throttling,4877.489644728053,base_query
+789,Memory Allocation with Excessive Size Value,4871.772062481358,base_query

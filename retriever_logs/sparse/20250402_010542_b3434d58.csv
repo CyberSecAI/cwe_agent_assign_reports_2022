@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+178,Improper Handling of Case Sensitivity,4810.2076388106225,base_query
+472,External Control of Assumed-Immutable Web Parameter,4673.877558208975,base_query
+863,Incorrect Authorization,4649.71615978994,base_query
+285,Improper Authorization,4613.893875055221,base_query
+639,Authorization Bypass Through User-Controlled Key,4534.163751110479,base_query

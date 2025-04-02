@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,4881.116126132172,unknown
+347,Improper Verification of Cryptographic Signature,4809.747625974936,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,4757.840638848675,unknown
+354,Improper Validation of Integrity Check Value,4722.310690118868,unknown
+353,Missing Support for Integrity Check,4576.940819929423,unknown

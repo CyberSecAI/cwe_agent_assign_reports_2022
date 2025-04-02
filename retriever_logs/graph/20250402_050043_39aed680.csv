@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+125,Out-of-bounds Read,base,3.8870000000000005,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),base,3.4361600000000005,0
+787,Out-of-bounds Write,base,3.302,0
+41,Improper Resolution of Path Equivalence,Base,2.912619378783966,0
+73,External Control of File Name or Path,Base,2.909637198807463,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.905879647351508,0
+1260,Improper Handling of Overlap Between Protected Memory Ranges,base,2.8651999999999997,0

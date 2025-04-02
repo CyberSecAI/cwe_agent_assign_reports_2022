@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+204,Observable Response Discrepancy,Base,0.7732449563690641
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7619460039203971
+639,Authorization Bypass Through User-Controlled Key,Base,0.75172418715991
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7392171199874896
+208,Observable Timing Discrepancy,Base,0.7363571366041293
+203,Observable Discrepancy,Base,0.7346246959427958
+1390,Weak Authentication,Class,0.7334309200829559
+1220,Insufficient Granularity of Access Control,Base,0.7320179211091344
+668,Exposure of Resource to Wrong Sphere,Class,0.7308878512243036
+405,Asymmetric Resource Consumption (Amplification),Class,0.730315898854071

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,5227.723800537947,base_query
+798,Use of Hard-coded Credentials,5179.974274148829,base_query
+259,Use of Hard-coded Password,5170.987048489141,base_query
+208,Observable Timing Discrepancy,5112.172569025491,base_query
+321,Use of Hard-coded Cryptographic Key,5012.599556586358,base_query

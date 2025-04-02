@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+23,Relative Path Traversal,Base,0.7906736665228626
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7745866904000911
+41,Improper Resolution of Path Equivalence,Base,0.7731941902536148
+36,Absolute Path Traversal,Base,0.7690336820678734
+73,External Control of File Name or Path,Base,0.7625146633946098
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.760640139563953
+668,Exposure of Resource to Wrong Sphere,Class,0.7542314365515308
+552,Files or Directories Accessible to External Parties,Base,0.7534405262843141
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7523997238608975
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7491621193836785

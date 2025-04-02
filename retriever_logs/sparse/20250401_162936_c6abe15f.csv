@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,9339.146415700205,unknown
+789,Memory Allocation with Excessive Size Value,9073.758586582666,unknown
+770,Allocation of Resources Without Limits or Throttling,8900.337213790244,unknown
+1284,Improper Validation of Specified Quantity in Input,8898.337923755204,unknown
+190,Integer Overflow or Wraparound,8702.365891962321,unknown

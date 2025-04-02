@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1391,Use of Weak Credentials,Class,0.7809615213018215
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7698672668688169
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7653196899624602
+319,Cleartext Transmission of Sensitive Information,Base,0.7645995746658334
+312,Cleartext Storage of Sensitive Information,Base,0.7628387859209438
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.759321226204226
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,Variant,0.753308171771893
+1390,Weak Authentication,Class,0.7531875630864553
+328,Use of Weak Hash,Base,0.7478172941850756
+311,Missing Encryption of Sensitive Data,Class,0.7477820505219126

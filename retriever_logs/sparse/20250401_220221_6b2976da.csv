@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,6180.189557426412,unknown
+863,Incorrect Authorization,6109.530334908284,unknown
+639,Authorization Bypass Through User-Controlled Key,6099.62856011071,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6075.776694882025,unknown
+1284,Improper Validation of Specified Quantity in Input,6048.421439417629,unknown

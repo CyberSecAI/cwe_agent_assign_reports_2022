@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+289,Authentication Bypass by Alternate Name,Base,0.7600853502251879
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7529587908728181
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.7507297308812461
+405,Asymmetric Resource Consumption (Amplification),Class,0.7492881486235444
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7465479420372126
+668,Exposure of Resource to Wrong Sphere,Class,0.744040484622386
+41,Improper Resolution of Path Equivalence,Base,0.7423405161264236
+799,Improper Control of Interaction Frequency,Class,0.740093999119066
+291,Reliance on IP Address for Authentication,Variant,0.738241150014144
+639,Authorization Bypass Through User-Controlled Key,Base,0.7381834764829003

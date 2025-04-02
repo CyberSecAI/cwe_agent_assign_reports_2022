@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+125,Out-of-bounds Read,Base,0.7577687699304325
+788,Access of Memory Location After End of Buffer,Base,0.753389467348239
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7532766210498117
+131,Incorrect Calculation of Buffer Size,Base,0.7522325583144907
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.748839102064295
+789,Memory Allocation with Excessive Size Value,Variant,0.7440365479953244
+184,Incomplete List of Disallowed Inputs,Base,0.7431453763845234
+41,Improper Resolution of Path Equivalence,Base,0.7414647443171023
+404,Improper Resource Shutdown or Release,Class,0.7413836361477241
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7413677425584664

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.984,0
+941,Incorrectly Specified Destination in a Communication Channel,Base,2.903781308165268,0
+183,Permissive List of Allowed Inputs,base,2.821,0
+322,Key Exchange without Entity Authentication,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.6784000000000003,0
+406,Insufficient Control of Network Message Volume (Network Amplification),class,2.5519999999999996,0
+611,Improper Restriction of XML External Entity Reference,Base,2.4871771767406057,0

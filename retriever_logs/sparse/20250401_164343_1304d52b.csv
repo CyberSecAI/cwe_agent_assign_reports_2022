@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,6767.079306483298,unknown
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,6662.62525801229,unknown
+312,Cleartext Storage of Sensitive Information,6634.468592577277,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6626.542035010952,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,6566.236215234156,unknown

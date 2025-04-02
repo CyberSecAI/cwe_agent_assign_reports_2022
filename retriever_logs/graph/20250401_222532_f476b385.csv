@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+499,Serializable Class Containing Sensitive Data,variant,3.8784,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.899094962066481,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+259,Use of Hard-coded Password,variant,2.8104,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+532,Insertion of Sensitive Information into Log File,base,2.4699999999999998,0
+359,Exposure of Private Personal Information to an Unauthorized Actor,base,2.4699999999999998,0
+203,Observable Discrepancy,base,2.4699999999999998,0

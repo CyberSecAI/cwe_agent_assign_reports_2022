@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+552,Files or Directories Accessible to External Parties,Base,0.7606590633419884
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.759069321721775
+404,Improper Resource Shutdown or Release,Class,0.755418480634565
+668,Exposure of Resource to Wrong Sphere,Class,0.7466590551180913
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7464364736265263
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7460912955312711
+378,Creation of Temporary File With Insecure Permissions,Base,0.7430420767062811
+73,External Control of File Name or Path,Base,0.7402967054146358
+379,Creation of Temporary File in Directory with Insecure Permissions,Base,0.7359792069161615
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7334864043737865

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+259,Use of Hard-coded Password,variant,4.0104,0
+789,Memory Allocation with Excessive Size Value,variant,3.7507200000000003,0
+798,Use of Hard-coded Credentials,base,3.6399999999999997,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+190,Integer Overflow or Wraparound,base,3.4200400000000006,0
+410,Insufficient Resource Pool,base,2.8651999999999997,0
+911,Improper Update of Reference Count,base,2.8651999999999997,0
+390,Detection of Error Condition Without Action,base,2.8651999999999997,0

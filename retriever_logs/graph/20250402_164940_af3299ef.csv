@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+208,Observable Timing Discrepancy,base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+322,Key Exchange without Entity Authentication,base,3.4361600000000005,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+295,Improper Certificate Validation,base,2.7742,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0
+256,Plaintext Storage of a Password,base,2.4699999999999998,0

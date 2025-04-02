@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.769630719395167
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7686971055213504
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7686281906855522
+668,Exposure of Resource to Wrong Sphere,Class,0.7648736193692389
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7638461778976299
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7619803498377105
+639,Authorization Bypass Through User-Controlled Key,Base,0.7580675518877762
+274,Improper Handling of Insufficient Privileges,Base,0.755365584159328
+41,Improper Resolution of Path Equivalence,Base,0.7548550336164825
+319,Cleartext Transmission of Sensitive Information,Base,0.7547202967280763

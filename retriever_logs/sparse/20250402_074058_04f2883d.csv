@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+306,Missing Authentication for Critical Function,6893.581944502339,unknown
+863,Incorrect Authorization,6073.714437415751,unknown
+425,Direct Request ('Forced Browsing'),6061.782845125768,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6039.854436732292,unknown
+352,Cross-Site Request Forgery (CSRF),5977.372736683412,unknown

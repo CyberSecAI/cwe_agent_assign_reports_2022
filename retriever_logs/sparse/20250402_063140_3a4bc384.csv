@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,8390.433927071203,unknown
+863,Incorrect Authorization,8187.153342555593,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,8099.58102893188,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8040.242136052177,unknown
+639,Authorization Bypass Through User-Controlled Key,8037.476053182841,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,3.8784,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.653,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,3.4866,0
+73,External Control of File Name or Path,base,3.2255600000000006,0
+183,Permissive List of Allowed Inputs,base,3.06904,0
+41,Improper Resolution of Path Equivalence,Base,3.057385356062968,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.73416,0
+494,Download of Code Without Integrity Check,base,2.73416,0

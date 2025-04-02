@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5412.663277229691,base_query
+639,Authorization Bypass Through User-Controlled Key,5409.088131200304,base_query
+476,NULL Pointer Dereference,5351.776506019837,base_query
+252,Unchecked Return Value,5312.715547980481,base_query
+823,Use of Out-of-range Pointer Offset,5306.448662480143,base_query

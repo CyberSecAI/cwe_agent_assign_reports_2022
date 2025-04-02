@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),6480.586061654324,base_query
+61,UNIX Symbolic Link (Symlink) Following,5885.966165037408,base_query
+23,Relative Path Traversal,5686.658012185947,base_query
+1386,Insecure Operation on Windows Junction / Mount Point,5671.204711834807,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5594.217189683263,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+804,Guessable CAPTCHA,base,4.329000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9055572145806137,0
+41,Improper Resolution of Path Equivalence,Base,2.6406235344980398,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0
+378,Creation of Temporary File With Insecure Permissions,base,2.4699999999999998,0
+379,Creation of Temporary File in Directory with Insecure Permissions,base,2.4699999999999998,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,2.4699999999999998,0
+1188,Initialization of a Resource with an Insecure Default,base,2.4699999999999998,0

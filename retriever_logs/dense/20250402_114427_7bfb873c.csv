@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1021,Improper Restriction of Rendered UI Layers or Frames,Base,0.8065291921333896
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7952330699423789
+203,Observable Discrepancy,Base,0.7831093423651483
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7744968331869306
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7737975281667849
+668,Exposure of Resource to Wrong Sphere,Class,0.7678660769613013
+667,Improper Locking,Class,0.7606711247605991
+41,Improper Resolution of Path Equivalence,Base,0.7574685778470307
+755,Improper Handling of Exceptional Conditions,Class,0.7564417436434795
+665,Improper Initialization,Class,0.7551141273814244

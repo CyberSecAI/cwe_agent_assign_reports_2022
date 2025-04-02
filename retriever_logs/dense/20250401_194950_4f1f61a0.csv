@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+330,Use of Insufficiently Random Values,Class,0.8192262235350027
+331,Insufficient Entropy,Base,0.7822795804479762
+345,Insufficient Verification of Data Authenticity,Class,0.7807134840688953
+1391,Use of Weak Credentials,Class,0.7794159500776037
+668,Exposure of Resource to Wrong Sphere,Class,0.7782821117752758
+41,Improper Resolution of Path Equivalence,Base,0.7775648664041032
+23,Relative Path Traversal,Base,0.7762975447567679
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7760434487600456
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7749460333084768
+203,Observable Discrepancy,Base,0.7743119505286096

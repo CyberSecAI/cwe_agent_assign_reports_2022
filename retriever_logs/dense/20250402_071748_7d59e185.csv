@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1390,Weak Authentication,Class,0.7287910112091679
+41,Improper Resolution of Path Equivalence,Base,0.7274410483243656
+653,Improper Isolation or Compartmentalization,Class,0.7269790018262998
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7257183542208587
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7235773158960697
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7177271441181358
+274,Improper Handling of Insufficient Privileges,Base,0.7162098623523725
+657,Violation of Secure Design Principles,Class,0.7138809224490068
+668,Exposure of Resource to Wrong Sphere,Class,0.7096175444521009
+23,Relative Path Traversal,Base,0.709348762384088

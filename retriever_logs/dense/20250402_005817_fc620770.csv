@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+669,Incorrect Resource Transfer Between Spheres,Class,0.7654111361980083
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7631065210193965
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.755961447432383
+184,Incomplete List of Disallowed Inputs,Base,0.7531851544287999
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7411922333006552
+668,Exposure of Resource to Wrong Sphere,Class,0.7407277552465743
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7389294283012504
+138,Improper Neutralization of Special Elements,Class,0.7361619022423319
+73,External Control of File Name or Path,Base,0.7338255405523042
+41,Improper Resolution of Path Equivalence,Base,0.7330003736937302

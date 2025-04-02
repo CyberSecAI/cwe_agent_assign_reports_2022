@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,5651.034274918136,unknown
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,5345.027012981915,unknown
+755,Improper Handling of Exceptional Conditions,5142.521584932564,unknown
+250,Execution with Unnecessary Privileges,5141.421561756784,unknown
+863,Incorrect Authorization,5124.264897129532,unknown

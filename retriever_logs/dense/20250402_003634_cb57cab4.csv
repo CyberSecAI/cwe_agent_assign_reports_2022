@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+789,Memory Allocation with Excessive Size Value,Variant,0.7744868581466728
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7501481704593808
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7439224756107921
+131,Incorrect Calculation of Buffer Size,Base,0.7418750407237946
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7392022374253198
+125,Out-of-bounds Read,Base,0.7387982687017369
+197,Numeric Truncation Error,Base,0.7359463103150664
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7353443024369908
+191,Integer Underflow (Wrap or Wraparound),Base,0.7335809795201785
+681,Incorrect Conversion between Numeric Types,Base,0.7322017643402865

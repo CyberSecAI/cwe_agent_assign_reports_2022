@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1204,Generation of Weak Initialization Vector (IV),7203.110385166478,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6892.159070409262,unknown
+863,Incorrect Authorization,6849.770654108915,unknown
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),6788.138529780482,unknown
+1284,Improper Validation of Specified Quantity in Input,6762.455823998422,unknown

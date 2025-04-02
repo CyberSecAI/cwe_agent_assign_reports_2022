@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7442661631989032
+274,Improper Handling of Insufficient Privileges,Base,0.7170267661401047
+1220,Insufficient Granularity of Access Control,Base,0.7128804813785916
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7079890166922854
+266,Incorrect Privilege Assignment,Base,0.703261399889839
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7014792187968282
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.6914239130849705
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.6888315033951757
+648,Incorrect Use of Privileged APIs,Base,0.6888077859166132
+269,Improper Privilege Management,Class,0.6887473385736944

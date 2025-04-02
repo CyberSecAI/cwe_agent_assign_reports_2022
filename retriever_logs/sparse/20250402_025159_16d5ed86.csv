@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,6097.3800714944855,base_query
+252,Unchecked Return Value,5908.840541105782,base_query
+476,NULL Pointer Dereference,5767.064006995047,base_query
+125,Out-of-bounds Read,5679.487613747006,base_query
+415,Double Free,5631.871550202245,base_query

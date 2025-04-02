@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,2.502092616410709,0
+274,Improper Handling of Insufficient Privileges,Base,2.5018884908112122,0
+266,Incorrect Privilege Assignment,Base,2.501446254167885,0
+261,Weak Encoding for Password,base,2.4699999999999998,0
+250,Execution with Unnecessary Privileges,base,2.4699999999999998,0
+223,Omission of Security-relevant Information,base,2.4699999999999998,0
+908,Use of Uninitialized Resource,base,2.4699999999999998,0
+778,Insufficient Logging,base,2.4699999999999998,0
+386,Symbolic Name not Mapping to Correct Object,base,2.1985600000000005,0

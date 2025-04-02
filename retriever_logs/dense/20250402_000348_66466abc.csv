@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+798,Use of Hard-coded Credentials,Base,0.804553145896736
+1391,Use of Weak Credentials,Class,0.7973531958207237
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7879088659338217
+1392,Use of Default Credentials,Base,0.7773296228101529
+1188,Initialization of a Resource with an Insecure Default,Base,0.7746851657022813
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7743466563526114
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7715753818616342
+345,Insufficient Verification of Data Authenticity,Class,0.7678521985778999
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7631224346171587
+319,Cleartext Transmission of Sensitive Information,Base,0.7620866933376679

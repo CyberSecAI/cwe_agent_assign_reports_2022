@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+911,Improper Update of Reference Count,5088.160504362236,unknown
+476,NULL Pointer Dereference,5014.20917354286,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),4951.375715921346,unknown
+667,Improper Locking,4907.9723607039805,unknown
+822,Untrusted Pointer Dereference,4891.070673239084,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7755725673969447
+131,Incorrect Calculation of Buffer Size,Base,0.7739677216408958
+668,Exposure of Resource to Wrong Sphere,Class,0.7726266230874499
+125,Out-of-bounds Read,Base,0.7704784253280893
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7695548502742182
+23,Relative Path Traversal,Base,0.7688352571853949
+129,Improper Validation of Array Index,Variant,0.7653977239761869
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7640886781212702
+755,Improper Handling of Exceptional Conditions,Class,0.7633043961443554
+252,Unchecked Return Value,Base,0.7627843118671044

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,6551.457523233043,unknown
+269,Improper Privilege Management,6221.269308287466,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6197.679317356738,unknown
+250,Execution with Unnecessary Privileges,6175.7844088851125,unknown
+252,Unchecked Return Value,6174.023328046805,unknown

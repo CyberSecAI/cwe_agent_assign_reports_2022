@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+287,Improper Authentication,6934.998709128011,base_query
+863,Incorrect Authorization,6910.5800024255,base_query
+798,Use of Hard-coded Credentials,6896.068942600033,base_query
+259,Use of Hard-coded Password,6895.413614633841,base_query
+306,Missing Authentication for Critical Function,6888.485102537853,base_query

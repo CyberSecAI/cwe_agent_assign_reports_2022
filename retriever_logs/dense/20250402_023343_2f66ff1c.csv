@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7631049354625998
+668,Exposure of Resource to Wrong Sphere,Class,0.7611212015216253
+73,External Control of File Name or Path,Base,0.759286351333691
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7584469957626937
+41,Improper Resolution of Path Equivalence,Base,0.7579502360422832
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7567915515568767
+345,Insufficient Verification of Data Authenticity,Class,0.7541394565562625
+691,Insufficient Control Flow Management,Pillar,0.7539607291038879
+667,Improper Locking,Class,0.7525632757241973
+657,Violation of Secure Design Principles,Class,0.7522484700660377

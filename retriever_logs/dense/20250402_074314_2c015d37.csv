@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+331,Insufficient Entropy,Base,0.7941550862599177
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7773416549227481
+330,Use of Insufficiently Random Values,Class,0.7724500500882772
+1391,Use of Weak Credentials,Class,0.7646885557913988
+668,Exposure of Resource to Wrong Sphere,Class,0.7561898680678186
+656,Reliance on Security Through Obscurity,Class,0.7508811303690954
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7508672287123789
+312,Cleartext Storage of Sensitive Information,Base,0.7458188909079847
+798,Use of Hard-coded Credentials,Base,0.7443019930643416
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7425504911745331

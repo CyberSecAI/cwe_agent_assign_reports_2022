@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+331,Insufficient Entropy,Base,0.8011244344655641
+330,Use of Insufficiently Random Values,Class,0.7874303534981975
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7842302699468515
+1391,Use of Weak Credentials,Class,0.7714794481274367
+319,Cleartext Transmission of Sensitive Information,Base,0.7590641825425899
+345,Insufficient Verification of Data Authenticity,Class,0.7583866102322753
+328,Use of Weak Hash,Base,0.75781670085135
+656,Reliance on Security Through Obscurity,Class,0.751431524696762
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7498561971943658
+203,Observable Discrepancy,Base,0.7492714573743293

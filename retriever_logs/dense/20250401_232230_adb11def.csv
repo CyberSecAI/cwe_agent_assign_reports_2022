@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+425,Direct Request ('Forced Browsing'),Base,0.7871359431006123
+41,Improper Resolution of Path Equivalence,Base,0.7862053538750198
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7859426747173582
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7808145048991053
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7778681867563026
+319,Cleartext Transmission of Sensitive Information,Base,0.7766438034762642
+923,Improper Restriction of Communication Channel to Intended Endpoints,Class,0.7760210626476711
+668,Exposure of Resource to Wrong Sphere,Class,0.7753400578342371
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7751316437186541
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.7735614547142491

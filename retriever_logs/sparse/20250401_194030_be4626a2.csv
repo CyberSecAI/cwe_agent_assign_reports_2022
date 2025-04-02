@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7890.562760445161,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),7129.773793693488,unknown
+732,Incorrect Permission Assignment for Critical Resource,6752.620142724289,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6744.746067952253,unknown
+770,Allocation of Resources Without Limits or Throttling,6722.2441892916495,unknown

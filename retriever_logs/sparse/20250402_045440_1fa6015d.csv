@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),8463.638584054639,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),8248.170937818997,base_query
+116,Improper Encoding or Escaping of Output,8171.237542869079,base_query
+94,Improper Control of Generation of Code ('Code Injection'),8075.602758088745,base_query
+138,Improper Neutralization of Special Elements,8024.442818565686,base_query

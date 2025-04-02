@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,4479.333560232262,unknown
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),4454.570560665002,unknown
+197,Numeric Truncation Error,4447.108046729025,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,4287.976655846487,unknown
+193,Off-by-one Error,4261.867672312676,unknown

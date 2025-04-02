@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7685633262447387
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7660878806369352
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7632434500848378
+404,Improper Resource Shutdown or Release,Class,0.7595181366566153
+203,Observable Discrepancy,Base,0.7591899721276978
+668,Exposure of Resource to Wrong Sphere,Class,0.7583736225973119
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.754058425794844
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.74810048318331
+345,Insufficient Verification of Data Authenticity,Class,0.746355881913489
+755,Improper Handling of Exceptional Conditions,Class,0.7418885220719351

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+405,Asymmetric Resource Consumption (Amplification),Class,0.7570701311425679
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7485844279096492
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7474520276703269
+668,Exposure of Resource to Wrong Sphere,Class,0.7466093151052499
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7392413017703195
+799,Improper Control of Interaction Frequency,Class,0.7367975236443343
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.735753484155827
+300,Channel Accessible by Non-Endpoint,Class,0.7333729104916998
+406,Insufficient Control of Network Message Volume (Network Amplification),Class,0.7329780157026466
+41,Improper Resolution of Path Equivalence,Base,0.7315867958888302

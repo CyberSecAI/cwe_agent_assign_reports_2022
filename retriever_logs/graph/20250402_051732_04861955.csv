@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+386,Symbolic Name not Mapping to Correct Object,base,4.4954,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,3.6399999999999997,0
+252,Unchecked Return Value,base,3.0784,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+73,External Control of File Name or Path,base,2.6816400000000002,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+486,Comparison of Classes by Name,variant,2.6039999999999996,0
+456,Missing Initialization of a Variable,variant,2.5507200000000005,0
+274,Improper Handling of Insufficient Privileges,Base,2.4912756329884758,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.8068050751176687
+64,Windows Shortcut Following (.LNK),Variant,0.7836559766635052
+61,UNIX Symbolic Link (Symlink) Following,Compound,0.7656907815592857
+427,Uncontrolled Search Path Element,Base,0.7627410387255594
+41,Improper Resolution of Path Equivalence,Base,0.7625152419737696
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7567079747251055
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.748047304914365
+73,External Control of File Name or Path,Base,0.7471997589398542
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7467716365981223
+184,Incomplete List of Disallowed Inputs,Base,0.7428178815033009

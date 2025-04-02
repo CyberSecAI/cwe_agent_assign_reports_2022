@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,6899.703534891592,base_query
+1284,Improper Validation of Specified Quantity in Input,6576.321869213654,base_query
+295,Improper Certificate Validation,6559.711963744018,base_query
+1289,Improper Validation of Unsafe Equivalence in Input,6551.95741066542,base_query
+1286,Improper Validation of Syntactic Correctness of Input,6454.560458159802,base_query

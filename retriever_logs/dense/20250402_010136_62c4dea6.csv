@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7600859614967861
+404,Improper Resource Shutdown or Release,Class,0.760032306906964
+668,Exposure of Resource to Wrong Sphere,Class,0.7539084221515611
+405,Asymmetric Resource Consumption (Amplification),Class,0.7529442120608587
+639,Authorization Bypass Through User-Controlled Key,Base,0.7515676615623523
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7428297264903279
+274,Improper Handling of Insufficient Privileges,Base,0.7427585149566066
+41,Improper Resolution of Path Equivalence,Base,0.7415178498843157
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7391901322066136
+653,Improper Isolation or Compartmentalization,Class,0.7389323341784052

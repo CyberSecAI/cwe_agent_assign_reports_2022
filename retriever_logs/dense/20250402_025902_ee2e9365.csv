@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7573255755637169
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.753998665138066
+73,External Control of File Name or Path,Base,0.745976091738373
+653,Improper Isolation or Compartmentalization,Class,0.7396704989532543
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7390172255355287
+184,Incomplete List of Disallowed Inputs,Base,0.7387031694407573
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.737215048709475
+427,Uncontrolled Search Path Element,Base,0.7370869885560422
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7368809085450636
+274,Improper Handling of Insufficient Privileges,Base,0.73680705316767

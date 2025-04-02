@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,5884.167823649296,base_query
+863,Incorrect Authorization,5736.173650202651,base_query
+1390,Weak Authentication,5682.012018819914,base_query
+696,Incorrect Behavior Order,5651.239235993926,base_query
+285,Improper Authorization,5580.832471272457,base_query

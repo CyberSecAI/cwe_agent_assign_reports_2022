@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,6299.775511473135,base_query
+203,Observable Discrepancy,6177.391342186212,base_query
+319,Cleartext Transmission of Sensitive Information,6046.251647440356,base_query
+1240,Use of a Cryptographic Primitive with a Risky Implementation,6008.899113036739,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,5988.1993481102445,base_query

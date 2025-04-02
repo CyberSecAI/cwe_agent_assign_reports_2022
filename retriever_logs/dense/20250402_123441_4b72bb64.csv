@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7697257283750143
+404,Improper Resource Shutdown or Release,Class,0.7653269924435182
+191,Integer Underflow (Wrap or Wraparound),Base,0.7645475889254507
+667,Improper Locking,Class,0.7625265470712971
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7624618363268403
+125,Out-of-bounds Read,Base,0.7612464706222735
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7593227054225062
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7578203002886106
+653,Improper Isolation or Compartmentalization,Class,0.754626548653255
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7540471336084109

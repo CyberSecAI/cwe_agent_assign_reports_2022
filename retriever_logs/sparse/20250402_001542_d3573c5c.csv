@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+328,Use of Weak Hash,7557.602907085898,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,7350.8974907009915,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7337.684007651504,unknown
+916,Use of Password Hash With Insufficient Computational Effort,7247.508612958135,unknown
+347,Improper Verification of Cryptographic Signature,7184.166723157719,unknown

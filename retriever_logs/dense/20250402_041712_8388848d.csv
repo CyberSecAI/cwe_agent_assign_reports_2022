@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7851810593832448
+23,Relative Path Traversal,Base,0.7791321779191365
+184,Incomplete List of Disallowed Inputs,Base,0.7683628704732512
+41,Improper Resolution of Path Equivalence,Base,0.7679148671298335
+425,Direct Request ('Forced Browsing'),Base,0.7660757905260726
+639,Authorization Bypass Through User-Controlled Key,Base,0.7634093759181735
+138,Improper Neutralization of Special Elements,Class,0.7629878912957444
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7624982356718988
+116,Improper Encoding or Escaping of Output,Class,0.7611304063840836
+434,Unrestricted Upload of File with Dangerous Type,Base,0.759056971592983

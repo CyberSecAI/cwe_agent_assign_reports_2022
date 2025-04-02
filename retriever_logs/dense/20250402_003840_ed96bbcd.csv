@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7914807403088868
+294,Authentication Bypass by Capture-replay,Base,0.7797669605111637
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7763611522394236
+918,Server-Side Request Forgery (SSRF),Base,0.7737994551220739
+204,Observable Response Discrepancy,Base,0.7701752671020397
+1391,Use of Weak Credentials,Class,0.7679878108217306
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7676529167472079
+345,Insufficient Verification of Data Authenticity,Class,0.7676111910629941
+1390,Weak Authentication,Class,0.7665332712715867
+319,Cleartext Transmission of Sensitive Information,Base,0.7659873434213142

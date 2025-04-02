@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,11097.993120642546,base_query
+916,Use of Password Hash With Insufficient Computational Effort,10285.274464598442,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),10197.89357093786,base_query
+184,Incomplete List of Disallowed Inputs,10080.62000791422,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),10073.242209837483,base_query

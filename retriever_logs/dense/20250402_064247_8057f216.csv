@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+191,Integer Underflow (Wrap or Wraparound),Base,0.7881678182619857
+197,Numeric Truncation Error,Base,0.7805156867219021
+681,Incorrect Conversion between Numeric Types,Base,0.7589527483825178
+23,Relative Path Traversal,Base,0.7565547801343928
+190,Integer Overflow or Wraparound,Base,0.7562724630598159
+131,Incorrect Calculation of Buffer Size,Base,0.7554622563112094
+125,Out-of-bounds Read,Base,0.7540866261590049
+41,Improper Resolution of Path Equivalence,Base,0.7493092263904058
+667,Improper Locking,Class,0.7469782297416385
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7449203104016049

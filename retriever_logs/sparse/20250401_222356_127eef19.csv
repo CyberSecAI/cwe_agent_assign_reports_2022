@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),9055.050146582473,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8945.481897421754,base_query
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),8767.958828731986,base_query
+116,Improper Encoding or Escaping of Output,8502.817380996046,base_query
+611,Improper Restriction of XML External Entity Reference,8481.017558258385,base_query

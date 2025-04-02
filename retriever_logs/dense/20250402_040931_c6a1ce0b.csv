@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+665,Improper Initialization,Class,0.7377099774265845
+1419,Incorrect Initialization of Resource,Class,0.7338121243254558
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7307434848200269
+457,Use of Uninitialized Variable,Variant,0.7301342893995563
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7294976585113164
+909,Missing Initialization of Resource,Class,0.7166289063588304
+691,Insufficient Control Flow Management,Pillar,0.7162685152210986
+404,Improper Resource Shutdown or Release,Class,0.7155453276382149
+456,Missing Initialization of a Variable,Variant,0.7155187970753454
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7148992116323745

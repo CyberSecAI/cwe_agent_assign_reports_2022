@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+259,Use of Hard-coded Password,variant,4.0104,0
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.9079021473769324,0
+386,Symbolic Name not Mapping to Correct Object,base,2.9005600000000005,0

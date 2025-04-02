@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+838,Inappropriate Encoding for Output Context,Base,0.7273788992599057
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7172084228441765
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),Base,0.7149803169958748
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7129869008254378
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7118818520181629
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7052104021602662
+115,Misinterpretation of Input,Base,0.6991948176949713
+829,Inclusion of Functionality from Untrusted Control Sphere,Base,0.6971125163210004
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.6961457705164407
+150,Improper Neutralization of Escape  Meta  or Control Sequences,Variant,0.6941357552637676

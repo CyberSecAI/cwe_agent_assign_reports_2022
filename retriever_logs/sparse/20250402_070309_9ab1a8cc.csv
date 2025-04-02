@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,8724.482601808113,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8659.616071933668,base_query
+1284,Improper Validation of Specified Quantity in Input,8606.2527169327,base_query
+863,Incorrect Authorization,8593.467646860958,base_query
+190,Integer Overflow or Wraparound,8568.471169684155,base_query

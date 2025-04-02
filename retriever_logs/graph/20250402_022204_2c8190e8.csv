@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+390,Detection of Error Condition Without Action,base,4.8204,0
+401,Missing Release of Memory after Effective Lifetime,variant,3.8784,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+600,Uncaught Exception in Servlet ,variant,3.1987200000000002,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.906134182326648,0
+941,Incorrectly Specified Destination in a Communication Channel,Base,2.906052922127926,0

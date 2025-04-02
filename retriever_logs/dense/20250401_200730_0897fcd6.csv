@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+312,Cleartext Storage of Sensitive Information,Base,0.7396514987233038
+41,Improper Resolution of Path Equivalence,Base,0.7351678841059743
+73,External Control of File Name or Path,Base,0.7345090751589731
+23,Relative Path Traversal,Base,0.7316596552167711
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7306101211299154
+653,Improper Isolation or Compartmentalization,Class,0.7304216424882929
+668,Exposure of Resource to Wrong Sphere,Class,0.7287828016424908
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7261148791166525
+552,Files or Directories Accessible to External Parties,Base,0.7238025058982234
+274,Improper Handling of Insufficient Privileges,Base,0.7229763064660681

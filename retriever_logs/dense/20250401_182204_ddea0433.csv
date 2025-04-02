@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+274,Improper Handling of Insufficient Privileges,Base,0.7677622582962025
+639,Authorization Bypass Through User-Controlled Key,Base,0.76530985205151
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7636405922036
+552,Files or Directories Accessible to External Parties,Base,0.7632718504259357
+668,Exposure of Resource to Wrong Sphere,Class,0.7632333080086293
+23,Relative Path Traversal,Base,0.7620805914852019
+1220,Insufficient Granularity of Access Control,Base,0.7604803305020923
+41,Improper Resolution of Path Equivalence,Base,0.759532065101745
+73,External Control of File Name or Path,Base,0.7590588811133897
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.755463072004597

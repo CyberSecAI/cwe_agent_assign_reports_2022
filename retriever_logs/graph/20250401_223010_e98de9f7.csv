@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+640,Weak Password Recovery Mechanism for Forgotten Password,base,2.4699999999999998,0
+620,Unverified Password Change,base,2.4699999999999998,0
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),base,2.4699999999999998,0
+328,Use of Weak Hash,base,2.4699999999999998,0
+480,Use of Incorrect Operator,base,2.3998000000000004,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0
+337,Predictable Seed in Pseudo-Random Number Generator (PRNG),variant,2.1624,0
+770,Allocation of Resources Without Limits or Throttling,base,2.1189999999999998,0

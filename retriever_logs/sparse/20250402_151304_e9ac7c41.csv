@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,6758.853523173183,unknown
+472,External Control of Assumed-Immutable Web Parameter,6653.831540904431,unknown
+863,Incorrect Authorization,6635.131141541375,unknown
+201,Insertion of Sensitive Information Into Sent Data,6476.740108828396,unknown
+639,Authorization Bypass Through User-Controlled Key,6437.122685416245,unknown

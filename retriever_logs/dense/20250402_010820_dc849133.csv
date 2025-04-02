@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7982845361113398
+1386,Insecure Operation on Windows Junction / Mount Point,Base,0.7857685762048928
+274,Improper Handling of Insufficient Privileges,Base,0.7730581182447755
+73,External Control of File Name or Path,Base,0.7706657950181433
+41,Improper Resolution of Path Equivalence,Base,0.7698001873294621
+653,Improper Isolation or Compartmentalization,Class,0.7646092825582748
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7640344705063289
+266,Incorrect Privilege Assignment,Base,0.7632533815431215
+267,Privilege Defined With Unsafe Actions,Base,0.7604830337353434
+23,Relative Path Traversal,Base,0.7601736937345585

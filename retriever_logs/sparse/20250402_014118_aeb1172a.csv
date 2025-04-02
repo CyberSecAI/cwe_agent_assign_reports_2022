@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+347,Improper Verification of Cryptographic Signature,6426.182200839816,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5957.062982059242,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5891.971703131307,base_query
+611,Improper Restriction of XML External Entity Reference,5789.154176905693,base_query
+287,Improper Authentication,5634.792141954854,base_query

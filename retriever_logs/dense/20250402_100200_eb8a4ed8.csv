@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1391,Use of Weak Credentials,Class,0.7873789405331576
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7825694337269409
+798,Use of Hard-coded Credentials,Base,0.7815531163462733
+73,External Control of File Name or Path,Base,0.7722450640769803
+345,Insufficient Verification of Data Authenticity,Class,0.772132693270912
+668,Exposure of Resource to Wrong Sphere,Class,0.7681856073450121
+41,Improper Resolution of Path Equivalence,Base,0.7676868227387577
+1188,Initialization of a Resource with an Insecure Default,Base,0.7630523712789552
+303,Incorrect Implementation of Authentication Algorithm,Base,0.762726917027249
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.762055933334501

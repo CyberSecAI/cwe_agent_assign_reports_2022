@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,7009.617243613107,base_query
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),6918.724763448129,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6848.222147630591,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6809.199730589465,base_query
+1284,Improper Validation of Specified Quantity in Input,6739.152527861745,base_query

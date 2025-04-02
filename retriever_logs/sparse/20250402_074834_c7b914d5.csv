@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,6174.831622964309,base_query
+863,Incorrect Authorization,6157.455628359271,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6151.409611357351,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6105.186307295158,base_query
+789,Memory Allocation with Excessive Size Value,6092.431525352911,base_query

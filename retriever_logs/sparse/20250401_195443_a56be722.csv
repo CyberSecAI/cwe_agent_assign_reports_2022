@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,9582.12785126405,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),9245.77008688799,base_query
+138,Improper Neutralization of Special Elements,9189.808632724124,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,9079.257733415026,base_query
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),8866.66325297897,base_query

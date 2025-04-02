@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,6022.494844593543,base_query
+297,Improper Validation of Certificate with Host Mismatch,5902.440809577117,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,5472.343255487276,base_query
+347,Improper Verification of Cryptographic Signature,5466.0610871413655,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,5342.856890879271,base_query

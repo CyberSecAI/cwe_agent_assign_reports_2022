@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7838151391447488
+667,Improper Locking,Class,0.7807860160027305
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7768975367285627
+404,Improper Resource Shutdown or Release,Class,0.7719877734637752
+345,Insufficient Verification of Data Authenticity,Class,0.7686459630319161
+755,Improper Handling of Exceptional Conditions,Class,0.7686086474351467
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7678467630641734
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7647410301203663
+252,Unchecked Return Value,Base,0.7616385171423327
+203,Observable Discrepancy,Base,0.7604207611311125

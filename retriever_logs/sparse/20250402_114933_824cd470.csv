@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,8613.053408257978,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7732.573517518139,base_query
+502,Deserialization of Untrusted Data,7708.59827730842,base_query
+639,Authorization Bypass Through User-Controlled Key,7687.69886182998,base_query
+184,Incomplete List of Disallowed Inputs,7671.484121334219,base_query

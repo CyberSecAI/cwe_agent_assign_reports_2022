@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),6201.580741531544,base_query
+732,Incorrect Permission Assignment for Critical Resource,6087.306483118497,base_query
+863,Incorrect Authorization,6061.005286896219,base_query
+668,Exposure of Resource to Wrong Sphere,6033.894518748114,base_query
+285,Improper Authorization,5938.017817033605,base_query

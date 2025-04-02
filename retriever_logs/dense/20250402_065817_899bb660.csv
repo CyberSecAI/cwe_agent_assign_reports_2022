@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.8142783674103942
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7709686865242023
+639,Authorization Bypass Through User-Controlled Key,Base,0.7648151027604286
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7587767977522722
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7582664661341374
+668,Exposure of Resource to Wrong Sphere,Class,0.7546128057678836
+41,Improper Resolution of Path Equivalence,Base,0.7519614471454172
+138,Improper Neutralization of Special Elements,Class,0.7486906756951579
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7478133752763374
+1390,Weak Authentication,Class,0.7461558426640527

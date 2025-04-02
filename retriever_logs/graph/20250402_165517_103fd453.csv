@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+523,Unprotected Transport of Credentials,base,3.6399999999999997,0
+416,Use After Free,variant,3.24,0
+259,Use of Hard-coded Password,variant,2.8104,0
+123,Write-what-where Condition,base,2.7014000000000005,0
+415,Double Free,variant,2.68272,0
+754,Improper Check for Unusual or Exceptional Conditions,class,2.5519999999999996,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0
+312,Cleartext Storage of Sensitive Information,Base,2.4970691029579934,0
+253,Incorrect Check of Function Return Value,base,2.4699999999999998,0
+1392,Use of Default Credentials,base,2.4699999999999998,0

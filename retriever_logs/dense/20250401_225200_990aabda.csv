@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7523555672317432
+653,Improper Isolation or Compartmentalization,Class,0.7520374247839876
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7482366295780939
+691,Insufficient Control Flow Management,Pillar,0.7467652943245345
+131,Incorrect Calculation of Buffer Size,Base,0.7462279189454649
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7453189810631707
+125,Out-of-bounds Read,Base,0.744930125486444
+41,Improper Resolution of Path Equivalence,Base,0.7403372384859591
+404,Improper Resource Shutdown or Release,Class,0.7400614755974395
+73,External Control of File Name or Path,Base,0.738921232152402

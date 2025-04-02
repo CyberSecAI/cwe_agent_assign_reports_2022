@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.779794943820302
+789,Memory Allocation with Excessive Size Value,Variant,0.7769340248632625
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7766564256054925
+405,Asymmetric Resource Consumption (Amplification),Class,0.7753339207838843
+668,Exposure of Resource to Wrong Sphere,Class,0.7687854044960267
+639,Authorization Bypass Through User-Controlled Key,Base,0.7682094602420446
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7634420449034076
+799,Improper Control of Interaction Frequency,Class,0.762995412440448
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.761076940444699
+407,Inefficient Algorithmic Complexity,Class,0.7605467220575564

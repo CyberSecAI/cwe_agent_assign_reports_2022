@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7601108678951691
+345,Insufficient Verification of Data Authenticity,Class,0.7519537352767838
+112,Missing XML Validation,Base,0.7435257281572174
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7413151331474837
+611,Improper Restriction of XML External Entity Reference,Base,0.7370336638728634
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7346515363273248
+668,Exposure of Resource to Wrong Sphere,Class,0.734033881698562
+41,Improper Resolution of Path Equivalence,Base,0.7336701874177773
+657,Violation of Secure Design Principles,Class,0.7331993807875109
+138,Improper Neutralization of Special Elements,Class,0.7330423004217081

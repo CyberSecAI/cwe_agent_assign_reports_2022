@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+328,Use of Weak Hash,7417.959146260265,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,6972.248013988006,unknown
+639,Authorization Bypass Through User-Controlled Key,6822.237276546762,unknown
+916,Use of Password Hash With Insufficient Computational Effort,6795.668263584238,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6728.359339149188,unknown

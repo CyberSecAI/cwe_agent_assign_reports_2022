@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+191,Integer Underflow (Wrap or Wraparound),Base,0.7499555340464674
+824,Access of Uninitialized Pointer,Base,0.7498231353260185
+606,Unchecked Input for Loop Condition,Base,0.7492372603082518
+674,Uncontrolled Recursion,Class,0.7401903726545147
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),Base,0.737277422665999
+617,Reachable Assertion,Base,0.7369511822482863
+131,Incorrect Calculation of Buffer Size,Base,0.7363377170044412
+667,Improper Locking,Class,0.7355154287928556
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7335779322561371
+197,Numeric Truncation Error,Base,0.7329215320808449

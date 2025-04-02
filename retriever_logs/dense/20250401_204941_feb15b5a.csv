@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.768391639879692
+73,External Control of File Name or Path,Base,0.7587706326438299
+404,Improper Resource Shutdown or Release,Class,0.7578267415829594
+41,Improper Resolution of Path Equivalence,Base,0.7573128593872742
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7529233508373436
+665,Improper Initialization,Class,0.752500727225235
+667,Improper Locking,Class,0.7513493266586282
+552,Files or Directories Accessible to External Parties,Base,0.7508052290791358
+125,Out-of-bounds Read,Base,0.7505289327260716
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.748039825050573

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,5622.429834507522,unknown
+1284,Improper Validation of Specified Quantity in Input,5455.310266780126,unknown
+116,Improper Encoding or Escaping of Output,5431.838772428816,unknown
+863,Incorrect Authorization,5422.465242427163,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5416.998730667957,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+909,Missing Initialization of Resource,5426.159314790187,unknown
+908,Use of Uninitialized Resource,5334.422541846494,unknown
+208,Observable Timing Discrepancy,5324.871571529783,unknown
+665,Improper Initialization,5314.788173124836,unknown
+457,Use of Uninitialized Variable,5313.593491378495,unknown

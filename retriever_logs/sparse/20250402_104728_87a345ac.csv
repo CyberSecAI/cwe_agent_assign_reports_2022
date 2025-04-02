@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5177.112107974172,unknown
+295,Improper Certificate Validation,5090.872185157434,unknown
+918,Server-Side Request Forgery (SSRF),4948.265224803998,unknown
+203,Observable Discrepancy,4909.114900804561,unknown
+1390,Weak Authentication,4877.335256586263,unknown

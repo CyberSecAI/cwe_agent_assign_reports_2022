@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,5.031000000000001,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+433,Unparsed Raw Web Content Delivery,variant,3.24,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.055,0
+289,Authentication Bypass by Alternate Name,Base,2.9022459166067494,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.8651999999999997,0
+425,Direct Request ('Forced Browsing'),base,2.8651999999999997,0
+431,Missing Handler,base,2.8651999999999997,0
+430,Deployment of Wrong Handler,base,2.8651999999999997,0
+73,External Control of File Name or Path,base,2.6816400000000002,0

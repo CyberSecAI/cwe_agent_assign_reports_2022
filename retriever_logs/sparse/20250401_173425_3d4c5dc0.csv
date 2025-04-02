@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5739.4031649691615,unknown
+863,Incorrect Authorization,5720.1490685015015,unknown
+918,Server-Side Request Forgery (SSRF),5638.489658451807,unknown
+306,Missing Authentication for Critical Function,5587.14646130435,unknown
+116,Improper Encoding or Escaping of Output,5557.910232398977,unknown

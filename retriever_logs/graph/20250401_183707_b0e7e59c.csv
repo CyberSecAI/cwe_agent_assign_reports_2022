@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+208,Observable Timing Discrepancy,base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+322,Key Exchange without Entity Authentication,base,3.6399999999999997,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+259,Use of Hard-coded Password,variant,2.9184000000000005,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+295,Improper Certificate Validation,Base,2.487805789635893,0
+494,Download of Code Without Integrity Check,base,2.4699999999999998,0
+184,Incomplete List of Disallowed Inputs,base,2.4232000000000005,0
+393,Return of Wrong Status Code,base,2.3295999999999997,0

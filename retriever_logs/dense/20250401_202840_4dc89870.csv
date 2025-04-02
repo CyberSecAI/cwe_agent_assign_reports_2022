@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.769064620693348
+668,Exposure of Resource to Wrong Sphere,Class,0.7657995182774169
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.761664780791654
+345,Insufficient Verification of Data Authenticity,Class,0.7584370693960166
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7548991653867936
+41,Improper Resolution of Path Equivalence,Base,0.7509023483824613
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7494172570267985
+404,Improper Resource Shutdown or Release,Class,0.7489994296835464
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),Variant,0.7484551750229553
+138,Improper Neutralization of Special Elements,Class,0.746561067298552

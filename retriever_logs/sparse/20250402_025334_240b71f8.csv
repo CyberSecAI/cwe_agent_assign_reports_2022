@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+476,NULL Pointer Dereference,6876.63360427354,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6858.134075511656,base_query
+1284,Improper Validation of Specified Quantity in Input,6850.007130715445,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6774.315681595703,base_query
+822,Untrusted Pointer Dereference,6727.961678565808,base_query

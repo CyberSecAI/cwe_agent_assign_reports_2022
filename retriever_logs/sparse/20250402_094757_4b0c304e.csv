@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+208,Observable Timing Discrepancy,4832.799815734457,unknown
+1390,Weak Authentication,4779.604973034536,unknown
+203,Observable Discrepancy,4717.582990967893,unknown
+287,Improper Authentication,4627.179844199985,unknown
+209,Generation of Error Message Containing Sensitive Information,4594.755609568894,unknown

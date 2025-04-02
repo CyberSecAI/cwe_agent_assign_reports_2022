@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5965.29087271245,base_query
+863,Incorrect Authorization,5796.673505957744,base_query
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),5760.226783858664,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5743.88596247099,base_query
+285,Improper Authorization,5729.5262185368465,base_query

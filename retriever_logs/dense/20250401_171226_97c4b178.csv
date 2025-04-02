@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+319,Cleartext Transmission of Sensitive Information,Base,0.7861942586612258
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7838496431667081
+1391,Use of Weak Credentials,Class,0.782436688267744
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7783938149318432
+203,Observable Discrepancy,Base,0.7743771122755527
+345,Insufficient Verification of Data Authenticity,Class,0.7732206391651114
+799,Improper Control of Interaction Frequency,Class,0.7710651287766197
+1390,Weak Authentication,Class,0.7704713552915354
+330,Use of Insufficiently Random Values,Class,0.7696666804570874
+923,Improper Restriction of Communication Channel to Intended Endpoints,Class,0.7684209559894164

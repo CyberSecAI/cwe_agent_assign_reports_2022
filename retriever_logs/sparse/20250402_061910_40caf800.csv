@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+502,Deserialization of Untrusted Data,7709.439610722322,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7333.495523817982,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,7245.85912288175,base_query
+863,Incorrect Authorization,7234.220850513117,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7222.518185642005,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+204,Observable Response Discrepancy,Base,0.7987995466897684
+918,Server-Side Request Forgery (SSRF),Base,0.7986672103942156
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7921207390271204
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7898047792748125
+41,Improper Resolution of Path Equivalence,Base,0.786182336154424
+425,Direct Request ('Forced Browsing'),Base,0.7855299632992627
+472,External Control of Assumed-Immutable Web Parameter,Base,0.784585025368464
+668,Exposure of Resource to Wrong Sphere,Class,0.7837304150149178
+1391,Use of Weak Credentials,Class,0.7783051956534242
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7755164070199059

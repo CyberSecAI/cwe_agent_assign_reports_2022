@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,7397.86618192115,base_query
+328,Use of Weak Hash,7308.472425290922,base_query
+407,Inefficient Algorithmic Complexity,7242.772601305455,base_query
+1333,Inefficient Regular Expression Complexity,6765.330866115995,base_query
+770,Allocation of Resources Without Limits or Throttling,6591.2427997280165,base_query

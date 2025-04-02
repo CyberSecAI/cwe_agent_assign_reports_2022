@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+73,External Control of File Name or Path,base,3.2255600000000006,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+923,Improper Restriction of Communication Channel to Intended Endpoints,class,2.5519999999999996,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0
+295,Improper Certificate Validation,Base,2.4842869780074164,0
+524,Use of Cache Containing Sensitive Information,base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+347,Improper Verification of Cryptographic Signature,base,2.4699999999999998,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.4232000000000005,0

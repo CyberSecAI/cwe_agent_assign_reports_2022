@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7421016259140727
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7346616694034565
+691,Insufficient Control Flow Management,Pillar,0.7323956170643617
+404,Improper Resource Shutdown or Release,Class,0.7228172152459702
+405,Asymmetric Resource Consumption (Amplification),Class,0.7217100052828826
+674,Uncontrolled Recursion,Class,0.7213169159537562
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7196916682238232
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.719420237026243
+653,Improper Isolation or Compartmentalization,Class,0.7176639035943908
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7153952557184637

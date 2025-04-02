@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5799.942897427835,unknown
+285,Improper Authorization,5719.86344297174,unknown
+639,Authorization Bypass Through User-Controlled Key,5614.454002487806,unknown
+434,Unrestricted Upload of File with Dangerous Type,5552.473516197869,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5503.874911851664,unknown

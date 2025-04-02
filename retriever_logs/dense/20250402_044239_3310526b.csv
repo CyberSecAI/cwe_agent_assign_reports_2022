@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.7588278112230786
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.754471233910663
+289,Authentication Bypass by Alternate Name,Base,0.753648049426956
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7492328933590202
+300,Channel Accessible by Non-Endpoint,Class,0.7433911352723452
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7431731964966866
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7414261974549385
+667,Improper Locking,Class,0.7402378143667883
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7355731285004247
+404,Improper Resource Shutdown or Release,Class,0.733647879708657

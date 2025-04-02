@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7799633081492033
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7643159882258368
+404,Improper Resource Shutdown or Release,Class,0.7609543421591286
+668,Exposure of Resource to Wrong Sphere,Class,0.758585905189439
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7531770215992641
+502,Deserialization of Untrusted Data,Base,0.7509898122738956
+789,Memory Allocation with Excessive Size Value,Variant,0.749897573911188
+667,Improper Locking,Class,0.7491339724265264
+908,Use of Uninitialized Resource,Base,0.7474788509709993
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7462106271374691

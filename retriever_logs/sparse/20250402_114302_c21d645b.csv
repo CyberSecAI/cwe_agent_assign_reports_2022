@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,9115.031156713962,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),8316.243811729004,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,8261.820503815932,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8034.432964184041,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),7981.852822147201,base_query

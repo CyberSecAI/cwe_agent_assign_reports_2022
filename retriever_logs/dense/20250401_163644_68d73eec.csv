@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1204,Generation of Weak Initialization Vector (IV),Base,0.8208835661627609
+330,Use of Insufficiently Random Values,Class,0.785433936719589
+1391,Use of Weak Credentials,Class,0.7850097948952431
+331,Insufficient Entropy,Base,0.7812147491450658
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7657920681517059
+340,Generation of Predictable Numbers or Identifiers,Class,0.7589188931412715
+345,Insufficient Verification of Data Authenticity,Class,0.758618036415649
+208,Observable Timing Discrepancy,Base,0.7522344508631775
+203,Observable Discrepancy,Base,0.7514289327795057
+329,Generation of Predictable IV with CBC Mode,Variant,0.749447692516556

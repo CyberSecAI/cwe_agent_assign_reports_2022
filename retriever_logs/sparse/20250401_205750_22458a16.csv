@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+259,Use of Hard-coded Password,6029.868876912705,unknown
+798,Use of Hard-coded Credentials,5982.600855524582,unknown
+321,Use of Hard-coded Cryptographic Key,5864.944062092601,unknown
+916,Use of Password Hash With Insufficient Computational Effort,5732.250145040702,unknown
+312,Cleartext Storage of Sensitive Information,5724.622508273642,unknown

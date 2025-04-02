@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+156,Improper Neutralization of Whitespace,Variant,0.781059508134723
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7600573146023443
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.759883420237269
+653,Improper Isolation or Compartmentalization,Class,0.7529448733584359
+184,Incomplete List of Disallowed Inputs,Base,0.7520386784743666
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7500072734250551
+41,Improper Resolution of Path Equivalence,Base,0.7471399913305357
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7429903744106472
+668,Exposure of Resource to Wrong Sphere,Class,0.7398792775823471
+138,Improper Neutralization of Special Elements,Class,0.7384149414394373

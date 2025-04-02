@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+407,Inefficient Algorithmic Complexity,Class,0.7803646799262485
+41,Improper Resolution of Path Equivalence,Base,0.7549211041707624
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7540504536534185
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7516435491379605
+667,Improper Locking,Class,0.7494761640408337
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7491867745406474
+668,Exposure of Resource to Wrong Sphere,Class,0.7445990894861942
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7438823147970501
+755,Improper Handling of Exceptional Conditions,Class,0.7414535747023748
+404,Improper Resource Shutdown or Release,Class,0.7407811902826211

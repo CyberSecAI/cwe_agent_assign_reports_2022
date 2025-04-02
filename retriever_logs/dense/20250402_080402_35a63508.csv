@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+693,Protection Mechanism Failure,Pillar,0.7564596672173839
+653,Improper Isolation or Compartmentalization,Class,0.7527123419118946
+274,Improper Handling of Insufficient Privileges,Base,0.7504825583100087
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.745905112667384
+691,Insufficient Control Flow Management,Pillar,0.74219752285526
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7330935379921901
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.73276242691097
+404,Improper Resource Shutdown or Release,Class,0.7299263901653323
+668,Exposure of Resource to Wrong Sphere,Class,0.7276395523693884
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.727379767689858

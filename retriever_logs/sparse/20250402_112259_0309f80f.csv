@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5099.219078750461,unknown
+190,Integer Overflow or Wraparound,4979.566970285336,unknown
+124,Buffer Underwrite ('Buffer Underflow'),4926.061602885287,unknown
+197,Numeric Truncation Error,4809.8700643073125,unknown
+908,Use of Uninitialized Resource,4744.283815032958,unknown

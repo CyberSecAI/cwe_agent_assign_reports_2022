@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,6423.951476920285,unknown
+770,Allocation of Resources Without Limits or Throttling,6341.148557021341,unknown
+1325,Improperly Controlled Sequential Memory Allocation,6297.30902467767,unknown
+772,Missing Release of Resource after Effective Lifetime,6028.979088677215,unknown
+404,Improper Resource Shutdown or Release,5785.351439684248,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7891909527059335
+668,Exposure of Resource to Wrong Sphere,Class,0.7882864733857213
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7845625475340152
+41,Improper Resolution of Path Equivalence,Base,0.7819260132879584
+798,Use of Hard-coded Credentials,Base,0.7814292063788304
+345,Insufficient Verification of Data Authenticity,Class,0.7810968198946563
+404,Improper Resource Shutdown or Release,Class,0.7808152771339474
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7804372588401726
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7803951482430087
+274,Improper Handling of Insufficient Privileges,Base,0.7800146033137227

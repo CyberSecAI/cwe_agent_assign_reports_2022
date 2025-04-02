@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+208,Observable Timing Discrepancy,6555.6868771271675,base_query
+639,Authorization Bypass Through User-Controlled Key,6308.048995592931,base_query
+1254,Incorrect Comparison Logic Granularity,6221.37753062646,base_query
+203,Observable Discrepancy,6202.624475945636,base_query
+863,Incorrect Authorization,5918.142800041925,base_query

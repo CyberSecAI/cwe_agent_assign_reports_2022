@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7922.262704074795,base_query
+312,Cleartext Storage of Sensitive Information,7800.4353715208645,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,7668.487451736834,base_query
+319,Cleartext Transmission of Sensitive Information,7618.699651583247,base_query
+201,Insertion of Sensitive Information Into Sent Data,7401.793560398191,base_query

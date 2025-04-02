@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,4481.988407183502,base_query
+203,Observable Discrepancy,4446.951064264642,base_query
+799,Improper Control of Interaction Frequency,4441.853856592093,base_query
+319,Cleartext Transmission of Sensitive Information,4402.46144426892,base_query
+1236,Improper Neutralization of Formula Elements in a CSV File,4354.750017577806,base_query

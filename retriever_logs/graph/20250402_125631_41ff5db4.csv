@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+256,Plaintext Storage of a Password,base,2.4699999999999998,0
+532,Insertion of Sensitive Information into Log File,base,2.4699999999999998,0
+347,Improper Verification of Cryptographic Signature,base,2.4699999999999998,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.2100000000000004,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.2100000000000004,0
+523,Unprotected Transport of Credentials,base,2.1762,0
+257,Storing Passwords in a Recoverable Format,base,2.1762,0
+1304,Improperly Preserved Integrity of Hardware Configuration State During a Power Save/Restore Operation,base,2.1762,0
+366,Race Condition within a Thread,base,2.1189999999999998,0

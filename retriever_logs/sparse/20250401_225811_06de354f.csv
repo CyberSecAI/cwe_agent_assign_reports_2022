@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+472,External Control of Assumed-Immutable Web Parameter,5686.256939815299,unknown
+1284,Improper Validation of Specified Quantity in Input,5677.0699525178925,unknown
+125,Out-of-bounds Read,5576.11818251231,unknown
+863,Incorrect Authorization,5551.972757554977,unknown
+197,Numeric Truncation Error,5529.613189735173,unknown

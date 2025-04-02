@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+405,Asymmetric Resource Consumption (Amplification),Class,0.7605925866003145
+407,Inefficient Algorithmic Complexity,Class,0.7546490935636385
+799,Improper Control of Interaction Frequency,Class,0.7442267931213997
+404,Improper Resource Shutdown or Release,Class,0.7437623469715946
+668,Exposure of Resource to Wrong Sphere,Class,0.7400210673995524
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7343550118183765
+789,Memory Allocation with Excessive Size Value,Variant,0.732090885427142
+41,Improper Resolution of Path Equivalence,Base,0.731872170741166
+617,Reachable Assertion,Base,0.731198980854402
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7306095287900096

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+476,NULL Pointer Dereference,Base,0.778562068992726
+170,Improper Null Termination,Base,0.75784475441187
+822,Untrusted Pointer Dereference,Base,0.7537319331719905
+404,Improper Resource Shutdown or Release,Class,0.7528442388017178
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7525608734160026
+667,Improper Locking,Class,0.752218929170569
+824,Access of Uninitialized Pointer,Base,0.7502392580896419
+41,Improper Resolution of Path Equivalence,Base,0.7471920482034666
+665,Improper Initialization,Class,0.7403825392328988
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7392150376800857

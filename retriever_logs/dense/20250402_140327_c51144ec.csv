@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+613,Insufficient Session Expiration,Base,0.7520887342549303
+312,Cleartext Storage of Sensitive Information,Base,0.7453887573440312
+1391,Use of Weak Credentials,Class,0.736831647430509
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7349832913771402
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7329340999624294
+668,Exposure of Resource to Wrong Sphere,Class,0.7290498535067578
+257,Storing Passwords in a Recoverable Format,Base,0.728547361545158
+922,Insecure Storage of Sensitive Information,Class,0.7284411027516293
+208,Observable Timing Discrepancy,Base,0.7277723800482446
+404,Improper Resource Shutdown or Release,Class,0.7252826639405634

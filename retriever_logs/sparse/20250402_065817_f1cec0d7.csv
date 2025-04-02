@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6677.3938346582945,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6498.546043559487,base_query
+306,Missing Authentication for Critical Function,6378.21075156954,base_query
+863,Incorrect Authorization,6330.082255058864,base_query
+285,Improper Authorization,6270.291079150956,base_query

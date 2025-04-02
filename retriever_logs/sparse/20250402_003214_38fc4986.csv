@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,4438.327520592399,base_query
+532,Insertion of Sensitive Information into Log File,4340.97330928228,base_query
+321,Use of Hard-coded Cryptographic Key,4125.285171097432,base_query
+916,Use of Password Hash With Insufficient Computational Effort,4090.7400035807736,base_query
+1391,Use of Weak Credentials,4085.429787124847,base_query

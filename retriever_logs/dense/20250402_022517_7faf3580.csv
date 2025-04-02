@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.76757018049593
+667,Improper Locking,Class,0.7643598140067932
+668,Exposure of Resource to Wrong Sphere,Class,0.7536524353012759
+266,Incorrect Privilege Assignment,Base,0.7500776758392046
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.747963187583659
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.747637623921866
+41,Improper Resolution of Path Equivalence,Base,0.7469644414658283
+274,Improper Handling of Insufficient Privileges,Base,0.7459747376030861
+404,Improper Resource Shutdown or Release,Class,0.7450936744105499
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7435781944091363

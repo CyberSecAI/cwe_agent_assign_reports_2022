@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+266,Incorrect Privilege Assignment,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,base,2.821,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.6784000000000003,0
+274,Improper Handling of Insufficient Privileges,Base,2.482717147748253,0
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,2.481636443389947,0

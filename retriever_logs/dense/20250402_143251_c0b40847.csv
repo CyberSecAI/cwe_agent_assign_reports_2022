@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7832262917312385
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7822149230512987
+345,Insufficient Verification of Data Authenticity,Class,0.7735844931960701
+328,Use of Weak Hash,Base,0.7727313967215061
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7718171243884401
+330,Use of Insufficiently Random Values,Class,0.7714595776398246
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7677594158667749
+1391,Use of Weak Credentials,Class,0.7666355569966204
+319,Cleartext Transmission of Sensitive Information,Base,0.7647326675535202
+138,Improper Neutralization of Special Elements,Class,0.7623242781558968

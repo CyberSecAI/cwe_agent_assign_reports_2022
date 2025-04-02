@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.763020864614226
+681,Incorrect Conversion between Numeric Types,Base,0.7506007323721771
+131,Incorrect Calculation of Buffer Size,Base,0.7440703087798433
+197,Numeric Truncation Error,Base,0.7416470014062359
+191,Integer Underflow (Wrap or Wraparound),Base,0.7399944471426019
+404,Improper Resource Shutdown or Release,Class,0.734005839383331
+606,Unchecked Input for Loop Condition,Base,0.7335737868232295
+129,Improper Validation of Array Index,Variant,0.7322141057751044
+125,Out-of-bounds Read,Base,0.7309868983211434
+252,Unchecked Return Value,Base,0.7299247358816705

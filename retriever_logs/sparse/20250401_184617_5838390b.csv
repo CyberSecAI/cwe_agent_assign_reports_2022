@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,6681.622922108714,base_query
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),6640.732889768299,base_query
+754,Improper Check for Unusual or Exceptional Conditions,6589.180417743005,base_query
+1284,Improper Validation of Specified Quantity in Input,6569.307108159855,base_query
+125,Out-of-bounds Read,6544.789420347626,base_query

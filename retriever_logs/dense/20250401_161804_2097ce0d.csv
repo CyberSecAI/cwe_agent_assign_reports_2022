@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+405,Asymmetric Resource Consumption (Amplification),Class,0.750571535377073
+1176,Inefficient CPU Computation,Class,0.7414394465448307
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7410373701255997
+208,Observable Timing Discrepancy,Base,0.7386787306281468
+203,Observable Discrepancy,Base,0.7365423530701268
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7352236505949299
+407,Inefficient Algorithmic Complexity,Class,0.7349103947308988
+404,Improper Resource Shutdown or Release,Class,0.7330282269616889
+667,Improper Locking,Class,0.7317744097877589
+799,Improper Control of Interaction Frequency,Class,0.7314119130229595

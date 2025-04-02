@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+405,Asymmetric Resource Consumption (Amplification),Class,0.7698142360936604
+918,Server-Side Request Forgery (SSRF),Base,0.768164831646112
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7662430509968937
+799,Improper Control of Interaction Frequency,Class,0.7653354933183797
+668,Exposure of Resource to Wrong Sphere,Class,0.7637912841202819
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7597406471375527
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7588711437692386
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7575917794515433
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7562311104479411
+204,Observable Response Discrepancy,Base,0.7554043985837158

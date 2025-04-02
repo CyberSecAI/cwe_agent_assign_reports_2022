@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),5774.25889411773,unknown
+611,Improper Restriction of XML External Entity Reference,5443.494761447406,unknown
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),5311.348056872799,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5281.433887318033,unknown
+138,Improper Neutralization of Special Elements,5241.3386373615895,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,6378.6718560449035,base_query
+328,Use of Weak Hash,6037.61164550358,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5731.9184851224945,base_query
+1240,Use of a Cryptographic Primitive with a Risky Implementation,5558.403603975582,base_query
+1390,Weak Authentication,5251.021664854358,base_query

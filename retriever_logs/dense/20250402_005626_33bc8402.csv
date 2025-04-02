@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7789678355693108
+41,Improper Resolution of Path Equivalence,Base,0.7772433972118222
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.771984682105027
+668,Exposure of Resource to Wrong Sphere,Class,0.7712420168026946
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7693758939930072
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7692772358784773
+274,Improper Handling of Insufficient Privileges,Base,0.7680821795096059
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7669251975095086
+1220,Insufficient Granularity of Access Control,Base,0.7638232007732243
+552,Files or Directories Accessible to External Parties,Base,0.7629728452488458

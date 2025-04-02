@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7844825034168594
+312,Cleartext Storage of Sensitive Information,Base,0.7807129850395371
+316,Cleartext Storage of Sensitive Information in Memory,Variant,0.7795585609837692
+131,Incorrect Calculation of Buffer Size,Base,0.773747844674272
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7682931901240257
+665,Improper Initialization,Class,0.7647199903881337
+125,Out-of-bounds Read,Base,0.7625736591715224
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7613715382063083
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7605789144950768
+667,Improper Locking,Class,0.7604257790168353

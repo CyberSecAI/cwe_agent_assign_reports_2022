@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1236,Improper Neutralization of Formula Elements in a CSV File,5741.5198504764285,unknown
+116,Improper Encoding or Escaping of Output,5676.079742328021,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5632.994823952216,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),5623.852276541622,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5621.573723113772,unknown

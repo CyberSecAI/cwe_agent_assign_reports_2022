@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+226,Sensitive Information in Resource Not Removed Before Reuse,6455.552871018272,base_query
+125,Out-of-bounds Read,6222.142571350295,base_query
+203,Observable Discrepancy,6173.086437302493,base_query
+770,Allocation of Resources Without Limits or Throttling,6148.0331382395225,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6086.462493984251,base_query

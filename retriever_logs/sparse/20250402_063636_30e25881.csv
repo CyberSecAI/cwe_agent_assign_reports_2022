@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5417.04860233811,unknown
+347,Improper Verification of Cryptographic Signature,5409.459420355503,unknown
+1390,Weak Authentication,5372.370546323561,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5322.061764728689,unknown
+639,Authorization Bypass Through User-Controlled Key,5321.8750082630795,unknown

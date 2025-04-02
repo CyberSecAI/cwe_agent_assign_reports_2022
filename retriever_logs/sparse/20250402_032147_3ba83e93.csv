@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,6220.797960328038,base_query
+1391,Use of Weak Credentials,6193.188559028904,base_query
+1390,Weak Authentication,6148.239206631378,base_query
+259,Use of Hard-coded Password,6120.460044884863,base_query
+798,Use of Hard-coded Credentials,6111.862859392712,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+195,Signed to Unsigned Conversion Error,variant,4.332,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.329000000000001,0
+825,Expired Pointer Dereference,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,4.329000000000001,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.7507200000000003,0
+681,Incorrect Conversion between Numeric Types,base,3.4866,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.24,0
+128,Wrap-around Error,base,2.9120000000000004,0

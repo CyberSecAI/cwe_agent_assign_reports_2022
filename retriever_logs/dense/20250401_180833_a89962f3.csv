@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+782,Exposed IOCTL with Insufficient Access Control,Variant,0.7767975694123873
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7745293814229145
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7728542131455052
+184,Incomplete List of Disallowed Inputs,Base,0.7725018057156554
+41,Improper Resolution of Path Equivalence,Base,0.7674631014622267
+73,External Control of File Name or Path,Base,0.7657829717691004
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7641925618777634
+653,Improper Isolation or Compartmentalization,Class,0.7608496159236167
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7606197928518683
+138,Improper Neutralization of Special Elements,Class,0.7598244196709181

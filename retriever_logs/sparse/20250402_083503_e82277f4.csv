@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+942,Permissive Cross-domain Policy with Untrusted Domains,7198.557545939881,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,6942.691493643422,unknown
+116,Improper Encoding or Escaping of Output,6777.66761699836,unknown
+1385,Missing Origin Validation in WebSockets,6699.162726265095,unknown
+918,Server-Side Request Forgery (SSRF),6613.809217448612,unknown

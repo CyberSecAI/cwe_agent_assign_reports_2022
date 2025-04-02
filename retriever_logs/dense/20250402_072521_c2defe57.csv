@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7641804461881977
+1220,Insufficient Granularity of Access Control,Base,0.7619276660443277
+274,Improper Handling of Insufficient Privileges,Base,0.7572649526578872
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7515216509624314
+1390,Weak Authentication,Class,0.7507460079173831
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7496379595132098
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7471663191317002
+653,Improper Isolation or Compartmentalization,Class,0.745369890908774
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7443637392880993
+1263,Improper Physical Access Control,Class,0.7435226675064557

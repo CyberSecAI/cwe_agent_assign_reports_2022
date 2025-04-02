@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7801562231477029
+552,Files or Directories Accessible to External Parties,Base,0.7780330030393742
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7749921619137248
+41,Improper Resolution of Path Equivalence,Base,0.7748767289637912
+23,Relative Path Traversal,Base,0.7740837739353386
+668,Exposure of Resource to Wrong Sphere,Class,0.7739105367377359
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.773628164999145
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.77351170889229
+73,External Control of File Name or Path,Base,0.7648952069596326
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7646944443153082

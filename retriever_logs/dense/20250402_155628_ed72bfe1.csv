@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7540209921008592
+330,Use of Insufficiently Random Values,Class,0.7520542778642
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7514830603467648
+552,Files or Directories Accessible to External Parties,Base,0.7504707028723756
+668,Exposure of Resource to Wrong Sphere,Class,0.7501729783216133
+404,Improper Resource Shutdown or Release,Class,0.7490032994239189
+1391,Use of Weak Credentials,Class,0.7487667356375164
+328,Use of Weak Hash,Base,0.7474229518999378
+345,Insufficient Verification of Data Authenticity,Class,0.74719240308208
+203,Observable Discrepancy,Base,0.7457384589087765

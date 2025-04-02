@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1391,Use of Weak Credentials,5844.540723664536,base_query
+798,Use of Hard-coded Credentials,5454.2765418098525,base_query
+259,Use of Hard-coded Password,5419.052344163594,base_query
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),5280.48361047492,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5242.831882548211,base_query

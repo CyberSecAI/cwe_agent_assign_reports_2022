@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+123,Write-what-where Condition,base,5.031000000000001,0
+41,Improper Resolution of Path Equivalence,base,5.031000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+416,Use After Free,variant,4.5264,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+825,Expired Pointer Dereference,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1341,Multiple Releases of Same Resource or Handle,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0

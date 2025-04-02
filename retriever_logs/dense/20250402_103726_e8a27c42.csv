@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7850628739743176
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7801096269347352
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7777282815432391
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7776516543082932
+345,Insufficient Verification of Data Authenticity,Class,0.770399492377499
+668,Exposure of Resource to Wrong Sphere,Class,0.7632504495830624
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.761772770660682
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7583422571523205
+41,Improper Resolution of Path Equivalence,Base,0.7583247188206008
+295,Improper Certificate Validation,Base,0.7580163993533902

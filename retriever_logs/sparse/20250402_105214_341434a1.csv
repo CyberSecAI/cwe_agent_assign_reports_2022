@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5337.1789187417335,base_query
+787,Out-of-bounds Write,5257.8972262459065,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5176.119542495675,base_query
+190,Integer Overflow or Wraparound,5149.1019209211645,base_query
+682,Incorrect Calculation,5043.772571137837,base_query

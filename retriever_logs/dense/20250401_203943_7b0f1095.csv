@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1391,Use of Weak Credentials,Class,0.7735062379469004
+330,Use of Insufficiently Random Values,Class,0.7702080781018799
+345,Insufficient Verification of Data Authenticity,Class,0.768634782385369
+668,Exposure of Resource to Wrong Sphere,Class,0.7684458702370742
+41,Improper Resolution of Path Equivalence,Base,0.7670107066290881
+1390,Weak Authentication,Class,0.7651223620366305
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.764852007675529
+312,Cleartext Storage of Sensitive Information,Base,0.7646410820751176
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7608397189301392
+667,Improper Locking,Class,0.7606065427193044

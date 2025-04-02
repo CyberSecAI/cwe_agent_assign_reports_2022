@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.8023056710773695
+667,Improper Locking,Class,0.7995252610294259
+824,Access of Uninitialized Pointer,Base,0.7986096276680543
+41,Improper Resolution of Path Equivalence,Base,0.7911794971544195
+822,Untrusted Pointer Dereference,Base,0.7911315389419145
+404,Improper Resource Shutdown or Release,Class,0.7878775973013673
+665,Improper Initialization,Class,0.7877886070553893
+252,Unchecked Return Value,Base,0.7858597443647481
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7847925893727035
+131,Incorrect Calculation of Buffer Size,Base,0.7833533623771967

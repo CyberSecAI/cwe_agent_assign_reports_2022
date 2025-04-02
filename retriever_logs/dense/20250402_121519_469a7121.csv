@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7670238681073198
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7631337013155853
+41,Improper Resolution of Path Equivalence,Base,0.7589658658706993
+404,Improper Resource Shutdown or Release,Class,0.7532025263461325
+639,Authorization Bypass Through User-Controlled Key,Base,0.7521939030644869
+653,Improper Isolation or Compartmentalization,Class,0.7519486915662092
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7483948083414615
+667,Improper Locking,Class,0.745190865678093
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7437015273002449
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7432307206754455

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+552,Files or Directories Accessible to External Parties,Base,0.7657600769162156
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7628355130660636
+668,Exposure of Resource to Wrong Sphere,Class,0.7606113508421651
+1220,Insufficient Granularity of Access Control,Base,0.7581197963208081
+41,Improper Resolution of Path Equivalence,Base,0.7578029342141002
+274,Improper Handling of Insufficient Privileges,Base,0.7574560752124274
+73,External Control of File Name or Path,Base,0.7560776316898349
+276,Incorrect Default Permissions,Base,0.7557327453160941
+639,Authorization Bypass Through User-Controlled Key,Base,0.7542969931480256
+266,Incorrect Privilege Assignment,Base,0.7514056902767322

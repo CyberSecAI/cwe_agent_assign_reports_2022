@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+602,Client-Side Enforcement of Server-Side Security,Class,0.7794949390681091
+603,Use of Client-Side Authentication,Base,0.7649650262238361
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7498773204463719
+1390,Weak Authentication,Class,0.7496758708893659
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7470350844957548
+697,Incorrect Comparison,Pillar,0.7458119024002337
+657,Violation of Secure Design Principles,Class,0.7429343556871291
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7411023646094185
+653,Improper Isolation or Compartmentalization,Class,0.738206387484204
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7327446655938182

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+274,Improper Handling of Insufficient Privileges,Base,0.7679323951348821
+1392,Use of Default Credentials,Base,0.7674783398328332
+1391,Use of Weak Credentials,Class,0.7669700021599715
+798,Use of Hard-coded Credentials,Base,0.7635466790493108
+1188,Initialization of a Resource with an Insecure Default,Base,0.7616168374345545
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7591790611515182
+653,Improper Isolation or Compartmentalization,Class,0.7579376055572539
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7556147145747241
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7555502726773448
+266,Incorrect Privilege Assignment,Base,0.7543243602312693

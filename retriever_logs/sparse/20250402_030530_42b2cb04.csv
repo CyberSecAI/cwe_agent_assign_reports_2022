@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,6332.344113416156,base_query
+863,Incorrect Authorization,5791.064352378239,base_query
+425,Direct Request ('Forced Browsing'),5720.266834806686,base_query
+639,Authorization Bypass Through User-Controlled Key,5696.574934500424,base_query
+285,Improper Authorization,5695.292383958056,base_query

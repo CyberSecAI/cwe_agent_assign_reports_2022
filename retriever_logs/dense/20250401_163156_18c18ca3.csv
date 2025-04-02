@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7498600745021289
+274,Improper Handling of Insufficient Privileges,Base,0.7474975690289877
+668,Exposure of Resource to Wrong Sphere,Class,0.7469967266540767
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7467759099186113
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7433983924809622
+404,Improper Resource Shutdown or Release,Class,0.7410657139054362
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7408027773752572
+653,Improper Isolation or Compartmentalization,Class,0.7398203843862148
+345,Insufficient Verification of Data Authenticity,Class,0.7395300927470871
+552,Files or Directories Accessible to External Parties,Base,0.7389003320137508

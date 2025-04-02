@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,5886.876484238077,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5851.978121408028,base_query
+1256,Improper Restriction of Software Interfaces to Hardware Features,5706.710878391626,base_query
+1284,Improper Validation of Specified Quantity in Input,5639.7997558808465,base_query
+125,Out-of-bounds Read,5639.527606731405,base_query

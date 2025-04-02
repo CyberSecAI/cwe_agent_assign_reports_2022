@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5271.983648004205,unknown
+668,Exposure of Resource to Wrong Sphere,5241.162999179052,unknown
+863,Incorrect Authorization,5209.767115027234,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5150.268123968198,unknown
+267,Privilege Defined With Unsafe Actions,5062.924048201472,unknown

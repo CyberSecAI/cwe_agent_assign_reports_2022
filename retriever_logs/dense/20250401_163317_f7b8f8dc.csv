@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+822,Untrusted Pointer Dereference,Base,0.8029269877212909
+824,Access of Uninitialized Pointer,Base,0.7785191890351967
+823,Use of Out-of-range Pointer Offset,Base,0.7774916954881221
+125,Out-of-bounds Read,Base,0.7757671534394722
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7729197141787887
+191,Integer Underflow (Wrap or Wraparound),Base,0.772753640719805
+667,Improper Locking,Class,0.7725407771848792
+131,Incorrect Calculation of Buffer Size,Base,0.7724444993554239
+126,Buffer Over-read,Variant,0.7708375666206775
+476,NULL Pointer Dereference,Base,0.7706107048314226

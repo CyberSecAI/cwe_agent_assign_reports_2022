@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+125,Out-of-bounds Read,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+823,Use of Out-of-range Pointer Offset,base,4.329000000000001,0
+193,Off-by-one Error,base,4.329000000000001,0
+129,Improper Validation of Array Index,variant,3.8784,0
+354,Improper Validation of Integrity Check Value,base,3.6399999999999997,0
+353,Missing Support for Integrity Check,base,3.6399999999999997,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0
+20,Improper Input Validation,class,2.92,0

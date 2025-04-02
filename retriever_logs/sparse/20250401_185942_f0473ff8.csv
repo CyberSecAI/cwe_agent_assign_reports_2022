@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,6958.898200516223,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6739.03491631861,base_query
+1284,Improper Validation of Specified Quantity in Input,6678.252303120625,base_query
+476,NULL Pointer Dereference,6586.538168737739,base_query
+822,Untrusted Pointer Dereference,6559.806241204857,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),5734.53153620033,base_query
+1386,Insecure Operation on Windows Junction / Mount Point,5557.05809497442,base_query
+285,Improper Authorization,5485.0891851138995,base_query
+863,Incorrect Authorization,5477.51006952418,base_query
+639,Authorization Bypass Through User-Controlled Key,5395.476323841969,base_query

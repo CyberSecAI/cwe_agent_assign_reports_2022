@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,7307.33529940862,base_query
+789,Memory Allocation with Excessive Size Value,6907.644973779884,base_query
+774,Allocation of File Descriptors or Handles Without Limits or Throttling,6632.371999502283,base_query
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),6560.930598006846,base_query
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),6500.4978059986415,base_query

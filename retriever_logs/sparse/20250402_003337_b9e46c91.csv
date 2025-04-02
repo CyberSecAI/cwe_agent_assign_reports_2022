@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,8055.347835309195,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7886.6349202540105,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7613.871190707305,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),7495.99428735522,unknown
+90,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection'),7479.173816884519,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+523,Unprotected Transport of Credentials,base,3.6399999999999997,0
+312,Cleartext Storage of Sensitive Information,base,3.6399999999999997,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.3172473481227285,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.1252000000000004,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.984,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0

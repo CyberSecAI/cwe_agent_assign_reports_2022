@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7804521600245867
+356,Product UI does not Warn User of Unsafe Actions,Base,0.7714759383663932
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7592032482123379
+404,Improper Resource Shutdown or Release,Class,0.7503656603893507
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7484175198620461
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7478366267976064
+657,Violation of Secure Design Principles,Class,0.7441570806569786
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7427561502098816
+204,Observable Response Discrepancy,Base,0.7404853762442383
+41,Improper Resolution of Path Equivalence,Base,0.7396614369124723

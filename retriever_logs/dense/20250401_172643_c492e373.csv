@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+330,Use of Insufficiently Random Values,Class,0.7686326588082
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.767672098734802
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7676312000129499
+345,Insufficient Verification of Data Authenticity,Class,0.7666464129134012
+41,Improper Resolution of Path Equivalence,Base,0.7653566778366085
+668,Exposure of Resource to Wrong Sphere,Class,0.7651145427527076
+203,Observable Discrepancy,Base,0.7634915942283604
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7627348478726396
+319,Cleartext Transmission of Sensitive Information,Base,0.7602464300413607
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7601035828883971

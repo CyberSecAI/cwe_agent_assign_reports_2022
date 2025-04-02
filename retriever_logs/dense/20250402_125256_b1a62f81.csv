@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1336,Improper Neutralization of Special Elements Used in a Template Engine,Base,0.7552652015887922
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7520049655340573
+639,Authorization Bypass Through User-Controlled Key,Base,0.749680555226318
+653,Improper Isolation or Compartmentalization,Class,0.7379998694622518
+184,Incomplete List of Disallowed Inputs,Base,0.7377487548112196
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7370402720329435
+41,Improper Resolution of Path Equivalence,Base,0.736978315141567
+73,External Control of File Name or Path,Base,0.7358014425509373
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7357764498175334
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7342348938665212

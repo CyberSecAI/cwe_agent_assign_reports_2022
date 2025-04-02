@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,5499.758718923192,unknown
+356,Product UI does not Warn User of Unsafe Actions,4571.211158573378,unknown
+863,Incorrect Authorization,4528.38045185852,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),4492.296187371638,unknown
+252,Unchecked Return Value,4488.59885250841,unknown

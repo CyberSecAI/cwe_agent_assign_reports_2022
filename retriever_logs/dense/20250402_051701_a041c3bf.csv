@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),Base,0.7720789281394558
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7652021390807258
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7617914572232363
+330,Use of Insufficiently Random Values,Class,0.7434563296836605
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7426266905432919
+404,Improper Resource Shutdown or Release,Class,0.7420299661449208
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7393510147397753
+682,Incorrect Calculation,Pillar,0.7355322408694562
+405,Asymmetric Resource Consumption (Amplification),Class,0.7350617870445818
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7349099590337251

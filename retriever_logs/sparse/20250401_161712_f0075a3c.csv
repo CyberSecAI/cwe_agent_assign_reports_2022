@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6380.942944182427,base_query
+472,External Control of Assumed-Immutable Web Parameter,6233.932105931255,base_query
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),6135.970873494011,base_query
+312,Cleartext Storage of Sensitive Information,5971.045440476396,base_query
+1390,Weak Authentication,5958.887972466787,base_query

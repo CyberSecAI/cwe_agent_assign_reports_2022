@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1004,Sensitive Cookie Without 'HttpOnly' Flag,Variant,0.7628763814744177
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7504458870067566
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.746428841581093
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7457515243052484
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7437466560302461
+668,Exposure of Resource to Wrong Sphere,Class,0.7437252179333016
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,Variant,0.7417410678605203
+784,Reliance on Cookies without Validation and Integrity Checking in a Security Decision,Variant,0.7365329120903777
+274,Improper Handling of Insufficient Privileges,Base,0.7356072184236416
+653,Improper Isolation or Compartmentalization,Class,0.7331044446575402

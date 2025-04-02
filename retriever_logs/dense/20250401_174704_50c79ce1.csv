@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+613,Insufficient Session Expiration,Base,0.7865397252148565
+311,Missing Encryption of Sensitive Data,Class,0.768096650310994
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,Variant,0.7665285326993783
+1391,Use of Weak Credentials,Class,0.7596857904611334
+319,Cleartext Transmission of Sensitive Information,Base,0.7587295811670359
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7584743759985635
+312,Cleartext Storage of Sensitive Information,Base,0.7567740731801399
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7533901993581954
+203,Observable Discrepancy,Base,0.746237898599988
+208,Observable Timing Discrepancy,Base,0.7445913360292625

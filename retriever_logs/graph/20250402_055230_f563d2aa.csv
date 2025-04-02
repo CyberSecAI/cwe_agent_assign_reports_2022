@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+195,Signed to Unsigned Conversion Error,variant,3.9335999999999998,0
+787,Out-of-bounds Write,base,3.8870000000000005,0
+190,Integer Overflow or Wraparound,base,3.8038000000000003,0
+341,Predictable from Observable State,base,3.6399999999999997,0
+197,Numeric Truncation Error,base,3.6399999999999997,0
+194,Unexpected Sign Extension,variant,3.2424,0
+196,Unsigned to Signed Conversion Error,variant,3.2424,0
+192,Integer Coercion Error,variant,3.2424,0
+125,Out-of-bounds Read,base,3.2318000000000002,0

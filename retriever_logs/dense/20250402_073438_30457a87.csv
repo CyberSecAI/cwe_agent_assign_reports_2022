@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1269,Product Released in Non-Release Configuration,Base,0.7812151822769656
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7747438542382321
+345,Insufficient Verification of Data Authenticity,Class,0.7686310376809342
+755,Improper Handling of Exceptional Conditions,Class,0.7665298084054953
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.76618691399567
+668,Exposure of Resource to Wrong Sphere,Class,0.7654195774217953
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7626072654319966
+404,Improper Resource Shutdown or Release,Class,0.7607188206887728
+400,Uncontrolled Resource Consumption,Class,0.7571877615818332
+20,Improper Input Validation,Class,0.7540971362683717

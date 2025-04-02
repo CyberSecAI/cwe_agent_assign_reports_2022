@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,5527.676274783365,unknown
+908,Use of Uninitialized Resource,5370.826933698292,unknown
+457,Use of Uninitialized Variable,5285.123121104595,unknown
+125,Out-of-bounds Read,5279.098089862318,unknown
+824,Access of Uninitialized Pointer,5274.563836453727,unknown

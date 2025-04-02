@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,5170.9975056355715,unknown
+457,Use of Uninitialized Variable,4762.580117917296,unknown
+125,Out-of-bounds Read,4655.053862948923,unknown
+190,Integer Overflow or Wraparound,4624.757566371519,unknown
+909,Missing Initialization of Resource,4493.8054320481215,unknown

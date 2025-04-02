@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7617177221014455
+668,Exposure of Resource to Wrong Sphere,Class,0.7562927108227611
+667,Improper Locking,Class,0.7559702538986375
+274,Improper Handling of Insufficient Privileges,Base,0.7519884265134122
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7509288029762224
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7500893234268747
+404,Improper Resource Shutdown or Release,Class,0.7474579487705473
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7467779242688048
+191,Integer Underflow (Wrap or Wraparound),Base,0.746467066562366
+41,Improper Resolution of Path Equivalence,Base,0.7457235788104467

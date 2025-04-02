@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+434,Unrestricted Upload of File with Dangerous Type,base,4.329000000000001,0
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+184,Incomplete List of Disallowed Inputs,base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,4.329000000000001,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,3.2656,0
+73,External Control of File Name or Path,Base,3.210515363722168,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),Variant,3.024181028266733,0
+41,Improper Resolution of Path Equivalence,Base,2.918559719754641,0

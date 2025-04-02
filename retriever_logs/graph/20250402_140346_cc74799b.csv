@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+266,Incorrect Privilege Assignment,base,3.6399999999999997,0
+274,Improper Handling of Insufficient Privileges,base,3.6399999999999997,0
+280,Improper Handling of Insufficient Permissions or Privileges ,base,3.6399999999999997,0
+73,External Control of File Name or Path,base,3.3566,0
+41,Improper Resolution of Path Equivalence,Base,3.309663834685577,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.055,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.9941600000000004,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0

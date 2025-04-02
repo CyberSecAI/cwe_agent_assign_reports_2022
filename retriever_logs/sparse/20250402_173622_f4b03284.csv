@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,5648.082726820389,base_query
+863,Incorrect Authorization,5566.373222136841,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5562.34326479784,base_query
+287,Improper Authentication,5539.131666243443,base_query
+347,Improper Verification of Cryptographic Signature,5508.00247694029,base_query

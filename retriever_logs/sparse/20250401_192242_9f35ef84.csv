@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,7243.982222494183,base_query
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),7207.976430418229,base_query
+1391,Use of Weak Credentials,7022.677153670353,base_query
+337,Predictable Seed in Pseudo-Random Number Generator (PRNG),6855.722149647052,base_query
+330,Use of Insufficiently Random Values,6850.961354784545,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+214,Invocation of Process Using Visible Sensitive Information,7853.943452880825,unknown
+639,Authorization Bypass Through User-Controlled Key,7407.094849642584,unknown
+863,Incorrect Authorization,7237.237716590803,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,7061.7429167217715,unknown
+285,Improper Authorization,7021.800905948921,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+823,Use of Out-of-range Pointer Offset,6320.269117912398,base_query
+822,Untrusted Pointer Dereference,5919.73333352049,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5862.6780852216825,base_query
+125,Out-of-bounds Read,5811.353644109064,base_query
+1284,Improper Validation of Specified Quantity in Input,5797.807323196086,base_query

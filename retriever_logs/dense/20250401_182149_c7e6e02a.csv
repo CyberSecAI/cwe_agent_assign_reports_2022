@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.78193630278176
+184,Incomplete List of Disallowed Inputs,Base,0.769515722446849
+274,Improper Handling of Insufficient Privileges,Base,0.7635307430831229
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.763171600405972
+138,Improper Neutralization of Special Elements,Class,0.762274110354721
+653,Improper Isolation or Compartmentalization,Class,0.760984763536169
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7595592788126534
+266,Incorrect Privilege Assignment,Base,0.7577503695255937
+267,Privilege Defined With Unsafe Actions,Base,0.7575332177179444
+639,Authorization Bypass Through User-Controlled Key,Base,0.7570541498863832

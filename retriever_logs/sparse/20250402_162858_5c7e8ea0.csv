@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8054.797912428135,base_query
+184,Incomplete List of Disallowed Inputs,7944.015769037347,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7757.774122412124,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),7586.611209911685,base_query
+770,Allocation of Resources Without Limits or Throttling,7574.962540267272,base_query

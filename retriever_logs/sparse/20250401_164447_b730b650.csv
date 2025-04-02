@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,4775.055663236039,base_query
+863,Incorrect Authorization,4746.401925905493,base_query
+203,Observable Discrepancy,4678.448863344449,base_query
+347,Improper Verification of Cryptographic Signature,4665.470794197013,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,4657.303919721618,base_query

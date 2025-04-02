@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+125,Out-of-bounds Read,Base,0.7826330391687306
+203,Observable Discrepancy,Base,0.7691225520503285
+131,Incorrect Calculation of Buffer Size,Base,0.765533020506231
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7650785180172776
+126,Buffer Over-read,Variant,0.7635603516343349
+252,Unchecked Return Value,Base,0.7633026534261371
+208,Observable Timing Discrepancy,Base,0.7624668047265097
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7624264795733784
+667,Improper Locking,Class,0.7619249714289777
+129,Improper Validation of Array Index,Variant,0.7615552703377189

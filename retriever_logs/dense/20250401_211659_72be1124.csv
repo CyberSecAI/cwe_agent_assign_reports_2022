@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7673058742881942
+294,Authentication Bypass by Capture-replay,Base,0.7616020837562658
+345,Insufficient Verification of Data Authenticity,Class,0.7571043592588875
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7563313454187996
+291,Reliance on IP Address for Authentication,Variant,0.7509139496802597
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7504336905078406
+319,Cleartext Transmission of Sensitive Information,Base,0.7503190911058364
+290,Authentication Bypass by Spoofing,Base,0.7495889974160803
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7468748230124976
+1391,Use of Weak Credentials,Class,0.7460420511926694

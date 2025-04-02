@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7722728069433631
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7700459808162748
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7666536982428795
+918,Server-Side Request Forgery (SSRF),Base,0.7659999301151947
+184,Incomplete List of Disallowed Inputs,Base,0.7659939834268612
+23,Relative Path Traversal,Base,0.7646138565919929
+330,Use of Insufficiently Random Values,Class,0.7623676502647294
+668,Exposure of Resource to Wrong Sphere,Class,0.7611014965007208
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7608121246433811
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7587443438429817

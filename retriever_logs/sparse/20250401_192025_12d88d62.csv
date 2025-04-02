@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,5194.029136294399,base_query
+1269,Product Released in Non-Release Configuration,5095.069920051948,base_query
+1191,On-Chip Debug and Test Interface With Improper Access Control,4678.204011988231,base_query
+1244,Internal Asset Exposed to Unsafe Debug Access Level or State,4674.030031984929,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4436.991603441034,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+184,Incomplete List of Disallowed Inputs,Base,0.7517967938771025
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7418400931176733
+41,Improper Resolution of Path Equivalence,Base,0.7377325726169207
+138,Improper Neutralization of Special Elements,Class,0.7354722304584596
+668,Exposure of Resource to Wrong Sphere,Class,0.7296909630977197
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7265693717427107
+653,Improper Isolation or Compartmentalization,Class,0.7254624707118879
+23,Relative Path Traversal,Base,0.72477397007601
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7241660665558405
+791,Incomplete Filtering of Special Elements,Base,0.7231785364112997

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+427,Uncontrolled Search Path Element,Base,0.8085937533079172
+426,Untrusted Search Path,Base,0.7930224031296229
+822,Untrusted Pointer Dereference,Base,0.7884853163095417
+824,Access of Uninitialized Pointer,Base,0.7837191353925119
+125,Out-of-bounds Read,Base,0.7821684392621533
+73,External Control of File Name or Path,Base,0.7809785052550045
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7805267951319267
+667,Improper Locking,Class,0.7744724450989297
+252,Unchecked Return Value,Base,0.7712057729600308
+41,Improper Resolution of Path Equivalence,Base,0.7697530865006718

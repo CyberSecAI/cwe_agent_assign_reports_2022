@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+697,Incorrect Comparison,Pillar,0.7429980553092022
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7401976800073166
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7382703923076032
+943,Improper Neutralization of Special Elements in Data Query Logic,Class,0.721426663859345
+184,Incomplete List of Disallowed Inputs,Base,0.7209715124466912
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7134002385916127
+41,Improper Resolution of Path Equivalence,Base,0.7123825096423058
+653,Improper Isolation or Compartmentalization,Class,0.7096251627077012
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7087997903433645
+707,Improper Neutralization,Pillar,0.7084868383446208

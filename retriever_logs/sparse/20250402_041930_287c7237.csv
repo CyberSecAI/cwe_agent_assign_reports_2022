@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7926.6687569352225,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7758.26486316452,base_query
+190,Integer Overflow or Wraparound,7722.933705245123,base_query
+125,Out-of-bounds Read,7647.10209792306,base_query
+1284,Improper Validation of Specified Quantity in Input,7556.914839106917,base_query

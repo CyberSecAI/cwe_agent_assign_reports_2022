@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7554179281026139
+1391,Use of Weak Credentials,Class,0.7455870622647434
+319,Cleartext Transmission of Sensitive Information,Base,0.7429712538519739
+311,Missing Encryption of Sensitive Data,Class,0.7407223226170776
+312,Cleartext Storage of Sensitive Information,Base,0.7402667421244908
+1390,Weak Authentication,Class,0.7314371152522765
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7306920557424795
+657,Violation of Secure Design Principles,Class,0.7303320048417348
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.729319591670673
+345,Insufficient Verification of Data Authenticity,Class,0.729165824063763

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1391,Use of Weak Credentials,Class,0.7758279687112382
+345,Insufficient Verification of Data Authenticity,Class,0.7756810144261229
+798,Use of Hard-coded Credentials,Base,0.772716825589955
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7725976666219467
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7686068934618726
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7663603797152072
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7659579197527937
+295,Improper Certificate Validation,Base,0.7644168287804833
+657,Violation of Secure Design Principles,Class,0.7610183222498649
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.759275065319629

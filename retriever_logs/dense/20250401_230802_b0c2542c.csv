@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+392,Missing Report of Error Condition,Base,0.7606077335750725
+300,Channel Accessible by Non-Endpoint,Class,0.7573011291100322
+345,Insufficient Verification of Data Authenticity,Class,0.7537451778780906
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7527245888245591
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7515791016887371
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7483734336394707
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7463145367231028
+1391,Use of Weak Credentials,Class,0.7459009344183689
+295,Improper Certificate Validation,Base,0.745494291369493
+657,Violation of Secure Design Principles,Class,0.7430792645638004

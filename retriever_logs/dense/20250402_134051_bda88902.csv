@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7744425616672544
+404,Improper Resource Shutdown or Release,Class,0.7558391852471569
+805,Buffer Access with Incorrect Length Value,Base,0.7547161458778844
+125,Out-of-bounds Read,Base,0.7509132823018654
+131,Incorrect Calculation of Buffer Size,Base,0.7497581424943497
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7475057778047308
+191,Integer Underflow (Wrap or Wraparound),Base,0.7470920179082455
+126,Buffer Over-read,Variant,0.7470649764934109
+908,Use of Uninitialized Resource,Base,0.7463241215194089
+823,Use of Out-of-range Pointer Offset,Base,0.7409474880983558

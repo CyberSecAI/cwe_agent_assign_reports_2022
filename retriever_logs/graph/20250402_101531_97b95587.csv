@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.9060689688656494,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,2.900008703796736,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.893708806039623,0
+839,Numeric Range Comparison Without Minimum Check,base,2.8651999999999997,0
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,base,2.8651999999999997,0
+1260,Improper Handling of Overlap Between Protected Memory Ranges,base,2.8651999999999997,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+619,Dangling Database Cursor ('Cursor Injection'),base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0

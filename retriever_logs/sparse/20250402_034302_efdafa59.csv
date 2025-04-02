@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,5224.41440048191,unknown
+1391,Use of Weak Credentials,5127.219311789881,unknown
+204,Observable Response Discrepancy,5065.327471079243,unknown
+208,Observable Timing Discrepancy,4985.915863349919,unknown
+1390,Weak Authentication,4926.861007184034,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5767.926997308995,unknown
+1342,Information Exposure through Microarchitectural State after Transient Execution,5528.990354770715,unknown
+1421,Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution,5487.553202342439,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5418.9888372523,unknown
+125,Out-of-bounds Read,5387.296293789096,unknown

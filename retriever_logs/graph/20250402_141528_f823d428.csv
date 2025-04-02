@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+208,Observable Timing Discrepancy,base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+125,Out-of-bounds Read,base,3.8870000000000005,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+1291,Public Key Re-Use for Signing both Debug and Production Code,base,3.6399999999999997,0
+787,Out-of-bounds Write,base,3.302,0
+321,Use of Hard-coded Cryptographic Key,variant,3.11472,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+20,Improper Input Validation,class,2.92,0
+41,Improper Resolution of Path Equivalence,base,2.9120000000000004,0

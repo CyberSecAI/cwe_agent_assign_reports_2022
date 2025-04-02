@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+285,Improper Authorization,5095.3905039468755,base_query
+863,Incorrect Authorization,5087.626846784338,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4997.875900416088,base_query
+639,Authorization Bypass Through User-Controlled Key,4854.983400311601,base_query
+287,Improper Authentication,4851.323981201457,base_query

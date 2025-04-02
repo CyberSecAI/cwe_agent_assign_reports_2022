@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),variant,3.8784,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.3136254751699687,0
+73,External Control of File Name or Path,base,2.8651999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.8651999999999997,0
+352,Cross-Site Request Forgery (CSRF),compound,2.8280000000000003,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+823,Use of Out-of-range Pointer Offset,5470.640181377678,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5366.0087539883725,base_query
+125,Out-of-bounds Read,5352.563360390786,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5317.65166211576,base_query
+476,NULL Pointer Dereference,5242.276541606037,base_query

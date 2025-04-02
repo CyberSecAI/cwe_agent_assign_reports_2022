@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+129,Improper Validation of Array Index,8843.645901348516,unknown
+125,Out-of-bounds Read,7795.308252652596,unknown
+197,Numeric Truncation Error,6953.103740245506,unknown
+190,Integer Overflow or Wraparound,6897.270277503562,unknown
+193,Off-by-one Error,6718.292467395684,unknown

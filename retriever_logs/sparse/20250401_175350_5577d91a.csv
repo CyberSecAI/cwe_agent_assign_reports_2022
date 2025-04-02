@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,4978.143707373146,base_query
+667,Improper Locking,4944.387029171645,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4884.60139901581,base_query
+125,Out-of-bounds Read,4791.544346720697,base_query
+908,Use of Uninitialized Resource,4717.481086853172,base_query

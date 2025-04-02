@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+226,Sensitive Information in Resource Not Removed Before Reuse,4801.449754378862,base_query
+1256,Improper Restriction of Software Interfaces to Hardware Features,4596.940236243488,base_query
+287,Improper Authentication,4314.41116143232,base_query
+863,Incorrect Authorization,4196.454214592106,base_query
+252,Unchecked Return Value,4196.325050821838,base_query

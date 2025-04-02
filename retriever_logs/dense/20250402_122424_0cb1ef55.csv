@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+784,Reliance on Cookies without Validation and Integrity Checking in a Security Decision,Variant,0.7999033870006445
+1004,Sensitive Cookie Without 'HttpOnly' Flag,Variant,0.7995521122441981
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,Variant,0.7884175069801269
+565,Reliance on Cookies without Validation and Integrity Checking,Base,0.7849981473238816
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7838271561540283
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7580188351775023
+319,Cleartext Transmission of Sensitive Information,Base,0.7515465036903783
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7478865072727345
+668,Exposure of Resource to Wrong Sphere,Class,0.7440670749852942
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7424847541158768

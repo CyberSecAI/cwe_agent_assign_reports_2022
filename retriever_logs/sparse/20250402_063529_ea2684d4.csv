@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6545.757067920359,unknown
+611,Improper Restriction of XML External Entity Reference,6204.02241074762,unknown
+472,External Control of Assumed-Immutable Web Parameter,6196.288670565438,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,6096.9246712578315,unknown
+863,Incorrect Authorization,6028.010295446233,unknown

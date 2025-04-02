@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,6435.312129508635,base_query
+116,Improper Encoding or Escaping of Output,6308.316412734507,base_query
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),5940.372608931454,base_query
+502,Deserialization of Untrusted Data,5926.65711063169,base_query
+138,Improper Neutralization of Special Elements,5890.469313159358,base_query

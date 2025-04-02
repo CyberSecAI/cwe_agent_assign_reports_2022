@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,5095.468682277715,unknown
+1325,Improperly Controlled Sequential Memory Allocation,4970.040857995426,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),4949.968627156634,unknown
+770,Allocation of Resources Without Limits or Throttling,4889.5596394059085,unknown
+1284,Improper Validation of Specified Quantity in Input,4839.6349770688375,unknown

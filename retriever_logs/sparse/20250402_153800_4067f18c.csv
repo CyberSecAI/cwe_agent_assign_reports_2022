@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+407,Inefficient Algorithmic Complexity,6135.723377692834,unknown
+789,Memory Allocation with Excessive Size Value,6058.037774462298,unknown
+1333,Inefficient Regular Expression Complexity,6041.915426252879,unknown
+770,Allocation of Resources Without Limits or Throttling,5857.462496753494,unknown
+502,Deserialization of Untrusted Data,5695.537647811676,unknown

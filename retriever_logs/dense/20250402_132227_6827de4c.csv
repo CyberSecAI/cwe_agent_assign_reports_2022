@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+134,Use of Externally-Controlled Format String,Base,0.8053288033246109
+138,Improper Neutralization of Special Elements,Class,0.7673315134161003
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7666038209927519
+184,Incomplete List of Disallowed Inputs,Base,0.7659739884232722
+116,Improper Encoding or Escaping of Output,Class,0.7611542754973539
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7568269358410885
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7567775444298652
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7565934245876932
+125,Out-of-bounds Read,Base,0.7564750513487069
+41,Improper Resolution of Path Equivalence,Base,0.7535044406150129

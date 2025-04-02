@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+366,Race Condition within a Thread,Base,0.7783547468040322
+131,Incorrect Calculation of Buffer Size,Base,0.7603926330213308
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7599455728333824
+667,Improper Locking,Class,0.7596234120374653
+191,Integer Underflow (Wrap or Wraparound),Base,0.7493805301736693
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7473203902727794
+457,Use of Uninitialized Variable,Variant,0.746704996799251
+129,Improper Validation of Array Index,Variant,0.7454726895587034
+789,Memory Allocation with Excessive Size Value,Variant,0.7454337050593024
+126,Buffer Over-read,Variant,0.7449853100683324

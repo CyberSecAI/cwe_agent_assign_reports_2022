@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1240,Use of a Cryptographic Primitive with a Risky Implementation,7588.26409095383,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6545.531372201272,base_query
+203,Observable Discrepancy,6175.160582398712,base_query
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),6029.191102307847,base_query
+1391,Use of Weak Credentials,5973.936000992162,base_query

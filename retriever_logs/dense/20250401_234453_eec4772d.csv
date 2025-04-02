@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+927,Use of Implicit Intent for Sensitive Communication,Variant,0.7552241431873489
+213,Exposure of Sensitive Information Due to Incompatible Policies,Base,0.746482146566704
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.736211355481217
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7359664362979842
+668,Exposure of Resource to Wrong Sphere,Class,0.732249424320387
+203,Observable Discrepancy,Base,0.7241602310953084
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7239586457069159
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.723359289349744
+359,Exposure of Private Personal Information to an Unauthorized Actor,Base,0.7172362054139221
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.71722422727432

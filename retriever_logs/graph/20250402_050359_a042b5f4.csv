@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.757,0
+41,Improper Resolution of Path Equivalence,base,3.4361600000000005,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.055,0
+425,Direct Request ('Forced Browsing'),base,2.8651999999999997,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.8651999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+770,Allocation of Resources Without Limits or Throttling,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+20,Improper Input Validation,class,2.5519999999999996,0

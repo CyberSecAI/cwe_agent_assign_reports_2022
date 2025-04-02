@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+405,Asymmetric Resource Consumption (Amplification),Class,0.7727652896142578
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7610562398465941
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.754908054516272
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7521698854564749
+404,Improper Resource Shutdown or Release,Class,0.75014200527035
+799,Improper Control of Interaction Frequency,Class,0.7485822680091716
+668,Exposure of Resource to Wrong Sphere,Class,0.7407477316189894
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7384299132441596
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7306150064813556
+41,Improper Resolution of Path Equivalence,Base,0.7284464879717887

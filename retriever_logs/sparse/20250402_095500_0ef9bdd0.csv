@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+415,Double Free,5661.978377965365,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5595.000070173312,base_query
+911,Improper Update of Reference Count,5447.813874627873,base_query
+364,Signal Handler Race Condition,5387.642288403515,base_query
+667,Improper Locking,5337.847462107131,base_query

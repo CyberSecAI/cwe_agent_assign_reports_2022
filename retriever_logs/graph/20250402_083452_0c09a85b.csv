@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+73,External Control of File Name or Path,base,4.8204,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+41,Improper Resolution of Path Equivalence,base,4.329000000000001,0
+434,Unrestricted Upload of File with Dangerous Type,base,4.329000000000001,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+456,Missing Initialization of a Variable,variant,3.8784,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.8784,0
+131,Incorrect Calculation of Buffer Size,Base,2.909252990200846,0

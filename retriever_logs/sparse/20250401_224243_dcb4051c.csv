@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7445.306113194271,base_query
+918,Server-Side Request Forgery (SSRF),7231.354026058547,base_query
+611,Improper Restriction of XML External Entity Reference,7146.364125887302,base_query
+116,Improper Encoding or Escaping of Output,7001.443764920126,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,6924.226171681744,base_query

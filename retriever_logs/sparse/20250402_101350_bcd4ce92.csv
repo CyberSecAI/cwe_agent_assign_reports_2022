@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,6192.127239235377,unknown
+770,Allocation of Resources Without Limits or Throttling,5607.302441511438,unknown
+863,Incorrect Authorization,5526.282118128197,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5485.7551932395245,unknown
+639,Authorization Bypass Through User-Controlled Key,5469.946209930164,unknown

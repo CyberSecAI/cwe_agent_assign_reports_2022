@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7859678233720062
+668,Exposure of Resource to Wrong Sphere,Class,0.7609075335756019
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7608779590381268
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.758190408535895
+404,Improper Resource Shutdown or Release,Class,0.757645444013895
+345,Insufficient Verification of Data Authenticity,Class,0.7573652443304029
+138,Improper Neutralization of Special Elements,Class,0.7568616679491951
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7559380522706522
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7555276722576828
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7535654004723568

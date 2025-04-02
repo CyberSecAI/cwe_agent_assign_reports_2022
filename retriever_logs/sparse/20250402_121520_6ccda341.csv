@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),6102.326194490318,base_query
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),6100.530254585495,base_query
+639,Authorization Bypass Through User-Controlled Key,6053.460211181846,base_query
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,5703.01202648959,base_query
+863,Incorrect Authorization,5568.6987088269825,base_query

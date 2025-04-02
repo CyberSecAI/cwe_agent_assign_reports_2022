@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,4700.680460546939,unknown
+863,Incorrect Authorization,4647.266539002488,unknown
+502,Deserialization of Untrusted Data,4465.547013302937,unknown
+267,Privilege Defined With Unsafe Actions,4457.474934276991,unknown
+285,Improper Authorization,4404.053498194624,unknown

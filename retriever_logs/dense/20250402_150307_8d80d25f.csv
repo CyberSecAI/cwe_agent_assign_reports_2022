@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7713244713373595
+456,Missing Initialization of a Variable,Variant,0.7676199223872229
+457,Use of Uninitialized Variable,Variant,0.7646628202560944
+665,Improper Initialization,Class,0.7629682070023436
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.759653411347778
+252,Unchecked Return Value,Base,0.7451930286717471
+1419,Incorrect Initialization of Resource,Class,0.7422756608525711
+1288,Improper Validation of Consistency within Input,Base,0.7400272624235138
+606,Unchecked Input for Loop Condition,Base,0.7393064228664982
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7392703324461577

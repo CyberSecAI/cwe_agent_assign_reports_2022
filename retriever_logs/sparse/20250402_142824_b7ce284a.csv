@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7613.370134381662,unknown
+116,Improper Encoding or Escaping of Output,7398.845659379734,unknown
+328,Use of Weak Hash,7220.133456657115,unknown
+23,Relative Path Traversal,7211.269927432062,unknown
+306,Missing Authentication for Critical Function,7153.49191716351,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1263,Improper Physical Access Control,Class,0.7625739791589042
+653,Improper Isolation or Compartmentalization,Class,0.7582391663141429
+404,Improper Resource Shutdown or Release,Class,0.7540808177542759
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7521162560555164
+667,Improper Locking,Class,0.750678202075763
+657,Violation of Secure Design Principles,Class,0.7487575496123123
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.743928273091062
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7432069727306502
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7381222495683556
+274,Improper Handling of Insufficient Privileges,Base,0.7381068679531224

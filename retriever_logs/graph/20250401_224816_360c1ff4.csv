@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+523,Unprotected Transport of Credentials,base,3.6399999999999997,0
+836,Use of Password Hash Instead of Password for Authentication,base,3.6399999999999997,0
+73,External Control of File Name or Path,base,3.2255600000000006,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+312,Cleartext Storage of Sensitive Information,Base,2.5090330988195344,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.4699999999999998,0
+328,Use of Weak Hash,base,2.4699999999999998,0
+41,Improper Resolution of Path Equivalence,base,2.4232000000000005,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,2.4232000000000005,0

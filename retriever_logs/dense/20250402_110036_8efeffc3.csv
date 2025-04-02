@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7609948796973183
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),Base,0.75048517458486
+404,Improper Resource Shutdown or Release,Class,0.7469864387629943
+606,Unchecked Input for Loop Condition,Base,0.7443954532392214
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7403624790297993
+909,Missing Initialization of Resource,Class,0.73175705471601
+191,Integer Underflow (Wrap or Wraparound),Base,0.730237217973561
+366,Race Condition within a Thread,Base,0.7297416073055725
+824,Access of Uninitialized Pointer,Base,0.7267816743668164
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.726769938842151

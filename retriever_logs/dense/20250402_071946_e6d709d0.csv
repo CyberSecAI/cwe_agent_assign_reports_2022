@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+191,Integer Underflow (Wrap or Wraparound),Base,0.7842555456209424
+131,Incorrect Calculation of Buffer Size,Base,0.7802812577256878
+667,Improper Locking,Class,0.7767883936021658
+126,Buffer Over-read,Variant,0.7743679129199164
+823,Use of Out-of-range Pointer Offset,Base,0.7724372164209303
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.772333454233866
+404,Improper Resource Shutdown or Release,Class,0.7718287801462969
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7705011207406884
+476,NULL Pointer Dereference,Base,0.7696118158699135
+805,Buffer Access with Incorrect Length Value,Base,0.7694928910045481

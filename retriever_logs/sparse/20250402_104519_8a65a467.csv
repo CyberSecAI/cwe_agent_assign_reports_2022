@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,4970.054943147616,base_query
+252,Unchecked Return Value,4536.920367830877,base_query
+1286,Improper Validation of Syntactic Correctness of Input,4476.660877904735,base_query
+755,Improper Handling of Exceptional Conditions,4470.417194858953,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4438.660368110173,base_query

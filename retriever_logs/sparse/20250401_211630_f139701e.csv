@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,6575.479851410647,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6301.776954783323,base_query
+798,Use of Hard-coded Credentials,6266.471619760691,base_query
+321,Use of Hard-coded Cryptographic Key,6227.364975819359,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,6196.28982899076,base_query

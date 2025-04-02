@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),6507.242040486743,base_query
+789,Memory Allocation with Excessive Size Value,6480.823245450804,base_query
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),6391.958484310119,base_query
+1333,Inefficient Regular Expression Complexity,6273.335369423118,base_query
+1284,Improper Validation of Specified Quantity in Input,6177.4445597135345,base_query

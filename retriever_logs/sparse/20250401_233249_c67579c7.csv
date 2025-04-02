@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,4692.842758181562,unknown
+908,Use of Uninitialized Resource,4544.152679851142,unknown
+457,Use of Uninitialized Variable,4503.8830128131285,unknown
+909,Missing Initialization of Resource,4433.5867141465815,unknown
+124,Buffer Underwrite ('Buffer Underflow'),4430.937612503477,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+425,Direct Request ('Forced Browsing'),Base,0.7447847751985903
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7443707319886845
+1391,Use of Weak Credentials,Class,0.7433561487780289
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7423523862733846
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7386365849776164
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7382948231344
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7355087634103648
+204,Observable Response Discrepancy,Base,0.7331913196709396
+209,Generation of Error Message Containing Sensitive Information,Base,0.7325018638908504
+668,Exposure of Resource to Wrong Sphere,Class,0.7317829018342754

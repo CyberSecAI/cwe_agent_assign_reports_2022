@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+138,Improper Neutralization of Special Elements,Class,0.7627503619204814
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7605543333723138
+41,Improper Resolution of Path Equivalence,Base,0.7604624980348165
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7571373864021272
+184,Incomplete List of Disallowed Inputs,Base,0.7562837519083816
+668,Exposure of Resource to Wrong Sphere,Class,0.753133600205502
+617,Reachable Assertion,Base,0.7470126886289784
+156,Improper Neutralization of Whitespace,Variant,0.7467484985820457
+653,Improper Isolation or Compartmentalization,Class,0.7458810386286487
+125,Out-of-bounds Read,Base,0.7449186268339927

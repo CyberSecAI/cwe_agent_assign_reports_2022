@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+909,Missing Initialization of Resource,4822.029065955753,unknown
+665,Improper Initialization,4768.412242617588,unknown
+476,NULL Pointer Dereference,4632.402951511687,unknown
+908,Use of Uninitialized Resource,4607.760555304205,unknown
+822,Untrusted Pointer Dereference,4603.251743239184,unknown

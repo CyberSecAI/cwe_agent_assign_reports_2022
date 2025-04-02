@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.653,0
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),base,3.6399999999999997,0
+266,Incorrect Privilege Assignment,base,3.6399999999999997,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,base,3.6399999999999997,0
+73,External Control of File Name or Path,Base,3.209592277688437,0
+259,Use of Hard-coded Password,variant,2.9184000000000005,0
+41,Improper Resolution of Path Equivalence,Base,2.916898006621777,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.911504822673297,0
+184,Incomplete List of Disallowed Inputs,Base,2.9073979179428466,0

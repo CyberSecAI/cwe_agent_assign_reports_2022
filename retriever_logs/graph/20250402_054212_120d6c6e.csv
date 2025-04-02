@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+259,Use of Hard-coded Password,variant,4.1184,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.703784910886595,0
+798,Use of Hard-coded Credentials,Base,2.483000790769109,0
+347,Improper Verification of Cryptographic Signature,base,2.4699999999999998,0
+1291,Public Key Re-Use for Signing both Debug and Production Code,base,2.1762,0
+358,Improperly Implemented Security Check for Standard,base,2.1762,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.1279999999999997,0
+311,Missing Encryption of Sensitive Data,class,2.1279999999999997,0

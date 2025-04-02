@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+288,Authentication Bypass Using an Alternate Path or Channel,7014.475789974765,base_query
+912,Hidden Functionality,6863.891925583023,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6511.700229100437,base_query
+284,Improper Access Control,6498.983565162471,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6361.366397653447,base_query

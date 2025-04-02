@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),variant,3.8784,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.4866,0
+183,Permissive List of Allowed Inputs,base,3.4200400000000006,0
+193,Off-by-one Error,base,3.4200400000000006,0

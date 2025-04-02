@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+277,Insecure Inherited Permissions,5126.069197086257,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5114.759751570938,unknown
+732,Incorrect Permission Assignment for Critical Resource,5048.652959559602,unknown
+863,Incorrect Authorization,5036.8845781006685,unknown
+639,Authorization Bypass Through User-Controlled Key,4998.654743274692,unknown

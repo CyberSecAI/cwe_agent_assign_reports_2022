@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,6595.379247165154,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6340.069313120064,unknown
+250,Execution with Unnecessary Privileges,6273.524438253752,unknown
+426,Untrusted Search Path,6261.366444020982,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6256.196183371188,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,3.2656,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.9184000000000005,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.8993494882385584,0
+252,Unchecked Return Value,base,2.821,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0

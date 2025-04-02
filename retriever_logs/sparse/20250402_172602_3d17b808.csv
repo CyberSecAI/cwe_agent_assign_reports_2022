@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),7751.95775814025,base_query
+472,External Control of Assumed-Immutable Web Parameter,7644.695632806134,base_query
+306,Missing Authentication for Critical Function,7603.950308164307,base_query
+639,Authorization Bypass Through User-Controlled Key,7573.496643494932,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,7566.17007466528,base_query

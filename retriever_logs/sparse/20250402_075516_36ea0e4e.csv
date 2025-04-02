@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+927,Use of Implicit Intent for Sensitive Communication,4732.802703010226,base_query
+667,Improper Locking,4350.254754213632,base_query
+863,Incorrect Authorization,4323.061697193635,base_query
+941,Incorrectly Specified Destination in a Communication Channel,4251.906453160131,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4248.014035886769,base_query

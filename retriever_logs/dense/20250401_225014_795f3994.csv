@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+457,Use of Uninitialized Variable,Variant,0.8028999367043349
+191,Integer Underflow (Wrap or Wraparound),Base,0.7689538702118838
+908,Use of Uninitialized Resource,Base,0.7646539865755886
+909,Missing Initialization of Resource,Class,0.7585748036227309
+131,Incorrect Calculation of Buffer Size,Base,0.7584473658434582
+824,Access of Uninitialized Pointer,Base,0.754337191933557
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7533515578131371
+665,Improper Initialization,Class,0.7525359593346018
+667,Improper Locking,Class,0.7521577752109114
+125,Out-of-bounds Read,Base,0.7519304285538113

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+290,Authentication Bypass by Spoofing,7569.164738901048,unknown
+301,Reflection Attack in an Authentication Protocol,7334.198618986032,unknown
+287,Improper Authentication,6784.649309104809,unknown
+319,Cleartext Transmission of Sensitive Information,6744.434165631931,unknown
+347,Improper Verification of Cryptographic Signature,6697.856054834004,unknown

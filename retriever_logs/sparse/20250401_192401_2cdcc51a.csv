@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1256,Improper Restriction of Software Interfaces to Hardware Features,5064.670677387875,base_query
+1191,On-Chip Debug and Test Interface With Improper Access Control,4793.978188716471,base_query
+863,Incorrect Authorization,4663.130280776179,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4620.1204602692,base_query
+306,Missing Authentication for Critical Function,4619.910640921285,base_query

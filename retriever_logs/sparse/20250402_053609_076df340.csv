@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1240,Use of a Cryptographic Primitive with a Risky Implementation,8579.511745774254,base_query
+798,Use of Hard-coded Credentials,7664.79049781037,base_query
+321,Use of Hard-coded Cryptographic Key,7607.343406294094,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,7474.608979945645,base_query
+259,Use of Hard-coded Password,7403.648570313785,base_query

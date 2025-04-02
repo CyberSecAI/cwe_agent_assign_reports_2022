@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,3.8784,0
+266,Incorrect Privilege Assignment,base,3.6399999999999997,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,3.4866,0
+183,Permissive List of Allowed Inputs,base,3.4200400000000006,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+770,Allocation of Resources Without Limits or Throttling,base,2.73416,0
+494,Download of Code Without Integrity Check,base,2.73416,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.73416,0
+41,Improper Resolution of Path Equivalence,base,2.73416,0

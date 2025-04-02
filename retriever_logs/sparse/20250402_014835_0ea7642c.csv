@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+798,Use of Hard-coded Credentials,7320.009963093428,base_query
+259,Use of Hard-coded Password,7318.578942870674,base_query
+321,Use of Hard-coded Cryptographic Key,6864.372531945065,base_query
+1391,Use of Weak Credentials,6812.462303674541,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),6695.255133913434,base_query

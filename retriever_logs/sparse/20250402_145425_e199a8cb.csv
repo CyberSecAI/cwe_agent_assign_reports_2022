@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+732,Incorrect Permission Assignment for Critical Resource,4523.8307891311315,unknown
+822,Untrusted Pointer Dereference,4505.330729025904,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4502.580731322757,unknown
+863,Incorrect Authorization,4502.568376943596,unknown
+639,Authorization Bypass Through User-Controlled Key,4447.8035566442,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,2.7196000000000002,0
+434,Unrestricted Upload of File with Dangerous Type,Base,2.3744688810483767,0
+73,External Control of File Name or Path,base,2.2100000000000004,0
+183,Permissive List of Allowed Inputs,base,2.2100000000000004,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,2.2100000000000004,0
+226,Sensitive Information in Resource Not Removed Before Reuse,base,2.2100000000000004,0
+385,Covert Timing Channel,base,2.2100000000000004,0
+472,External Control of Assumed-Immutable Web Parameter,Base,2.1367328636234033,0
+425,Direct Request ('Forced Browsing'),Base,2.133104120548373,0
+202,Exposure of Sensitive Information Through Data Queries,base,2.04516,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7670175690217464
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7637965409592031
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7590351951279533
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7582568107288221
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7570272596359933
+41,Improper Resolution of Path Equivalence,Base,0.7544388312744021
+73,External Control of File Name or Path,Base,0.7519864267488001
+23,Relative Path Traversal,Base,0.7510986793850769
+276,Incorrect Default Permissions,Base,0.7490084277878792
+266,Incorrect Privilege Assignment,Base,0.7473900182943585

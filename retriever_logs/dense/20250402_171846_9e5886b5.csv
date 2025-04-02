@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+208,Observable Timing Discrepancy,Base,0.7435073525924142
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.742380653982136
+41,Improper Resolution of Path Equivalence,Base,0.7418147547432413
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7387844124065039
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7366615599632296
+799,Improper Control of Interaction Frequency,Class,0.734912221318941
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),Base,0.7323601026895383
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7315976607949147
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7306899928568314
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.727958697925113

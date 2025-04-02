@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+208,Observable Timing Discrepancy,Base,0.7974911089463604
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7922207155459285
+203,Observable Discrepancy,Base,0.7786697991270886
+345,Insufficient Verification of Data Authenticity,Class,0.7660690019011613
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7656272406459659
+330,Use of Insufficiently Random Values,Class,0.7599014191190523
+667,Improper Locking,Class,0.7585520529361045
+328,Use of Weak Hash,Base,0.758030528586944
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7572001009792816
+1254,Incorrect Comparison Logic Granularity,Base,0.7571957212832189

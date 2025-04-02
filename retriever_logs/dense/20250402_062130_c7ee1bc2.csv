@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7659876478128891
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7439507074313038
+184,Incomplete List of Disallowed Inputs,Base,0.7369988322462737
+138,Improper Neutralization of Special Elements,Class,0.7312551180042226
+404,Improper Resource Shutdown or Release,Class,0.7302515057009411
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.729419490602409
+789,Memory Allocation with Excessive Size Value,Variant,0.729374303098268
+183,Permissive List of Allowed Inputs,Base,0.7280700196984766
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7253187838439343
+252,Unchecked Return Value,Base,0.7249637252918479

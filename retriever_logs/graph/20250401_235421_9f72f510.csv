@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+195,Signed to Unsigned Conversion Error,variant,4.5264,0
+193,Off-by-one Error,base,4.329000000000001,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.0976,0
+197,Numeric Truncation Error,base,3.6399999999999997,0
+1284,Improper Validation of Specified Quantity in Input,base,3.1486000000000005,0
+128,Wrap-around Error,base,2.9120000000000004,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,2.9120000000000004,0
+131,Incorrect Calculation of Buffer Size,Base,2.8865771727888956,0
+190,Integer Overflow or Wraparound,Base,2.871931188805963,0
+123,Write-what-where Condition,base,2.8651999999999997,0

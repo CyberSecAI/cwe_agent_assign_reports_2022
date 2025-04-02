@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+73,External Control of File Name or Path,Base,0.7890872557073376
+552,Files or Directories Accessible to External Parties,Base,0.7889227330119633
+23,Relative Path Traversal,Base,0.7883563644173306
+41,Improper Resolution of Path Equivalence,Base,0.7789142505119173
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7766675996435648
+434,Unrestricted Upload of File with Dangerous Type,Base,0.769087579442973
+184,Incomplete List of Disallowed Inputs,Base,0.7630677103999601
+36,Absolute Path Traversal,Base,0.7615502195338265
+24,Path Traversal: '../filedir',Variant,0.756833938510819
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7529698124385653

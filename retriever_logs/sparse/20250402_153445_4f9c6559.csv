@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),5946.1259362274095,base_query
+1390,Weak Authentication,5811.8067059831355,base_query
+863,Incorrect Authorization,5793.3636440839755,base_query
+285,Improper Authorization,5749.635865248118,base_query
+287,Improper Authentication,5749.215718239871,base_query

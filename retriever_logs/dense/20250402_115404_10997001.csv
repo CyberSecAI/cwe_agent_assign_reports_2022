@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+657,Violation of Secure Design Principles,Class,0.8046739497436548
+1391,Use of Weak Credentials,Class,0.7799940582918693
+798,Use of Hard-coded Credentials,Base,0.7720555045028805
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7676961316148021
+653,Improper Isolation or Compartmentalization,Class,0.7631794135020958
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7620435445561174
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7618709524487635
+668,Exposure of Resource to Wrong Sphere,Class,0.7616021671689526
+345,Insufficient Verification of Data Authenticity,Class,0.7614333864413219
+667,Improper Locking,Class,0.759464010685147

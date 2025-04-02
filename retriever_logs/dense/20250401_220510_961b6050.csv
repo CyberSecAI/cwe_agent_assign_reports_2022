@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.752077464958028
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7480300714013526
+23,Relative Path Traversal,Base,0.7455281010266583
+274,Improper Handling of Insufficient Privileges,Base,0.7453948180091405
+41,Improper Resolution of Path Equivalence,Base,0.7452225801001575
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7422812478818424
+73,External Control of File Name or Path,Base,0.7418565852793353
+184,Incomplete List of Disallowed Inputs,Base,0.7388332933955185
+266,Incorrect Privilege Assignment,Base,0.7375375336950406
+267,Privilege Defined With Unsafe Actions,Base,0.7350283218551052

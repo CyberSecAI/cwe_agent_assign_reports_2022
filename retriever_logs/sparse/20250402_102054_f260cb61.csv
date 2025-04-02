@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5805.879975496189,unknown
+863,Incorrect Authorization,5694.84595926205,unknown
+782,Exposed IOCTL with Insufficient Access Control,5659.509376321162,unknown
+285,Improper Authorization,5649.033572088258,unknown
+732,Incorrect Permission Assignment for Critical Resource,5578.20121504517,unknown

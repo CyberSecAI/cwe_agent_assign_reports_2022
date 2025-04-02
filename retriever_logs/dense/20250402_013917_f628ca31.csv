@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+611,Improper Restriction of XML External Entity Reference,Base,0.8434124211172255
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.783774730065731
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7832300095566793
+776,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),Base,0.7733022088351171
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7627481314105535
+41,Improper Resolution of Path Equivalence,Base,0.7604485147908748
+116,Improper Encoding or Escaping of Output,Class,0.76010216340369
+184,Incomplete List of Disallowed Inputs,Base,0.7591913283800589
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7556473384097808
+23,Relative Path Traversal,Base,0.751135018325961

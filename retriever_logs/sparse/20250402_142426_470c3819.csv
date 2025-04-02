@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5368.164886137596,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5311.187933178759,unknown
+319,Cleartext Transmission of Sensitive Information,5310.864246924403,unknown
+1204,Generation of Weak Initialization Vector (IV),5089.710632445772,unknown
+321,Use of Hard-coded Cryptographic Key,5084.753877208393,unknown

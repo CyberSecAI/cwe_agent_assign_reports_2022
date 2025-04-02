@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,6112.60621002633,base_query
+295,Improper Certificate Validation,6107.066078237179,base_query
+863,Incorrect Authorization,5862.368605376599,base_query
+1390,Weak Authentication,5853.77686611915,base_query
+296,Improper Following of a Certificate's Chain of Trust,5805.797434582652,base_query

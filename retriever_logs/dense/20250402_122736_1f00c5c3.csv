@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),Base,0.7714270786975037
+405,Asymmetric Resource Consumption (Amplification),Class,0.7516551053814948
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7513398459821969
+404,Improper Resource Shutdown or Release,Class,0.7473454335880757
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.741491335627655
+668,Exposure of Resource to Wrong Sphere,Class,0.7350661041262616
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7288622728137806
+789,Memory Allocation with Excessive Size Value,Variant,0.7282762751567073
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7265051617487889
+653,Improper Isolation or Compartmentalization,Class,0.7263289206196455

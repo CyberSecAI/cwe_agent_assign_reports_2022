@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.1184,0
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+358,Improperly Implemented Security Check for Standard,base,3.6399999999999997,0
+325,Missing Cryptographic Step,base,3.6399999999999997,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,3.4361600000000005,0
+295,Improper Certificate Validation,base,2.7742,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0
+798,Use of Hard-coded Credentials,Base,2.4846926173624975,0

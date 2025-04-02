@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7602836173514167
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7594768533981053
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7544737860016519
+668,Exposure of Resource to Wrong Sphere,Class,0.7496624578835399
+274,Improper Handling of Insufficient Privileges,Base,0.7482050749874825
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7443855935251604
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7437959379819545
+1390,Weak Authentication,Class,0.7428471002479449
+345,Insufficient Verification of Data Authenticity,Class,0.7426040648928093
+657,Violation of Secure Design Principles,Class,0.7418628418047241

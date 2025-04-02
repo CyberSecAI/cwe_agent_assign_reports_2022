@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7703490669552084
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7632760276081129
+274,Improper Handling of Insufficient Privileges,Base,0.7628235099811091
+639,Authorization Bypass Through User-Controlled Key,Base,0.7626160866711856
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7603426596956654
+668,Exposure of Resource to Wrong Sphere,Class,0.7600147522183316
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7597019743043116
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7591821507231925
+41,Improper Resolution of Path Equivalence,Base,0.758717056494076
+1390,Weak Authentication,Class,0.7577602811553321

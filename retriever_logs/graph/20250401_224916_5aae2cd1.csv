@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+208,Observable Timing Discrepancy,Base,2.9078868430550866,0
+205,Observable Behavioral Discrepancy,base,2.8651999999999997,0
+472,External Control of Assumed-Immutable Web Parameter,base,2.821,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+1254,Incorrect Comparison Logic Granularity,base,2.4699999999999998,0

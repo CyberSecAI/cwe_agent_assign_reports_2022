@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),variant,3.8784,0
+190,Integer Overflow or Wraparound,base,3.6540400000000006,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.322604692154946,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9015338793331145,0

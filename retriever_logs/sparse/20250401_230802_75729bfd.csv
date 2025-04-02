@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5624.087375384756,base_query
+296,Improper Following of a Certificate's Chain of Trust,5468.396266686511,base_query
+798,Use of Hard-coded Credentials,5166.790671208544,base_query
+300,Channel Accessible by Non-Endpoint,5153.2162841507725,base_query
+259,Use of Hard-coded Password,5032.664877206992,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,5463.612307102519,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5110.00279958118,base_query
+617,Reachable Assertion,5012.213412369795,base_query
+295,Improper Certificate Validation,5011.987519355034,base_query
+789,Memory Allocation with Excessive Size Value,4950.302082277877,base_query

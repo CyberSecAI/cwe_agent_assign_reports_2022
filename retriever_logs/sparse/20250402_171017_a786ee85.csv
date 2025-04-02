@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,6296.253745009162,base_query
+116,Improper Encoding or Escaping of Output,5645.2284025683875,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5400.904974436075,base_query
+125,Out-of-bounds Read,5383.704975322977,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5332.755901333855,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+410,Insufficient Resource Pool,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,3.8870000000000005,0
+789,Memory Allocation with Excessive Size Value,variant,3.8784,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.653,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+190,Integer Overflow or Wraparound,base,3.4200400000000006,0
+73,External Control of File Name or Path,base,3.2255600000000006,0
+772,Missing Release of Resource after Effective Lifetime,base,3.055,0

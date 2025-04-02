@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7693023056253315
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,Variant,0.7667403793999102
+668,Exposure of Resource to Wrong Sphere,Class,0.7642310197414297
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7592731428322157
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7579501640203525
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7550789788867853
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7517969097715099
+319,Cleartext Transmission of Sensitive Information,Base,0.7505703314103888
+274,Improper Handling of Insufficient Privileges,Base,0.7487280363899047
+41,Improper Resolution of Path Equivalence,Base,0.7486721973554077

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+197,Numeric Truncation Error,Base,0.7555449605135485
+191,Integer Underflow (Wrap or Wraparound),Base,0.7521059338295997
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),Base,0.7458159961673728
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7433596311221329
+789,Memory Allocation with Excessive Size Value,Variant,0.7425411671795021
+131,Incorrect Calculation of Buffer Size,Base,0.7415064665237237
+606,Unchecked Input for Loop Condition,Base,0.7414202409897253
+404,Improper Resource Shutdown or Release,Class,0.7372006455093701
+805,Buffer Access with Incorrect Length Value,Base,0.7364884490373598
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7344810388029839

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,10695.84931448956,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),10235.277119359373,unknown
+116,Improper Encoding or Escaping of Output,10097.426446493628,unknown
+138,Improper Neutralization of Special Elements,9929.257441976979,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),9907.077126858356,unknown

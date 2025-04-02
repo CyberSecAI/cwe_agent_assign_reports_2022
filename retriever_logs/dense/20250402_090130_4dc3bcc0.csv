@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7468815217311575
+425,Direct Request ('Forced Browsing'),Base,0.7320155133177761
+790,Improper Filtering of Special Elements,Class,0.7182628086277668
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7080075769205447
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7079636351656837
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7063464338122156
+923,Improper Restriction of Communication Channel to Intended Endpoints,Class,0.7045861398779755
+1390,Weak Authentication,Class,0.7033612775385858
+201,Insertion of Sensitive Information Into Sent Data,Base,0.7028320786532888
+116,Improper Encoding or Escaping of Output,Class,0.7020192991329832

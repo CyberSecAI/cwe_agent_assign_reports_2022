@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7802209507446409
+131,Incorrect Calculation of Buffer Size,Base,0.7641046080327519
+667,Improper Locking,Class,0.7574758697893608
+125,Out-of-bounds Read,Base,0.7566768523929496
+191,Integer Underflow (Wrap or Wraparound),Base,0.7563515815922632
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7504952915529426
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7503225293296127
+824,Access of Uninitialized Pointer,Base,0.7499424788580848
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7486043758769407
+908,Use of Uninitialized Resource,Base,0.7483409935225928

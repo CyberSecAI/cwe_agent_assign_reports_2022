@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7682873288050305
+116,Improper Encoding or Escaping of Output,Class,0.7656070592441622
+319,Cleartext Transmission of Sensitive Information,Base,0.7647270025763809
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7647094261995222
+838,Inappropriate Encoding for Output Context,Base,0.7644646871145967
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7641782229718905
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7633850945626839
+639,Authorization Bypass Through User-Controlled Key,Base,0.760887821266726
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7607793703005754
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7601492097660472

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7840408317341613
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7828440088799569
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7810466416742214
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7743961092365783
+755,Improper Handling of Exceptional Conditions,Class,0.7704973314298592
+252,Unchecked Return Value,Base,0.7702297757783061
+41,Improper Resolution of Path Equivalence,Base,0.7701328903632889
+203,Observable Discrepancy,Base,0.7695595146882044
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7669157593259969
+131,Incorrect Calculation of Buffer Size,Base,0.7666740524722211

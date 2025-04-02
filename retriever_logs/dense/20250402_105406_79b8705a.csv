@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+191,Integer Underflow (Wrap or Wraparound),Base,0.7883607853242723
+41,Improper Resolution of Path Equivalence,Base,0.7680619362726608
+668,Exposure of Resource to Wrong Sphere,Class,0.7649702197382802
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7628352581309261
+197,Numeric Truncation Error,Base,0.7589080296325651
+131,Incorrect Calculation of Buffer Size,Base,0.7550531001243963
+23,Relative Path Traversal,Base,0.7547056919374664
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7524876810416264
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7519419181708782
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7509471604447319

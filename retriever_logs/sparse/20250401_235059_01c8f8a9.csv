@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5270.887022867051,base_query
+285,Improper Authorization,5213.077296803189,base_query
+782,Exposed IOCTL with Insufficient Access Control,5121.156821489594,base_query
+732,Incorrect Permission Assignment for Critical Resource,5075.29476700647,base_query
+269,Improper Privilege Management,5059.119266025982,base_query

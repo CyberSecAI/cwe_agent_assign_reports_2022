@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7720430526216021
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.757089061280001
+404,Improper Resource Shutdown or Release,Class,0.7429219349396065
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7402813569773598
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7375542757539364
+668,Exposure of Resource to Wrong Sphere,Class,0.7374976956651853
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7362301184530402
+704,Incorrect Type Conversion or Cast,Class,0.7347867913172589
+653,Improper Isolation or Compartmentalization,Class,0.7345537838284752
+681,Incorrect Conversion between Numeric Types,Base,0.7300825300033237

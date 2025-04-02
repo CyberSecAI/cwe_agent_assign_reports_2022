@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+823,Use of Out-of-range Pointer Offset,Base,0.7723573674058082
+822,Untrusted Pointer Dereference,Base,0.7719271374935907
+131,Incorrect Calculation of Buffer Size,Base,0.7699615500088497
+682,Incorrect Calculation,Pillar,0.7610144025988177
+824,Access of Uninitialized Pointer,Base,0.7578210013137849
+252,Unchecked Return Value,Base,0.7550842111561196
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7532404517862457
+129,Improper Validation of Array Index,Variant,0.7518998206307352
+476,NULL Pointer Dereference,Base,0.7476516048169775
+667,Improper Locking,Class,0.7471594827537389

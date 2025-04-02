@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7721738211615048
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7699566489185317
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7699116696215118
+1390,Weak Authentication,Class,0.7612738494370332
+41,Improper Resolution of Path Equivalence,Base,0.7602535114773283
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7585501093464636
+1391,Use of Weak Credentials,Class,0.7550449660951701
+639,Authorization Bypass Through User-Controlled Key,Base,0.7539752379442706
+184,Incomplete List of Disallowed Inputs,Base,0.7524439980691295
+345,Insufficient Verification of Data Authenticity,Class,0.7520309079010115

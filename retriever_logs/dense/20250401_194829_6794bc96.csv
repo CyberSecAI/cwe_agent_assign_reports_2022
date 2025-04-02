@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7666113340895137
+125,Out-of-bounds Read,Base,0.7658306627139537
+131,Incorrect Calculation of Buffer Size,Base,0.7650536023577947
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.760688746727602
+274,Improper Handling of Insufficient Privileges,Base,0.7591910588892142
+191,Integer Underflow (Wrap or Wraparound),Base,0.7590262663204561
+404,Improper Resource Shutdown or Release,Class,0.7589895139359973
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7566958445920847
+668,Exposure of Resource to Wrong Sphere,Class,0.7557204717965124
+252,Unchecked Return Value,Base,0.7554117724530545

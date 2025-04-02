@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+405,Asymmetric Resource Consumption (Amplification),Class,0.7839851202792645
+404,Improper Resource Shutdown or Release,Class,0.7802767309448022
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7681963179150575
+799,Improper Control of Interaction Frequency,Class,0.7636088416179823
+667,Improper Locking,Class,0.7607037813865567
+662,Improper Synchronization,Class,0.7588088251856515
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7571571260969787
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7519237720151296
+668,Exposure of Resource to Wrong Sphere,Class,0.7498679058993016
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7486841273288264

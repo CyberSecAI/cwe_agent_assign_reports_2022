@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+321,Use of Hard-coded Cryptographic Key,5379.534422225529,unknown
+295,Improper Certificate Validation,5321.16388184051,unknown
+863,Incorrect Authorization,5230.587807888295,unknown
+347,Improper Verification of Cryptographic Signature,5213.453405619342,unknown
+319,Cleartext Transmission of Sensitive Information,5202.670775525857,unknown

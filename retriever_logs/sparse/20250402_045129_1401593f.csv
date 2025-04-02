@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5263.151749906675,base_query
+798,Use of Hard-coded Credentials,5086.578529749955,base_query
+259,Use of Hard-coded Password,5006.181348203796,base_query
+1390,Weak Authentication,4996.880877536102,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4987.413425883057,base_query

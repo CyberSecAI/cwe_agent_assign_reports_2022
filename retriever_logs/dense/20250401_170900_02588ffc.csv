@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.755619608032426
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7505838296025462
+668,Exposure of Resource to Wrong Sphere,Class,0.750557203047225
+667,Improper Locking,Class,0.7456748325625704
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7434289550090301
+799,Improper Control of Interaction Frequency,Class,0.7433420882876103
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.742119526124207
+404,Improper Resource Shutdown or Release,Class,0.7405702736780242
+405,Asymmetric Resource Consumption (Amplification),Class,0.7380311591565198
+834,Excessive Iteration,Class,0.7380184556723282

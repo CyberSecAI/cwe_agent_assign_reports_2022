@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+941,Incorrectly Specified Destination in a Communication Channel,Base,2.897279881006729,0
+205,Observable Behavioral Discrepancy,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.5519999999999996,0
+406,Insufficient Control of Network Message Volume (Network Amplification),class,2.5519999999999996,0
+940,Improper Verification of Source of a Communication Channel,base,2.4699999999999998,0
+1021,Improper Restriction of Rendered UI Layers or Frames,base,2.4699999999999998,0
+223,Omission of Security-relevant Information,base,2.4699999999999998,0

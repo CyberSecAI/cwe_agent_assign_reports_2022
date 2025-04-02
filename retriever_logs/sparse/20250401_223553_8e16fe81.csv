@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+364,Signal Handler Race Condition,6394.451149794755,unknown
+665,Improper Initialization,5989.3600794921,unknown
+909,Missing Initialization of Resource,5918.591672895873,unknown
+476,NULL Pointer Dereference,5815.2662233586825,unknown
+252,Unchecked Return Value,5710.592329584185,unknown

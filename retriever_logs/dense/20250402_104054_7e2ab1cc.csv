@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7755865205480207
+41,Improper Resolution of Path Equivalence,Base,0.775290890661926
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7694264356889049
+755,Improper Handling of Exceptional Conditions,Class,0.7683620238204347
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7682949353651978
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7680185842803169
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7643838661828448
+697,Incorrect Comparison,Pillar,0.7641032044120961
+404,Improper Resource Shutdown or Release,Class,0.7615063176971031
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7608676061349734

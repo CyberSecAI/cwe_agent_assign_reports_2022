@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7417.390438502494,base_query
+639,Authorization Bypass Through User-Controlled Key,6801.122275917269,base_query
+863,Incorrect Authorization,6375.119871533682,base_query
+425,Direct Request ('Forced Browsing'),6269.16254907089,base_query
+426,Untrusted Search Path,6268.502503508832,base_query

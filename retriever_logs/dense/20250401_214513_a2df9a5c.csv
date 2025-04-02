@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7685970500378738
+203,Observable Discrepancy,Base,0.7660509703167311
+345,Insufficient Verification of Data Authenticity,Class,0.7654488977327663
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.765316410592285
+668,Exposure of Resource to Wrong Sphere,Class,0.7623714549130771
+319,Cleartext Transmission of Sensitive Information,Base,0.7614965934935554
+1391,Use of Weak Credentials,Class,0.7584965028806464
+755,Improper Handling of Exceptional Conditions,Class,0.75693974100368
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7545100334471305
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7542793083741307

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7815048397846343
+911,Improper Update of Reference Count,Base,0.779343355068798
+404,Improper Resource Shutdown or Release,Class,0.7789047738447736
+667,Improper Locking,Class,0.7780875556102973
+131,Incorrect Calculation of Buffer Size,Base,0.7758476363882699
+822,Untrusted Pointer Dereference,Base,0.7741980722164896
+824,Access of Uninitialized Pointer,Base,0.7727660363163552
+125,Out-of-bounds Read,Base,0.7647146953941973
+252,Unchecked Return Value,Base,0.7630615339078487
+191,Integer Underflow (Wrap or Wraparound),Base,0.7590097390099221

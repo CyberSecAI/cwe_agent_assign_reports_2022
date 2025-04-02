@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,3.4398,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.1356,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.1252000000000004,0
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),base,2.6104000000000003,0
+20,Improper Input Validation,class,2.5519999999999996,0
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,2.5014626282117294,0
+611,Improper Restriction of XML External Entity Reference,Base,2.490557291673284,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,Base,2.488948948421807,0
+96,Improper Neutralization of Directives in Statically Saved Code ('Static Code Injection'),base,2.4699999999999998,0
+1427,Improper Neutralization of Input Used for LLM Prompting,base,2.4699999999999998,0

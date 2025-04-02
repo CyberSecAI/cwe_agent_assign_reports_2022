@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),9519.200974296402,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),9176.991480342109,base_query
+23,Relative Path Traversal,9151.542559866406,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,8770.495409433493,base_query
+20,Improper Input Validation,8715.377250694291,base_query

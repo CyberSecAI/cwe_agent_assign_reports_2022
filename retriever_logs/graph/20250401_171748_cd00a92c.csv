@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+259,Use of Hard-coded Password,variant,4.0104,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+798,Use of Hard-coded Credentials,Base,2.4840729890354756,0
+1289,Improper Validation of Unsafe Equivalence in Input,Base,2.47601968266091,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+347,Improper Verification of Cryptographic Signature,base,2.4699999999999998,0

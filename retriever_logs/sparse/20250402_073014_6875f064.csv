@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,5189.404452597771,unknown
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,5071.201642174431,unknown
+125,Out-of-bounds Read,4945.942200876108,unknown
+668,Exposure of Resource to Wrong Sphere,4845.958404018152,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,4830.616203580136,unknown

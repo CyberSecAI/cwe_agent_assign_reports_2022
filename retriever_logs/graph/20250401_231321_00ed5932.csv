@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+205,Observable Behavioral Discrepancy,base,4.329000000000001,0
+416,Use After Free,variant,3.24,0
+386,Symbolic Name not Mapping to Correct Object,base,2.9005600000000005,0
+609,Double-Checked Locking,base,2.8651999999999997,0
+1265,Unintended Reentrant Invocation of Non-reentrant Code Via Nested Calls,base,2.8651999999999997,0
+364,Signal Handler Race Condition,base,2.8651999999999997,0
+415,Double Free,variant,2.7907200000000008,0
+1325,Improperly Controlled Sequential Memory Allocation,base,2.73416,0
+123,Write-what-where Condition,base,2.7014000000000005,0

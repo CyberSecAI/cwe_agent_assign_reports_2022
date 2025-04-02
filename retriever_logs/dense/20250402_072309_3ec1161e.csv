@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1220,Insufficient Granularity of Access Control,Base,0.7799134000548804
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7649555938185941
+653,Improper Isolation or Compartmentalization,Class,0.7645055220537366
+668,Exposure of Resource to Wrong Sphere,Class,0.7527678507527045
+274,Improper Handling of Insufficient Privileges,Base,0.7515894625306211
+667,Improper Locking,Class,0.7491540215589413
+404,Improper Resource Shutdown or Release,Class,0.7450200932192226
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7449001782665674
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7442436653356734
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7399052333247497

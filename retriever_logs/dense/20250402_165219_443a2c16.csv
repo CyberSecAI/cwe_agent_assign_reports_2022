@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7911685200744168
+404,Improper Resource Shutdown or Release,Class,0.7887497275835809
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7676778083745446
+789,Memory Allocation with Excessive Size Value,Variant,0.7650287523496316
+405,Asymmetric Resource Consumption (Amplification),Class,0.7635746128301096
+667,Improper Locking,Class,0.7548887062245593
+668,Exposure of Resource to Wrong Sphere,Class,0.7525977408567814
+772,Missing Release of Resource after Effective Lifetime,Base,0.7475657515859466
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7463576652077865
+909,Missing Initialization of Resource,Class,0.7459794112752577

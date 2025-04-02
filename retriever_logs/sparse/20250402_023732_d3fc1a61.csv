@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,5784.423969920721,unknown
+184,Incomplete List of Disallowed Inputs,5348.804291636016,unknown
+178,Improper Handling of Case Sensitivity,5263.10727072158,unknown
+434,Unrestricted Upload of File with Dangerous Type,5024.869679791014,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4963.502343685751,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1342,Information Exposure through Microarchitectural State after Transient Execution,Base,0.7735086695678615
+131,Incorrect Calculation of Buffer Size,Base,0.7661262632562604
+805,Buffer Access with Incorrect Length Value,Base,0.7594097866710956
+191,Integer Underflow (Wrap or Wraparound),Base,0.7582673322147319
+197,Numeric Truncation Error,Base,0.7552244296263717
+193,Off-by-one Error,Base,0.7549626453783692
+823,Use of Out-of-range Pointer Offset,Base,0.7539926358336768
+667,Improper Locking,Class,0.7521591075411582
+1420,Exposure of Sensitive Information during Transient Execution,Base,0.7481344526005025
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7428796485806484

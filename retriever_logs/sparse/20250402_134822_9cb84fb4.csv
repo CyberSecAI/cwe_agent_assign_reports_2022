@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,6518.971850985814,unknown
+789,Memory Allocation with Excessive Size Value,6120.567375589993,unknown
+197,Numeric Truncation Error,6088.229427448823,unknown
+1325,Improperly Controlled Sequential Memory Allocation,6066.003124856543,unknown
+1284,Improper Validation of Specified Quantity in Input,5929.612388209078,unknown

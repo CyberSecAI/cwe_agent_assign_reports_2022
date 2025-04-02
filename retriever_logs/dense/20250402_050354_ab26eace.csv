@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+116,Improper Encoding or Escaping of Output,Class,0.7684491009925482
+838,Inappropriate Encoding for Output Context,Base,0.7659650982433033
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.765403250261703
+319,Cleartext Transmission of Sensitive Information,Base,0.7645318575803121
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7641477959908802
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7625748483298997
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7600579428521234
+639,Authorization Bypass Through User-Controlled Key,Base,0.7599301241766869
+138,Improper Neutralization of Special Elements,Class,0.7587591218552587
+184,Incomplete List of Disallowed Inputs,Base,0.757924218709204

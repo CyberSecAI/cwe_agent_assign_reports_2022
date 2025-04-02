@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7860.492171021494,base_query
+863,Incorrect Authorization,7788.933363150986,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),7735.680584181078,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7671.92074797009,base_query
+639,Authorization Bypass Through User-Controlled Key,7657.494820343477,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.3056,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.8870000000000005,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,base,3.6399999999999997,0
+352,Cross-Site Request Forgery (CSRF),compound,3.542,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.4866,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.912,0

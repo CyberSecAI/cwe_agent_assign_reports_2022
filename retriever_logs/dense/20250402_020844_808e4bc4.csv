@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7317543923294789
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7268584046311575
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7259237534178089
+653,Improper Isolation or Compartmentalization,Class,0.7233313308527171
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7224747927852235
+41,Improper Resolution of Path Equivalence,Base,0.7212435279905345
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7185791925352177
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7180369766712698
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7161046637606563
+405,Asymmetric Resource Consumption (Amplification),Class,0.7147211234168427

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+386,Symbolic Name not Mapping to Correct Object,base,4.914000000000001,0
+804,Guessable CAPTCHA,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+363,Race Condition Enabling Link Following,base,2.8651999999999997,0
+41,Improper Resolution of Path Equivalence,Base,2.637373131158191,0
+340,Generation of Predictable Numbers or Identifiers,class,2.48,0
+732,Incorrect Permission Assignment for Critical Resource,class,2.48,0
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),class,2.48,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,2.4771372439339654,0
+341,Predictable from Observable State,base,2.4699999999999998,0

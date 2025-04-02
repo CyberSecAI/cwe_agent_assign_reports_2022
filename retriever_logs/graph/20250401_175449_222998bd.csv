@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+309,Use of Password System for Primary Authentication,base,3.6399999999999997,0
+308,Use of Single-factor Authentication,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+208,Observable Timing Discrepancy,base,3.055,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+456,Missing Initialization of a Variable,variant,2.5507200000000005,0
+1289,Improper Validation of Unsafe Equivalence in Input,Base,2.4787628399898614,0

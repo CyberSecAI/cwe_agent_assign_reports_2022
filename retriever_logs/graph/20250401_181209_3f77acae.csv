@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+523,Unprotected Transport of Credentials,base,3.6399999999999997,0
+259,Use of Hard-coded Password,variant,2.8104,0
+208,Observable Timing Discrepancy,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+312,Cleartext Storage of Sensitive Information,Base,2.5121482156906376,0
+261,Weak Encoding for Password,base,2.4699999999999998,0
+532,Insertion of Sensitive Information into Log File,base,2.4699999999999998,0
+1393,Use of Default Password,base,2.4699999999999998,0
+472,External Control of Assumed-Immutable Web Parameter,base,2.2921600000000004,0

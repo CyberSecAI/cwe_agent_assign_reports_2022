@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,4420.169826607196,base_query
+287,Improper Authentication,4404.414448370628,base_query
+863,Incorrect Authorization,4360.475685153193,base_query
+1390,Weak Authentication,4350.883285286023,base_query
+1284,Improper Validation of Specified Quantity in Input,4335.317993915514,base_query

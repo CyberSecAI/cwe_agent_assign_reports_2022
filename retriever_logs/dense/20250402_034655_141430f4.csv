@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7596578914675297
+345,Insufficient Verification of Data Authenticity,Class,0.7581847713355241
+668,Exposure of Resource to Wrong Sphere,Class,0.7556705019352469
+203,Observable Discrepancy,Base,0.7526713535617602
+667,Improper Locking,Class,0.7525740551549156
+404,Improper Resource Shutdown or Release,Class,0.745553418419002
+653,Improper Isolation or Compartmentalization,Class,0.7448107610591306
+755,Improper Handling of Exceptional Conditions,Class,0.7428654638193753
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7425940223291074
+138,Improper Neutralization of Special Elements,Class,0.7425228588542463

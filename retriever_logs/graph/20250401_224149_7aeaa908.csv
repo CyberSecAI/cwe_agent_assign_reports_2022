@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+619,Dangling Database Cursor ('Cursor Injection'),base,4.329000000000001,0
+1332,Improper Handling of Faults that Lead to Instruction Skips,base,3.6399999999999997,0
+1247,Improper Protection Against Voltage and Clock Glitches,base,3.6399999999999997,0
+911,Improper Update of Reference Count,base,2.8651999999999997,0
+476,NULL Pointer Dereference,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+392,Missing Report of Error Condition,base,2.4699999999999998,0
+772,Missing Release of Resource after Effective Lifetime,base,2.4699999999999998,0

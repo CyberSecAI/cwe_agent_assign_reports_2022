@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+805,Buffer Access with Incorrect Length Value,Base,0.7266796189527317
+653,Improper Isolation or Compartmentalization,Class,0.7200862898839846
+786,Access of Memory Location Before Start of Buffer,Base,0.7175834534448705
+131,Incorrect Calculation of Buffer Size,Base,0.7139196730951465
+124,Buffer Underwrite ('Buffer Underflow'),Base,0.7125304882179502
+788,Access of Memory Location After End of Buffer,Base,0.7099493496746915
+126,Buffer Over-read,Variant,0.7092560484700912
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7081106251263646
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7041495644882774
+667,Improper Locking,Class,0.7039131867634082

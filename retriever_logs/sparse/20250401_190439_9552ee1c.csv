@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,6185.952189036805,unknown
+295,Improper Certificate Validation,6096.537375882985,unknown
+941,Incorrectly Specified Destination in a Communication Channel,6090.381272936917,unknown
+863,Incorrect Authorization,5934.917918688316,unknown
+201,Insertion of Sensitive Information Into Sent Data,5793.108985672003,unknown

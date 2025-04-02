@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7584508783517844
+667,Improper Locking,Class,0.7568917616811642
+833,Deadlock,Base,0.7450790744168618
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7362573602547273
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7307179943326558
+413,Improper Resource Locking,Base,0.7287682562848679
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7275205960778071
+789,Memory Allocation with Excessive Size Value,Variant,0.721662327602844
+405,Asymmetric Resource Consumption (Amplification),Class,0.7171782510051141
+662,Improper Synchronization,Class,0.7154629661138389

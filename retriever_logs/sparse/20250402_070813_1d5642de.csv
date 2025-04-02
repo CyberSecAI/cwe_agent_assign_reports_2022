@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,6917.801961647887,unknown
+863,Incorrect Authorization,6913.630983093467,unknown
+287,Improper Authentication,6798.940625501991,unknown
+1390,Weak Authentication,6763.770552215891,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,6701.249491956769,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+347,Improper Verification of Cryptographic Signature,6834.590246677718,unknown
+328,Use of Weak Hash,6535.407874654824,unknown
+611,Improper Restriction of XML External Entity Reference,6422.655455371147,unknown
+190,Integer Overflow or Wraparound,6358.7198492331345,unknown
+116,Improper Encoding or Escaping of Output,6358.109121304905,unknown

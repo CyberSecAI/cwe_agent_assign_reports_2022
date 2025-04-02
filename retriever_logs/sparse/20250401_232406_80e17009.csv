@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,5297.078986004313,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5271.398614410298,base_query
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5163.773975635794,base_query
+125,Out-of-bounds Read,5151.261968702033,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5125.971291071764,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.757,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,3.4866,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.4866,0
+201,Insertion of Sensitive Information Into Sent Data,Base,3.3087188010875326,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.899012494677045,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.887804455630158,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+494,Download of Code Without Integrity Check,base,2.8651999999999997,0

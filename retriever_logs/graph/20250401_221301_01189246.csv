@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.39872,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+290,Authentication Bypass by Spoofing,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,base,3.6399999999999997,0
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),base,3.6399999999999997,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.4866,0
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),variant,3.24,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,7192.979936842211,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),6927.458146464454,base_query
+927,Use of Implicit Intent for Sensitive Communication,6889.615040944223,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6853.7805020144515,base_query
+863,Incorrect Authorization,6821.386454431165,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7738139032382898
+274,Improper Handling of Insufficient Privileges,Base,0.769466362297186
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7689642902868269
+653,Improper Isolation or Compartmentalization,Class,0.7627331710873074
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7611611082715172
+691,Insufficient Control Flow Management,Pillar,0.753111583886765
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7481456896619573
+668,Exposure of Resource to Wrong Sphere,Class,0.7464080624991731
+345,Insufficient Verification of Data Authenticity,Class,0.7457342139529238
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7440017557315788

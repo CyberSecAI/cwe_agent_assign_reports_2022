@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+208,Observable Timing Discrepancy,Base,2.9103507284931975,0
+205,Observable Behavioral Discrepancy,base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0
+1254,Incorrect Comparison Logic Granularity,base,2.4699999999999998,0
+480,Use of Incorrect Operator,base,2.4699999999999998,0
+494,Download of Code Without Integrity Check,base,2.4232000000000005,0

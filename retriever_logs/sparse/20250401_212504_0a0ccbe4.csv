@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),2587.3065678289295,base_query
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,2436.2162696844252,base_query
+248,Uncaught Exception,2357.7557327484114,base_query
+532,Insertion of Sensitive Information into Log File,2345.388691240192,base_query
+138,Improper Neutralization of Special Elements,2344.8572948895007,base_query

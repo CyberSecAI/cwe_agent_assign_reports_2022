@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),Base,0.7643411546066488
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7640587950904107
+404,Improper Resource Shutdown or Release,Class,0.7620413175414384
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7591575067619808
+606,Unchecked Input for Loop Condition,Base,0.7579797475717349
+457,Use of Uninitialized Variable,Variant,0.7535714879808246
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7500368962990802
+667,Improper Locking,Class,0.7481579625914447
+824,Access of Uninitialized Pointer,Base,0.7478889739006218
+909,Missing Initialization of Resource,Class,0.7431221688067186

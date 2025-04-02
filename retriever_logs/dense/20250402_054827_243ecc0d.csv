@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.775732051124046
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7681920072858676
+73,External Control of File Name or Path,Base,0.7644379807711484
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7586885497548779
+345,Insufficient Verification of Data Authenticity,Class,0.7573627665244946
+41,Improper Resolution of Path Equivalence,Base,0.756475314886925
+184,Incomplete List of Disallowed Inputs,Base,0.7550789687655979
+668,Exposure of Resource to Wrong Sphere,Class,0.7544913801102968
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7539954687884287
+138,Improper Neutralization of Special Elements,Class,0.7526427165718065

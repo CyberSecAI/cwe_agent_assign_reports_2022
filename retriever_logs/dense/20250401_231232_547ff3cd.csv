@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+424,Improper Protection of Alternate Path,Class,0.7599667782996827
+653,Improper Isolation or Compartmentalization,Class,0.7587145809702667
+274,Improper Handling of Insufficient Privileges,Base,0.7583737114915323
+404,Improper Resource Shutdown or Release,Class,0.750738323209201
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7506865752656351
+691,Insufficient Control Flow Management,Pillar,0.7502913649846075
+41,Improper Resolution of Path Equivalence,Base,0.7490660112071394
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7489284228122695
+668,Exposure of Resource to Wrong Sphere,Class,0.747569864504098
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7471046042354021

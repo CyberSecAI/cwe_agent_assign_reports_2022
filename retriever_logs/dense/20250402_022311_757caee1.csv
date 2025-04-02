@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7920378721376242
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7802509227652425
+319,Cleartext Transmission of Sensitive Information,Base,0.7675910969951001
+312,Cleartext Storage of Sensitive Information,Base,0.7663000319478431
+345,Insufficient Verification of Data Authenticity,Class,0.7578321292472681
+1391,Use of Weak Credentials,Class,0.7552527455844378
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7551640978925376
+183,Permissive List of Allowed Inputs,Base,0.7531967778187204
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.750704147935283
+1286,Improper Validation of Syntactic Correctness of Input,Base,0.7495048335190523

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+613,Insufficient Session Expiration,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+308,Use of Single-factor Authentication,base,3.6399999999999997,0
+309,Use of Password System for Primary Authentication,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.1356,0
+352,Cross-Site Request Forgery (CSRF),compound,3.002,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.900883764312792,0

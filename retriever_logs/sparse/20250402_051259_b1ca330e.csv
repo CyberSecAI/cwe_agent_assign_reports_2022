@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+226,Sensitive Information in Resource Not Removed Before Reuse,4363.695679735003,unknown
+1390,Weak Authentication,4065.8948825049165,unknown
+863,Incorrect Authorization,4028.92103323037,unknown
+639,Authorization Bypass Through User-Controlled Key,3995.9386746366476,unknown
+201,Insertion of Sensitive Information Into Sent Data,3969.5184943578574,unknown

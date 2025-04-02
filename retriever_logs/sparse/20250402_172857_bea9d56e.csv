@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,6350.393750884589,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6088.047768079588,base_query
+863,Incorrect Authorization,5954.143002376047,base_query
+770,Allocation of Resources Without Limits or Throttling,5950.244762327975,base_query
+927,Use of Implicit Intent for Sensitive Communication,5942.859941383537,base_query

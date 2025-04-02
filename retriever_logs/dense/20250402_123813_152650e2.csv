@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7637007864433925
+345,Insufficient Verification of Data Authenticity,Class,0.7625047683103048
+203,Observable Discrepancy,Base,0.7624076644851278
+927,Use of Implicit Intent for Sensitive Communication,Variant,0.7584268676816662
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7526909154838559
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7499972966771049
+668,Exposure of Resource to Wrong Sphere,Class,0.7472611535226625
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7436038488960277
+319,Cleartext Transmission of Sensitive Information,Base,0.7433247767164495
+312,Cleartext Storage of Sensitive Information,Base,0.7401561925663565

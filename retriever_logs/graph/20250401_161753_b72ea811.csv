@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+358,Improperly Implemented Security Check for Standard,base,3.6399999999999997,0
+259,Use of Hard-coded Password,variant,2.9184000000000005,0
+208,Observable Timing Discrepancy,Base,2.896592399019299,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+325,Missing Cryptographic Step,Base,2.487724395244585,0
+798,Use of Hard-coded Credentials,base,2.4699999999999998,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.2100000000000004,0
+301,Reflection Attack in an Authentication Protocol,base,2.1762,0
+1291,Public Key Re-Use for Signing both Debug and Production Code,base,2.1762,0

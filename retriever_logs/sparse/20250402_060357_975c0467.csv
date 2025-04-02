@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+472,External Control of Assumed-Immutable Web Parameter,4429.396017881652,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),4262.129349041563,base_query
+863,Incorrect Authorization,4245.752817274692,base_query
+23,Relative Path Traversal,4216.991803214547,base_query
+1390,Weak Authentication,4185.910627182684,base_query

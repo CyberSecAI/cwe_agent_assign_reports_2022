@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+128,Wrap-around Error,base,5.031000000000001,0
+190,Integer Overflow or Wraparound,base,5.031000000000001,0
+123,Write-what-where Condition,base,4.8204,0
+195,Signed to Unsigned Conversion Error,variant,4.5264,0
+170,Improper Null Termination,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+681,Incorrect Conversion between Numeric Types,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+416,Use After Free,variant,4.20432,0
+789,Memory Allocation with Excessive Size Value,variant,3.7507200000000003,0

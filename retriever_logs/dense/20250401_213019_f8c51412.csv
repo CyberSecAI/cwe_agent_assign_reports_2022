@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+691,Insufficient Control Flow Management,Pillar,0.7475516946649661
+674,Uncontrolled Recursion,Class,0.7461969384723068
+824,Access of Uninitialized Pointer,Base,0.7457236651266227
+404,Improper Resource Shutdown or Release,Class,0.7398669071591725
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7392604051756273
+617,Reachable Assertion,Base,0.7353978987102167
+131,Incorrect Calculation of Buffer Size,Base,0.7348863665527896
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7346857545236994
+667,Improper Locking,Class,0.7346647744651784
+41,Improper Resolution of Path Equivalence,Base,0.7345223578851853

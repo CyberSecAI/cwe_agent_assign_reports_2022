@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),6572.075535390956,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6408.090276183544,unknown
+782,Exposed IOCTL with Insufficient Access Control,6360.556680797232,unknown
+863,Incorrect Authorization,6151.129143877088,unknown
+285,Improper Authorization,6073.983753721191,unknown

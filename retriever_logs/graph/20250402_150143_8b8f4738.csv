@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+252,Unchecked Return Value,base,3.0784,0
+386,Symbolic Name not Mapping to Correct Object,base,2.9005600000000005,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,2.6104000000000003,0
+456,Missing Initialization of a Variable,variant,2.5507200000000005,0
+798,Use of Hard-coded Credentials,Base,2.4936747560860884,0
+257,Storing Passwords in a Recoverable Format,Base,2.4806918252087717,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,6663.231810935848,base_query
+789,Memory Allocation with Excessive Size Value,6420.109556711617,base_query
+125,Out-of-bounds Read,6288.2483122763915,base_query
+190,Integer Overflow or Wraparound,6285.0770576965715,base_query
+754,Improper Check for Unusual or Exceptional Conditions,6238.461863460408,base_query

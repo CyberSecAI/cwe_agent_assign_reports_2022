@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,4.329000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,4.212000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+193,Off-by-one Error,base,3.5698000000000003,0
+61,UNIX Symbolic Link (Symlink) Following,compound,3.002,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+208,Observable Timing Discrepancy,Base,2.9057812787752444,0
+205,Observable Behavioral Discrepancy,base,2.8651999999999997,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0

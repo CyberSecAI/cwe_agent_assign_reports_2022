@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6166.826700102651,unknown
+1333,Inefficient Regular Expression Complexity,6122.276754383219,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),6089.114950287212,unknown
+94,Improper Control of Generation of Code ('Code Injection'),6054.565835195777,unknown
+617,Reachable Assertion,5728.604577756242,unknown

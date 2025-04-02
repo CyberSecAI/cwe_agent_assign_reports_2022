@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6191.991771855165,base_query
+1284,Improper Validation of Specified Quantity in Input,6163.980651136438,base_query
+789,Memory Allocation with Excessive Size Value,5955.808884935635,base_query
+347,Improper Verification of Cryptographic Signature,5931.198330737199,base_query
+770,Allocation of Resources Without Limits or Throttling,5898.183010147676,base_query

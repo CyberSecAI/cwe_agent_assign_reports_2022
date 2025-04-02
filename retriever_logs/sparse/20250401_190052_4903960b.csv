@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,6097.415209664823,unknown
+404,Improper Resource Shutdown or Release,5954.1906518366095,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5890.6081791970555,unknown
+789,Memory Allocation with Excessive Size Value,5824.565432995864,unknown
+1284,Improper Validation of Specified Quantity in Input,5680.04531869515,unknown

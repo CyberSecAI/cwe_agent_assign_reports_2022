@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,10990.233753800647,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),10478.872737608153,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),10218.029757412758,base_query
+23,Relative Path Traversal,10114.398778498902,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,9991.092475785894,base_query

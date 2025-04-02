@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+134,Use of Externally-Controlled Format String,Base,0.7960613040030098
+125,Out-of-bounds Read,Base,0.76423836657155
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7636709049755321
+131,Incorrect Calculation of Buffer Size,Base,0.7595434909079695
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7484340526343707
+789,Memory Allocation with Excessive Size Value,Variant,0.7482317305477806
+681,Incorrect Conversion between Numeric Types,Base,0.7477453216626708
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7467171566987474
+1286,Improper Validation of Syntactic Correctness of Input,Base,0.7461093821775276
+193,Off-by-one Error,Base,0.7458153357126305

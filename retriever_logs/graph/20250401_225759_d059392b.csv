@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.589,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+352,Cross-Site Request Forgery (CSRF),compound,3.542,0
+41,Improper Resolution of Path Equivalence,Base,3.328143799522195,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.24,0
+20,Improper Input Validation,class,2.984,0
+425,Direct Request ('Forced Browsing'),Base,2.9090903756813176,0

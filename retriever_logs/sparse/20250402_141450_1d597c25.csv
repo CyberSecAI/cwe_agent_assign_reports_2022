@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6676.047625079852,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6148.282075939076,base_query
+770,Allocation of Resources Without Limits or Throttling,6043.934664052004,base_query
+401,Missing Release of Memory after Effective Lifetime,5938.588173123634,base_query
+400,Uncontrolled Resource Consumption,5921.001784822509,base_query

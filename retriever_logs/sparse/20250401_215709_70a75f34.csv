@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+226,Sensitive Information in Resource Not Removed Before Reuse,5379.645869073231,unknown
+472,External Control of Assumed-Immutable Web Parameter,5374.394692269113,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5367.623609759915,unknown
+1390,Weak Authentication,5356.00496211983,unknown
+203,Observable Discrepancy,5294.357271882395,unknown

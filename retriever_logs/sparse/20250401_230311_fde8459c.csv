@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5822.035845139154,base_query
+667,Improper Locking,5811.945094702549,base_query
+125,Out-of-bounds Read,5771.547646366644,base_query
+190,Integer Overflow or Wraparound,5766.768480817514,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5753.092505884703,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,4696.866228237126,unknown
+300,Channel Accessible by Non-Endpoint,4443.073157059036,unknown
+203,Observable Discrepancy,4342.264643451232,unknown
+208,Observable Timing Discrepancy,4331.078689167393,unknown
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,4328.642580514042,unknown

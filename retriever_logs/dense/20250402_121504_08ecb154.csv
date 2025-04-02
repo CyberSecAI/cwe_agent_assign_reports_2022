@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7592394164501943
+789,Memory Allocation with Excessive Size Value,Variant,0.7574572318389913
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7564408191285019
+404,Improper Resource Shutdown or Release,Class,0.7563308711685539
+131,Incorrect Calculation of Buffer Size,Base,0.7559931461561137
+405,Asymmetric Resource Consumption (Amplification),Class,0.7559396991638245
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7557698105228974
+667,Improper Locking,Class,0.7554444344470468
+191,Integer Underflow (Wrap or Wraparound),Base,0.7552943868155813
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7542720757856571

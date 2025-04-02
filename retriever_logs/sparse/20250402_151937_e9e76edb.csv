@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+611,Improper Restriction of XML External Entity Reference,4702.8273630818,unknown
+1389,Incorrect Parsing of Numbers with Different Radices,4574.566223326859,unknown
+918,Server-Side Request Forgery (SSRF),4454.619272949959,unknown
+1286,Improper Validation of Syntactic Correctness of Input,4222.210671622351,unknown
+116,Improper Encoding or Escaping of Output,4177.208528445884,unknown

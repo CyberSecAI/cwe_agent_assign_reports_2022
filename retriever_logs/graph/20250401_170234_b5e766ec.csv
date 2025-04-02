@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+321,Use of Hard-coded Cryptographic Key,variant,4.5264,0
+259,Use of Hard-coded Password,variant,4.5264,0
+488,Exposure of Data Element to Wrong Session,base,4.329000000000001,0
+567,Unsynchronized Access to Shared Data in a Multithreaded Context,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+603,Use of Client-Side Authentication,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+1336,Improper Neutralization of Special Elements Used in a Template Engine,base,3.6399999999999997,0
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),base,3.6399999999999997,0

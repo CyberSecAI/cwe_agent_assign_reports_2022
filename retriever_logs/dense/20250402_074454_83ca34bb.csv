@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7680164222091265
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7661976433803266
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7594959535415164
+41,Improper Resolution of Path Equivalence,Base,0.7550148486947132
+653,Improper Isolation or Compartmentalization,Class,0.7539468932600379
+668,Exposure of Resource to Wrong Sphere,Class,0.7472550417638293
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7456556371842675
+667,Improper Locking,Class,0.7449106800304559
+404,Improper Resource Shutdown or Release,Class,0.7448815233150252
+138,Improper Neutralization of Special Elements,Class,0.7443170205854271

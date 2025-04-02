@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+125,Out-of-bounds Read,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,3.1486000000000005,0
+1284,Improper Validation of Specified Quantity in Input,base,3.1486000000000005,0
+681,Incorrect Conversion between Numeric Types,base,3.055,0
+824,Access of Uninitialized Pointer,Base,2.885663859639901,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+195,Signed to Unsigned Conversion Error,variant,2.8416,0
+787,Out-of-bounds Write,base,2.7196000000000002,0
+197,Numeric Truncation Error,base,2.6104000000000003,0
+131,Incorrect Calculation of Buffer Size,Base,2.5759789272194427,0

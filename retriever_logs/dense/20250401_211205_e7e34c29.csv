@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+23,Relative Path Traversal,Base,0.7782101358632035
+41,Improper Resolution of Path Equivalence,Base,0.7697594613989469
+73,External Control of File Name or Path,Base,0.7687570132233459
+798,Use of Hard-coded Credentials,Base,0.7650726176176967
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7646933461238714
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.764485312672681
+184,Incomplete List of Disallowed Inputs,Base,0.7627631856926724
+1390,Weak Authentication,Class,0.7573696000042531
+345,Insufficient Verification of Data Authenticity,Class,0.7572274406325796
+668,Exposure of Resource to Wrong Sphere,Class,0.7571284616401175

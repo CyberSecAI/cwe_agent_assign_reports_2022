@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+918,Server-Side Request Forgery (SSRF),7478.084735549633,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7277.8846345432385,unknown
+863,Incorrect Authorization,7257.059303655807,unknown
+1333,Inefficient Regular Expression Complexity,7101.545233491855,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7084.529278773659,unknown

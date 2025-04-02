@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8148.227868030478,base_query
+441,Unintended Proxy or Intermediary ('Confused Deputy'),7836.768774777073,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,7819.88095542249,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7808.755392691496,base_query
+863,Incorrect Authorization,7784.443378866653,base_query

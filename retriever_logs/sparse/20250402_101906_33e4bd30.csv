@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1251,Mirrored Regions with Different Values,7332.79598449568,base_query
+789,Memory Allocation with Excessive Size Value,7269.9374693408445,base_query
+1284,Improper Validation of Specified Quantity in Input,7087.805009449462,base_query
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),7085.152994616103,base_query
+770,Allocation of Resources Without Limits or Throttling,7032.881205152335,base_query

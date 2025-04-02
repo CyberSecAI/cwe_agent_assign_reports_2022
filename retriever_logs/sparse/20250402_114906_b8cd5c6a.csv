@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+653,Improper Isolation or Compartmentalization,5733.560392266712,base_query
+489,Active Debug Code,4471.2898741834715,base_query
+345,Insufficient Verification of Data Authenticity,4410.126065304507,base_query
+287,Improper Authentication,4401.182074492283,base_query
+863,Incorrect Authorization,4386.987630801246,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.761084030912452
+696,Incorrect Behavior Order,Class,0.7555730445356268
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7523807267327589
+755,Improper Handling of Exceptional Conditions,Class,0.7502662091769879
+1285,Improper Validation of Specified Index  Position  or Offset in Input,Base,0.7316489990037456
+799,Improper Control of Interaction Frequency,Class,0.7275170911126465
+617,Reachable Assertion,Base,0.7256035860009942
+606,Unchecked Input for Loop Condition,Base,0.7227067786715452
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7201833837925334
+410,Insufficient Resource Pool,Base,0.7178885269368309

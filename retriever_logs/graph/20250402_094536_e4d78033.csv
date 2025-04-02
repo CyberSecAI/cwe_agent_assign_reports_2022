@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,4.329000000000001,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.984,0
+386,Symbolic Name not Mapping to Correct Object,base,2.9005600000000005,0
+201,Insertion of Sensitive Information Into Sent Data,base,2.8651999999999997,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,2.8418,0
+184,Incomplete List of Disallowed Inputs,base,2.831400000000001,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.73416,0

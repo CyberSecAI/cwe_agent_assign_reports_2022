@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+312,Cleartext Storage of Sensitive Information,Base,0.7941953264192977
+208,Observable Timing Discrepancy,Base,0.7708991474431963
+1391,Use of Weak Credentials,Class,0.7677590078880263
+319,Cleartext Transmission of Sensitive Information,Base,0.7637789290461012
+311,Missing Encryption of Sensitive Data,Class,0.7507242829766565
+798,Use of Hard-coded Credentials,Base,0.7494894506691658
+204,Observable Response Discrepancy,Base,0.7442891863786177
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7442866531162324
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7438775069314395
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.743273352184664

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+457,Use of Uninitialized Variable,variant,3.7507200000000003,0
+456,Missing Initialization of a Variable,variant,3.7507200000000003,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+252,Unchecked Return Value,Base,2.8927953036391205,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+1322,Use of Blocking Code in Single-threaded  Non-blocking Context,base,2.73416,0
+41,Improper Resolution of Path Equivalence,base,2.7107600000000005,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+787,Out-of-bounds Write,base,4.329000000000001,0
+822,Untrusted Pointer Dereference,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+252,Unchecked Return Value,base,4.329000000000001,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.7507200000000003,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0

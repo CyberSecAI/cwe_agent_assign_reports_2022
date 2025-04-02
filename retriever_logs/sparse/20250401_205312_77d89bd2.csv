@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5405.450410861062,unknown
+296,Improper Following of a Certificate's Chain of Trust,5128.2768509207535,unknown
+639,Authorization Bypass Through User-Controlled Key,5109.16310090611,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,4925.001519711738,unknown
+863,Incorrect Authorization,4881.83606418584,unknown

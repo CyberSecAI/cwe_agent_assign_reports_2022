@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+330,Use of Insufficiently Random Values,Class,0.7789815213660767
+208,Observable Timing Discrepancy,Base,0.7749568441062122
+1391,Use of Weak Credentials,Class,0.769166176228465
+345,Insufficient Verification of Data Authenticity,Class,0.7675441333536215
+331,Insufficient Entropy,Base,0.7612481334592517
+341,Predictable from Observable State,Base,0.7584575789481527
+203,Observable Discrepancy,Base,0.755272945393838
+340,Generation of Predictable Numbers or Identifiers,Class,0.7544103053305081
+656,Reliance on Security Through Obscurity,Class,0.7517312206010064
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7488709573115786

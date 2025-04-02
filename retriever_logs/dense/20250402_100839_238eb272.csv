@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7804540402426215
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.771321345356125
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7666879640336337
+1390,Weak Authentication,Class,0.7665263375581862
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7654297482985193
+639,Authorization Bypass Through User-Controlled Key,Base,0.7647792333358555
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7639046469440155
+274,Improper Handling of Insufficient Privileges,Base,0.7630186464123644
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7605577665574002
+1391,Use of Weak Credentials,Class,0.7591671516632138

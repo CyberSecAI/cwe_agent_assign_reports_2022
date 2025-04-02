@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+184,Incomplete List of Disallowed Inputs,base,4.329000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.8870000000000005,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.8784,0
+73,External Control of File Name or Path,Base,3.200342346479311,0
+41,Improper Resolution of Path Equivalence,Base,2.9162110563929344,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9093284545985583,0
+425,Direct Request ('Forced Browsing'),Base,2.9018967975684347,0

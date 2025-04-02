@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+287,Improper Authentication,4755.609293901843,unknown
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),4717.2380506054005,unknown
+1390,Weak Authentication,4595.135957164068,unknown
+295,Improper Certificate Validation,4570.654781945836,unknown
+125,Out-of-bounds Read,4557.952923133787,unknown

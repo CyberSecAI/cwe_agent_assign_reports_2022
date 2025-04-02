@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+799,Improper Control of Interaction Frequency,Class,0.7621346213589073
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7586883770274713
+405,Asymmetric Resource Consumption (Amplification),Class,0.757974954072784
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7501724706102698
+300,Channel Accessible by Non-Endpoint,Class,0.7499022410129477
+668,Exposure of Resource to Wrong Sphere,Class,0.7493291496319041
+404,Improper Resource Shutdown or Release,Class,0.7493284319609128
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7476305529373085
+345,Insufficient Verification of Data Authenticity,Class,0.7471798757754582
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.746206136324027

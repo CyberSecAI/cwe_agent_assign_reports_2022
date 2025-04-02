@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7922425370289394
+415,Double Free,Variant,0.7909739920652197
+667,Improper Locking,Class,0.7909542773840101
+404,Improper Resource Shutdown or Release,Class,0.7853968348077216
+131,Incorrect Calculation of Buffer Size,Base,0.7726484277151144
+822,Untrusted Pointer Dereference,Base,0.7698376384809933
+824,Access of Uninitialized Pointer,Base,0.7638208103982296
+252,Unchecked Return Value,Base,0.7596757515143345
+366,Race Condition within a Thread,Base,0.7561839689398328
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7557903211791716

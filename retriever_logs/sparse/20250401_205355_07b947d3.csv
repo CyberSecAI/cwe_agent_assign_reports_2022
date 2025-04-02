@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,5650.816983738554,base_query
+183,Permissive List of Allowed Inputs,5493.169145404635,base_query
+99,Improper Control of Resource Identifiers ('Resource Injection'),5356.906259659366,base_query
+863,Incorrect Authorization,5239.637080494503,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5195.412620514928,base_query

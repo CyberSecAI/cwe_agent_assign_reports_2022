@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5635.860847004288,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,5562.785775705581,base_query
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5453.154952763938,base_query
+1333,Inefficient Regular Expression Complexity,5391.027482414516,base_query
+1284,Improper Validation of Specified Quantity in Input,5320.140155733902,base_query

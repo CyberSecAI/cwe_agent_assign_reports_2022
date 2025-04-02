@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+312,Cleartext Storage of Sensitive Information,Base,0.7759428226234133
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.7734943502473309
+319,Cleartext Transmission of Sensitive Information,Base,0.7726682282855317
+311,Missing Encryption of Sensitive Data,Class,0.7648248712736601
+668,Exposure of Resource to Wrong Sphere,Class,0.7644122048346823
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7614214921012155
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7582239728308391
+345,Insufficient Verification of Data Authenticity,Class,0.7567280534454108
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7562112471991373
+213,Exposure of Sensitive Information Due to Incompatible Policies,Base,0.7554917662652674

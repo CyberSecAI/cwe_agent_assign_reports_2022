@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,5634.920854054823,unknown
+203,Observable Discrepancy,5600.212206482483,unknown
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,5559.275224529551,unknown
+427,Uncontrolled Search Path Element,5484.8812895340825,unknown
+23,Relative Path Traversal,5396.146352755606,unknown

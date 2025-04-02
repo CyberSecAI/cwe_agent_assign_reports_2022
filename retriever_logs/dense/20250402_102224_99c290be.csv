@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1204,Generation of Weak Initialization Vector (IV),Base,0.8096487702343982
+1391,Use of Weak Credentials,Class,0.7853032894661809
+330,Use of Insufficiently Random Values,Class,0.7828183834889759
+331,Insufficient Entropy,Base,0.7795671637663513
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7708654472464911
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7616306451795318
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7608856256237905
+665,Improper Initialization,Class,0.7587207159563438
+345,Insufficient Verification of Data Authenticity,Class,0.7536865811763584
+319,Cleartext Transmission of Sensitive Information,Base,0.7530531929485074

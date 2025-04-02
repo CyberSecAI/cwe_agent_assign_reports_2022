@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,6350.741157169491,base_query
+319,Cleartext Transmission of Sensitive Information,5924.850198107818,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5866.661887369283,base_query
+300,Channel Accessible by Non-Endpoint,5697.6297792314535,base_query
+1390,Weak Authentication,5686.991988913233,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1265,Unintended Reentrant Invocation of Non-reentrant Code Via Nested Calls,base,5.031000000000001,0
+364,Signal Handler Race Condition,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,4.329000000000001,0
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+193,Off-by-one Error,base,4.329000000000001,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+416,Use After Free,variant,3.7507200000000003,0
+663,Use of a Non-reentrant Function in a Concurrent Context,base,3.6399999999999997,0

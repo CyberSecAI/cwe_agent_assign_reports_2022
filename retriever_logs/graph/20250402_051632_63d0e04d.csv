@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+384,Session Fixation,compound,2.7,0
+343,Predictable Value Range from Previous Values,base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+184,Incomplete List of Disallowed Inputs,base,2.3400000000000003,0
+425,Direct Request ('Forced Browsing'),base,2.3295999999999997,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.2100000000000004,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0
+332,Insufficient Entropy in PRNG,variant,2.1624,0
+392,Missing Report of Error Condition,base,2.1189999999999998,0

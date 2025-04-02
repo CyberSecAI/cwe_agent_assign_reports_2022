@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7809804454613798
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.780901832467348
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7787124327917099
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7765248030709984
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7748141189101478
+668,Exposure of Resource to Wrong Sphere,Class,0.7692604227874227
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7683741345871957
+41,Improper Resolution of Path Equivalence,Base,0.7668233999293507
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7666826568248526
+552,Files or Directories Accessible to External Parties,Base,0.7644410229565806

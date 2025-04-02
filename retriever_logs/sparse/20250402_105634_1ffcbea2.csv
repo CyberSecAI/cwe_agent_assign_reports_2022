@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+823,Use of Out-of-range Pointer Offset,5099.24033172456,unknown
+125,Out-of-bounds Read,5015.244017427217,unknown
+193,Off-by-one Error,4904.614173674659,unknown
+190,Integer Overflow or Wraparound,4889.6902100781945,unknown
+191,Integer Underflow (Wrap or Wraparound),4837.034349498904,unknown

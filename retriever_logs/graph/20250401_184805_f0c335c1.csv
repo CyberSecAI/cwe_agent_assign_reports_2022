@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+73,External Control of File Name or Path,base,4.8204,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.7206,0
+184,Incomplete List of Disallowed Inputs,base,3.5698000000000003,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.8934477635549634,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+425,Direct Request ('Forced Browsing'),base,2.8651999999999997,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.8651999999999997,0

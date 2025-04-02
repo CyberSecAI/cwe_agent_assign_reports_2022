@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7984882649289573
+404,Improper Resource Shutdown or Release,Class,0.7983797798117251
+131,Incorrect Calculation of Buffer Size,Base,0.7982822814512942
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7931580029389359
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7884136470432419
+252,Unchecked Return Value,Base,0.7876977784130358
+125,Out-of-bounds Read,Base,0.7840416104381065
+129,Improper Validation of Array Index,Variant,0.7828268436813843
+665,Improper Initialization,Class,0.7827698232932977
+755,Improper Handling of Exceptional Conditions,Class,0.7816933034167984

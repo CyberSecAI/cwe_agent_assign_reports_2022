@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+364,Signal Handler Race Condition,7450.063539594604,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6676.994211504921,unknown
+190,Integer Overflow or Wraparound,6521.484067376027,unknown
+476,NULL Pointer Dereference,6336.658497621395,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6306.361398321099,unknown

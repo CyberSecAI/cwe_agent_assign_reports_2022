@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.779347861869318
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7707305413978192
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7629049897900837
+184,Incomplete List of Disallowed Inputs,Base,0.7597777631464995
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7575698357717786
+138,Improper Neutralization of Special Elements,Class,0.7563774020445128
+183,Permissive List of Allowed Inputs,Base,0.7523334632602159
+943,Improper Neutralization of Special Elements in Data Query Logic,Class,0.7479521790785146
+1286,Improper Validation of Syntactic Correctness of Input,Base,0.7434493634716723
+179,Incorrect Behavior Order: Early Validation,Base,0.7408047602237819

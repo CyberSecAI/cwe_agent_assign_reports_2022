@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),5824.669962054892,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5682.501959757634,base_query
+1386,Insecure Operation on Windows Junction / Mount Point,5521.684317728285,base_query
+61,UNIX Symbolic Link (Symlink) Following,5237.352238298603,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5100.106767041585,base_query

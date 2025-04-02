@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,7460.690220238569,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7378.986426888906,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),7375.569175930881,unknown
+667,Improper Locking,7369.939909265995,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7257.196876367928,unknown

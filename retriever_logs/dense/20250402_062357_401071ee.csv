@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+639,Authorization Bypass Through User-Controlled Key,Base,0.7550984406432018
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7532558179736357
+274,Improper Handling of Insufficient Privileges,Base,0.7521872432866086
+1220,Insufficient Granularity of Access Control,Base,0.7484198059613605
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7473111571803914
+1390,Weak Authentication,Class,0.7437790155374457
+668,Exposure of Resource to Wrong Sphere,Class,0.7428072640406755
+266,Incorrect Privilege Assignment,Base,0.7410543111542695
+404,Improper Resource Shutdown or Release,Class,0.7408620664488288
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7391804345774929

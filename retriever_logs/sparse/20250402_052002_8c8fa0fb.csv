@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,8292.136274339717,base_query
+863,Incorrect Authorization,8259.375981074167,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8201.522318382207,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),8183.124672722039,base_query
+1284,Improper Validation of Specified Quantity in Input,8174.767290660075,base_query

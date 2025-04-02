@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,4.329000000000001,0
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+259,Use of Hard-coded Password,variant,4.0104,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),base,3.757,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+1287,Improper Validation of Specified Type of Input,base,3.6399999999999997,0
+433,Unparsed Raw Web Content Delivery,variant,3.24,0
+289,Authentication Bypass by Alternate Name,Base,2.910890680646443,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+770,Allocation of Resources Without Limits or Throttling,base,2.8651999999999997,0

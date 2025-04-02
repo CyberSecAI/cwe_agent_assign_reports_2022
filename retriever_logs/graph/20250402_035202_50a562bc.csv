@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+410,Insufficient Resource Pool,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+73,External Control of File Name or Path,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+125,Out-of-bounds Read,base,3.8870000000000005,0
+787,Out-of-bounds Write,base,3.8870000000000005,0
+789,Memory Allocation with Excessive Size Value,variant,3.8784,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),base,3.4361600000000005,0

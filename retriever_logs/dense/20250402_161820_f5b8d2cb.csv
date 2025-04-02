@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1391,Use of Weak Credentials,Class,0.7826501284614051
+798,Use of Hard-coded Credentials,Base,0.7800357892152998
+639,Authorization Bypass Through User-Controlled Key,Base,0.7768211143868906
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7712459695966365
+345,Insufficient Verification of Data Authenticity,Class,0.7709491435143583
+668,Exposure of Resource to Wrong Sphere,Class,0.7686109903237675
+41,Improper Resolution of Path Equivalence,Base,0.7682011709349501
+73,External Control of File Name or Path,Base,0.7639163406009735
+1390,Weak Authentication,Class,0.76380244183752
+274,Improper Handling of Insufficient Privileges,Base,0.7605736369316278

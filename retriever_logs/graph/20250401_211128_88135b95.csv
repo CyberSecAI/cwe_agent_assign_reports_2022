@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,Base,3.3169592749003316,0
+41,Improper Resolution of Path Equivalence,base,2.9120000000000004,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.9089017123472485,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0

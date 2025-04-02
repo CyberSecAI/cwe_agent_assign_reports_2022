@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5162.205837392825,unknown
+1390,Weak Authentication,4952.959340753757,unknown
+863,Incorrect Authorization,4898.759088780932,unknown
+287,Improper Authentication,4764.539216768872,unknown
+285,Improper Authorization,4735.23332358242,unknown

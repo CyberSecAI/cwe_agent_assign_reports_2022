@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,7705.88276399944,unknown
+1284,Improper Validation of Specified Quantity in Input,7570.560960795229,unknown
+789,Memory Allocation with Excessive Size Value,7542.790691532888,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7527.842147963209,unknown
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7504.224029931327,unknown

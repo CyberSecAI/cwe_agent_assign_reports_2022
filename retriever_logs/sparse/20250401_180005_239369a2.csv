@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+823,Use of Out-of-range Pointer Offset,7226.388009326101,unknown
+125,Out-of-bounds Read,7163.27986876709,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7133.030992838016,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),7090.198300501162,unknown
+822,Untrusted Pointer Dereference,6977.2003248352285,unknown

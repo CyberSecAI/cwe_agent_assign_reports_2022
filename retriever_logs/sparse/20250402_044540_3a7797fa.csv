@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,5896.816039437777,unknown
+125,Out-of-bounds Read,5035.490707779656,unknown
+190,Integer Overflow or Wraparound,4993.8301722278675,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4876.523253590643,unknown
+843,Access of Resource Using Incompatible Type ('Type Confusion'),4832.6101807108735,unknown

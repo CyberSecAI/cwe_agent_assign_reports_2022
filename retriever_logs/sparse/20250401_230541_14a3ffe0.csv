@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,6314.71204514729,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),5677.305084415819,unknown
+1386,Insecure Operation on Windows Junction / Mount Point,5636.3620120932455,unknown
+863,Incorrect Authorization,5564.770304148594,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5496.201702296066,unknown

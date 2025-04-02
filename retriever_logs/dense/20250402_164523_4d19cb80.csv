@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7937476194300197
+668,Exposure of Resource to Wrong Sphere,Class,0.7937377617181917
+345,Insufficient Verification of Data Authenticity,Class,0.7928702704038082
+639,Authorization Bypass Through User-Controlled Key,Base,0.7902855105469552
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7877095020631072
+209,Generation of Error Message Containing Sensitive Information,Base,0.787128212506206
+204,Observable Response Discrepancy,Base,0.7868973733961422
+295,Improper Certificate Validation,Base,0.7867513310815877
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7864328607292399
+1390,Weak Authentication,Class,0.7860630546235927

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7497923374728175
+665,Improper Initialization,Class,0.7390736355365423
+457,Use of Uninitialized Variable,Variant,0.7359205641978374
+691,Insufficient Control Flow Management,Pillar,0.7285845644299733
+1419,Incorrect Initialization of Resource,Class,0.7284282825821771
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7256435601480601
+1173,Improper Use of Validation Framework,Base,0.7213230636376049
+404,Improper Resource Shutdown or Release,Class,0.7198499711359048
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7196668502571377
+456,Missing Initialization of a Variable,Variant,0.7183074842208097

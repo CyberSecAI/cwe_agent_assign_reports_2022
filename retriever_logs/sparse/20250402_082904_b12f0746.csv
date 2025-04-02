@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),7577.4991188559425,base_query
+863,Incorrect Authorization,7134.0527382717455,base_query
+472,External Control of Assumed-Immutable Web Parameter,7117.810479781568,base_query
+639,Authorization Bypass Through User-Controlled Key,7041.4924244206095,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7024.317298955413,base_query

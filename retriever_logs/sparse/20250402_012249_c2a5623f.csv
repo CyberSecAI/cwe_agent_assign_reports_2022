@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,5549.739244189056,base_query
+823,Use of Out-of-range Pointer Offset,5538.5507161253645,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5340.514519690085,base_query
+476,NULL Pointer Dereference,5256.421902596373,base_query
+125,Out-of-bounds Read,5173.648887770908,base_query

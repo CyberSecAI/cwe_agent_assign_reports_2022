@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6519.783282565007,base_query
+863,Incorrect Authorization,6495.494433795505,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6313.426752128976,base_query
+212,Improper Removal of Sensitive Information Before Storage or Transfer,6271.666064870525,base_query
+252,Unchecked Return Value,6181.821745177242,base_query

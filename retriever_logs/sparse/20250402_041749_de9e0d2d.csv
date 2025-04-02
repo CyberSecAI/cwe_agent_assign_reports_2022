@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+755,Improper Handling of Exceptional Conditions,10684.094146062671,unknown
+754,Improper Check for Unusual or Exceptional Conditions,10043.481964901945,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),9631.38108879145,unknown
+1342,Information Exposure through Microarchitectural State after Transient Execution,9315.561982621437,unknown
+1284,Improper Validation of Specified Quantity in Input,9119.94899853651,unknown

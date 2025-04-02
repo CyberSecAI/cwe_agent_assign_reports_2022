@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),6712.378062576128,base_query
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),6694.985008615597,base_query
+1333,Inefficient Regular Expression Complexity,6366.445940394464,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6289.415226630876,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6267.495057351901,base_query

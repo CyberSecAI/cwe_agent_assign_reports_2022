@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7657284224965311
+184,Incomplete List of Disallowed Inputs,Base,0.7598756186460622
+41,Improper Resolution of Path Equivalence,Base,0.7576928360501826
+73,External Control of File Name or Path,Base,0.7479178391473091
+668,Exposure of Resource to Wrong Sphere,Class,0.747894510959589
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7459772075115592
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7440520918619441
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7418970056984378
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7412043903224679
+138,Improper Neutralization of Special Elements,Class,0.7409117681686923

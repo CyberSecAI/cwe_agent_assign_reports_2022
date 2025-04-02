@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.757279130624873
+668,Exposure of Resource to Wrong Sphere,Class,0.7551519744149872
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.753146347763665
+407,Inefficient Algorithmic Complexity,Class,0.7512393054540828
+41,Improper Resolution of Path Equivalence,Base,0.7499972249526217
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7489393783269193
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7487290619335654
+799,Improper Control of Interaction Frequency,Class,0.748453617540098
+1390,Weak Authentication,Class,0.7483538418338038
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7476831056569162

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7903169608455232
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7859457110236523
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7840235008492882
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7826317246435501
+252,Unchecked Return Value,Base,0.7822273019029441
+345,Insufficient Verification of Data Authenticity,Class,0.7812680515478043
+657,Violation of Secure Design Principles,Class,0.7765032755053396
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7744929875018403
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7735094652167849
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.773311370994865

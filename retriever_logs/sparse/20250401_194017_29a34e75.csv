@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,3579.9506285626894,base_query
+1286,Improper Validation of Syntactic Correctness of Input,3318.6532838607977,base_query
+410,Insufficient Resource Pool,3074.076862715676,base_query
+401,Missing Release of Memory after Effective Lifetime,3042.9168353416144,base_query
+755,Improper Handling of Exceptional Conditions,2976.555175100343,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+776,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),Base,0.7959583001614385
+611,Improper Restriction of XML External Entity Reference,Base,0.7863278052910192
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7533906454921544
+41,Improper Resolution of Path Equivalence,Base,0.7481987190701134
+668,Exposure of Resource to Wrong Sphere,Class,0.7434711882422125
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7431932407469606
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7410267774952111
+23,Relative Path Traversal,Base,0.7398948468048469
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7388019908202352
+138,Improper Neutralization of Special Elements,Class,0.7384846620975594

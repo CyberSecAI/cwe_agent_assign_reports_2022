@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+691,Insufficient Control Flow Management,Pillar,0.7668855560382645
+345,Insufficient Verification of Data Authenticity,Class,0.7655714847933294
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7649171278420293
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7644977656003402
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7620067393924419
+1220,Insufficient Granularity of Access Control,Base,0.7608881451397775
+274,Improper Handling of Insufficient Privileges,Base,0.7607120414123867
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7568698673900054
+668,Exposure of Resource to Wrong Sphere,Class,0.7544244698961495
+799,Improper Control of Interaction Frequency,Class,0.754043636778289

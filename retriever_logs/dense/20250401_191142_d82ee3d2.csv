@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7869675213833078
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7774994969504143
+183,Permissive List of Allowed Inputs,Base,0.758935836582992
+184,Incomplete List of Disallowed Inputs,Base,0.7542394315637834
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7518289371851745
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7474759371216979
+138,Improper Neutralization of Special Elements,Class,0.7465728097810287
+639,Authorization Bypass Through User-Controlled Key,Base,0.7458026358170127
+179,Incorrect Behavior Order: Early Validation,Base,0.745550745649406
+274,Improper Handling of Insufficient Privileges,Base,0.744116505416661

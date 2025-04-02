@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,5636.760388944015,base_query
+252,Unchecked Return Value,5579.843235117732,base_query
+1339,Insufficient Precision or Accuracy of a Real Number,5227.278010310651,base_query
+125,Out-of-bounds Read,5217.229567528655,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5118.560842082874,base_query

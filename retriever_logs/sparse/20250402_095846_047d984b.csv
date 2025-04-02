@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,5941.175634006001,base_query
+770,Allocation of Resources Without Limits or Throttling,5679.342786610646,base_query
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,5587.529041135523,base_query
+789,Memory Allocation with Excessive Size Value,5491.861493928944,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5451.895050176328,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,2793.354463881862,base_query
+190,Integer Overflow or Wraparound,2746.984465075147,base_query
+1284,Improper Validation of Specified Quantity in Input,2699.1017261931624,base_query
+681,Incorrect Conversion between Numeric Types,2672.5232252300098,base_query
+195,Signed to Unsigned Conversion Error,2544.2146615849806,base_query

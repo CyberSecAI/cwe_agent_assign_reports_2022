@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+312,Cleartext Storage of Sensitive Information,Base,0.7735128891128222
+319,Cleartext Transmission of Sensitive Information,Base,0.7715597851715001
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7623153930513387
+130,Improper Handling of Length Parameter Inconsistency,Base,0.761793168075801
+131,Incorrect Calculation of Buffer Size,Base,0.7617251782608164
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7591587955499044
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7586719695090227
+311,Missing Encryption of Sensitive Data,Class,0.7580150214585395
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7562455552668367
+191,Integer Underflow (Wrap or Wraparound),Base,0.7550390494038776

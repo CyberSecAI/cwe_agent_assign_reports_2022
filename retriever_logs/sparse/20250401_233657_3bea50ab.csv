@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+306,Missing Authentication for Critical Function,11264.457736120215,base_query
+285,Improper Authorization,11239.894068204312,base_query
+863,Incorrect Authorization,11172.243799673799,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),11132.258981944142,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),11044.092455551647,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+208,Observable Timing Discrepancy,Base,0.7814126957770273
+204,Observable Response Discrepancy,Base,0.7737860185512353
+1391,Use of Weak Credentials,Class,0.7734707738918282
+203,Observable Discrepancy,Base,0.7674444665891934
+345,Insufficient Verification of Data Authenticity,Class,0.762654161102323
+319,Cleartext Transmission of Sensitive Information,Base,0.7589946139923185
+798,Use of Hard-coded Credentials,Base,0.7569653277690706
+330,Use of Insufficiently Random Values,Class,0.7563928087505916
+328,Use of Weak Hash,Base,0.7557970058466418
+668,Exposure of Resource to Wrong Sphere,Class,0.7543131624933661

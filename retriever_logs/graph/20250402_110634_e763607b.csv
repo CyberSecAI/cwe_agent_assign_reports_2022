@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,4.329000000000001,0
+789,Memory Allocation with Excessive Size Value,variant,3.8784,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,3.7206,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+290,Authentication Bypass by Spoofing,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+291,Reliance on IP Address for Authentication,Variant,0.783857016595866
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7837071303344187
+305,Authentication Bypass by Primary Weakness,Base,0.7808390365564019
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7784453097880497
+289,Authentication Bypass by Alternate Name,Base,0.7753720189974465
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7745765019545869
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7738572917724621
+1391,Use of Weak Credentials,Class,0.7724055666984313
+290,Authentication Bypass by Spoofing,Base,0.7670136260342598
+603,Use of Client-Side Authentication,Base,0.7641175541534606

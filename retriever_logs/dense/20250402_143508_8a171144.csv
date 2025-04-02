@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7681094790098077
+41,Improper Resolution of Path Equivalence,Base,0.7557741385835609
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7531688266174026
+23,Relative Path Traversal,Base,0.7482718146609506
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7475645186925268
+73,External Control of File Name or Path,Base,0.7399705818806559
+61,UNIX Symbolic Link (Symlink) Following,Compound,0.7310816601371211
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),Base,0.7295624146507715
+184,Incomplete List of Disallowed Inputs,Base,0.7284727146805139
+138,Improper Neutralization of Special Elements,Class,0.7252253144774692

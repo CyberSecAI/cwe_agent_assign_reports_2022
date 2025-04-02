@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,6191.554611254209,unknown
+941,Incorrectly Specified Destination in a Communication Channel,6172.700519208088,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6151.664557218478,unknown
+1390,Weak Authentication,5990.547371183473,unknown
+1391,Use of Weak Credentials,5942.532599537978,unknown

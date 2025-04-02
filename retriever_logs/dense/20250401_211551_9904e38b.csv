@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.791400652493087
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7880699038206163
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7803056808353588
+129,Improper Validation of Array Index,Variant,0.7802025116451056
+667,Improper Locking,Class,0.7802011672452813
+404,Improper Resource Shutdown or Release,Class,0.7790813811328076
+252,Unchecked Return Value,Base,0.775898733283211
+125,Out-of-bounds Read,Base,0.7753663547174263
+824,Access of Uninitialized Pointer,Base,0.7721912793058858
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7700946856623652

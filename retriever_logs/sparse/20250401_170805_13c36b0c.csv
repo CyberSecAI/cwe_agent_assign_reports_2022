@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,5384.201028737379,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5299.986671192323,base_query
+1390,Weak Authentication,5244.191087244349,base_query
+863,Incorrect Authorization,5221.520909085704,base_query
+285,Improper Authorization,5216.507106538289,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7609558250766423
+274,Improper Handling of Insufficient Privileges,Base,0.7460672670711926
+667,Improper Locking,Class,0.741913210996189
+131,Incorrect Calculation of Buffer Size,Base,0.7413237181271968
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7409004310939167
+1220,Insufficient Granularity of Access Control,Base,0.740771525920859
+653,Improper Isolation or Compartmentalization,Class,0.7401602316406712
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7398935169150413
+125,Out-of-bounds Read,Base,0.7395115928928981
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7391638989973366

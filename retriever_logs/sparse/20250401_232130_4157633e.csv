@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,4253.62090452625,base_query
+863,Incorrect Authorization,4245.830701235085,base_query
+918,Server-Side Request Forgery (SSRF),4202.550263096739,base_query
+1204,Generation of Weak Initialization Vector (IV),4191.578798378934,base_query
+639,Authorization Bypass Through User-Controlled Key,4190.264692481653,base_query

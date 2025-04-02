@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7579992169030105
+73,External Control of File Name or Path,Base,0.750622302530096
+472,External Control of Assumed-Immutable Web Parameter,Base,0.749826323808733
+1220,Insufficient Granularity of Access Control,Base,0.7482021982591169
+274,Improper Handling of Insufficient Privileges,Base,0.7461222569511723
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7460144819998857
+668,Exposure of Resource to Wrong Sphere,Class,0.7425345771523882
+424,Improper Protection of Alternate Path,Class,0.7421986625500137
+639,Authorization Bypass Through User-Controlled Key,Base,0.7417940887955887
+41,Improper Resolution of Path Equivalence,Base,0.7413803109461494

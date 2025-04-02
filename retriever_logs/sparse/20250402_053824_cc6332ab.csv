@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,8998.334428140472,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8647.583461080978,base_query
+1385,Missing Origin Validation in WebSockets,8353.345971113247,base_query
+116,Improper Encoding or Escaping of Output,8257.57590229526,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,8226.903104015028,base_query

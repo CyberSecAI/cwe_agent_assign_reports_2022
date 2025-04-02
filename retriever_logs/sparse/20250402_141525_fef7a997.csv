@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,5536.076320777817,base_query
+345,Insufficient Verification of Data Authenticity,5469.357898224145,base_query
+203,Observable Discrepancy,5412.397189194623,base_query
+347,Improper Verification of Cryptographic Signature,5411.074017708796,base_query
+1240,Use of a Cryptographic Primitive with a Risky Implementation,5359.114863330555,base_query

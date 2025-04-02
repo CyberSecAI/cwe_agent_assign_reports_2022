@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,6455.544352488484,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6313.435144531547,base_query
+295,Improper Certificate Validation,6206.537765039622,base_query
+203,Observable Discrepancy,6188.214264515166,base_query
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),6168.390704315457,base_query

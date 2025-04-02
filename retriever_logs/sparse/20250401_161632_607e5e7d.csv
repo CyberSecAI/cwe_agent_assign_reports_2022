@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,5419.6430016480845,base_query
+617,Reachable Assertion,4943.630377409292,base_query
+770,Allocation of Resources Without Limits or Throttling,4912.717091615733,base_query
+789,Memory Allocation with Excessive Size Value,4849.709902597672,base_query
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),4826.276930177506,base_query

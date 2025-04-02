@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7157515175482354
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7099710511970806
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7040526388438763
+653,Improper Isolation or Compartmentalization,Class,0.7033498096985146
+1391,Use of Weak Credentials,Class,0.7021963483978019
+649,Reliance on Obfuscation or Encryption of Security-Relevant Inputs without Integrity Checking,Base,0.694509426252139
+657,Violation of Secure Design Principles,Class,0.6944876481797221
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.6888265008101759
+303,Incorrect Implementation of Authentication Algorithm,Base,0.688317713847153
+656,Reliance on Security Through Obscurity,Class,0.6882389113593486

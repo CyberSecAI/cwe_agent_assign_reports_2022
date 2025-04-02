@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7474813615152385
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7428478345714954
+404,Improper Resource Shutdown or Release,Class,0.7393414154661105
+668,Exposure of Resource to Wrong Sphere,Class,0.7379748988695484
+657,Violation of Secure Design Principles,Class,0.7372362777825368
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7356518467595988
+274,Improper Handling of Insufficient Privileges,Base,0.7350950403624046
+405,Asymmetric Resource Consumption (Amplification),Class,0.7289453388116092
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.726194039631253
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7249555887933212

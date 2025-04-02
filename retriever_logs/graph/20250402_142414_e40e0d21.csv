@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+789,Memory Allocation with Excessive Size Value,variant,3.7507200000000003,0
+190,Integer Overflow or Wraparound,base,3.6540400000000006,0
+941,Incorrectly Specified Destination in a Communication Channel,Base,2.9040570793348532,0
+386,Symbolic Name not Mapping to Correct Object,base,2.9005600000000005,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+770,Allocation of Resources Without Limits or Throttling,base,2.8651999999999997,0
+476,NULL Pointer Dereference,base,2.8651999999999997,0
+1325,Improperly Controlled Sequential Memory Allocation,base,2.7939600000000007,0
+41,Improper Resolution of Path Equivalence,base,2.73416,0

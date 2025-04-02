@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8157.4846995169755,unknown
+116,Improper Encoding or Escaping of Output,8110.391317984974,unknown
+352,Cross-Site Request Forgery (CSRF),7823.592074593799,unknown
+863,Incorrect Authorization,7617.607288735761,unknown
+285,Improper Authorization,7535.8449897497585,unknown

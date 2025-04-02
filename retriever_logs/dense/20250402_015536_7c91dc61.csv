@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7950954794133478
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7707705105329132
+1288,Improper Validation of Consistency within Input,Base,0.7690157488111102
+131,Incorrect Calculation of Buffer Size,Base,0.7638197940361081
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7614698293786344
+134,Use of Externally-Controlled Format String,Base,0.7611530638310863
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7560886591577131
+1286,Improper Validation of Syntactic Correctness of Input,Base,0.7543126389117945
+138,Improper Neutralization of Special Elements,Class,0.7514068670413528
+681,Incorrect Conversion between Numeric Types,Base,0.7507788962526215

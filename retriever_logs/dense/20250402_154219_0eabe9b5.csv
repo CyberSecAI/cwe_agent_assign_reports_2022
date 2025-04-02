@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+789,Memory Allocation with Excessive Size Value,Variant,0.7602417327140172
+674,Uncontrolled Recursion,Class,0.7599164942643698
+404,Improper Resource Shutdown or Release,Class,0.7555637381485305
+405,Asymmetric Resource Consumption (Amplification),Class,0.7551695917473062
+407,Inefficient Algorithmic Complexity,Class,0.7539070095032925
+625,Permissive Regular Expression,Base,0.7534807256687088
+617,Reachable Assertion,Base,0.7497117343667701
+799,Improper Control of Interaction Frequency,Class,0.7475364271763156
+1333,Inefficient Regular Expression Complexity,Base,0.746646394380343
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7453962415047655

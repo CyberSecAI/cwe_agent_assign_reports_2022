@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+916,Use of Password Hash With Insufficient Computational Effort,Base,0.7890096262496776
+1391,Use of Weak Credentials,Class,0.7806450297836308
+328,Use of Weak Hash,Base,0.768577251671634
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7665310532581576
+1204,Generation of Weak Initialization Vector (IV),Base,0.7635309946148798
+330,Use of Insufficiently Random Values,Class,0.7632804258829203
+331,Insufficient Entropy,Base,0.7560788196190554
+798,Use of Hard-coded Credentials,Base,0.7543196159923438
+656,Reliance on Security Through Obscurity,Class,0.7536096883817781
+759,Use of a One-Way Hash without a Salt,Variant,0.7434966996083687

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,7134.901825593156,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6643.809690141322,base_query
+667,Improper Locking,6522.001090891113,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6448.825972592248,base_query
+863,Incorrect Authorization,6336.886843096017,base_query

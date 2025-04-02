@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7494930613698836
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),Base,0.7430330656425242
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7413313236499622
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7392232340757844
+838,Inappropriate Encoding for Output Context,Base,0.7388666866374158
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7359285376789632
+184,Incomplete List of Disallowed Inputs,Base,0.7359234479882082
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7314278840809472
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7283321019108913
+691,Insufficient Control Flow Management,Pillar,0.7274902713146695

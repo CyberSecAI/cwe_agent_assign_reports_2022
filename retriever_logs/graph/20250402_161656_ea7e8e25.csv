@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+911,Improper Update of Reference Count,base,4.329000000000001,0
+416,Use After Free,variant,3.8784,0
+190,Integer Overflow or Wraparound,base,3.4200400000000006,0
+1325,Improperly Controlled Sequential Memory Allocation,Base,3.328389166493893,0
+789,Memory Allocation with Excessive Size Value,Variant,3.0300625678515534,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,2.9120000000000004,0
+772,Missing Release of Resource after Effective Lifetime,Base,2.8987341022168396,0
+410,Insufficient Resource Pool,Base,2.8940668862585577,0

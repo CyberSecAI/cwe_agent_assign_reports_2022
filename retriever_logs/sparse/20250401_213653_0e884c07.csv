@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),4333.576913966962,base_query
+834,Excessive Iteration,4041.118064552068,base_query
+457,Use of Uninitialized Variable,3802.31906073859,base_query
+252,Unchecked Return Value,3787.5175956971248,base_query
+703,Improper Check or Handling of Exceptional Conditions,3738.5808772449973,base_query

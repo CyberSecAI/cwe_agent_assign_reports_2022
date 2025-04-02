@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,7644.598160428093,base_query
+328,Use of Weak Hash,7244.201700104461,base_query
+330,Use of Insufficiently Random Values,7072.402636461573,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,7057.746370580544,base_query
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),6942.412573330903,base_query

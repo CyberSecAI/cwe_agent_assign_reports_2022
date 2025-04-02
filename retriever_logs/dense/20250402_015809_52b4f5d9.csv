@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+197,Numeric Truncation Error,Base,0.7814659949577221
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7799653478868095
+681,Incorrect Conversion between Numeric Types,Base,0.7769822023627577
+191,Integer Underflow (Wrap or Wraparound),Base,0.7735351634803556
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7723739889306481
+131,Incorrect Calculation of Buffer Size,Base,0.770435378462277
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7701076664562718
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7658985022923128
+252,Unchecked Return Value,Base,0.7646187632665739
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7628845017140371

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7584109294084964
+203,Observable Discrepancy,Base,0.7477693688423843
+204,Observable Response Discrepancy,Base,0.7433522815176473
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7401713311546765
+41,Improper Resolution of Path Equivalence,Base,0.7373225316258496
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7367409592339234
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7356728029587802
+208,Observable Timing Discrepancy,Base,0.7336987119635292
+319,Cleartext Transmission of Sensitive Information,Base,0.7316214625024393
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7306756914383918

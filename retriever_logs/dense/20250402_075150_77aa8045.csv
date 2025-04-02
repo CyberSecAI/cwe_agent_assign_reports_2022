@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7761543711537877
+274,Improper Handling of Insufficient Privileges,Base,0.7707154279148928
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7700713709816216
+266,Incorrect Privilege Assignment,Base,0.7653414507806521
+749,Exposed Dangerous Method or Function,Base,0.7648534415464725
+668,Exposure of Resource to Wrong Sphere,Class,0.7642932958887294
+1220,Insufficient Granularity of Access Control,Base,0.7628906093404276
+267,Privilege Defined With Unsafe Actions,Base,0.7613561860969341
+782,Exposed IOCTL with Insufficient Access Control,Variant,0.7602622679926383
+653,Improper Isolation or Compartmentalization,Class,0.7602065207295623

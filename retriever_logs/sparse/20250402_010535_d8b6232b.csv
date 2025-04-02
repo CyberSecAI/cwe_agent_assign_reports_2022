@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+927,Use of Implicit Intent for Sensitive Communication,4747.162291391774,unknown
+863,Incorrect Authorization,4655.595045256612,unknown
+285,Improper Authorization,4577.759274692645,unknown
+312,Cleartext Storage of Sensitive Information,4546.214715692207,unknown
+732,Incorrect Permission Assignment for Critical Resource,4544.652168726075,unknown

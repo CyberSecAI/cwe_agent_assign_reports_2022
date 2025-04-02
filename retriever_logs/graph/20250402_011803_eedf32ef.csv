@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+911,Improper Update of Reference Count,base,4.329000000000001,0
+772,Missing Release of Resource after Effective Lifetime,base,4.329000000000001,0
+787,Out-of-bounds Write,base,3.8870000000000005,0
+170,Improper Null Termination,base,3.8870000000000005,0
+190,Integer Overflow or Wraparound,base,3.5698000000000003,0
+195,Signed to Unsigned Conversion Error,variant,3.3936,0
+825,Expired Pointer Dereference,base,2.8651999999999997,0
+410,Insufficient Resource Pool,base,2.8651999999999997,0
+826,Premature Release of Resource During Expected Lifetime,base,2.73416,0

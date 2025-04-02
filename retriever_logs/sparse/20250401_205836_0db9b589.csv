@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1391,Use of Weak Credentials,5730.087466722851,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5637.222448973343,unknown
+1390,Weak Authentication,5632.620035433714,unknown
+319,Cleartext Transmission of Sensitive Information,5596.734788718506,unknown
+611,Improper Restriction of XML External Entity Reference,5577.944890475461,unknown

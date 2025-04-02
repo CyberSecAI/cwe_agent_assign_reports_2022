@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),6245.437104116569,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,6110.077578428315,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,5981.13485573713,base_query
+201,Insertion of Sensitive Information Into Sent Data,5967.291334861226,base_query
+863,Incorrect Authorization,5921.083848701953,base_query

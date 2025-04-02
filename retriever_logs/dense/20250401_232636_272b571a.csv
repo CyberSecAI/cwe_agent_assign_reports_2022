@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.8148486034762489
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.787784851041346
+668,Exposure of Resource to Wrong Sphere,Class,0.7839714659677202
+639,Authorization Bypass Through User-Controlled Key,Base,0.783608478996866
+209,Generation of Error Message Containing Sensitive Information,Base,0.783516137629928
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7827316077638163
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7786589936628643
+41,Improper Resolution of Path Equivalence,Base,0.7771103754798044
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7766770185447094
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7752192228109441

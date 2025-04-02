@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,6206.00220456161,base_query
+125,Out-of-bounds Read,6197.3667895040135,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6034.424329214169,base_query
+190,Integer Overflow or Wraparound,6019.781463857109,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6006.875481824087,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+941,Incorrectly Specified Destination in a Communication Channel,base,4.329000000000001,0
+226,Sensitive Information in Resource Not Removed Before Reuse,base,4.329000000000001,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+386,Symbolic Name not Mapping to Correct Object,base,3.4502,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.901711833031562,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+363,Race Condition Enabling Link Following,base,2.8651999999999997,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,2.7742,0

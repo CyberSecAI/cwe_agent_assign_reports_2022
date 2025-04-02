@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7668836843789812
+668,Exposure of Resource to Wrong Sphere,Class,0.7668644514889822
+274,Improper Handling of Insufficient Privileges,Base,0.7640774961896541
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7639513576384287
+1220,Insufficient Granularity of Access Control,Base,0.7629975707828649
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7617544136288221
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7608399998069795
+1263,Improper Physical Access Control,Class,0.7602362272435166
+203,Observable Discrepancy,Base,0.7594589650264976
+404,Improper Resource Shutdown or Release,Class,0.7581911414698114

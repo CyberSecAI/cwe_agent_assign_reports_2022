@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+290,Authentication Bypass by Spoofing,base,3.6399999999999997,0
+603,Use of Client-Side Authentication,base,3.6399999999999997,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+208,Observable Timing Discrepancy,Base,2.901148773688051,0
+472,External Control of Assumed-Immutable Web Parameter,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+259,Use of Hard-coded Password,variant,2.5507200000000005,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0

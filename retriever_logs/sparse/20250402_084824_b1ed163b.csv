@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,7877.450941529577,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,7659.929721895968,unknown
+125,Out-of-bounds Read,7603.0765795714005,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7583.677130759629,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,7548.0118300194345,unknown

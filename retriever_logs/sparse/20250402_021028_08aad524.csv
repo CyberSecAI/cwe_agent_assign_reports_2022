@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5688.144467058472,base_query
+441,Unintended Proxy or Intermediary ('Confused Deputy'),5606.640493299422,base_query
+285,Improper Authorization,5605.951097718879,base_query
+184,Incomplete List of Disallowed Inputs,5502.566675077235,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,5487.378869116103,base_query

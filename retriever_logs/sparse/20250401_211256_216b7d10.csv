@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1389,Incorrect Parsing of Numbers with Different Radices,8515.693321207076,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8459.771032516093,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,8202.37453466907,base_query
+125,Out-of-bounds Read,8167.119046469167,base_query
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),8131.245830951289,base_query

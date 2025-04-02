@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+364,Signal Handler Race Condition,Base,0.7831059239073633
+828,Signal Handler with Functionality that is not Asynchronous-Safe,Variant,0.753276373620301
+366,Race Condition within a Thread,Base,0.7475491193603909
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.746122566960482
+404,Improper Resource Shutdown or Release,Class,0.7456011900180188
+667,Improper Locking,Class,0.7427031838004161
+415,Double Free,Variant,0.7405509898347207
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.737941934557095
+131,Incorrect Calculation of Buffer Size,Base,0.7234208883258684
+789,Memory Allocation with Excessive Size Value,Variant,0.7207010345502018

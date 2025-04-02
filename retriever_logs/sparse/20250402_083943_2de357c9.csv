@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7243.09153415781,unknown
+138,Improper Neutralization of Special Elements,6905.056040707664,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6904.730725516944,unknown
+116,Improper Encoding or Escaping of Output,6796.94290638308,unknown
+441,Unintended Proxy or Intermediary ('Confused Deputy'),6780.600361448108,unknown

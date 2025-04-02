@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,5538.545357066695,unknown
+295,Improper Certificate Validation,5523.008455207587,unknown
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),5280.89341658471,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5264.380916808842,unknown
+347,Improper Verification of Cryptographic Signature,5224.061837163408,unknown

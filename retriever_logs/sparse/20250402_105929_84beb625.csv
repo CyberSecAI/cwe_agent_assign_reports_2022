@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+843,Access of Resource Using Incompatible Type ('Type Confusion'),5202.365489938684,base_query
+125,Out-of-bounds Read,5199.676031223893,base_query
+822,Untrusted Pointer Dereference,5116.647311508957,base_query
+908,Use of Uninitialized Resource,5074.220217738789,base_query
+252,Unchecked Return Value,4997.137613769622,base_query

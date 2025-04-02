@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.8870000000000005,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+73,External Control of File Name or Path,Base,3.324207911809697,0
+41,Improper Resolution of Path Equivalence,Base,3.321315310994531,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+457,Use of Uninitialized Variable,variant,2.97312,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.8989446825680263,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,2.8651999999999997,0

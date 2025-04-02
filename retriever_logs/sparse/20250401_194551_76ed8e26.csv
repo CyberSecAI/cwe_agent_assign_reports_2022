@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,8819.186393770275,unknown
+863,Incorrect Authorization,8761.09527598055,unknown
+1284,Improper Validation of Specified Quantity in Input,8732.121134796096,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,8680.54800731918,unknown
+799,Improper Control of Interaction Frequency,8622.71243457642,unknown

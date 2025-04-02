@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7834610472475028
+328,Use of Weak Hash,Base,0.7719105370910626
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7661579424183759
+330,Use of Insufficiently Random Values,Class,0.7649198943871314
+345,Insufficient Verification of Data Authenticity,Class,0.7646645013074482
+319,Cleartext Transmission of Sensitive Information,Base,0.7643512619544803
+1391,Use of Weak Credentials,Class,0.7615759224346134
+327,Use of a Broken or Risky Cryptographic Algorithm,Class,0.7571777947925397
+203,Observable Discrepancy,Base,0.7522292980376531
+138,Improper Neutralization of Special Elements,Class,0.7520981760213907

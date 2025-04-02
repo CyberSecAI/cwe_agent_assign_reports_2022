@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,4367.85963566228,base_query
+285,Improper Authorization,4301.98816199419,base_query
+732,Incorrect Permission Assignment for Critical Resource,4230.294129796763,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4196.5622101024055,base_query
+639,Authorization Bypass Through User-Controlled Key,4164.420580287837,base_query

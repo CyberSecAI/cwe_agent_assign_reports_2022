@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,4917.227284811431,unknown
+1284,Improper Validation of Specified Quantity in Input,4840.329236904637,unknown
+822,Untrusted Pointer Dereference,4804.234101319271,unknown
+909,Missing Initialization of Resource,4763.183715007157,unknown
+823,Use of Out-of-range Pointer Offset,4712.519772313294,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7836304561237643
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.77226920728812
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7720732651412139
+405,Asymmetric Resource Consumption (Amplification),Class,0.7709645183719126
+668,Exposure of Resource to Wrong Sphere,Class,0.7696699794873572
+789,Memory Allocation with Excessive Size Value,Variant,0.7678517480469274
+667,Improper Locking,Class,0.7650615616570757
+909,Missing Initialization of Resource,Class,0.7619348374425208
+908,Use of Uninitialized Resource,Base,0.7598797677361746
+203,Observable Discrepancy,Base,0.7571853136814588

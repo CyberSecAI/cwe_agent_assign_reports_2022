@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7628176633524819
+330,Use of Insufficiently Random Values,Class,0.7503593540319761
+325,Missing Cryptographic Step,Base,0.7500212577399823
+203,Observable Discrepancy,Base,0.7474862806200331
+1391,Use of Weak Credentials,Class,0.7432650341260449
+345,Insufficient Verification of Data Authenticity,Class,0.7417468654533201
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7407325590871716
+331,Insufficient Entropy,Base,0.7395218028614776
+208,Observable Timing Discrepancy,Base,0.738747558921235
+657,Violation of Secure Design Principles,Class,0.7358253123157211

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+782,Exposed IOCTL with Insufficient Access Control,7961.5730364180035,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7860.410585633081,unknown
+863,Incorrect Authorization,7726.609678186326,unknown
+1284,Improper Validation of Specified Quantity in Input,7599.801975838718,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7588.914885650592,unknown

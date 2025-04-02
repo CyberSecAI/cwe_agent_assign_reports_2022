@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+798,Use of Hard-coded Credentials,4706.060067092535,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),4649.385745051823,base_query
+425,Direct Request ('Forced Browsing'),4585.613296303888,base_query
+23,Relative Path Traversal,4578.7063966034375,base_query
+639,Authorization Bypass Through User-Controlled Key,4564.374904323981,base_query

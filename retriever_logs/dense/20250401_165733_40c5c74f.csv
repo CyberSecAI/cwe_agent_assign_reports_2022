@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.754995164880788
+404,Improper Resource Shutdown or Release,Class,0.7458866570177748
+131,Incorrect Calculation of Buffer Size,Base,0.7458653646925426
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7435682866485263
+668,Exposure of Resource to Wrong Sphere,Class,0.7412174032201233
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7407426249747446
+129,Improper Validation of Array Index,Variant,0.73912949987469
+125,Out-of-bounds Read,Base,0.7381480598371297
+41,Improper Resolution of Path Equivalence,Base,0.7380450542100999
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7379543041232475

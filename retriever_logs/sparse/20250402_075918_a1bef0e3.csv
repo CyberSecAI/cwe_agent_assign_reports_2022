@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1251,Mirrored Regions with Different Values,6676.505481344486,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6192.137141820495,unknown
+789,Memory Allocation with Excessive Size Value,6134.948821133477,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5944.32774730128,unknown
+125,Out-of-bounds Read,5941.513957291906,unknown

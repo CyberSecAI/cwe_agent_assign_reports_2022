@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6221.061602107242,base_query
+259,Use of Hard-coded Password,6186.747860518219,base_query
+798,Use of Hard-coded Credentials,6172.331185251344,base_query
+321,Use of Hard-coded Cryptographic Key,6055.246669661202,base_query
+427,Uncontrolled Search Path Element,6007.943531722788,base_query

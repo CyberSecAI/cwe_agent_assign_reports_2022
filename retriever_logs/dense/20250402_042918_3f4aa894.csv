@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+603,Use of Client-Side Authentication,Base,0.7962469777888053
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7798109461847816
+602,Client-Side Enforcement of Server-Side Security,Class,0.7661633653500965
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7639226743009921
+305,Authentication Bypass by Primary Weakness,Base,0.7621549193807861
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7620631533648738
+291,Reliance on IP Address for Authentication,Variant,0.761999333722549
+1390,Weak Authentication,Class,0.7587348348691592
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7579601974070858
+657,Violation of Secure Design Principles,Class,0.7574742297930741

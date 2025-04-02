@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7476881749248743
+838,Inappropriate Encoding for Output Context,Base,0.7421734020060738
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7220329563037834
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7170131358815695
+1288,Improper Validation of Consistency within Input,Base,0.7151742280116158
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7141880078634787
+606,Unchecked Input for Loop Condition,Base,0.7136269148970984
+115,Misinterpretation of Input,Base,0.7112814348091503
+138,Improper Neutralization of Special Elements,Class,0.710980121228252
+131,Incorrect Calculation of Buffer Size,Base,0.7086325507348072

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+918,Server-Side Request Forgery (SSRF),4498.112310047945,base_query
+425,Direct Request ('Forced Browsing'),4394.650847629191,base_query
+639,Authorization Bypass Through User-Controlled Key,4393.949880937984,base_query
+306,Missing Authentication for Critical Function,4393.346606800651,base_query
+295,Improper Certificate Validation,4371.225751653907,base_query

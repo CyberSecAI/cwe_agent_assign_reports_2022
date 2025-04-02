@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+822,Untrusted Pointer Dereference,Base,0.7854894024157473
+252,Unchecked Return Value,Base,0.7849537034631042
+476,NULL Pointer Dereference,Base,0.7810188601509013
+824,Access of Uninitialized Pointer,Base,0.7760155019439974
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7643967850632849
+170,Improper Null Termination,Base,0.7630601233785113
+404,Improper Resource Shutdown or Release,Class,0.7628716246709173
+690,Unchecked Return Value to NULL Pointer Dereference,Compound,0.7612246609252048
+667,Improper Locking,Class,0.7592461860039378
+131,Incorrect Calculation of Buffer Size,Base,0.7583630920911361

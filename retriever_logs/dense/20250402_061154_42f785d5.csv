@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7866070018911229
+23,Relative Path Traversal,Base,0.7810648181905638
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7771527657869064
+184,Incomplete List of Disallowed Inputs,Base,0.7743829359514698
+73,External Control of File Name or Path,Base,0.7655716722451515
+138,Improper Neutralization of Special Elements,Class,0.76178930788638
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7611363316205981
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),Variant,0.7595107951920465
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7580705354476552
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7561014719079351

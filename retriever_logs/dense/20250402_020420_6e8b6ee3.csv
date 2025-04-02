@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7655253054802429
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7424076976924963
+41,Improper Resolution of Path Equivalence,Base,0.7401872738422962
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7383593413737299
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),Base,0.7332862990565998
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.73024296128545
+184,Incomplete List of Disallowed Inputs,Base,0.727104732304906
+639,Authorization Bypass Through User-Controlled Key,Base,0.7261375305431435
+1390,Weak Authentication,Class,0.7244054494139189
+668,Exposure of Resource to Wrong Sphere,Class,0.7238415989487643

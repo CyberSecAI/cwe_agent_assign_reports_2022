@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,4774.936594559083,unknown
+319,Cleartext Transmission of Sensitive Information,4774.6364583497125,unknown
+203,Observable Discrepancy,4707.443918565041,unknown
+209,Generation of Error Message Containing Sensitive Information,4557.925428924739,unknown
+312,Cleartext Storage of Sensitive Information,4520.859812126074,unknown

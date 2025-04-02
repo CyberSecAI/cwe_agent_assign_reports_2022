@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,8132.9402724036945,base_query
+426,Untrusted Search Path,7181.872470337529,base_query
+639,Authorization Bypass Through User-Controlled Key,7067.460372132317,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),6722.257674954913,base_query
+863,Incorrect Authorization,6705.085009354214,base_query

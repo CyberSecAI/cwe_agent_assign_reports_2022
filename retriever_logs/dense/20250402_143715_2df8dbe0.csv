@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7629601719073633
+667,Improper Locking,Class,0.7575291826214858
+191,Integer Underflow (Wrap or Wraparound),Base,0.750630653598736
+404,Improper Resource Shutdown or Release,Class,0.7497560550780058
+131,Incorrect Calculation of Buffer Size,Base,0.7440646811460815
+665,Improper Initialization,Class,0.7429253375687009
+457,Use of Uninitialized Variable,Variant,0.7423942184794213
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7416620561975296
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7402456857309453
+908,Use of Uninitialized Resource,Base,0.7394111489002577

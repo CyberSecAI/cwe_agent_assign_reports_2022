@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7749265129540273
+274,Improper Handling of Insufficient Privileges,Base,0.7706915036106762
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7686045893741545
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7680049077602626
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7644355811820003
+41,Improper Resolution of Path Equivalence,Base,0.7609584889126941
+266,Incorrect Privilege Assignment,Base,0.7593695289380752
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7575388545099007
+653,Improper Isolation or Compartmentalization,Class,0.7569215258297048
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7558618713924036

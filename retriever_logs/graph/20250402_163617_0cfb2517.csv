@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+290,Authentication Bypass by Spoofing,base,3.6399999999999997,0
+73,External Control of File Name or Path,base,3.3566,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.055,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+1292,Incorrect Conversion of Security Identifiers,base,2.4699999999999998,0
+1270,Generation of Incorrect Security Tokens,base,2.4699999999999998,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.4232000000000005,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,2.4232000000000005,0
+480,Use of Incorrect Operator,base,2.3998000000000004,0

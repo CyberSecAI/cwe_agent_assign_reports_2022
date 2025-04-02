@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+296,Improper Following of a Certificate's Chain of Trust,base,3.6399999999999997,0
+309,Use of Password System for Primary Authentication,base,3.6399999999999997,0
+308,Use of Single-factor Authentication,base,3.6399999999999997,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.3252390228540403,0
+297,Improper Validation of Certificate with Host Mismatch,variant,3.2424,0

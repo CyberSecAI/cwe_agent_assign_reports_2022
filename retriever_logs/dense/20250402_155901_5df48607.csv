@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+305,Authentication Bypass by Primary Weakness,Base,0.7986713561290327
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7954440825455694
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7908203248450398
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7852393605375668
+290,Authentication Bypass by Spoofing,Base,0.7829882634551475
+289,Authentication Bypass by Alternate Name,Base,0.7818582315138899
+1390,Weak Authentication,Class,0.7812213184193102
+1391,Use of Weak Credentials,Class,0.7783052243372744
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7775087112487808
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7753060235933722

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,6024.583496832646,base_query
+191,Integer Underflow (Wrap or Wraparound),5870.281693813397,base_query
+193,Off-by-one Error,5766.771587916838,base_query
+125,Out-of-bounds Read,5705.662924430121,base_query
+823,Use of Out-of-range Pointer Offset,5667.3041444503015,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5290.545267298838,base_query
+863,Incorrect Authorization,5242.249584508353,base_query
+639,Authorization Bypass Through User-Controlled Key,5180.673672310475,base_query
+125,Out-of-bounds Read,5146.549743184241,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5118.36461324558,base_query

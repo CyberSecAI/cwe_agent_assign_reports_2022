@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+918,Server-Side Request Forgery (SSRF),Base,0.7568579254615009
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7543738026892756
+668,Exposure of Resource to Wrong Sphere,Class,0.7503817684231328
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7458095820415169
+602,Client-Side Enforcement of Server-Side Security,Class,0.7407968763057642
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.739792243533907
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.73970910590719
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7392796054787414
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.7390152096874028
+319,Cleartext Transmission of Sensitive Information,Base,0.7349430593032822

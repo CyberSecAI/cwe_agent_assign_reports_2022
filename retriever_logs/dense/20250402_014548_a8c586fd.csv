@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1220,Insufficient Granularity of Access Control,Base,0.8066985748036144
+1256,Improper Restriction of Software Interfaces to Hardware Features,Base,0.7942896261770734
+691,Insufficient Control Flow Management,Pillar,0.7900026163692817
+667,Improper Locking,Class,0.780839903559644
+653,Improper Isolation or Compartmentalization,Class,0.7760204421112327
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.77516679126254
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7683430167691561
+1263,Improper Physical Access Control,Class,0.7673534047857472
+274,Improper Handling of Insufficient Privileges,Base,0.7644441159588247
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7613838650846565

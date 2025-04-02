@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+668,Exposure of Resource to Wrong Sphere,6340.186930115937,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,6308.38587760378,base_query
+863,Incorrect Authorization,6295.771766546628,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6232.471246996444,base_query
+942,Permissive Cross-domain Policy with Untrusted Domains,6179.208835341179,base_query

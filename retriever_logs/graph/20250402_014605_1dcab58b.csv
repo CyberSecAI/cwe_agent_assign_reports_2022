@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+73,External Control of File Name or Path,base,4.8204,0
+434,Unrestricted Upload of File with Dangerous Type,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+41,Improper Resolution of Path Equivalence,base,4.329000000000001,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,4.329000000000001,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.8784,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+290,Authentication Bypass by Spoofing,base,3.2656,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+20,Improper Input Validation,class,2.984,0

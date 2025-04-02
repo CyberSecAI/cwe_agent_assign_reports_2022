@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7916347125002441
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7874572795528463
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7842628742654103
+611,Improper Restriction of XML External Entity Reference,Base,0.7798604827603035
+668,Exposure of Resource to Wrong Sphere,Class,0.7785831912157449
+319,Cleartext Transmission of Sensitive Information,Base,0.7772757038843578
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7759553581083288
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7756018035778459
+1391,Use of Weak Credentials,Class,0.7751189614815119
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7733500559023327

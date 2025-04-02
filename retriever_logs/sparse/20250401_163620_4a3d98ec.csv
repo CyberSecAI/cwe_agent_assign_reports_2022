@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,6539.1110276280115,unknown
+208,Observable Timing Discrepancy,6032.339176634455,unknown
+1256,Improper Restriction of Software Interfaces to Hardware Features,5868.559375076068,unknown
+1300,Improper Protection of Physical Side Channels,5773.944986713489,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5541.035682829039,unknown

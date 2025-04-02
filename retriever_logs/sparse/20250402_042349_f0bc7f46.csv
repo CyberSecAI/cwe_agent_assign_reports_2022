@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),7130.966641894183,base_query
+138,Improper Neutralization of Special Elements,7057.258828273492,base_query
+943,Improper Neutralization of Special Elements in Data Query Logic,7018.467394764728,base_query
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),6905.6597870692285,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6878.772119074452,base_query

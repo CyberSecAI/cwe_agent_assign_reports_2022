@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,6476.121926881651,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6433.054009625856,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),6342.599399298163,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6340.068752827368,base_query
+125,Out-of-bounds Read,6331.508861153584,base_query

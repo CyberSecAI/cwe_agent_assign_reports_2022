@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+300,Channel Accessible by Non-Endpoint,Class,0.7851726238503517
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7819688863118551
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7778482749665416
+295,Improper Certificate Validation,Base,0.7770935576137816
+345,Insufficient Verification of Data Authenticity,Class,0.7755766720648971
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7708816934182975
+41,Improper Resolution of Path Equivalence,Base,0.7692996695535836
+319,Cleartext Transmission of Sensitive Information,Base,0.7683859490260364
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7669105470671627
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7661241907141196

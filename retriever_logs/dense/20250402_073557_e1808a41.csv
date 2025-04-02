@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7776635247920488
+191,Integer Underflow (Wrap or Wraparound),Base,0.7670805121096526
+805,Buffer Access with Incorrect Length Value,Base,0.7582162732215134
+667,Improper Locking,Class,0.7571295903354346
+126,Buffer Over-read,Variant,0.7564705029092991
+1391,Use of Weak Credentials,Class,0.752452921134353
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7522553086185422
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7521213803024842
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7514552040319209
+193,Off-by-one Error,Base,0.7506336047398943

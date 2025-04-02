@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,Variant,0.790256243213048
+319,Cleartext Transmission of Sensitive Information,Base,0.7806140806508276
+312,Cleartext Storage of Sensitive Information,Base,0.7772340388276386
+311,Missing Encryption of Sensitive Data,Class,0.7657284111446445
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7624671869695472
+1391,Use of Weak Credentials,Class,0.7581068044565187
+345,Insufficient Verification of Data Authenticity,Class,0.7551494125676026
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7549348220299299
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7521645085011575
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7502464352682737

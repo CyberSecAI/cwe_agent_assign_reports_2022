@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5980.699877747953,unknown
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),5934.561059785563,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5818.511407421519,unknown
+201,Insertion of Sensitive Information Into Sent Data,5723.195665870155,unknown
+668,Exposure of Resource to Wrong Sphere,5703.071409794897,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.758745169454915
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7505302577147471
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7487916890470446
+1220,Insufficient Granularity of Access Control,Base,0.7471463788767712
+274,Improper Handling of Insufficient Privileges,Base,0.7457795730241599
+183,Permissive List of Allowed Inputs,Base,0.7401432906439647
+653,Improper Isolation or Compartmentalization,Class,0.7361217496412641
+799,Improper Control of Interaction Frequency,Class,0.7339496014887359
+266,Incorrect Privilege Assignment,Base,0.7337573038876388
+639,Authorization Bypass Through User-Controlled Key,Base,0.7335559842998964

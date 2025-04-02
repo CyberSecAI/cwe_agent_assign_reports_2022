@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+787,Out-of-bounds Write,base,3.8870000000000005,0
+416,Use After Free,variant,3.7507200000000003,0
+170,Improper Null Termination,base,3.5671999999999997,0
+123,Write-what-where Condition,base,3.3566,0
+126,Buffer Over-read,variant,3.3168,0
+20,Improper Input Validation,class,2.92,0
+822,Untrusted Pointer Dereference,base,2.8651999999999997,0
+823,Use of Out-of-range Pointer Offset,base,2.8651999999999997,0
+190,Integer Overflow or Wraparound,base,2.8651999999999997,0

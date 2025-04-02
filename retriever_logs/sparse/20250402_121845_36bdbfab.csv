@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5260.193551017391,unknown
+1256,Improper Restriction of Software Interfaces to Hardware Features,5231.477687360815,unknown
+125,Out-of-bounds Read,5059.983902590052,unknown
+1342,Information Exposure through Microarchitectural State after Transient Execution,5021.123956741244,unknown
+863,Incorrect Authorization,4932.758995975213,unknown

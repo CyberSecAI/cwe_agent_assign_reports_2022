@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,8336.853471642755,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,7331.738571472242,base_query
+863,Incorrect Authorization,7209.839787467295,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7173.678930483297,base_query
+639,Authorization Bypass Through User-Controlled Key,7151.449060085466,base_query

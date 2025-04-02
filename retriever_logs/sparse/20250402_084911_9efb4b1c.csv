@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,5220.662820103133,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5146.031664263157,unknown
+1421,Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution,5094.116279614648,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5069.347382997106,unknown
+662,Improper Synchronization,4938.675300139657,unknown

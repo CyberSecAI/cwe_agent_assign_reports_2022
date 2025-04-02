@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7630977255301572
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7630781448434122
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7619308896806833
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7591600460212002
+639,Authorization Bypass Through User-Controlled Key,Base,0.7591123042390718
+184,Incomplete List of Disallowed Inputs,Base,0.7550504118797864
+602,Client-Side Enforcement of Server-Side Security,Class,0.7513205817569784
+918,Server-Side Request Forgery (SSRF),Base,0.7477869266815402
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7468285116124407
+204,Observable Response Discrepancy,Base,0.7456862257259758

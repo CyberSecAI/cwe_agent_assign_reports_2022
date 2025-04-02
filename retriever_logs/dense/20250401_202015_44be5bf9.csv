@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.797064182505661
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7920156090004042
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7878298031536098
+41,Improper Resolution of Path Equivalence,Base,0.7823260662212013
+639,Authorization Bypass Through User-Controlled Key,Base,0.7814997509999974
+1391,Use of Weak Credentials,Class,0.7814070322116893
+73,External Control of File Name or Path,Base,0.7806210901507751
+184,Incomplete List of Disallowed Inputs,Base,0.7780583054654467
+798,Use of Hard-coded Credentials,Base,0.7777731863996733
+345,Insufficient Verification of Data Authenticity,Class,0.7723242032611133

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+823,Use of Out-of-range Pointer Offset,6127.971818788337,unknown
+125,Out-of-bounds Read,6043.541426257725,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5942.499317324643,unknown
+1284,Improper Validation of Specified Quantity in Input,5942.231677663678,unknown
+190,Integer Overflow or Wraparound,5860.885774295476,unknown

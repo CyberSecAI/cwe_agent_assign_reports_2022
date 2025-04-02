@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1391,Use of Weak Credentials,Class,0.7859351103346732
+183,Permissive List of Allowed Inputs,Base,0.7763303748867183
+184,Incomplete List of Disallowed Inputs,Base,0.7745147156920216
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7730776966914055
+798,Use of Hard-coded Credentials,Base,0.766300990637486
+1188,Initialization of a Resource with an Insecure Default,Base,0.7602242365336461
+312,Cleartext Storage of Sensitive Information,Base,0.7567168221725458
+1392,Use of Default Credentials,Base,0.7562933633146276
+330,Use of Insufficiently Random Values,Class,0.7504999718458067
+319,Cleartext Transmission of Sensitive Information,Base,0.7501892122643417

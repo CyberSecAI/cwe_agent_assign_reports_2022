@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7059.264523745749,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6704.80216467971,base_query
+667,Improper Locking,6695.3311046059125,base_query
+662,Improper Synchronization,6660.948345237074,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6649.628622517193,base_query

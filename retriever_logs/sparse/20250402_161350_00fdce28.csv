@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,6787.043996449831,unknown
+639,Authorization Bypass Through User-Controlled Key,6261.621520558914,unknown
+295,Improper Certificate Validation,5939.208285482661,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5936.300549843283,unknown
+863,Incorrect Authorization,5831.346031334387,unknown

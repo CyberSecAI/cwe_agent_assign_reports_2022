@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),6455.720708334247,base_query
+1386,Insecure Operation on Windows Junction / Mount Point,6034.793972666404,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5968.580850114379,base_query
+863,Incorrect Authorization,5967.024226066654,base_query
+732,Incorrect Permission Assignment for Critical Resource,5947.3554793086605,base_query

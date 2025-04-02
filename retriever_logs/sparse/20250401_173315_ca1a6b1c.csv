@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+178,Improper Handling of Case Sensitivity,4647.192370780501,unknown
+1390,Weak Authentication,4614.2097551358975,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,4599.503728008793,unknown
+287,Improper Authentication,4569.541736080809,unknown
+863,Incorrect Authorization,4557.7557244554855,unknown

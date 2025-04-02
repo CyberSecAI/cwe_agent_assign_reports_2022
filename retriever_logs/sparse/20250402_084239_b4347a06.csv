@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,8446.745705187397,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7639.08070127762,base_query
+639,Authorization Bypass Through User-Controlled Key,7384.155231430431,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),7383.3313601362315,base_query
+863,Incorrect Authorization,7357.898075170879,base_query

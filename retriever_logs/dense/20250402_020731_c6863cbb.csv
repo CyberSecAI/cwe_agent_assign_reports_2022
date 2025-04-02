@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+312,Cleartext Storage of Sensitive Information,Base,0.7571439307058188
+667,Improper Locking,Class,0.7509643581281605
+668,Exposure of Resource to Wrong Sphere,Class,0.7455499473769123
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7453840824858678
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7414527835615794
+1391,Use of Weak Credentials,Class,0.7409769902605101
+1390,Weak Authentication,Class,0.7404240865722822
+274,Improper Handling of Insufficient Privileges,Base,0.7402866947130853
+345,Insufficient Verification of Data Authenticity,Class,0.7398834986703957
+653,Improper Isolation or Compartmentalization,Class,0.7393398040861054

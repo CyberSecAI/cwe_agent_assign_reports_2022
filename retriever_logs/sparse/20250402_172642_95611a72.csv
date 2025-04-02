@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,6124.927767269015,base_query
+295,Improper Certificate Validation,6106.571285853435,base_query
+798,Use of Hard-coded Credentials,6074.597790331918,base_query
+319,Cleartext Transmission of Sensitive Information,6045.549762945622,base_query
+259,Use of Hard-coded Password,6019.1287872039,base_query

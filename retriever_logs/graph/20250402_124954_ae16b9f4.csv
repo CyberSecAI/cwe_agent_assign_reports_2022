@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,4.329000000000001,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.212000000000001,0
+456,Missing Initialization of a Variable,variant,3.8784,0
+457,Use of Uninitialized Variable,variant,3.8784,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+352,Cross-Site Request Forgery (CSRF),compound,3.542,0

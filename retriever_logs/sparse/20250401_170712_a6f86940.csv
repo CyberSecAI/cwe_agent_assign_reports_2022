@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+131,Incorrect Calculation of Buffer Size,8969.775730266303,unknown
+190,Integer Overflow or Wraparound,8728.64014237089,unknown
+125,Out-of-bounds Read,8331.578843395597,unknown
+193,Off-by-one Error,8169.382788542627,unknown
+1284,Improper Validation of Specified Quantity in Input,7967.720074573876,unknown

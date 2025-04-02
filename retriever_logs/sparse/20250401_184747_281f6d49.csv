@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+434,Unrestricted Upload of File with Dangerous Type,2434.567660445326,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),2342.819505494419,unknown
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),2321.5999715223247,unknown
+306,Missing Authentication for Critical Function,2256.245411465846,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),2230.8732530422517,unknown

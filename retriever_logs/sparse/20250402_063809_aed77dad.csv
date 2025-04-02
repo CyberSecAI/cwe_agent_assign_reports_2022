@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6297.467433930422,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6106.097331010059,base_query
+476,NULL Pointer Dereference,6053.480587189119,base_query
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),6018.621219581742,base_query
+1284,Improper Validation of Specified Quantity in Input,6017.920840406624,base_query

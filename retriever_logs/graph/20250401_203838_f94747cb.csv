@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,5.031000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+252,Unchecked Return Value,base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.329000000000001,0
+908,Use of Uninitialized Resource,base,4.329000000000001,0
+226,Sensitive Information in Resource Not Removed Before Reuse,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+416,Use After Free,variant,3.8784,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+457,Use of Uninitialized Variable,variant,3.1008,0

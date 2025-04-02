@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+319,Cleartext Transmission of Sensitive Information,Base,0.7699337294697162
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7657597461202844
+1391,Use of Weak Credentials,Class,0.7654372144705439
+345,Insufficient Verification of Data Authenticity,Class,0.7648711246993282
+668,Exposure of Resource to Wrong Sphere,Class,0.7641283726610772
+312,Cleartext Storage of Sensitive Information,Base,0.7629692253288272
+1390,Weak Authentication,Class,0.7596976435356668
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7590679386908028
+611,Improper Restriction of XML External Entity Reference,Base,0.7586829021476488
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7584836555119927

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),2890.9455408995823,unknown
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),2882.978072429651,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),2869.561953142131,unknown
+138,Improper Neutralization of Special Elements,2855.5133285393167,unknown
+434,Unrestricted Upload of File with Dangerous Type,2831.7799503058095,unknown

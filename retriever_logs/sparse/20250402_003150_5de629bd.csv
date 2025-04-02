@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),6285.4180896489415,unknown
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),5792.5419020131585,unknown
+330,Use of Insufficiently Random Values,5772.826054664934,unknown
+337,Predictable Seed in Pseudo-Random Number Generator (PRNG),5409.540730769928,unknown
+1391,Use of Weak Credentials,5401.217137730797,unknown

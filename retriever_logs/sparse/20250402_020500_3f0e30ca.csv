@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,5244.944745630877,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5159.257549493444,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5098.838448708325,base_query
+426,Untrusted Search Path,5074.332828124693,base_query
+732,Incorrect Permission Assignment for Critical Resource,4993.377639433808,base_query

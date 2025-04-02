@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+183,Permissive List of Allowed Inputs,base,3.4200400000000006,0
+352,Cross-Site Request Forgery (CSRF),compound,3.1500000000000004,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.1356,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.912,0
+20,Improper Input Validation,class,2.5519999999999996,0
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,2.497979651393868,0
+611,Improper Restriction of XML External Entity Reference,Base,2.4925934000337993,0

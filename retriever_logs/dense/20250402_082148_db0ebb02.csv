@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7849407730383068
+667,Improper Locking,Class,0.7767752072574019
+404,Improper Resource Shutdown or Release,Class,0.7750355909665446
+665,Improper Initialization,Class,0.7735979828911761
+662,Improper Synchronization,Class,0.7672468437646326
+909,Missing Initialization of Resource,Class,0.7643738964819767
+908,Use of Uninitialized Resource,Base,0.7559881792897284
+457,Use of Uninitialized Variable,Variant,0.755526414150646
+366,Race Condition within a Thread,Base,0.755419128548862
+131,Incorrect Calculation of Buffer Size,Base,0.75398563187963

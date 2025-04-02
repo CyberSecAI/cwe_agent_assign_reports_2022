@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,5069.322781351091,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5028.81811227426,base_query
+502,Deserialization of Untrusted Data,5028.811412900272,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),4990.565333886593,base_query
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),4732.2817863594855,base_query

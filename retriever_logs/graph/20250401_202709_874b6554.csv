@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,5.031000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,3.3156991669760365,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.1356,0
+123,Write-what-where Condition,base,3.1356,0
+787,Out-of-bounds Write,base,3.1356,0
+416,Use After Free,variant,3.0043200000000003,0

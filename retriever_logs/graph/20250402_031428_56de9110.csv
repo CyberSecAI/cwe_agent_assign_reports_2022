@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,4.329000000000001,0
+184,Incomplete List of Disallowed Inputs,base,3.5698000000000003,0
+73,External Control of File Name or Path,Base,3.2058795178982846,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+41,Improper Resolution of Path Equivalence,Base,2.9179389435431453,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9175797022940837,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.9090552762425554,0
+363,Race Condition Enabling Link Following,base,2.8651999999999997,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,base,4.329000000000001,0
+193,Off-by-one Error,base,4.329000000000001,0
+125,Out-of-bounds Read,base,3.8870000000000005,0
+322,Key Exchange without Entity Authentication,base,3.5671999999999997,0
+787,Out-of-bounds Write,base,3.302,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+1260,Improper Handling of Overlap Between Protected Memory Ranges,base,2.8651999999999997,0
+822,Untrusted Pointer Dereference,base,2.8651999999999997,0
+823,Use of Out-of-range Pointer Offset,base,2.8651999999999997,0
+824,Access of Uninitialized Pointer,base,2.8651999999999997,0

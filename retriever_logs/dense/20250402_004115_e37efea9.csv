@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1220,Insufficient Granularity of Access Control,Base,0.7726288841442039
+274,Improper Handling of Insufficient Privileges,Base,0.754054153014891
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7536630032521658
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7447669925394762
+303,Incorrect Implementation of Authentication Algorithm,Base,0.744533433470605
+653,Improper Isolation or Compartmentalization,Class,0.7404323203773175
+266,Incorrect Privilege Assignment,Base,0.7369697916114827
+1390,Weak Authentication,Class,0.734656035593232
+1263,Improper Physical Access Control,Class,0.7326176888239965
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7288458974838896

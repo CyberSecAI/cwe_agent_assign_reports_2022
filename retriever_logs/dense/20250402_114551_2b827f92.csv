@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+208,Observable Timing Discrepancy,Base,0.802117176255067
+1391,Use of Weak Credentials,Class,0.783330414314954
+345,Insufficient Verification of Data Authenticity,Class,0.778173144448753
+203,Observable Discrepancy,Base,0.7767110916223541
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7766572122469677
+330,Use of Insufficiently Random Values,Class,0.7738708860892349
+204,Observable Response Discrepancy,Base,0.7721582261126596
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7714559991467506
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7714021446162713
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7711145477706286

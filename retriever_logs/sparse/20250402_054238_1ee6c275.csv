@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+625,Permissive Regular Expression,4205.975777804387,base_query
+639,Authorization Bypass Through User-Controlled Key,4123.403175816255,base_query
+425,Direct Request ('Forced Browsing'),4110.082139021028,base_query
+178,Improper Handling of Case Sensitivity,4052.4681385675253,base_query
+158,Improper Neutralization of Null Byte or NUL Character,4049.3951931864663,base_query

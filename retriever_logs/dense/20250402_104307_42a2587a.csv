@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7674484979104201
+204,Observable Response Discrepancy,Base,0.7666334568069808
+203,Observable Discrepancy,Base,0.7488072124215911
+184,Incomplete List of Disallowed Inputs,Base,0.7455745810599497
+208,Observable Timing Discrepancy,Base,0.7420078436808151
+138,Improper Neutralization of Special Elements,Class,0.7400951542070427
+668,Exposure of Resource to Wrong Sphere,Class,0.7388977152301005
+205,Observable Behavioral Discrepancy,Base,0.7367016029004362
+41,Improper Resolution of Path Equivalence,Base,0.7355032123782155
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7312721824802334

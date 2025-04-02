@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+434,Unrestricted Upload of File with Dangerous Type,base,5.031000000000001,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,5.031000000000001,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,4.5264,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+430,Deployment of Wrong Handler,base,3.6399999999999997,0
+351,Insufficient Type Distinction,base,3.6399999999999997,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0

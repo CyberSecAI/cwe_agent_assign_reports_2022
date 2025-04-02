@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),Variant,0.7513122940634096
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7467664851132645
+138,Improper Neutralization of Special Elements,Class,0.745023762383892
+668,Exposure of Resource to Wrong Sphere,Class,0.7423556578497671
+41,Improper Resolution of Path Equivalence,Base,0.7392597934658209
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.735715340102939
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7317376664748371
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.731545272528643
+693,Protection Mechanism Failure,Pillar,0.7274629944293991
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7273088350375756

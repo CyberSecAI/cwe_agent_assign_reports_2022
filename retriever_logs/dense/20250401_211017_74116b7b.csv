@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7824409023986216
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7744977219840694
+668,Exposure of Resource to Wrong Sphere,Class,0.770006574892742
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7660457067623057
+552,Files or Directories Accessible to External Parties,Base,0.7626269346055605
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7621652376069259
+749,Exposed Dangerous Method or Function,Base,0.7615082098018626
+213,Exposure of Sensitive Information Due to Incompatible Policies,Base,0.7614973133426252
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.7578669327301957
+653,Improper Isolation or Compartmentalization,Class,0.7571796792242375

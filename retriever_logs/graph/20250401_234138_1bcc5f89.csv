@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+187,Partial String Comparison,variant,4.5264,0
+183,Permissive List of Allowed Inputs,base,4.505800000000001,0
+617,Reachable Assertion,base,4.329000000000001,0
+193,Off-by-one Error,base,4.329000000000001,0
+182,Collapse of Data into Unsafe Value,base,4.329000000000001,0
+170,Improper Null Termination,Base,3.3245441389529624,0
+147,Improper Neutralization of Input Terminators,variant,3.2424,0
+41,Improper Resolution of Path Equivalence,Base,3.0571765596262064,0
+184,Incomplete List of Disallowed Inputs,Base,2.934154526805425,0
+434,Unrestricted Upload of File with Dangerous Type,base,2.9120000000000004,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,7318.782885665846,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,7170.343541863045,base_query
+441,Unintended Proxy or Intermediary ('Confused Deputy'),7159.672111747986,base_query
+285,Improper Authorization,7156.865055327355,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7135.074987336128,base_query

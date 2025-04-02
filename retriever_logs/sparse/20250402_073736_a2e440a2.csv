@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,5688.302461661638,base_query
+138,Improper Neutralization of Special Elements,5340.104062144097,base_query
+90,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection'),5254.582477424376,base_query
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),5214.450070280616,base_query
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),5165.896499223802,base_query

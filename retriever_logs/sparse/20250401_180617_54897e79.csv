@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5498.645413058172,base_query
+178,Improper Handling of Case Sensitivity,5231.302775973944,base_query
+1390,Weak Authentication,5198.885802156977,base_query
+425,Direct Request ('Forced Browsing'),5188.583535253365,base_query
+863,Incorrect Authorization,5069.012530107447,base_query

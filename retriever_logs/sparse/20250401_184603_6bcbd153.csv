@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,5323.483898853757,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5260.288436954375,unknown
+863,Incorrect Authorization,5200.21931678552,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5180.456275802208,unknown
+639,Authorization Bypass Through User-Controlled Key,5154.396497856846,unknown

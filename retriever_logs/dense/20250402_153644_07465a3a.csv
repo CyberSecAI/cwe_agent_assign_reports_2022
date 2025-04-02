@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1236,Improper Neutralization of Formula Elements in a CSV File,Base,0.7860855145621279
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7591220632740843
+668,Exposure of Resource to Wrong Sphere,Class,0.7479172483338287
+639,Authorization Bypass Through User-Controlled Key,Base,0.7454559833396925
+138,Improper Neutralization of Special Elements,Class,0.7452747295134929
+23,Relative Path Traversal,Base,0.7438617590129535
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7420217184815523
+184,Incomplete List of Disallowed Inputs,Base,0.7392705152350547
+274,Improper Handling of Insufficient Privileges,Base,0.7390990637121786
+73,External Control of File Name or Path,Base,0.7383572824920135

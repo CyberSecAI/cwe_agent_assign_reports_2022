@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+927,Use of Implicit Intent for Sensitive Communication,6309.38519452983,unknown
+863,Incorrect Authorization,6263.403851387826,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),6194.512141039768,unknown
+285,Improper Authorization,6192.917752062619,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6151.689642757877,unknown

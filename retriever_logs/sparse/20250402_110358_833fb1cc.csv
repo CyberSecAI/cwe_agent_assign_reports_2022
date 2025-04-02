@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5567.543758707184,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5392.846658455161,unknown
+295,Improper Certificate Validation,5352.998878572244,unknown
+23,Relative Path Traversal,5249.3841150648195,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5173.395448575054,unknown

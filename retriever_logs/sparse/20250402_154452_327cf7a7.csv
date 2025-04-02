@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,6529.0408100749655,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5956.514503254387,base_query
+697,Incorrect Comparison,5947.040743543558,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5920.045282644747,base_query
+61,UNIX Symbolic Link (Symlink) Following,5878.241383143819,base_query

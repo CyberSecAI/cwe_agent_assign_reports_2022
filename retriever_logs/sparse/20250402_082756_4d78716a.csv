@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+328,Use of Weak Hash,5238.532235091545,base_query
+611,Improper Restriction of XML External Entity Reference,4989.278759867894,base_query
+776,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),4700.443022512428,base_query
+347,Improper Verification of Cryptographic Signature,4629.645386465429,base_query
+407,Inefficient Algorithmic Complexity,4589.618554095276,base_query

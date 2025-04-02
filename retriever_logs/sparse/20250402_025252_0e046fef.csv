@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,5851.62229416601,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,5496.565222711216,base_query
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),5494.383629739249,base_query
+306,Missing Authentication for Critical Function,5369.9639539843,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5367.888159867378,base_query

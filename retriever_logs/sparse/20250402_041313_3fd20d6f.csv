@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1204,Generation of Weak Initialization Vector (IV),6733.024787726028,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,6313.958144412188,base_query
+863,Incorrect Authorization,6311.26913567658,base_query
+319,Cleartext Transmission of Sensitive Information,6279.088523748061,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6237.981856869703,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+204,Observable Response Discrepancy,Base,0.771085181846421
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7707647254101333
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7687549741347652
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7657069802602691
+90,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection'),Base,0.7632707518799984
+319,Cleartext Transmission of Sensitive Information,Base,0.7625105480852826
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7623497009033752
+639,Authorization Bypass Through User-Controlled Key,Base,0.7607243069174209
+41,Improper Resolution of Path Equivalence,Base,0.7606933115805352
+668,Exposure of Resource to Wrong Sphere,Class,0.7598940338575336

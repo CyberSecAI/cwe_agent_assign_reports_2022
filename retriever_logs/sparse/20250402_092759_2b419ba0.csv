@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5154.064828878637,base_query
+319,Cleartext Transmission of Sensitive Information,5106.623583395823,base_query
+300,Channel Accessible by Non-Endpoint,5084.740187882725,base_query
+1284,Improper Validation of Specified Quantity in Input,5010.638208555904,base_query
+789,Memory Allocation with Excessive Size Value,4936.505675164689,base_query

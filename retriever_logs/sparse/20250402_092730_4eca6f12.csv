@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6167.110818024558,unknown
+184,Incomplete List of Disallowed Inputs,6103.737390929543,unknown
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),6014.140190109749,unknown
+125,Out-of-bounds Read,6008.166308632199,unknown
+190,Integer Overflow or Wraparound,5952.231525440205,unknown

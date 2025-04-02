@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+178,Improper Handling of Case Sensitivity,4727.656556842191,unknown
+208,Observable Timing Discrepancy,4578.962021598311,unknown
+312,Cleartext Storage of Sensitive Information,4558.871731136878,unknown
+203,Observable Discrepancy,4556.567563042181,unknown
+639,Authorization Bypass Through User-Controlled Key,4538.791062798254,unknown

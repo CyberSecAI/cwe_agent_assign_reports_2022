@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,6644.406789681336,unknown
+476,NULL Pointer Dereference,6589.808714375968,unknown
+823,Use of Out-of-range Pointer Offset,6434.008094274232,unknown
+822,Untrusted Pointer Dereference,6388.871011009709,unknown
+789,Memory Allocation with Excessive Size Value,6337.659597636594,unknown

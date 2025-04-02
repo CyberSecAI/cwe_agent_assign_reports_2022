@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,5.031000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),variant,3.8784,0
+625,Permissive Regular Expression,base,3.6399999999999997,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+434,Unrestricted Upload of File with Dangerous Type,base,3.4361600000000005,0
+184,Incomplete List of Disallowed Inputs,Base,3.3247481193704673,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.302,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.1987200000000002,0
+183,Permissive List of Allowed Inputs,Base,2.9278190885077664,0

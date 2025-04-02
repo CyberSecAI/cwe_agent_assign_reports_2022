@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7438547152166556
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7348249313109297
+131,Incorrect Calculation of Buffer Size,Base,0.7226285889091486
+696,Incorrect Behavior Order,Class,0.72249403440006
+134,Use of Externally-Controlled Format String,Base,0.7135154687427196
+191,Integer Underflow (Wrap or Wraparound),Base,0.7133913739440969
+824,Access of Uninitialized Pointer,Base,0.7073145146826146
+657,Violation of Secure Design Principles,Class,0.7068778044752803
+1285,Improper Validation of Specified Index  Position  or Offset in Input,Base,0.7028757951925728
+682,Incorrect Calculation,Pillar,0.7026349542783612

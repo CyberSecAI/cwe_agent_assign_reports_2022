@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7922371479227848
+319,Cleartext Transmission of Sensitive Information,Base,0.7813021685391117
+345,Insufficient Verification of Data Authenticity,Class,0.7795041485925039
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7780989566282039
+312,Cleartext Storage of Sensitive Information,Base,0.7772081946407323
+657,Violation of Secure Design Principles,Class,0.7673659180971955
+668,Exposure of Resource to Wrong Sphere,Class,0.7672296938907694
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.766309158663453
+311,Missing Encryption of Sensitive Data,Class,0.7661347974481627
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7650160872687901

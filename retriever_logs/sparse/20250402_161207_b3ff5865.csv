@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1007,Insufficient Visual Distinction of Homoglyphs Presented to User,6191.637849361922,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),6052.2112415605625,unknown
+178,Improper Handling of Case Sensitivity,5732.779297520017,unknown
+918,Server-Side Request Forgery (SSRF),5644.882866562295,unknown
+116,Improper Encoding or Escaping of Output,5567.573631000781,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,4685.802697483861,base_query
+178,Improper Handling of Case Sensitivity,4522.331485117309,base_query
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),4513.466169069108,base_query
+1390,Weak Authentication,4364.468042042277,base_query
+347,Improper Verification of Cryptographic Signature,4351.584613604208,base_query

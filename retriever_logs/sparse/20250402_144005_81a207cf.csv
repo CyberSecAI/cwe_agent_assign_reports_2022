@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5750.855652571566,base_query
+23,Relative Path Traversal,5576.754098757296,base_query
+328,Use of Weak Hash,5572.820659393241,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5475.805271233531,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5401.360134873864,base_query

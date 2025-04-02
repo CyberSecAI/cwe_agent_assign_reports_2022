@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+303,Incorrect Implementation of Authentication Algorithm,6649.37975812207,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6389.672244640667,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5745.841124662444,unknown
+203,Observable Discrepancy,5533.459857728662,unknown
+863,Incorrect Authorization,5471.864093921246,unknown

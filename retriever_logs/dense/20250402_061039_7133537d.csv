@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7391180980055556
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7337422252375505
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7314284593313459
+203,Observable Discrepancy,Base,0.7310561109230329
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7284439980620236
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.726127707948192
+927,Use of Implicit Intent for Sensitive Communication,Variant,0.7251342125833699
+1220,Insufficient Granularity of Access Control,Base,0.7248399540225916
+404,Improper Resource Shutdown or Release,Class,0.724832742533586
+653,Improper Isolation or Compartmentalization,Class,0.7241501416864891

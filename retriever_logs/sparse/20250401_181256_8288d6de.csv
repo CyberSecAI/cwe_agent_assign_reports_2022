@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,4019.6167630927425,unknown
+1284,Improper Validation of Specified Quantity in Input,4009.4279506320104,unknown
+252,Unchecked Return Value,4003.6045393118884,unknown
+285,Improper Authorization,3958.8628922106946,unknown
+125,Out-of-bounds Read,3953.9326057654143,unknown

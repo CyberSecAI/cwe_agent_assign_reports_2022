@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,7157.6892176535575,unknown
+306,Missing Authentication for Critical Function,7088.174633637715,unknown
+319,Cleartext Transmission of Sensitive Information,7022.923445316689,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,6988.4027861931645,unknown
+259,Use of Hard-coded Password,6980.264191704061,unknown

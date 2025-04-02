@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+691,Insufficient Control Flow Management,Pillar,0.7585102183528618
+653,Improper Isolation or Compartmentalization,Class,0.7536021240016683
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.7522281660489636
+667,Improper Locking,Class,0.7497774145845156
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7495878129893268
+693,Protection Mechanism Failure,Pillar,0.7483416871120206
+345,Insufficient Verification of Data Authenticity,Class,0.7477088931760945
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7470368173037327
+755,Improper Handling of Exceptional Conditions,Class,0.7441248785517767
+668,Exposure of Resource to Wrong Sphere,Class,0.7440451833315871

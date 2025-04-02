@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+73,External Control of File Name or Path,Base,0.7182410035014706
+24,Path Traversal: '../filedir',Variant,0.717351232518961
+25,Path Traversal: '/../filedir',Variant,0.7170038261618512
+29,Path Traversal: '\..\filename',Variant,0.7139007318874434
+184,Incomplete List of Disallowed Inputs,Base,0.7076660628669518
+41,Improper Resolution of Path Equivalence,Base,0.7073553620770672
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7044344030587173
+23,Relative Path Traversal,Base,0.7035502499528825
+27,Path Traversal: 'dir/../../filename',Variant,0.701299811049666
+115,Misinterpretation of Input,Base,0.6990057594682677

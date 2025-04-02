@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,6319.33953801465,unknown
+770,Allocation of Resources Without Limits or Throttling,6092.215544061961,unknown
+789,Memory Allocation with Excessive Size Value,6011.799015518186,unknown
+404,Improper Resource Shutdown or Release,5994.224944506432,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5911.059787865612,unknown

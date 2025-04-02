@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5849.029413778704,unknown
+667,Improper Locking,5730.816878675258,unknown
+190,Integer Overflow or Wraparound,5694.972817332481,unknown
+843,Access of Resource Using Incompatible Type ('Type Confusion'),5656.477128908623,unknown
+1284,Improper Validation of Specified Quantity in Input,5600.548071516468,unknown

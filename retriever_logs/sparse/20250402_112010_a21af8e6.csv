@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,5293.8093344500485,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5135.1216252908425,base_query
+319,Cleartext Transmission of Sensitive Information,5047.1845599349,base_query
+321,Use of Hard-coded Cryptographic Key,5024.911551186997,base_query
+798,Use of Hard-coded Credentials,4992.091100337066,base_query

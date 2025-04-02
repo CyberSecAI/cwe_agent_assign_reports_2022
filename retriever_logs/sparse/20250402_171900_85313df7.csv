@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+798,Use of Hard-coded Credentials,5746.502846169271,unknown
+259,Use of Hard-coded Password,5683.1175385672295,unknown
+321,Use of Hard-coded Cryptographic Key,5518.457373464366,unknown
+441,Unintended Proxy or Intermediary ('Confused Deputy'),5428.002399284022,unknown
+863,Incorrect Authorization,5406.840906938699,unknown

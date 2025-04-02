@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,4724.224880054361,unknown
+259,Use of Hard-coded Password,4655.966264310009,unknown
+798,Use of Hard-coded Credentials,4596.30861426095,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,4448.423371089403,unknown
+312,Cleartext Storage of Sensitive Information,4421.291747744719,unknown

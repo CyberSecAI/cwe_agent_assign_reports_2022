@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+823,Use of Out-of-range Pointer Offset,Base,0.7730197721083649
+131,Incorrect Calculation of Buffer Size,Base,0.7666779153831194
+193,Off-by-one Error,Base,0.7632681848868414
+366,Race Condition within a Thread,Base,0.7630165729975595
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.758779535122266
+125,Out-of-bounds Read,Base,0.7571342560618967
+667,Improper Locking,Class,0.7563316557985936
+197,Numeric Truncation Error,Base,0.7558246191895825
+191,Integer Underflow (Wrap or Wraparound),Base,0.754110813417213
+404,Improper Resource Shutdown or Release,Class,0.7527456840599956

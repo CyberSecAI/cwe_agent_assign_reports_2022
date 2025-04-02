@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7284.3011085727885,base_query
+863,Incorrect Authorization,6607.596230765486,base_query
+285,Improper Authorization,6542.085669276513,base_query
+639,Authorization Bypass Through User-Controlled Key,6290.999226778921,base_query
+732,Incorrect Permission Assignment for Critical Resource,6252.195591974449,base_query

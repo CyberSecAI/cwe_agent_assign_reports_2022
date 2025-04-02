@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,7394.430025651205,unknown
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),7275.659331132817,unknown
+1284,Improper Validation of Specified Quantity in Input,7088.951646359844,unknown
+1333,Inefficient Regular Expression Complexity,7037.863575908374,unknown
+1286,Improper Validation of Syntactic Correctness of Input,6886.844549701511,unknown

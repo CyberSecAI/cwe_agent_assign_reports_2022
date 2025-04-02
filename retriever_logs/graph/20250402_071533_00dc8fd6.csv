@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.060034519156896,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,2.9614000000000003,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.9184000000000005,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9069937193776165,0

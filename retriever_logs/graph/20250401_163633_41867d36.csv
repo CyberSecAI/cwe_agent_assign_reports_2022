@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,4.5264,0
+94,Improper Control of Generation of Code ('Code Injection'),base,4.329000000000001,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+427,Uncontrolled Search Path Element,base,3.6399999999999997,0
+430,Deployment of Wrong Handler,base,3.6399999999999997,0
+351,Insufficient Type Distinction,base,3.6399999999999997,0
+434,Unrestricted Upload of File with Dangerous Type,Base,3.3316984832284424,0
+184,Incomplete List of Disallowed Inputs,Base,3.1962071155199903,0
+73,External Control of File Name or Path,Base,3.195311943473018,0

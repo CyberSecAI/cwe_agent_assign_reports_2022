@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,6093.813146775354,unknown
+789,Memory Allocation with Excessive Size Value,5963.215147305683,unknown
+1333,Inefficient Regular Expression Complexity,5914.11175718228,unknown
+1284,Improper Validation of Specified Quantity in Input,5907.962267560892,unknown
+843,Access of Resource Using Incompatible Type ('Type Confusion'),5880.901374716603,unknown

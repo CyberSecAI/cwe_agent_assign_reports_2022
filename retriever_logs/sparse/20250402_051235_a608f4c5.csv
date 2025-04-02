@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,7059.649869757002,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6872.84666308641,base_query
+863,Incorrect Authorization,6688.224923294295,base_query
+347,Improper Verification of Cryptographic Signature,6684.853986843432,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6595.2920578747535,base_query

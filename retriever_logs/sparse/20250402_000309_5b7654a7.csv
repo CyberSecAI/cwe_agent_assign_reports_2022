@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,7916.48877231035,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,7683.822360251327,base_query
+1284,Improper Validation of Specified Quantity in Input,7628.105203004174,base_query
+789,Memory Allocation with Excessive Size Value,7587.981821017776,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7387.126220153481,base_query

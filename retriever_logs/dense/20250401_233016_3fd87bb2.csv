@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1336,Improper Neutralization of Special Elements Used in a Template Engine,Base,0.7859451659038861
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7616152409336586
+602,Client-Side Enforcement of Server-Side Security,Class,0.7513624848536606
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7487633637952662
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7480854186871864
+184,Incomplete List of Disallowed Inputs,Base,0.7474309428110593
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7455398018930487
+639,Authorization Bypass Through User-Controlled Key,Base,0.745126212175197
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7431017405596
+116,Improper Encoding or Escaping of Output,Class,0.7423768528865922

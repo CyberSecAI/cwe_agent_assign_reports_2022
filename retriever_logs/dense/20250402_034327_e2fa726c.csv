@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+834,Excessive Iteration,Class,0.7669504694283881
+606,Unchecked Input for Loop Condition,Base,0.752540044431471
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),Base,0.7331069937526496
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7300772171317589
+799,Improper Control of Interaction Frequency,Class,0.7259491748685287
+691,Insufficient Control Flow Management,Pillar,0.7258145413792696
+407,Inefficient Algorithmic Complexity,Class,0.7237717184638688
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7212619788658745
+405,Asymmetric Resource Consumption (Amplification),Class,0.7212367644191291
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7203019414155879

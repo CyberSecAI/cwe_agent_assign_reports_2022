@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,6482.754675413606,base_query
+770,Allocation of Resources Without Limits or Throttling,6267.023094330206,base_query
+834,Excessive Iteration,6159.571150719961,base_query
+1284,Improper Validation of Specified Quantity in Input,6004.939624573744,base_query
+1325,Improperly Controlled Sequential Memory Allocation,5886.22825613687,base_query

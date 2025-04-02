@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7753837193352042
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7687048693629193
+639,Authorization Bypass Through User-Controlled Key,Base,0.7564127055600547
+138,Improper Neutralization of Special Elements,Class,0.7558749453950286
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.75494261014108
+184,Incomplete List of Disallowed Inputs,Base,0.7548187341756087
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7523789412353894
+116,Improper Encoding or Escaping of Output,Class,0.7519345471591576
+41,Improper Resolution of Path Equivalence,Base,0.7507546726241964
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.748430489424727

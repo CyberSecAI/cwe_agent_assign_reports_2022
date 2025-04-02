@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.769592585650646
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7694305216757152
+665,Improper Initialization,Class,0.7668512658628027
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7667757321784103
+667,Improper Locking,Class,0.7666717141183333
+274,Improper Handling of Insufficient Privileges,Base,0.7646543539207048
+276,Incorrect Default Permissions,Base,0.7636447240403377
+73,External Control of File Name or Path,Base,0.7632980829069382
+266,Incorrect Privilege Assignment,Base,0.762239984267005
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7614181030975392

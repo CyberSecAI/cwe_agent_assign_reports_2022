@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,6526.163541026635,base_query
+942,Permissive Cross-domain Policy with Untrusted Domains,6404.223362980303,base_query
+346,Origin Validation Error,6262.937812948122,base_query
+1385,Missing Origin Validation in WebSockets,6166.497607907012,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,6106.81253099887,base_query

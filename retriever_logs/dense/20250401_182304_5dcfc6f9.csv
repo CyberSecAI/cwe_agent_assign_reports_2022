@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7657239452924056
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7650203802183999
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7637502430686572
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7616347138950799
+668,Exposure of Resource to Wrong Sphere,Class,0.760994903136358
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7597831993198885
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7581656503954513
+319,Cleartext Transmission of Sensitive Information,Base,0.7581185856091797
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7567023907174739
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7536037956798405

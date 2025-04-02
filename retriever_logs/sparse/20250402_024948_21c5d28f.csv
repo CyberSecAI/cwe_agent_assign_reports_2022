@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,6773.078012633916,base_query
+319,Cleartext Transmission of Sensitive Information,6739.1011536686465,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6706.35353692676,base_query
+1390,Weak Authentication,6696.637713661893,base_query
+116,Improper Encoding or Escaping of Output,6671.528096336497,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),4768.912294002696,base_query
+863,Incorrect Authorization,4482.6091154171945,base_query
+203,Observable Discrepancy,4465.027414069373,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4374.998096134861,base_query
+639,Authorization Bypass Through User-Controlled Key,4361.20701692168,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,6771.258095953191,unknown
+197,Numeric Truncation Error,6517.980531470129,unknown
+823,Use of Out-of-range Pointer Offset,6437.648906234312,unknown
+125,Out-of-bounds Read,6424.151758350667,unknown
+252,Unchecked Return Value,6287.628499182529,unknown

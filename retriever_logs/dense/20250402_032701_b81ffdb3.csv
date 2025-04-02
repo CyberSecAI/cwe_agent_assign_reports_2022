@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7600024133934932
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7581785615414104
+407,Inefficient Algorithmic Complexity,Class,0.7535159108776006
+138,Improper Neutralization of Special Elements,Class,0.7466800101131432
+184,Incomplete List of Disallowed Inputs,Base,0.7462068742765813
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7447270941151037
+23,Relative Path Traversal,Base,0.7446085326316103
+668,Exposure of Resource to Wrong Sphere,Class,0.7431696898550983
+1390,Weak Authentication,Class,0.7395552434296843
+799,Improper Control of Interaction Frequency,Class,0.7380134161699028

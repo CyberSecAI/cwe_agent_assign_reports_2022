@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7944017460205792
+755,Improper Handling of Exceptional Conditions,Class,0.7806984329247191
+668,Exposure of Resource to Wrong Sphere,Class,0.779999842513551
+667,Improper Locking,Class,0.7795663864156857
+41,Improper Resolution of Path Equivalence,Base,0.7767146734449217
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7748349672621231
+131,Incorrect Calculation of Buffer Size,Base,0.7747959762450555
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7743708302639851
+125,Out-of-bounds Read,Base,0.7743545535199527
+203,Observable Discrepancy,Base,0.77379037993067

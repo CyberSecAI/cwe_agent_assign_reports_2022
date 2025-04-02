@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.0104,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,3.6399999999999997,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.7077232385099808,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+798,Use of Hard-coded Credentials,Base,2.4949780233068295,0
+257,Storing Passwords in a Recoverable Format,Base,2.4778580736572113,0
+344,Use of Invariant Value in Dynamically Changing Context,base,2.4699999999999998,0

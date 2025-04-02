@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7883250755696085
+789,Memory Allocation with Excessive Size Value,Variant,0.7869642494545037
+667,Improper Locking,Class,0.7780649467745673
+404,Improper Resource Shutdown or Release,Class,0.77534115861304
+131,Incorrect Calculation of Buffer Size,Base,0.7623623300176587
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7605864436008323
+909,Missing Initialization of Resource,Class,0.7597345917065458
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7500336925258175
+126,Buffer Over-read,Variant,0.7472317279850667
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7472268246755167

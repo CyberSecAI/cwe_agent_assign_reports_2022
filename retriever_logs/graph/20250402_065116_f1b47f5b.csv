@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,4.505800000000001,0
+430,Deployment of Wrong Handler,base,4.505800000000001,0
+1275,Sensitive Cookie with Improper SameSite Attribute,variant,3.8784,0
+266,Incorrect Privilege Assignment,base,3.6399999999999997,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+351,Insufficient Type Distinction,base,3.6399999999999997,0
+434,Unrestricted Upload of File with Dangerous Type,Base,3.328157867797872,0
+184,Incomplete List of Disallowed Inputs,Base,3.2003047062555305,0
+183,Permissive List of Allowed Inputs,Base,3.195237361995967,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,2.9120000000000004,0

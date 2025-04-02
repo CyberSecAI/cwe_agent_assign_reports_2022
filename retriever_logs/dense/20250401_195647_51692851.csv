@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+457,Use of Uninitialized Variable,Variant,0.7928967178297889
+908,Use of Uninitialized Resource,Base,0.7763747049430506
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7735290593638888
+404,Improper Resource Shutdown or Release,Class,0.771998505252651
+909,Missing Initialization of Resource,Class,0.7717965607111356
+665,Improper Initialization,Class,0.7702553080108636
+366,Race Condition within a Thread,Base,0.7697859328449648
+667,Improper Locking,Class,0.7687283198230129
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7587756810577198
+824,Access of Uninitialized Pointer,Base,0.7572226031815396

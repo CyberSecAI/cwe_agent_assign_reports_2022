@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7456943134200854
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7404719089339318
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7399929236070283
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7367171436737214
+653,Improper Isolation or Compartmentalization,Class,0.7346865585042472
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.733731657123569
+669,Incorrect Resource Transfer Between Spheres,Class,0.7245999449964957
+41,Improper Resolution of Path Equivalence,Base,0.723701911668396
+73,External Control of File Name or Path,Base,0.7211048441721143
+405,Asymmetric Resource Consumption (Amplification),Class,0.7163000584264267

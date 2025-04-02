@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+226,Sensitive Information in Resource Not Removed Before Reuse,4410.553540383289,unknown
+1390,Weak Authentication,4378.718557832023,unknown
+208,Observable Timing Discrepancy,4357.684659848832,unknown
+863,Incorrect Authorization,4312.036208960803,unknown
+203,Observable Discrepancy,4312.009690350294,unknown

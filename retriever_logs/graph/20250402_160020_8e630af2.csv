@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1287,Improper Validation of Specified Type of Input,base,3.6399999999999997,0
+1325,Improperly Controlled Sequential Memory Allocation,Base,3.3065441193227336,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,3.3053853185451563,0
+789,Memory Allocation with Excessive Size Value,Variant,3.0091730735714717,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,2.9120000000000004,0
+128,Wrap-around Error,base,2.9120000000000004,0

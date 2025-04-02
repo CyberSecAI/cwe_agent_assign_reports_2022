@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+354,Improper Validation of Integrity Check Value,base,3.6399999999999997,0
+353,Missing Support for Integrity Check,base,3.6399999999999997,0
+170,Improper Null Termination,base,3.5671999999999997,0
+126,Buffer Over-read,variant,3.3168,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0
+20,Improper Input Validation,class,2.92,0
+131,Incorrect Calculation of Buffer Size,Base,2.9124199034760982,0
+41,Improper Resolution of Path Equivalence,base,2.9120000000000004,0

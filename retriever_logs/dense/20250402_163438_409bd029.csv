@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7762962383711327
+274,Improper Handling of Insufficient Privileges,Base,0.7758731560455874
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7664178861834108
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7658008866354883
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7654968788117501
+639,Authorization Bypass Through User-Controlled Key,Base,0.7606027470680016
+116,Improper Encoding or Escaping of Output,Class,0.7605393804511551
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7600262361023431
+184,Incomplete List of Disallowed Inputs,Base,0.7583285063051204
+1391,Use of Weak Credentials,Class,0.7574035036978211

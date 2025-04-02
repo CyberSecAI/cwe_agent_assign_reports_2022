@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+610,Externally Controlled Reference to a Resource in Another Sphere,6215.741185824031,unknown
+639,Authorization Bypass Through User-Controlled Key,6198.577701971167,unknown
+863,Incorrect Authorization,6023.433719616227,unknown
+285,Improper Authorization,5800.866882195877,unknown
+1390,Weak Authentication,5677.614017017339,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.757307262921061
+138,Improper Neutralization of Special Elements,Class,0.7511389320134457
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7476761120590982
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),Variant,0.7448132785419209
+41,Improper Resolution of Path Equivalence,Base,0.7422683356110856
+668,Exposure of Resource to Wrong Sphere,Class,0.7414565392350305
+653,Improper Isolation or Compartmentalization,Class,0.7396405667153423
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7377986770088747
+73,External Control of File Name or Path,Base,0.7362114679056881
+691,Insufficient Control Flow Management,Pillar,0.7348213212976424

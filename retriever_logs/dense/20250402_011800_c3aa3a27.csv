@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),Base,0.7743859843986778
+131,Incorrect Calculation of Buffer Size,Base,0.7588665866139603
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7568587654620427
+330,Use of Insufficiently Random Values,Class,0.7561003531021934
+667,Improper Locking,Class,0.7530309227079904
+404,Improper Resource Shutdown or Release,Class,0.7525476275877582
+129,Improper Validation of Array Index,Variant,0.7512830747949408
+681,Incorrect Conversion between Numeric Types,Base,0.7474615779456728
+909,Missing Initialization of Resource,Class,0.7419904936073639
+125,Out-of-bounds Read,Base,0.7390561076540253

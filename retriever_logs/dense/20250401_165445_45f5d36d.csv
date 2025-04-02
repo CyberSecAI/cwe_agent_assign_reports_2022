@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7742310017731997
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7647432127902283
+943,Improper Neutralization of Special Elements in Data Query Logic,Class,0.761168066218505
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),Base,0.7493443640190223
+90,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection'),Base,0.7433853190750103
+41,Improper Resolution of Path Equivalence,Base,0.7410503450507777
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7391480386489815
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7382870060226995
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7378193390650788
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7376222343544576

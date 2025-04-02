@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,7704.544808937044,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7665.791450015777,base_query
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),7530.238761215715,base_query
+863,Incorrect Authorization,7279.981067315704,base_query
+425,Direct Request ('Forced Browsing'),7208.743901419067,base_query

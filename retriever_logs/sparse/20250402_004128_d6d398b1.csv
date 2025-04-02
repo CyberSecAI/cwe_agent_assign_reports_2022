@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,4725.441417813003,unknown
+415,Double Free,4597.151741134882,unknown
+822,Untrusted Pointer Dereference,4586.92767634127,unknown
+125,Out-of-bounds Read,4562.639574310223,unknown
+843,Access of Resource Using Incompatible Type ('Type Confusion'),4456.246432202555,unknown

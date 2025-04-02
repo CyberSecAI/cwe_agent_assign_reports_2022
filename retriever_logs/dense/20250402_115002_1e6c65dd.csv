@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+204,Observable Response Discrepancy,Base,0.7895777044228598
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7835274132002275
+1390,Weak Authentication,Class,0.7823968493103857
+41,Improper Resolution of Path Equivalence,Base,0.7817255951609055
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7812278983807515
+602,Client-Side Enforcement of Server-Side Security,Class,0.7768425424511349
+668,Exposure of Resource to Wrong Sphere,Class,0.7765123812329733
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7742374912506609
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7695916637702058
+1391,Use of Weak Credentials,Class,0.7695027945735048

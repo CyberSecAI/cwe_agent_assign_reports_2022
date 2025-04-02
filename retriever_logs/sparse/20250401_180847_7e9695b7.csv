@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,6058.489779960591,base_query
+319,Cleartext Transmission of Sensitive Information,6010.484473708464,base_query
+798,Use of Hard-coded Credentials,5927.812678824406,base_query
+259,Use of Hard-coded Password,5908.364723329727,base_query
+321,Use of Hard-coded Cryptographic Key,5844.986025832065,base_query

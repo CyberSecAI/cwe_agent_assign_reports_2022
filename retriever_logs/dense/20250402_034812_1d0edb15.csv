@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7911607459692059
+404,Improper Resource Shutdown or Release,Class,0.7740956524035687
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7697525123509862
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7591651134834473
+665,Improper Initialization,Class,0.7564286149586923
+662,Improper Synchronization,Class,0.7558502921517617
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7555229654810505
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7554210249445255
+909,Missing Initialization of Resource,Class,0.7532341846474826
+203,Observable Discrepancy,Base,0.7527609812923717

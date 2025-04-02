@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7674469507967661
+639,Authorization Bypass Through User-Controlled Key,Base,0.7647109993831768
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7624696119978088
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7607096589873084
+274,Improper Handling of Insufficient Privileges,Base,0.7600790597955923
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7592912703630811
+1390,Weak Authentication,Class,0.75866385502917
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7575810842573424
+1220,Insufficient Granularity of Access Control,Base,0.7547730866188531
+404,Improper Resource Shutdown or Release,Class,0.7545333040481575

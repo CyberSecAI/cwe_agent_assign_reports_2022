@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+416,Use After Free,variant,3.8784,0
+322,Key Exchange without Entity Authentication,base,3.5671999999999997,0
+193,Off-by-one Error,base,3.4200400000000006,0
+415,Double Free,variant,2.9184000000000005,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.9024712903590806,0
+1265,Unintended Reentrant Invocation of Non-reentrant Code Via Nested Calls,base,2.8651999999999997,0
+364,Signal Handler Race Condition,base,2.8651999999999997,0

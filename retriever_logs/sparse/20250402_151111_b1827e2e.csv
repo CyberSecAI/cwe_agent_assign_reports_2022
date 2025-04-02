@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,6185.889631444446,base_query
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),5966.830381511921,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5956.999715060595,base_query
+770,Allocation of Resources Without Limits or Throttling,5954.225869189747,base_query
+789,Memory Allocation with Excessive Size Value,5925.253208201508,base_query

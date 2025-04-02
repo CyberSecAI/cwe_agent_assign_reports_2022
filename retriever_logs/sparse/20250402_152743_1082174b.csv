@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+649,Reliance on Obfuscation or Encryption of Security-Relevant Inputs without Integrity Checking,5421.194049126296,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5398.200152561036,unknown
+319,Cleartext Transmission of Sensitive Information,5305.238316130119,unknown
+295,Improper Certificate Validation,5188.2916071683685,unknown
+916,Use of Password Hash With Insufficient Computational Effort,5068.485073094411,unknown

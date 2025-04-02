@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),7201.413899292461,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6949.941240708519,base_query
+1333,Inefficient Regular Expression Complexity,6895.164351811452,base_query
+427,Uncontrolled Search Path Element,6848.912291181833,base_query
+94,Improper Control of Generation of Code ('Code Injection'),6750.5226526737415,base_query

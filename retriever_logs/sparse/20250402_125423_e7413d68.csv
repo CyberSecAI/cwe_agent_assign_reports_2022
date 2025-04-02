@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5804.1285491883,unknown
+1256,Improper Restriction of Software Interfaces to Hardware Features,5784.316836319499,unknown
+1220,Insufficient Granularity of Access Control,5589.084794935119,unknown
+284,Improper Access Control,5439.265823742221,unknown
+125,Out-of-bounds Read,5409.067704494265,unknown

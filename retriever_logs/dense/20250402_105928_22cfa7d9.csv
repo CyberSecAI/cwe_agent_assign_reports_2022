@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7856814144754727
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7782103525872333
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7760192684294418
+404,Improper Resource Shutdown or Release,Class,0.7758327490461588
+908,Use of Uninitialized Resource,Base,0.7677640517137917
+125,Out-of-bounds Read,Base,0.7670437625179618
+822,Untrusted Pointer Dereference,Base,0.7655316915001793
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.764719639609345
+824,Access of Uninitialized Pointer,Base,0.7626763349951501
+366,Race Condition within a Thread,Base,0.7618607311697436

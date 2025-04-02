@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7482063969204243
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7461415662365529
+404,Improper Resource Shutdown or Release,Class,0.7449646121300052
+665,Improper Initialization,Class,0.744597987867045
+667,Improper Locking,Class,0.7416571341836489
+909,Missing Initialization of Resource,Class,0.7392346812195435
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.739017750790998
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7380301528086917
+274,Improper Handling of Insufficient Privileges,Base,0.7368289528847107
+653,Improper Isolation or Compartmentalization,Class,0.7363348336528557

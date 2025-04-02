@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,10071.299024232883,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,9393.472785709519,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,8954.291985403228,base_query
+125,Out-of-bounds Read,8850.023021628473,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),8843.73318139814,base_query

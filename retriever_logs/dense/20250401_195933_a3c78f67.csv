@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+691,Insufficient Control Flow Management,Pillar,0.7405607466648294
+834,Excessive Iteration,Class,0.7342177707463601
+606,Unchecked Input for Loop Condition,Base,0.7334583621712036
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7320471933334849
+404,Improper Resource Shutdown or Release,Class,0.723730347411547
+667,Improper Locking,Class,0.7204917955225596
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.717610479067411
+674,Uncontrolled Recursion,Class,0.7173212889389629
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7165741842147496
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.714916843492361

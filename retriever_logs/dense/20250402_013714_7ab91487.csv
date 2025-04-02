@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7774377480072631
+203,Observable Discrepancy,Base,0.7710292381622884
+223,Omission of Security-relevant Information,Base,0.7680266474616209
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.76247661755917
+668,Exposure of Resource to Wrong Sphere,Class,0.7550314736346704
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7519178815614017
+345,Insufficient Verification of Data Authenticity,Class,0.7516992148934406
+755,Improper Handling of Exceptional Conditions,Class,0.7438680937137688
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.737943716928771
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7372055066513066

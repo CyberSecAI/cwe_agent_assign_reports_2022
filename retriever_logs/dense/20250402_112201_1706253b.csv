@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7759749644559821
+404,Improper Resource Shutdown or Release,Class,0.7750029345152651
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7726505919473661
+667,Improper Locking,Class,0.7637306006988511
+824,Access of Uninitialized Pointer,Base,0.7595430115021035
+665,Improper Initialization,Class,0.7579250802178951
+252,Unchecked Return Value,Base,0.7557986669579748
+691,Insufficient Control Flow Management,Pillar,0.7527391485878024
+909,Missing Initialization of Resource,Class,0.7507582492569745
+822,Untrusted Pointer Dereference,Base,0.7498337714360993

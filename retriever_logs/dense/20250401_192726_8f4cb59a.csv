@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+307,Improper Restriction of Excessive Authentication Attempts,Base,0.7911723657054062
+1391,Use of Weak Credentials,Class,0.7765500143465187
+916,Use of Password Hash With Insufficient Computational Effort,Base,0.7702939156541952
+331,Insufficient Entropy,Base,0.7656634396220448
+330,Use of Insufficiently Random Values,Class,0.7641673074952865
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7577336089472524
+328,Use of Weak Hash,Base,0.756873010557835
+798,Use of Hard-coded Credentials,Base,0.7509858513719402
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7474049625742436
+1390,Weak Authentication,Class,0.7438876938346481

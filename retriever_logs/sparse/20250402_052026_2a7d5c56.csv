@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,6355.954316916705,unknown
+295,Improper Certificate Validation,6254.810650313181,unknown
+300,Channel Accessible by Non-Endpoint,6085.113046317023,unknown
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),6034.255384636236,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5968.7286806814545,unknown

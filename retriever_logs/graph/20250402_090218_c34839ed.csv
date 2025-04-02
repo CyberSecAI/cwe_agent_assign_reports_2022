@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+410,Insufficient Resource Pool,base,4.329000000000001,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,4.212000000000001,0
+193,Off-by-one Error,base,3.8038000000000003,0
+190,Integer Overflow or Wraparound,base,3.5698000000000003,0
+1325,Improperly Controlled Sequential Memory Allocation,Base,3.321838888197959,0
+73,External Control of File Name or Path,base,3.2255600000000006,0

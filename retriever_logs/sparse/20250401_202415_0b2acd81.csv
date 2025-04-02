@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5643.785167118803,unknown
+209,Generation of Error Message Containing Sensitive Information,5391.158505708715,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5386.348202434376,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5286.487960615487,unknown
+295,Improper Certificate Validation,5276.063242176323,unknown

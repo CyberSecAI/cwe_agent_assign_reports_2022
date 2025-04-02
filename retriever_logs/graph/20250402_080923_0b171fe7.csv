@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.212000000000001,0
+1275,Sensitive Cookie with Improper SameSite Attribute,variant,3.8784,0
+416,Use After Free,variant,3.7507200000000003,0
+125,Out-of-bounds Read,base,3.7206,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.4866,0
+123,Write-what-where Condition,base,3.3566,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.1356,0

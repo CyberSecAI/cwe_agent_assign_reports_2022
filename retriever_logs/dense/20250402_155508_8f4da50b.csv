@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7793655514027179
+653,Improper Isolation or Compartmentalization,Class,0.76101532416249
+404,Improper Resource Shutdown or Release,Class,0.757538039120812
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7575320035525281
+668,Exposure of Resource to Wrong Sphere,Class,0.7534061765721425
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.753044357206099
+667,Improper Locking,Class,0.7496422432224746
+799,Improper Control of Interaction Frequency,Class,0.7484813587587074
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7482215989197967
+300,Channel Accessible by Non-Endpoint,Class,0.7460666189499099

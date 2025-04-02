@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1285,Improper Validation of Specified Index  Position  or Offset in Input,6246.113218015123,unknown
+755,Improper Handling of Exceptional Conditions,6091.985636691468,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5925.708952878233,unknown
+116,Improper Encoding or Escaping of Output,5918.451538758554,unknown
+125,Out-of-bounds Read,5824.081841900284,unknown

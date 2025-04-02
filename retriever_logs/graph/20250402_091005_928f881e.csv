@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,3.2424,0
+321,Use of Hard-coded Cryptographic Key,variant,2.8104,0
+312,Cleartext Storage of Sensitive Information,Base,2.4966342958338505,0
+798,Use of Hard-coded Credentials,Base,2.4940005862218357,0
+257,Storing Passwords in a Recoverable Format,Base,2.4913861765021807,0
+523,Unprotected Transport of Credentials,Base,2.489704799091494,0
+256,Plaintext Storage of a Password,base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+267,Privilege Defined With Unsafe Actions,base,2.4699999999999998,0
+916,Use of Password Hash With Insufficient Computational Effort,base,2.3998000000000004,0

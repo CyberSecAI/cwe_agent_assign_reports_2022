@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+823,Use of Out-of-range Pointer Offset,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+129,Improper Validation of Array Index,variant,3.8784,0
+1295,Debug Messages Revealing Unnecessary Information,base,3.6399999999999997,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0
+325,Missing Cryptographic Step,base,3.1018000000000003,0
+20,Improper Input Validation,class,2.92,0
+41,Improper Resolution of Path Equivalence,base,2.9120000000000004,0
+1325,Improperly Controlled Sequential Memory Allocation,base,2.9120000000000004,0

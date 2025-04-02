@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7734234650152165
+184,Incomplete List of Disallowed Inputs,Base,0.7663321807402517
+156,Improper Neutralization of Whitespace,Variant,0.7646854490027505
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7594652255564072
+41,Improper Resolution of Path Equivalence,Base,0.756579705756681
+668,Exposure of Resource to Wrong Sphere,Class,0.7518611493055585
+653,Improper Isolation or Compartmentalization,Class,0.7510999380602854
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7495027181776821
+138,Improper Neutralization of Special Elements,Class,0.7490283693868742
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7477818904554081

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+356,Product UI does not Warn User of Unsafe Actions,Base,0.8177158095166591
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7891078313317057
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7751925401815849
+274,Improper Handling of Insufficient Privileges,Base,0.7739111913766101
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7729132889339778
+668,Exposure of Resource to Wrong Sphere,Class,0.7709395638244192
+184,Incomplete List of Disallowed Inputs,Base,0.7707664310365422
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7686698724319293
+41,Improper Resolution of Path Equivalence,Base,0.7643194680506213
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7637114877502179

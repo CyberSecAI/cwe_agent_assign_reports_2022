@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,3.757,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.73416,0
+456,Missing Initialization of a Variable,variant,2.6784000000000003,0
+295,Improper Certificate Validation,Base,2.4954714811140644,0
+1289,Improper Validation of Unsafe Equivalence in Input,Base,2.4934560914678277,0
+457,Use of Uninitialized Variable,variant,2.4864,0
+1188,Initialization of a Resource with an Insecure Default,base,2.4699999999999998,0
+494,Download of Code Without Integrity Check,base,2.4699999999999998,0
+1230,Exposure of Sensitive Information Through Metadata,base,2.4699999999999998,0

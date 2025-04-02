@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,7180.292443976462,unknown
+116,Improper Encoding or Escaping of Output,6566.252138201809,unknown
+760,Use of a One-Way Hash with a Predictable Salt,6282.775483095366,unknown
+863,Incorrect Authorization,6277.584804332118,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6254.490632988998,unknown

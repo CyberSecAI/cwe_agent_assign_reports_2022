@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+457,Use of Uninitialized Variable,Variant,0.7826723934288771
+131,Incorrect Calculation of Buffer Size,Base,0.7603037991047678
+191,Integer Underflow (Wrap or Wraparound),Base,0.7598008464118449
+124,Buffer Underwrite ('Buffer Underflow'),Base,0.754740940142556
+366,Race Condition within a Thread,Base,0.7535130576513644
+667,Improper Locking,Class,0.7532953050473346
+805,Buffer Access with Incorrect Length Value,Base,0.7530634905574312
+193,Off-by-one Error,Base,0.7511535353284717
+126,Buffer Over-read,Variant,0.7496708307781581
+909,Missing Initialization of Resource,Class,0.7485806861425703

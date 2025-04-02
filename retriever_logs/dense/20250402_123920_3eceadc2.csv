@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+312,Cleartext Storage of Sensitive Information,Base,0.7887980316556805
+274,Improper Handling of Insufficient Privileges,Base,0.7787613787601413
+267,Privilege Defined With Unsafe Actions,Base,0.7778368706874284
+266,Incorrect Privilege Assignment,Base,0.7765796972078568
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7760023933241375
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7757142566473101
+73,External Control of File Name or Path,Base,0.7748234974222277
+23,Relative Path Traversal,Base,0.7741074193693503
+668,Exposure of Resource to Wrong Sphere,Class,0.7714070749409401
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7701415489699748

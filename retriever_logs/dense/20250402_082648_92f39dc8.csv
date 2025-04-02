@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7626390689964496
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7619440585329557
+665,Improper Initialization,Class,0.7586331317034647
+1188,Initialization of a Resource with an Insecure Default,Base,0.7569349249913702
+345,Insufficient Verification of Data Authenticity,Class,0.7544543327529856
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7496238055101079
+404,Improper Resource Shutdown or Release,Class,0.7492585042990281
+1391,Use of Weak Credentials,Class,0.7488483453238182
+41,Improper Resolution of Path Equivalence,Base,0.7483339067378108
+755,Improper Handling of Exceptional Conditions,Class,0.7452616235832725

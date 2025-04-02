@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,8852.244829483985,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8185.813131926086,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,8128.21518646437,base_query
+611,Improper Restriction of XML External Entity Reference,8013.137717140964,base_query
+863,Incorrect Authorization,7921.685010408523,base_query

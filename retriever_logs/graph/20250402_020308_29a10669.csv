@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+289,Authentication Bypass by Alternate Name,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,3.8784,0
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),variant,3.8784,0
+183,Permissive List of Allowed Inputs,base,3.8506000000000005,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.3324866429061233,0
+178,Improper Handling of Case Sensitivity,Base,3.3299300594521988,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.3264,0

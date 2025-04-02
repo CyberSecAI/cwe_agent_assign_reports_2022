@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7659679151044075
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7657871819413031
+668,Exposure of Resource to Wrong Sphere,Class,0.7630624213277217
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.762132638788275
+799,Improper Control of Interaction Frequency,Class,0.7520080124640958
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7515955133890792
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7505153507708877
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7487885008291124
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7422831884692667
+319,Cleartext Transmission of Sensitive Information,Base,0.742006295178089

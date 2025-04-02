@@ -1,0 +1,70 @@
+{
+  "retriever": "dense",
+  "query": "# Vulnerability Description\n\n    The Timetable and Event Schedule WordPress plugin before 2.4.2 does not have proper access control when updating a timeslot, allowing any user with the edit_posts capability (contributor+) to update arbitrary timeslot from any events. Furthermore, no **CSRF** check is in place as well, allowing such attack to be perform via **CSRF** against a logged in with such capability. In versions before 2.3.19, the lack of sanitisation and escaping in some of the fields, like the descritption could also lead to **Stored XSS** issues\n\n    # Keyphrase-Specific CWE Analysis\n    This vulnerability contains multiple keyphrases that may map to different CWEs. \n    Please analyze each keyphrase separately and determine the most appropriate CWE(s) for each.\n\n    ## ROOTCAUSE: 'improper access control'\n\nRelevant CWEs for this ROOTCAUSE:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 767.73)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 573.99)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-116: Improper Encoding or Escaping of Output (Score: 568.75)\n\nThe product prepares a structured message for communication with another component, but encoding or escaping of the data is either missing or done incorrectly. As a result, the intended structure of the message is not preserved....\n\n### 4. CWE-863: Incorrect Authorization (Score: 547.59)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-285: Improper Authorization (Score: 541.64)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n## WEAKNESS: 'Stored XSS'\n\nRelevant CWEs for this WEAKNESS:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 767.73)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 573.99)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-116: Improper Encoding or Escaping of Output (Score: 568.75)\n\nThe product prepares a structured message for communication with another component, but encoding or escaping of the data is either missing or done incorrectly. As a result, the intended structure of the message is not preserved....\n\n### 4. CWE-863: Incorrect Authorization (Score: 547.59)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-434: Unrestricted Upload of File with Dangerous Type (Score: 492.75)\n\nThe product allows the upload or transfer of dangerous file types that are automatically processed within its environment....\n\n## WEAKNESS: 'CSRF'\n\nRelevant CWEs for this WEAKNESS:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 767.73)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 573.99)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-116: Improper Encoding or Escaping of Output (Score: 568.75)\n\nThe product prepares a structured message for communication with another component, but encoding or escaping of the data is either missing or done incorrectly. As a result, the intended structure of the message is not preserved....\n\n### 4. CWE-863: Incorrect Authorization (Score: 547.59)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-434: Unrestricted Upload of File with Dangerous Type (Score: 492.75)\n\nThe product allows the upload or transfer of dangerous file types that are automatically processed within its environment....\n\n## IMPACT: 'update arbitrary timeslot'\n\nRelevant CWEs for this IMPACT:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 767.73)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 573.99)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-116: Improper Encoding or Escaping of Output (Score: 568.75)\n\nThe product prepares a structured message for communication with another component, but encoding or escaping of the data is either missing or done incorrectly. As a result, the intended structure of the message is not preserved....\n\n### 4. CWE-285: Improper Authorization (Score: 541.64)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n### 5. CWE-201: Insertion of Sensitive Information Into Sent Data (Score: 178.86)\n\nThe code transmits data to another actor, but a portion of the data includes sensitive information that should not be accessible to that actor....\n\n## ATTACKER: 'users with edit_posts capability'\n\nRelevant CWEs for this ATTACKER:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 767.73)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 573.99)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-116: Improper Encoding or Escaping of Output (Score: 568.75)\n\nThe product prepares a structured message for communication with another component, but encoding or escaping of the data is either missing or done incorrectly. As a result, the intended structure of the message is not preserved....\n\n### 4. CWE-863: Incorrect Authorization (Score: 547.59)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-201: Insertion of Sensitive Information Into Sent Data (Score: 178.86)\n\nThe code transmits data to another actor, but a portion of the data includes sensitive information that should not be accessible to that actor....\n\n## PRODUCT: 'Timetable and Event Schedule WordPress plugin'\n\nRelevant CWEs for this PRODUCT:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 767.73)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 573.99)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-116: Improper Encoding or Escaping of Output (Score: 568.75)\n\nThe product prepares a structured message for communication with another component, but encoding or escaping of the data is either missing or done incorrectly. As a result, the intended structure of the message is not preserved....\n\n### 4. CWE-863: Incorrect Authorization (Score: 547.59)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-285: Improper Authorization (Score: 541.64)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n## VERSION: 'before 2.4.2'\n\nRelevant CWEs for this VERSION:\n\n### 1. CWE-352: Cross-Site Request Forgery (CSRF) (Score: 767.73)\n\nThe web application does not, or can not, sufficiently verify whether a well-formed, valid, consistent request was intentionally provided by the user who submitted the request....\n\n### 2. CWE-862: Missing Authorization (Score: 573.99)\n\nThe product does not perform an authorization check when an actor attempts to access a resource or perform an action....\n\n### 3. CWE-116: Improper Encoding or Escaping of Output (Score: 568.75)\n\nThe product prepares a structured message for communication with another component, but encoding or escaping of the data is either missing or done incorrectly. As a result, the intended structure of the message is not preserved....\n\n### 4. CWE-863: Incorrect Authorization (Score: 547.59)\n\nThe product performs an authorization check when an actor attempts to access a resource or perform an action, but it does not correctly perform the check....\n\n### 5. CWE-285: Improper Authorization (Score: 541.64)\n\nThe product does not perform or incorrectly performs an authorization check when an actor attempts to access a resource or perform an action....\n\n\n    # Analysis Instructions\n    1. For each keyphrase, identify the most appropriate CWE(s) that represent the weakness.\n    2. Consider how the different keyphrases might relate to each other in the vulnerability chain.\n    3. Provide a final determination of primary CWE(s) and any secondary CWEs.\n    4. Format your response using the standard analysis template.\n\n    Please analyze how these different weaknesses interact and provide a comprehensive CWE classification.\n    ",
+  "keyphrases": {},
+  "timestamp": "2025-04-01 16:05:47",
+  "cve_id": "unknown",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "472",
+      "name": "External Control of Assumed-Immutable Web Parameter",
+      "type": "Base",
+      "score": 0.748502165691459
+    },
+    {
+      "cwe_id": "352",
+      "name": "Cross-Site Request Forgery (CSRF)",
+      "type": "Compound",
+      "score": 0.7381726289014914
+    },
+    {
+      "cwe_id": "425",
+      "name": "Direct Request ('Forced Browsing')",
+      "type": "Base",
+      "score": 0.7314198424629794
+    },
+    {
+      "cwe_id": "208",
+      "name": "Observable Timing Discrepancy",
+      "type": "Base",
+      "score": 0.7261726417636086
+    },
+    {
+      "cwe_id": "116",
+      "name": "Improper Encoding or Escaping of Output",
+      "type": "Class",
+      "score": 0.7167271989025907
+    },
+    {
+      "cwe_id": "639",
+      "name": "Authorization Bypass Through User-Controlled Key",
+      "type": "Base",
+      "score": 0.7165747347633087
+    },
+    {
+      "cwe_id": "434",
+      "name": "Unrestricted Upload of File with Dangerous Type",
+      "type": "Base",
+      "score": 0.7100968694258856
+    },
+    {
+      "cwe_id": "1390",
+      "name": "Weak Authentication",
+      "type": "Class",
+      "score": 0.7088480372432333
+    },
+    {
+      "cwe_id": "184",
+      "name": "Incomplete List of Disallowed Inputs",
+      "type": "Base",
+      "score": 0.7049602657850863
+    },
+    {
+      "cwe_id": "138",
+      "name": "Improper Neutralization of Special Elements",
+      "type": "Class",
+      "score": 0.7039712656280896
+    }
+  ]
+}

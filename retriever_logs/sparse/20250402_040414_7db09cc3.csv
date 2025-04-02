@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5561.324779725679,unknown
+1390,Weak Authentication,5482.965018007073,unknown
+285,Improper Authorization,5461.8591376348895,unknown
+287,Improper Authentication,5455.361953023459,unknown
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5443.922124246514,unknown

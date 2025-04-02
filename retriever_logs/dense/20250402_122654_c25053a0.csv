@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+425,Direct Request ('Forced Browsing'),Base,0.7367831792542522
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7293427239666721
+434,Unrestricted Upload of File with Dangerous Type,Base,0.7183438049082171
+352,Cross-Site Request Forgery (CSRF),Compound,0.7114072850472716
+639,Authorization Bypass Through User-Controlled Key,Base,0.7090928884213713
+41,Improper Resolution of Path Equivalence,Base,0.705826008598537
+552,Files or Directories Accessible to External Parties,Base,0.7013747817972449
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7010536082356319
+23,Relative Path Traversal,Base,0.7005722984892933
+178,Improper Handling of Case Sensitivity,Base,0.7002105139249557

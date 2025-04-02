@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,5295.140737820437,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5276.578109445947,unknown
+863,Incorrect Authorization,5241.78676241624,unknown
+319,Cleartext Transmission of Sensitive Information,5235.66609954376,unknown
+1390,Weak Authentication,5152.981113538563,unknown

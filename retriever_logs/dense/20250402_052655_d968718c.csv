@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+252,Unchecked Return Value,Base,0.7734784363130915
+823,Use of Out-of-range Pointer Offset,Base,0.7721952153714782
+824,Access of Uninitialized Pointer,Base,0.7714737377230203
+457,Use of Uninitialized Variable,Variant,0.770923837218721
+908,Use of Uninitialized Resource,Base,0.7687623763897442
+131,Incorrect Calculation of Buffer Size,Base,0.7682938096689934
+125,Out-of-bounds Read,Base,0.7603270615437288
+191,Integer Underflow (Wrap or Wraparound),Base,0.7598235077227744
+822,Untrusted Pointer Dereference,Base,0.7596742669557373
+909,Missing Initialization of Resource,Class,0.7592560145229725

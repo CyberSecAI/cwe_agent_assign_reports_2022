@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1391,Use of Weak Credentials,4601.768123285339,base_query
+321,Use of Hard-coded Cryptographic Key,4499.489744153191,base_query
+472,External Control of Assumed-Immutable Web Parameter,4471.1993637560345,base_query
+754,Improper Check for Unusual or Exceptional Conditions,4440.026831176846,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4439.134173142325,base_query

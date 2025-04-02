@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,6246.98051330723,base_query
+116,Improper Encoding or Escaping of Output,5910.445195301011,base_query
+943,Improper Neutralization of Special Elements in Data Query Logic,5729.412350583353,base_query
+312,Cleartext Storage of Sensitive Information,5680.03906311232,base_query
+209,Generation of Error Message Containing Sensitive Information,5669.115948967496,base_query

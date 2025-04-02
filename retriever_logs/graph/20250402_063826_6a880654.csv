@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,3.2656,0
+416,Use After Free,variant,3.24,0
+609,Double-Checked Locking,base,2.8651999999999997,0
+1265,Unintended Reentrant Invocation of Non-reentrant Code Via Nested Calls,base,2.8651999999999997,0
+364,Signal Handler Race Condition,base,2.8651999999999997,0
+205,Observable Behavioral Discrepancy,base,2.8651999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,base,2.73416,0
+619,Dangling Database Cursor ('Cursor Injection'),base,2.73416,0
+1325,Improperly Controlled Sequential Memory Allocation,base,2.73416,0

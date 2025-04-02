@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7924054179562892
+345,Insufficient Verification of Data Authenticity,Class,0.7888654228231339
+1391,Use of Weak Credentials,Class,0.7853559840236249
+798,Use of Hard-coded Credentials,Base,0.7824764029646429
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7767501934766676
+312,Cleartext Storage of Sensitive Information,Base,0.7754284738264167
+319,Cleartext Transmission of Sensitive Information,Base,0.7749491750297609
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.771028267833666
+330,Use of Insufficiently Random Values,Class,0.7690970561319781
+321,Use of Hard-coded Cryptographic Key,Variant,0.7651221130579413

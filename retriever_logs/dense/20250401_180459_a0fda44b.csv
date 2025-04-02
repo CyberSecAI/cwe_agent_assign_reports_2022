@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.8025787483672684
+73,External Control of File Name or Path,Base,0.7959039137770905
+668,Exposure of Resource to Wrong Sphere,Class,0.7851278760292894
+41,Improper Resolution of Path Equivalence,Base,0.7794047538253119
+404,Improper Resource Shutdown or Release,Class,0.7792036795266507
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7764473286762046
+405,Asymmetric Resource Consumption (Amplification),Class,0.7751551634402173
+23,Relative Path Traversal,Base,0.7628690072786105
+789,Memory Allocation with Excessive Size Value,Variant,0.7616160337812033
+799,Improper Control of Interaction Frequency,Class,0.7614502415800144

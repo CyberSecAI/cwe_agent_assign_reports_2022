@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+290,Authentication Bypass by Spoofing,base,3.6399999999999997,0
+325,Missing Cryptographic Step,base,3.6399999999999997,0
+619,Dangling Database Cursor ('Cursor Injection'),base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.6784000000000003,0
+346,Origin Validation Error,class,2.5376,0
+427,Uncontrolled Search Path Element,Base,2.508790327519031,0
+426,Untrusted Search Path,Base,2.4954788714414695,0
+295,Improper Certificate Validation,Base,2.4939862671311115,0

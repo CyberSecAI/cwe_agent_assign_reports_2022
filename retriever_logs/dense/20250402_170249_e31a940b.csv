@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7703348981438182
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7599623079647035
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7549729500903726
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7508500346021709
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7498549859160575
+668,Exposure of Resource to Wrong Sphere,Class,0.7495660983100018
+319,Cleartext Transmission of Sensitive Information,Base,0.7471261710029818
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7463692549637106
+347,Improper Verification of Cryptographic Signature,Base,0.7435473737660467
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7431641638353925

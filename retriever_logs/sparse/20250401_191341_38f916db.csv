@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+754,Improper Check for Unusual or Exceptional Conditions,6844.794520081365,base_query
+770,Allocation of Resources Without Limits or Throttling,6797.396354751334,base_query
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,6583.575757846466,base_query
+789,Memory Allocation with Excessive Size Value,6541.11726588782,base_query
+400,Uncontrolled Resource Consumption,6413.798073522748,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7950022525898792
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7564745140384568
+625,Permissive Regular Expression,Base,0.7550509738970023
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7513376114284076
+185,Incorrect Regular Expression,Class,0.7492785990577241
+1333,Inefficient Regular Expression Complexity,Base,0.7487886546322878
+184,Incomplete List of Disallowed Inputs,Base,0.7482981321672977
+138,Improper Neutralization of Special Elements,Class,0.748137852609609
+668,Exposure of Resource to Wrong Sphere,Class,0.7475390862392111
+41,Improper Resolution of Path Equivalence,Base,0.7402611717210903

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+824,Access of Uninitialized Pointer,Base,0.7918369649924182
+415,Double Free,Variant,0.7858723646240633
+476,NULL Pointer Dereference,Base,0.7766873618170737
+131,Incorrect Calculation of Buffer Size,Base,0.7746091374348847
+193,Off-by-one Error,Base,0.7731167229576671
+404,Improper Resource Shutdown or Release,Class,0.7713975844028711
+191,Integer Underflow (Wrap or Wraparound),Base,0.7670336597833953
+681,Incorrect Conversion between Numeric Types,Base,0.7630724212975638
+667,Improper Locking,Class,0.7617274023105929
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7597624910073555

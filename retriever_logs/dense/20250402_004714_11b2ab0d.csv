@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7573904144952769
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7536366885978979
+1236,Improper Neutralization of Formula Elements in a CSV File,Base,0.7413812706665783
+184,Incomplete List of Disallowed Inputs,Base,0.7406736141939656
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7362796827340305
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7351528587285759
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7327334568885873
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),Base,0.7289386434178371
+943,Improper Neutralization of Special Elements in Data Query Logic,Class,0.7264178781865055
+691,Insufficient Control Flow Management,Pillar,0.7250835417927528

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+404,Improper Resource Shutdown or Release,4125.239150321683,unknown
+668,Exposure of Resource to Wrong Sphere,4097.781269723419,unknown
+703,Improper Check or Handling of Exceptional Conditions,4059.4557369825807,unknown
+863,Incorrect Authorization,4032.0937853499167,unknown
+285,Improper Authorization,3991.3587929820633,unknown

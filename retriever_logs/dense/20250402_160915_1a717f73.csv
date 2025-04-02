@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+611,Improper Restriction of XML External Entity Reference,Base,0.7680349195660554
+776,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),Base,0.7418165592663373
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7194682824516574
+91,XML Injection (aka Blind XPath Injection),Base,0.7149331851737735
+112,Missing XML Validation,Base,0.7133049382242664
+829,Inclusion of Functionality from Untrusted Control Sphere,Base,0.7124958411340268
+643,Improper Neutralization of Data within XPath Expressions ('XPath Injection'),Base,0.710608377523355
+184,Incomplete List of Disallowed Inputs,Base,0.7067621313965691
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7056471662956941
+838,Inappropriate Encoding for Output Context,Base,0.7037061254547761

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+358,Improperly Implemented Security Check for Standard,base,3.6399999999999997,0
+325,Missing Cryptographic Step,base,3.6399999999999997,0
+259,Use of Hard-coded Password,Variant,2.7104498677107496,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.706063513723226,0
+798,Use of Hard-coded Credentials,Base,2.498189635959354,0
+836,Use of Password Hash Instead of Password for Authentication,Base,2.4897061543886014,0
+257,Storing Passwords in a Recoverable Format,Base,2.4809936050932277,0
+208,Observable Timing Discrepancy,base,2.2100000000000004,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.2100000000000004,0

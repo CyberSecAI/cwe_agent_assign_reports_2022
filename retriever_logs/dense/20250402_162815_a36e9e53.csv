@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+311,Missing Encryption of Sensitive Data,Class,0.7583415067253358
+657,Violation of Secure Design Principles,Class,0.7539036736135458
+312,Cleartext Storage of Sensitive Information,Base,0.7523524691942722
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7481694860993018
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.737894130573987
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7358677835932792
+319,Cleartext Transmission of Sensitive Information,Base,0.7344293164855045
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7330178361901798
+922,Insecure Storage of Sensitive Information,Class,0.7301436091619927
+345,Insufficient Verification of Data Authenticity,Class,0.7275936381936442

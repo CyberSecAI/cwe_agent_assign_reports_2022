@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+681,Incorrect Conversion between Numeric Types,Base,0.7902135020552316
+197,Numeric Truncation Error,Base,0.7653539886620748
+457,Use of Uninitialized Variable,Variant,0.7637423056320619
+822,Untrusted Pointer Dereference,Base,0.7624790340479422
+131,Incorrect Calculation of Buffer Size,Base,0.7620938567699215
+824,Access of Uninitialized Pointer,Base,0.7608932720873961
+191,Integer Underflow (Wrap or Wraparound),Base,0.7578065159290237
+665,Improper Initialization,Class,0.7565090394135854
+252,Unchecked Return Value,Base,0.7558394264186251
+682,Incorrect Calculation,Pillar,0.7526943807220345

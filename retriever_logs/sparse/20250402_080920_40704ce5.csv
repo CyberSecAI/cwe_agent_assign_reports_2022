@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6841.666182597046,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6657.265652815264,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,6579.295985254386,base_query
+125,Out-of-bounds Read,6496.121571212165,base_query
+863,Incorrect Authorization,6482.4513361341915,base_query

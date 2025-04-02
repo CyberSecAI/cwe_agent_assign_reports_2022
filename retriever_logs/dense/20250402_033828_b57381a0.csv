@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7892876437576912
+404,Improper Resource Shutdown or Release,Class,0.78921950360886
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7852651961478512
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7761283083456019
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7747086924495112
+41,Improper Resolution of Path Equivalence,Base,0.7723930179360152
+267,Privilege Defined With Unsafe Actions,Base,0.7681661848527344
+73,External Control of File Name or Path,Base,0.7680206478359951
+403,Exposure of File Descriptor to Unintended Control Sphere ('File Descriptor Leak'),Base,0.7678540765813572
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7649880948489315

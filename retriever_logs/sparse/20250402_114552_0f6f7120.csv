@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,6286.951015599045,base_query
+259,Use of Hard-coded Password,6192.308388228075,base_query
+1391,Use of Weak Credentials,6156.503882399863,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6130.631974591121,base_query
+798,Use of Hard-coded Credentials,6093.762794767696,base_query

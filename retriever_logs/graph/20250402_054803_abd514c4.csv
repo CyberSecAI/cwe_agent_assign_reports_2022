@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+776,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),base,4.329000000000001,0
+827,Improper Control of Document Type Definition,variant,3.8784,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+20,Improper Input Validation,class,2.984,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.64,0
+472,External Control of Assumed-Immutable Web Parameter,Base,2.5813672340728258,0
+918,Server-Side Request Forgery (SSRF),base,2.4699999999999998,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.4699999999999998,0
+829,Inclusion of Functionality from Untrusted Control Sphere,base,2.4699999999999998,0

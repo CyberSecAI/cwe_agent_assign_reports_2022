@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.212000000000001,0
+183,Permissive List of Allowed Inputs,base,4.0612,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.5671999999999997,0
+352,Cross-Site Request Forgery (CSRF),compound,3.542,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,3.3143613048894847,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.302,0
+184,Incomplete List of Disallowed Inputs,Base,3.1915614890017223,0
+20,Improper Input Validation,class,2.984,0

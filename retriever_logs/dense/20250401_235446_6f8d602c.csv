@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.8078159667437923
+667,Improper Locking,Class,0.7632296254380375
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.763004182062105
+606,Unchecked Input for Loop Condition,Base,0.7627793605819153
+183,Permissive List of Allowed Inputs,Base,0.760366525664293
+179,Incorrect Behavior Order: Early Validation,Base,0.7575402623690838
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7562594212729602
+184,Incomplete List of Disallowed Inputs,Base,0.753815235823027
+1288,Improper Validation of Consistency within Input,Base,0.75232540634419
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7455258969087437

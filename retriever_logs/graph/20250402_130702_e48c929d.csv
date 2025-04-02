@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+825,Expired Pointer Dereference,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+617,Reachable Assertion,base,3.8870000000000005,0
+416,Use After Free,variant,3.8784,0
+123,Write-what-where Condition,base,3.3566,0
+824,Access of Uninitialized Pointer,Base,2.904171572774934,0
+125,Out-of-bounds Read,Base,2.902558330537916,0
+476,NULL Pointer Dereference,Base,2.9019877605730633,0
+908,Use of Uninitialized Resource,Base,2.9007763868378023,0
+823,Use of Out-of-range Pointer Offset,base,2.8651999999999997,0

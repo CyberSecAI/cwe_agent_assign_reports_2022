@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,7483.139905608656,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7415.990366134962,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7257.003216360935,base_query
+116,Improper Encoding or Escaping of Output,7242.351810763558,base_query
+184,Incomplete List of Disallowed Inputs,7207.363248420597,base_query

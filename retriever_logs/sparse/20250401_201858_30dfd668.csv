@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,6546.6611816736495,unknown
+434,Unrestricted Upload of File with Dangerous Type,6324.656903374138,unknown
+472,External Control of Assumed-Immutable Web Parameter,6190.351507217849,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6146.743416214206,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),6141.618843990497,unknown

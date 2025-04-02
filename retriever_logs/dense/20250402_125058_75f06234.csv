@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7904402298835828
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7806896420880902
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7771783278803217
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7714991742333888
+202,Exposure of Sensitive Information Through Data Queries,Base,0.7673862490237904
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7662066290416891
+359,Exposure of Private Personal Information to an Unauthorized Actor,Base,0.7653124884700511
+552,Files or Directories Accessible to External Parties,Base,0.7641166292675222
+639,Authorization Bypass Through User-Controlled Key,Base,0.7618663481634599
+668,Exposure of Resource to Wrong Sphere,Class,0.7615532322274412

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+125,Out-of-bounds Read,base,3.1356,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.8969378380317976,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+805,Buffer Access with Incorrect Length Value,base,2.8651999999999997,0
+822,Untrusted Pointer Dereference,base,2.8651999999999997,0
+823,Use of Out-of-range Pointer Offset,base,2.8651999999999997,0

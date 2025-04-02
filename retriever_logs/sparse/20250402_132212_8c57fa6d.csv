@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,6160.52443626143,unknown
+190,Integer Overflow or Wraparound,6152.814909442963,unknown
+1284,Improper Validation of Specified Quantity in Input,6043.173191848885,unknown
+252,Unchecked Return Value,5940.183971379383,unknown
+457,Use of Uninitialized Variable,5900.147167577417,unknown

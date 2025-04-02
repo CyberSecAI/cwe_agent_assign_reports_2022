@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+674,Uncontrolled Recursion,Class,0.7511260927335217
+131,Incorrect Calculation of Buffer Size,Base,0.7447311323244662
+191,Integer Underflow (Wrap or Wraparound),Base,0.7436999117278742
+824,Access of Uninitialized Pointer,Base,0.7405172274077493
+125,Out-of-bounds Read,Base,0.7404608570731396
+681,Incorrect Conversion between Numeric Types,Base,0.7393624496165919
+667,Improper Locking,Class,0.738782578671853
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7372014480097593
+404,Improper Resource Shutdown or Release,Class,0.7347513553924341
+193,Off-by-one Error,Base,0.734462237847584

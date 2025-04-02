@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7935565936717901
+1391,Use of Weak Credentials,Class,0.7870476584962085
+345,Insufficient Verification of Data Authenticity,Class,0.7860514869784732
+798,Use of Hard-coded Credentials,Base,0.7800135773069317
+668,Exposure of Resource to Wrong Sphere,Class,0.7783320084744396
+667,Improper Locking,Class,0.7748620790629643
+41,Improper Resolution of Path Equivalence,Base,0.7743223487125531
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7719486226021506
+330,Use of Insufficiently Random Values,Class,0.7715095168964623
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7697201402271524

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5326.049808874891,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5280.779630132246,base_query
+285,Improper Authorization,5261.759460372172,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5211.770510255802,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5204.5786705706605,base_query

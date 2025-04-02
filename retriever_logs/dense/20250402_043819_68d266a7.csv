@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+406,Insufficient Control of Network Message Volume (Network Amplification),Class,0.7993928230686451
+405,Asymmetric Resource Consumption (Amplification),Class,0.7842461623419471
+799,Improper Control of Interaction Frequency,Class,0.7647737017038807
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7564508878528067
+668,Exposure of Resource to Wrong Sphere,Class,0.7417887046245187
+290,Authentication Bypass by Spoofing,Base,0.736846320977145
+300,Channel Accessible by Non-Endpoint,Class,0.7360017352043435
+294,Authentication Bypass by Capture-replay,Base,0.7355748335910471
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7351933468529263
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7329059760960926

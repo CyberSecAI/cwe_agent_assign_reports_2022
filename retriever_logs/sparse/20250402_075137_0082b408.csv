@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),5915.658761124658,base_query
+863,Incorrect Authorization,5678.548349398357,base_query
+285,Improper Authorization,5634.863397676358,base_query
+1386,Insecure Operation on Windows Junction / Mount Point,5584.128277005919,base_query
+668,Exposure of Resource to Wrong Sphere,5545.330104947758,base_query

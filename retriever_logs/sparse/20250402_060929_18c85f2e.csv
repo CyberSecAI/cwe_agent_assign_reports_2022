@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+364,Signal Handler Race Condition,7526.6755640783185,base_query
+770,Allocation of Resources Without Limits or Throttling,6957.588647365301,base_query
+754,Improper Check for Unusual or Exceptional Conditions,6940.463996873644,base_query
+401,Missing Release of Memory after Effective Lifetime,6865.391909720587,base_query
+789,Memory Allocation with Excessive Size Value,6674.082047170339,base_query

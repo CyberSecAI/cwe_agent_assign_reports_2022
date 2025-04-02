@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,4259.310166532897,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4257.239063634667,base_query
+178,Improper Handling of Case Sensitivity,4210.328194317985,base_query
+625,Permissive Regular Expression,4069.876770178045,base_query
+863,Incorrect Authorization,3909.110876796125,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5520.572886832839,unknown
+285,Improper Authorization,5486.353530087465,unknown
+639,Authorization Bypass Through User-Controlled Key,5189.344212504633,unknown
+732,Incorrect Permission Assignment for Critical Resource,5187.945901925625,unknown
+267,Privilege Defined With Unsafe Actions,5162.5850598975085,unknown

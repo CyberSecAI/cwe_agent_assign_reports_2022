@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+611,Improper Restriction of XML External Entity Reference,Base,0.7733818653280997
+41,Improper Resolution of Path Equivalence,Base,0.7722038626544994
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.767786961788847
+668,Exposure of Resource to Wrong Sphere,Class,0.7671031695009829
+345,Insufficient Verification of Data Authenticity,Class,0.7628278777616391
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7619457849658827
+23,Relative Path Traversal,Base,0.7581730062853433
+184,Incomplete List of Disallowed Inputs,Base,0.7576874287538989
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7550439500212534
+639,Authorization Bypass Through User-Controlled Key,Base,0.7546412766564077

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+804,Guessable CAPTCHA,base,4.329000000000001,0
+941,Incorrectly Specified Destination in a Communication Channel,base,4.329000000000001,0
+1275,Sensitive Cookie with Improper SameSite Attribute,variant,3.8784,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,3.8784,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,3.4361600000000005,0
+290,Authentication Bypass by Spoofing,base,3.2656,0
+352,Cross-Site Request Forgery (CSRF),compound,3.0919999999999996,0

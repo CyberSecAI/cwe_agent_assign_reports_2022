@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,6422.656976041014,base_query
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,6372.918895884523,base_query
+863,Incorrect Authorization,6301.973250414704,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,6235.9261752522325,base_query
+287,Improper Authentication,6227.362234382083,base_query

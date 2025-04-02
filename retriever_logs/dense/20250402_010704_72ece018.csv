@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7656994714584671
+653,Improper Isolation or Compartmentalization,Class,0.7651244044948837
+668,Exposure of Resource to Wrong Sphere,Class,0.7588296873698601
+274,Improper Handling of Insufficient Privileges,Base,0.7568206872330873
+266,Incorrect Privilege Assignment,Base,0.7546873642359928
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7533038966567173
+424,Improper Protection of Alternate Path,Class,0.7499504884083604
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7493492889509521
+23,Relative Path Traversal,Base,0.7487958675978841
+639,Authorization Bypass Through User-Controlled Key,Base,0.7485523827283529

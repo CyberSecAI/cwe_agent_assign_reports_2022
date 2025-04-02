@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,6422.88638288608,unknown
+190,Integer Overflow or Wraparound,6330.015711905003,unknown
+125,Out-of-bounds Read,6047.030395235694,unknown
+407,Inefficient Algorithmic Complexity,5936.258811681697,unknown
+770,Allocation of Resources Without Limits or Throttling,5931.738880177611,unknown

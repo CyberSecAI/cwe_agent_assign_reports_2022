@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+789,Memory Allocation with Excessive Size Value,Variant,0.7742207669307074
+404,Improper Resource Shutdown or Release,Class,0.7736149184782823
+131,Incorrect Calculation of Buffer Size,Base,0.7659710948537876
+125,Out-of-bounds Read,Base,0.7604443646318703
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7588782402590863
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7577454502060197
+191,Integer Underflow (Wrap or Wraparound),Base,0.7552866852087612
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7548107540011116
+129,Improper Validation of Array Index,Variant,0.7533524640919236
+667,Improper Locking,Class,0.7520457137566499

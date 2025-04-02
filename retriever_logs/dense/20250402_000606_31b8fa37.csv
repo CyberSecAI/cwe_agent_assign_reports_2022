@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+916,Use of Password Hash With Insufficient Computational Effort,Base,0.7600570210412452
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7526983087412764
+328,Use of Weak Hash,Base,0.750736659962393
+405,Asymmetric Resource Consumption (Amplification),Class,0.734596451521196
+1391,Use of Weak Credentials,Class,0.7319705946418056
+404,Improper Resource Shutdown or Release,Class,0.7291157434853507
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7266049484687236
+668,Exposure of Resource to Wrong Sphere,Class,0.7252959000006607
+407,Inefficient Algorithmic Complexity,Class,0.7228409945777543
+330,Use of Insufficiently Random Values,Class,0.7210100831882833

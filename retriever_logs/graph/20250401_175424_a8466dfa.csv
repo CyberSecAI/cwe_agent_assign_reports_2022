@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,4.212000000000001,0
+184,Incomplete List of Disallowed Inputs,base,3.5698000000000003,0
+73,External Control of File Name or Path,Base,3.19258040723981,0
+61,UNIX Symbolic Link (Symlink) Following,compound,3.002,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.901122612339189,0
+182,Collapse of Data into Unsafe Value,base,2.821,0
+363,Race Condition Enabling Link Following,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.6784000000000003,0

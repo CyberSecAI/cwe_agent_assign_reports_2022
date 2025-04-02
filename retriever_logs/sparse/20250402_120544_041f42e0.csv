@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,8868.117250362311,unknown
+190,Integer Overflow or Wraparound,8867.435388779904,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),8525.6131480954,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),8428.283279440784,unknown
+1284,Improper Validation of Specified Quantity in Input,8377.415433904163,unknown

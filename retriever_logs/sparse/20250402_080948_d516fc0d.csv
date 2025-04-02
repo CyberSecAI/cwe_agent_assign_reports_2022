@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,5692.766258846435,unknown
+183,Permissive List of Allowed Inputs,5456.238234609378,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5420.784609534733,unknown
+434,Unrestricted Upload of File with Dangerous Type,5292.625729425128,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5071.936859023246,unknown

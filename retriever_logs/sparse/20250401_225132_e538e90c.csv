@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,5560.5960622013845,unknown
+208,Observable Timing Discrepancy,5286.355785982301,unknown
+347,Improper Verification of Cryptographic Signature,5201.435595037062,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5094.487795982112,unknown
+1240,Use of a Cryptographic Primitive with a Risky Implementation,4958.8975582536805,unknown

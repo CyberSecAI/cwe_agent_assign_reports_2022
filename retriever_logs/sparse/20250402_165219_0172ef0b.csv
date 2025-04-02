@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,6500.16367661934,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,6497.819989003686,unknown
+125,Out-of-bounds Read,6475.331517820703,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6459.206735959646,unknown
+190,Integer Overflow or Wraparound,6415.777537951473,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.212000000000001,0
+195,Signed to Unsigned Conversion Error,variant,4.0416,0
+125,Out-of-bounds Read,base,3.8870000000000005,0
+190,Integer Overflow or Wraparound,base,3.8038000000000003,0
+131,Incorrect Calculation of Buffer Size,base,3.8038000000000003,0
+681,Incorrect Conversion between Numeric Types,base,3.6540400000000006,0
+787,Out-of-bounds Write,base,3.653,0
+197,Numeric Truncation Error,base,3.6399999999999997,0
+1264,Hardware Logic with Insecure De-Synchronization between Control and Data Channels,base,3.6399999999999997,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+756,Missing Custom Error Page,base,4.329000000000001,0
+209,Generation of Error Message Containing Sensitive Information,Base,2.893976106751841,0
+73,External Control of File Name or Path,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+287,Improper Authentication,class,2.5519999999999996,0
+600,Uncaught Exception in Servlet ,variant,2.5507200000000005,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.4699999999999998,0
+532,Insertion of Sensitive Information into Log File,base,2.4699999999999998,0

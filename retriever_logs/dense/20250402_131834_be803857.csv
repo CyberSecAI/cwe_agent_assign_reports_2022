@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7504754849804134
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),Base,0.7498166040898682
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.743684576585061
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.741730761944258
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7400733276636489
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.731475969934672
+184,Incomplete List of Disallowed Inputs,Base,0.7313021786580793
+838,Inappropriate Encoding for Output Context,Base,0.7305791529142154
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7285197954898978
+73,External Control of File Name or Path,Base,0.7271153790654257

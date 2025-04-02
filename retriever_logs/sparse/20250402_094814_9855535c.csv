@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,5270.644730656847,base_query
+1390,Weak Authentication,5260.479765590476,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5221.914512785016,base_query
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,5201.833097007265,base_query
+287,Improper Authentication,5128.14284465791,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+457,Use of Uninitialized Variable,Variant,0.7969947138769973
+824,Access of Uninitialized Pointer,Base,0.7917455719339246
+665,Improper Initialization,Class,0.7875757720995777
+908,Use of Uninitialized Resource,Base,0.7865526959087004
+909,Missing Initialization of Resource,Class,0.7829491781887954
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7829314554557315
+667,Improper Locking,Class,0.7801350678477326
+404,Improper Resource Shutdown or Release,Class,0.7731995445246813
+822,Untrusted Pointer Dereference,Base,0.7673728302677589
+366,Race Condition within a Thread,Base,0.7637386751245223

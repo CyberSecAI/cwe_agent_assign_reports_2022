@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+327,Use of a Broken or Risky Cryptographic Algorithm,5343.085686014372,unknown
+863,Incorrect Authorization,5337.470737067542,unknown
+287,Improper Authentication,5310.438930358561,unknown
+285,Improper Authorization,5308.540193706853,unknown
+306,Missing Authentication for Critical Function,5271.721790769316,unknown

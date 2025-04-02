@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+125,Out-of-bounds Read,base,3.8870000000000005,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.3366461061043564,0
+787,Out-of-bounds Write,base,3.302,0
+73,External Control of File Name or Path,Base,3.2086052217710446,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.1356,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.926377921598026,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+363,Race Condition Enabling Link Following,base,2.8651999999999997,0

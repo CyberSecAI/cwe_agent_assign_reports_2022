@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+364,Signal Handler Race Condition,7472.009373519413,unknown
+190,Integer Overflow or Wraparound,7334.121890862549,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6892.318204724135,unknown
+770,Allocation of Resources Without Limits or Throttling,6888.0682773493645,unknown
+125,Out-of-bounds Read,6856.871297673314,unknown

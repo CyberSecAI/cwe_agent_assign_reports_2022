@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5924.493118641937,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5758.622362998234,unknown
+863,Incorrect Authorization,5631.760075037026,unknown
+259,Use of Hard-coded Password,5511.20816879836,unknown
+285,Improper Authorization,5498.9303850034385,unknown

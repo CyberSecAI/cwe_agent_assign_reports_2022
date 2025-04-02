@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5635.102797528571,base_query
+295,Improper Certificate Validation,5475.610651279798,base_query
+863,Incorrect Authorization,5278.361816780731,base_query
+319,Cleartext Transmission of Sensitive Information,5172.1902554921235,base_query
+306,Missing Authentication for Critical Function,5096.757353189994,base_query

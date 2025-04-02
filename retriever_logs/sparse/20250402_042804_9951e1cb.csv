@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+668,Exposure of Resource to Wrong Sphere,5230.955624431721,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5182.4186685510585,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5101.386819747345,base_query
+863,Incorrect Authorization,5031.715705072764,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4926.302058260533,base_query

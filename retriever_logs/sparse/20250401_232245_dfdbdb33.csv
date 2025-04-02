@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+942,Permissive Cross-domain Policy with Untrusted Domains,4622.1429789359645,unknown
+863,Incorrect Authorization,4492.534018213167,unknown
+668,Exposure of Resource to Wrong Sphere,4465.964454891493,unknown
+285,Improper Authorization,4393.4165873910715,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,4388.099267663846,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,5612.654003195364,base_query
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),5551.801561211451,base_query
+1284,Improper Validation of Specified Quantity in Input,5507.043968233546,base_query
+770,Allocation of Resources Without Limits or Throttling,5497.472787686346,base_query
+190,Integer Overflow or Wraparound,5454.902680653671,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+123,Write-what-where Condition,base,5.031000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.329000000000001,0
+1341,Multiple Releases of Same Resource or Handle,base,4.329000000000001,0
+825,Expired Pointer Dereference,base,3.8870000000000005,0
+415,Double Free,Variant,3.0200831618647306,0
+416,Use After Free,Variant,3.012721202421337,0
+386,Symbolic Name not Mapping to Correct Object,base,2.9005600000000005,0
+364,Signal Handler Race Condition,Base,2.8912153116141637,0
+908,Use of Uninitialized Resource,Base,2.890677972229875,0

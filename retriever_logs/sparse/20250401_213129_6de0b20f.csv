@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),6043.7976268056245,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5792.298955946148,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5787.351236152798,unknown
+61,UNIX Symbolic Link (Symlink) Following,5773.4918478382115,unknown
+319,Cleartext Transmission of Sensitive Information,5748.459124072245,unknown

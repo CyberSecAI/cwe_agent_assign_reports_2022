@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,5277.3695941132955,unknown
+625,Permissive Regular Expression,5056.016671108172,unknown
+295,Improper Certificate Validation,5035.930161635764,unknown
+617,Reachable Assertion,4850.561387371056,unknown
+770,Allocation of Resources Without Limits or Throttling,4812.543625858508,unknown

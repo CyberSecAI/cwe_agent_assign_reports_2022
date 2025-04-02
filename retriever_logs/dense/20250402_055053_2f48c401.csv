@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7628255455083504
+41,Improper Resolution of Path Equivalence,Base,0.7569652476969426
+425,Direct Request ('Forced Browsing'),Base,0.7565227500868958
+552,Files or Directories Accessible to External Parties,Base,0.7555178981524939
+639,Authorization Bypass Through User-Controlled Key,Base,0.7528368101539007
+668,Exposure of Resource to Wrong Sphere,Class,0.752416322278729
+472,External Control of Assumed-Immutable Web Parameter,Base,0.751348375807704
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7466015115010446
+799,Improper Control of Interaction Frequency,Class,0.7452591317747629
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7426937128700857

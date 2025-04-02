@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+328,Use of Weak Hash,7762.2667441414715,base_query
+916,Use of Password Hash With Insufficient Computational Effort,7313.96608760573,base_query
+770,Allocation of Resources Without Limits or Throttling,7300.707447783441,base_query
+1284,Improper Validation of Specified Quantity in Input,7282.843469242847,base_query
+789,Memory Allocation with Excessive Size Value,7254.704627418231,base_query

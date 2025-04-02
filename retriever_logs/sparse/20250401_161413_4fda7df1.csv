@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+532,Insertion of Sensitive Information into Log File,6007.557510742042,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5972.123942195855,unknown
+639,Authorization Bypass Through User-Controlled Key,5904.090233400103,unknown
+863,Incorrect Authorization,5886.231804293433,unknown
+321,Use of Hard-coded Cryptographic Key,5804.517764884233,unknown

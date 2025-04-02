@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7780078441987394
+73,External Control of File Name or Path,Base,0.7730207747994552
+23,Relative Path Traversal,Base,0.7683846484613028
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7680327907031103
+552,Files or Directories Accessible to External Parties,Base,0.7676366662303994
+639,Authorization Bypass Through User-Controlled Key,Base,0.7616396974546015
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7594970017507502
+668,Exposure of Resource to Wrong Sphere,Class,0.7581519476567298
+1220,Insufficient Granularity of Access Control,Base,0.7579741684423458
+184,Incomplete List of Disallowed Inputs,Base,0.7575709058026909

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8358.587255639555,unknown
+770,Allocation of Resources Without Limits or Throttling,8334.162006637416,unknown
+1284,Improper Validation of Specified Quantity in Input,8257.759389793417,unknown
+789,Memory Allocation with Excessive Size Value,8124.300322578446,unknown
+863,Incorrect Authorization,8119.824972194384,unknown

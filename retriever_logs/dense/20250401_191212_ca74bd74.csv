@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+291,Reliance on IP Address for Authentication,Variant,0.7768159088855677
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7691986929577759
+1391,Use of Weak Credentials,Class,0.763251580070379
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.7592393685265975
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.757244282510271
+798,Use of Hard-coded Credentials,Base,0.7571674211594247
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7560259325659149
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7560076954046996
+345,Insufficient Verification of Data Authenticity,Class,0.7556977664239914
+300,Channel Accessible by Non-Endpoint,Class,0.7532060429129772

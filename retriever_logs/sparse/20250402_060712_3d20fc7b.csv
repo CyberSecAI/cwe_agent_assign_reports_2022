@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5426.321716314266,base_query
+863,Incorrect Authorization,5170.639819431414,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5104.931938445745,base_query
+340,Generation of Predictable Numbers or Identifiers,5089.309391437549,base_query
+285,Improper Authorization,5047.569103409356,base_query

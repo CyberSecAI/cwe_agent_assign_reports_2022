@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,7676.672894651901,base_query
+190,Integer Overflow or Wraparound,7507.933967636356,base_query
+1427,Improper Neutralization of Input Used for LLM Prompting,7489.8088209807,base_query
+1284,Improper Validation of Specified Quantity in Input,7457.786502124581,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7409.749043072617,base_query

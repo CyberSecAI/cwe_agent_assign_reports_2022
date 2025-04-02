@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.778923508524729
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7692386342194677
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7689112576508788
+404,Improper Resource Shutdown or Release,Class,0.7688834893262008
+405,Asymmetric Resource Consumption (Amplification),Class,0.7685350093294864
+668,Exposure of Resource to Wrong Sphere,Class,0.7665894385092753
+799,Improper Control of Interaction Frequency,Class,0.7653914181835069
+295,Improper Certificate Validation,Base,0.7642748669781307
+41,Improper Resolution of Path Equivalence,Base,0.7606651909692403
+345,Insufficient Verification of Data Authenticity,Class,0.7593198314499451

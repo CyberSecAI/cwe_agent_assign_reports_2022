@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+226,Sensitive Information in Resource Not Removed Before Reuse,5819.332023299058,base_query
+125,Out-of-bounds Read,5816.43719939376,base_query
+754,Improper Check for Unusual or Exceptional Conditions,5797.124583759398,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5776.413674751249,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5697.958507331862,base_query

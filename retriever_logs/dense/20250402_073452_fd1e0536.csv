@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+204,Observable Response Discrepancy,Base,0.793382845167405
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7847633312763389
+345,Insufficient Verification of Data Authenticity,Class,0.7783316995361391
+668,Exposure of Resource to Wrong Sphere,Class,0.7764533400329081
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7712564373054592
+203,Observable Discrepancy,Base,0.7682279154848785
+1390,Weak Authentication,Class,0.7660732567528397
+41,Improper Resolution of Path Equivalence,Base,0.7650779060368553
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7614878495975559
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7612030993901833

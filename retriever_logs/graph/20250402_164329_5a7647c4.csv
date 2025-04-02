@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1339,Insufficient Precision or Accuracy of a Real Number,base,5.031000000000001,0
+190,Integer Overflow or Wraparound,base,4.505800000000001,0
+1322,Use of Blocking Code in Single-threaded  Non-blocking Context,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+123,Write-what-where Condition,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+134,Use of Externally-Controlled Format String,base,4.329000000000001,0
+193,Off-by-one Error,base,3.5698000000000003,0
+1325,Improperly Controlled Sequential Memory Allocation,Base,3.3402886209005054,0
+789,Memory Allocation with Excessive Size Value,Variant,3.0236186727383707,0

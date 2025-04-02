@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+613,Insufficient Session Expiration,base,4.329000000000001,0
+259,Use of Hard-coded Password,variant,4.0104,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+208,Observable Timing Discrepancy,base,2.73416,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.7082342376373147,0
+287,Improper Authentication,class,2.5519999999999996,0
+798,Use of Hard-coded Credentials,Base,2.502077367251508,0
+344,Use of Invariant Value in Dynamically Changing Context,base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+916,Use of Password Hash With Insufficient Computational Effort,base,2.4699999999999998,0

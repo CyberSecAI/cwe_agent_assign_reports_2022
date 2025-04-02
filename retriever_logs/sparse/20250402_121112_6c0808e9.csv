@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,5230.586691280433,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5071.526713865083,base_query
+863,Incorrect Authorization,5041.039956171646,base_query
+639,Authorization Bypass Through User-Controlled Key,4989.331945507927,base_query
+1220,Insufficient Granularity of Access Control,4988.982653313298,base_query

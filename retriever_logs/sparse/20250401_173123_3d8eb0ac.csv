@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5489.4925713288485,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5441.509447206203,unknown
+942,Permissive Cross-domain Policy with Untrusted Domains,5371.59458075009,unknown
+285,Improper Authorization,5338.003433370037,unknown
+668,Exposure of Resource to Wrong Sphere,5332.158568016685,unknown

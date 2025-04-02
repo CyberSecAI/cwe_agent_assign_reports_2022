@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,4956.048289087761,unknown
+472,External Control of Assumed-Immutable Web Parameter,4893.320949538202,unknown
+285,Improper Authorization,4843.8823176646265,unknown
+639,Authorization Bypass Through User-Controlled Key,4772.55493417588,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),4723.13611736397,unknown

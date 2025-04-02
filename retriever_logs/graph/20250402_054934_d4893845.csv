@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,3.5671999999999997,0
+689,Permission Race Condition During Resource Copy,compound,3.002,0
+193,Off-by-one Error,base,2.821,0
+295,Improper Certificate Validation,base,2.7742,0
+73,External Control of File Name or Path,base,2.73416,0
+363,Race Condition Enabling Link Following,base,2.73416,0
+1322,Use of Blocking Code in Single-threaded  Non-blocking Context,base,2.73416,0
+617,Reachable Assertion,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0

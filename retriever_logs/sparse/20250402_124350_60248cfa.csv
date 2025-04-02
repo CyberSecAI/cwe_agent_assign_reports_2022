@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7258.508462704828,base_query
+863,Incorrect Authorization,7083.311438669976,base_query
+125,Out-of-bounds Read,7033.627326987034,base_query
+287,Improper Authentication,7018.759975428426,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6979.446796940824,base_query

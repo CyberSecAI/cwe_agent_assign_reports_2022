@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+274,Improper Handling of Insufficient Privileges,Base,0.7871044374792969
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.783412989349766
+266,Incorrect Privilege Assignment,Base,0.7797874128172101
+267,Privilege Defined With Unsafe Actions,Base,0.7777641988359291
+653,Improper Isolation or Compartmentalization,Class,0.7696278400308695
+41,Improper Resolution of Path Equivalence,Base,0.769332561938939
+73,External Control of File Name or Path,Base,0.7666126321303711
+668,Exposure of Resource to Wrong Sphere,Class,0.7645568808093597
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7614807714522472
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7592922187568804

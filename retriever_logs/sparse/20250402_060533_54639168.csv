@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+347,Improper Verification of Cryptographic Signature,6634.870424557583,base_query
+116,Improper Encoding or Escaping of Output,6313.538665428412,base_query
+295,Improper Certificate Validation,6312.3065449262795,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6176.20547315554,base_query
+1333,Inefficient Regular Expression Complexity,6143.859988790798,base_query

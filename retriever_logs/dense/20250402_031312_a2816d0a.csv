@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7967102090560128
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7824925965159009
+184,Incomplete List of Disallowed Inputs,Base,0.7822225059577147
+138,Improper Neutralization of Special Elements,Class,0.7820617418206223
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7771883718852008
+611,Improper Restriction of XML External Entity Reference,Base,0.7762739635605962
+116,Improper Encoding or Escaping of Output,Class,0.7730405129016455
+41,Improper Resolution of Path Equivalence,Base,0.769485345450386
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7626403571369414
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7612392272517242

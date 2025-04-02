@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+755,Improper Handling of Exceptional Conditions,6297.98004557935,base_query
+1342,Information Exposure through Microarchitectural State after Transient Execution,6021.086901160776,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5917.9789639039645,base_query
+754,Improper Check for Unusual or Exceptional Conditions,5911.630003514216,base_query
+1250,Improper Preservation of Consistency Between Independent Representations of Shared State,5736.321859189188,base_query

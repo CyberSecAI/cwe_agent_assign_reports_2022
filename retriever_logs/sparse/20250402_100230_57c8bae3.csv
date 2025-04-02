@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,4849.872317279266,unknown
+770,Allocation of Resources Without Limits or Throttling,4746.84293014925,unknown
+125,Out-of-bounds Read,4725.534362165932,unknown
+863,Incorrect Authorization,4721.638318740241,unknown
+639,Authorization Bypass Through User-Controlled Key,4713.9384393639175,unknown

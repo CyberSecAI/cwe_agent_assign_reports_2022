@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7805269486327475
+1220,Insufficient Granularity of Access Control,Base,0.7718708934929546
+691,Insufficient Control Flow Management,Pillar,0.7687571393240336
+653,Improper Isolation or Compartmentalization,Class,0.7665399975823215
+274,Improper Handling of Insufficient Privileges,Base,0.7629757422078144
+404,Improper Resource Shutdown or Release,Class,0.7607895268430795
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7549773664801069
+668,Exposure of Resource to Wrong Sphere,Class,0.7543147174747828
+405,Asymmetric Resource Consumption (Amplification),Class,0.7458679888996047
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7458535247735583

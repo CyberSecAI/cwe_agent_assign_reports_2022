@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+259,Use of Hard-coded Password,variant,2.9184000000000005,0
+208,Observable Timing Discrepancy,Base,2.894814322099531,0
+804,Guessable CAPTCHA,base,2.2100000000000004,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.2100000000000004,0
+1291,Public Key Re-Use for Signing both Debug and Production Code,base,2.1762,0
+780,Use of RSA Algorithm without OAEP,variant,2.1624,0
+311,Missing Encryption of Sensitive Data,class,2.1279999999999997,0
+327,Use of a Broken or Risky Cryptographic Algorithm,Class,2.0884218550979363,0
+499,Serializable Class Containing Sensitive Data,variant,2.04,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+301,Reflection Attack in an Authentication Protocol,5593.454737053311,base_query
+295,Improper Certificate Validation,5317.227472362222,base_query
+319,Cleartext Transmission of Sensitive Information,5264.569865333895,base_query
+287,Improper Authentication,5112.788477041372,base_query
+1390,Weak Authentication,5108.930450083988,base_query

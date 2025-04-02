@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,6431.212094786715,unknown
+611,Improper Restriction of XML External Entity Reference,6376.598999508125,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,6369.633039759006,unknown
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),6354.655026653984,unknown
+285,Improper Authorization,6261.917151325365,unknown

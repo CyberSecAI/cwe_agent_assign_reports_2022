@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,5135.888417602948,unknown
+625,Permissive Regular Expression,4861.276725148683,unknown
+617,Reachable Assertion,4759.961978556703,unknown
+626,Null Byte Interaction Error (Poison Null Byte),4558.869425396069,unknown
+186,Overly Restrictive Regular Expression,4474.5652482821315,unknown

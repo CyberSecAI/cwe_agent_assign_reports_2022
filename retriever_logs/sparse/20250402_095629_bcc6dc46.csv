@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,6623.481918416302,base_query
+770,Allocation of Resources Without Limits or Throttling,6532.876823525198,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),6468.377183880884,base_query
+287,Improper Authentication,6441.948891023856,base_query
+863,Incorrect Authorization,6423.522293458427,base_query

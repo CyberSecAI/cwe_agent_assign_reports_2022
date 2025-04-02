@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+756,Missing Custom Error Page,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.8784,0
+73,External Control of File Name or Path,base,3.3566,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.302,0
+425,Direct Request ('Forced Browsing'),Base,2.903000110195111,0
+209,Generation of Error Message Containing Sensitive Information,Base,2.9004669019224814,0
+94,Improper Control of Generation of Code ('Code Injection'),base,2.8651999999999997,0
+208,Observable Timing Discrepancy,base,2.73416,0

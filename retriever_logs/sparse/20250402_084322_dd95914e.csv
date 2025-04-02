@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,4905.224272434469,unknown
+1391,Use of Weak Credentials,4746.391733386611,unknown
+287,Improper Authentication,4689.326529011281,unknown
+697,Incorrect Comparison,4601.97003162307,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,4598.188346593702,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7700306881094806
+404,Improper Resource Shutdown or Release,Class,0.7571181283799948
+667,Improper Locking,Class,0.7569095785033497
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.752163330765444
+668,Exposure of Resource to Wrong Sphere,Class,0.7481075012986151
+41,Improper Resolution of Path Equivalence,Base,0.7466919472299032
+366,Race Condition within a Thread,Base,0.7386197164163034
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7358514922922451
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7355333563849399
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7351139407524916

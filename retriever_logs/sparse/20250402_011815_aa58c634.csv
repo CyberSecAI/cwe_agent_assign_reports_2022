@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+822,Untrusted Pointer Dereference,5713.363666157934,unknown
+252,Unchecked Return Value,5711.818983079734,unknown
+476,NULL Pointer Dereference,5701.227599764029,unknown
+824,Access of Uninitialized Pointer,5607.901610149346,unknown
+908,Use of Uninitialized Resource,5564.335358238333,unknown

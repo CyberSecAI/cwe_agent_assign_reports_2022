@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7765210868710628
+909,Missing Initialization of Resource,Class,0.7751003489068261
+457,Use of Uninitialized Variable,Variant,0.7738147976200157
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7729841793482177
+131,Incorrect Calculation of Buffer Size,Base,0.772745820213099
+824,Access of Uninitialized Pointer,Base,0.7718122825681635
+908,Use of Uninitialized Resource,Base,0.7708740087950489
+404,Improper Resource Shutdown or Release,Class,0.7708502048460507
+366,Race Condition within a Thread,Base,0.7673116118106204
+805,Buffer Access with Incorrect Length Value,Base,0.7667413275133239

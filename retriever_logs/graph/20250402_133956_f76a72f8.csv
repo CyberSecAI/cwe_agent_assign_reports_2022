@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+309,Use of Password System for Primary Authentication,base,3.6399999999999997,0
+262,Not Using Password Aging,base,3.6399999999999997,0
+324,Use of a Key Past its Expiration Date,base,3.6399999999999997,0
+73,External Control of File Name or Path,base,3.3566,0
+298,Improper Validation of Certificate Expiration,variant,3.2424,0
+613,Insufficient Session Expiration,base,2.8651999999999997,0
+41,Improper Resolution of Path Equivalence,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+20,Improper Input Validation,class,2.5519999999999996,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+776,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),Base,0.8024491345871623
+611,Improper Restriction of XML External Entity Reference,Base,0.7492135854333943
+131,Incorrect Calculation of Buffer Size,Base,0.7458868928012314
+191,Integer Underflow (Wrap or Wraparound),Base,0.7451418257436753
+125,Out-of-bounds Read,Base,0.7437932523263711
+674,Uncontrolled Recursion,Class,0.7418795442843038
+197,Numeric Truncation Error,Base,0.7377011500868714
+129,Improper Validation of Array Index,Variant,0.7353408105046524
+789,Memory Allocation with Excessive Size Value,Variant,0.7313048246871231
+41,Improper Resolution of Path Equivalence,Base,0.7282832029038413

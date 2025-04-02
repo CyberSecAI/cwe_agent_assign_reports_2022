@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),7504.203605115382,base_query
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),7479.6485986717225,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7276.117735292819,base_query
+328,Use of Weak Hash,6909.917197126227,base_query
+319,Cleartext Transmission of Sensitive Information,6850.940203840094,base_query

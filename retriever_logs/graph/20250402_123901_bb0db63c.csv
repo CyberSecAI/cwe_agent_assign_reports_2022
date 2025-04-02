@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+457,Use of Uninitialized Variable,variant,3.7507200000000003,0
+456,Missing Initialization of a Variable,variant,3.7507200000000003,0
+252,Unchecked Return Value,Base,2.9008859399180227,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.5507200000000005,0
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,2.503603693895868,0
+274,Improper Handling of Insufficient Privileges,Base,2.5016362494529796,0

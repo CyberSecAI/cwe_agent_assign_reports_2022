@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,5951.400961884582,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,5932.33999051836,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5812.133568368628,unknown
+502,Deserialization of Untrusted Data,5714.416420760833,unknown
+770,Allocation of Resources Without Limits or Throttling,5712.889120754377,unknown

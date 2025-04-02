@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,5.031000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.8784,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.653,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+433,Unparsed Raw Web Content Delivery,variant,3.24,0
+73,External Control of File Name or Path,base,3.2255600000000006,0
+289,Authentication Bypass by Alternate Name,Base,2.89501469632399,0
+425,Direct Request ('Forced Browsing'),Base,2.8940610598296916,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0

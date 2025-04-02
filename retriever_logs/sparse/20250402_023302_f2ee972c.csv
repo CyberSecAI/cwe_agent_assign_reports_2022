@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,6284.000135337162,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,5726.793108507456,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5648.236457382015,unknown
+1390,Weak Authentication,5647.624771111193,unknown
+328,Use of Weak Hash,5559.36027617294,unknown

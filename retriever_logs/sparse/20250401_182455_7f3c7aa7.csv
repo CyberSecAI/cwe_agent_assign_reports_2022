@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,7491.490984724752,unknown
+125,Out-of-bounds Read,7116.48907898082,unknown
+1284,Improper Validation of Specified Quantity in Input,7100.057929262069,unknown
+190,Integer Overflow or Wraparound,7086.500236755407,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7049.407956366077,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7426729254106659
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7327076445818338
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7283156216765175
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7249306195715377
+1391,Use of Weak Credentials,Class,0.7150767272266779
+696,Incorrect Behavior Order,Class,0.7127392893622301
+657,Violation of Secure Design Principles,Class,0.7121537069369615
+668,Exposure of Resource to Wrong Sphere,Class,0.7094806140243435
+138,Improper Neutralization of Special Elements,Class,0.7087779976764418
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7078165345221925

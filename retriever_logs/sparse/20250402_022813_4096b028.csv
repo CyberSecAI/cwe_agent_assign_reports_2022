@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,5996.295133145754,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5947.985135518457,unknown
+425,Direct Request ('Forced Browsing'),5918.72470136101,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5897.524399357986,unknown
+125,Out-of-bounds Read,5887.418237656914,unknown

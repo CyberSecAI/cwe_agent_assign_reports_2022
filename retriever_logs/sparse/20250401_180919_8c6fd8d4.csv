@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,5486.106790478494,base_query
+1256,Improper Restriction of Software Interfaces to Hardware Features,5431.025675990943,base_query
+863,Incorrect Authorization,5324.1534133576315,base_query
+639,Authorization Bypass Through User-Controlled Key,5312.482770909729,base_query
+404,Improper Resource Shutdown or Release,5281.404988451113,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+205,Observable Behavioral Discrepancy,base,4.329000000000001,0
+322,Key Exchange without Entity Authentication,base,3.5671999999999997,0
+208,Observable Timing Discrepancy,Base,2.901621226996421,0
+193,Off-by-one Error,base,2.821,0
+295,Improper Certificate Validation,base,2.7742,0
+1322,Use of Blocking Code in Single-threaded  Non-blocking Context,base,2.73416,0
+617,Reachable Assertion,base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7686843828661385
+131,Incorrect Calculation of Buffer Size,Base,0.7641334963646397
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7560872143781454
+125,Out-of-bounds Read,Base,0.7535351806840586
+404,Improper Resource Shutdown or Release,Class,0.7529776274298372
+681,Incorrect Conversion between Numeric Types,Base,0.7525383732004751
+191,Integer Underflow (Wrap or Wraparound),Base,0.7509510176958665
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7501437541385689
+126,Buffer Over-read,Variant,0.7495728345830162
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.749232256751545

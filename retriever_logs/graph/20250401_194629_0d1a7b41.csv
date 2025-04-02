@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+789,Memory Allocation with Excessive Size Value,variant,3.8784,0
+1325,Improperly Controlled Sequential Memory Allocation,base,3.5671999999999997,0
+617,Reachable Assertion,base,3.4866,0
+190,Integer Overflow or Wraparound,base,3.4200400000000006,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,3.2656,0
+416,Use After Free,variant,3.24,0
+770,Allocation of Resources Without Limits or Throttling,base,3.1356,0
+252,Unchecked Return Value,Base,2.9022559699024146,0

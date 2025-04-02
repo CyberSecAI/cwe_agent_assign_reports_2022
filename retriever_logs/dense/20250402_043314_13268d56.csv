@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.767141055064995
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7601602786806494
+405,Asymmetric Resource Consumption (Amplification),Class,0.7570760449570464
+669,Incorrect Resource Transfer Between Spheres,Class,0.7519739686956132
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7374848466004866
+404,Improper Resource Shutdown or Release,Class,0.732002784929025
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.728418092861357
+402,Transmission of Private Resources into a New Sphere ('Resource Leak'),Class,0.7267266203458987
+799,Improper Control of Interaction Frequency,Class,0.7228636358545337
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7155164362524868

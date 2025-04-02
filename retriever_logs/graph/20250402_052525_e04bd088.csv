@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+178,Improper Handling of Case Sensitivity,base,3.757,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+433,Unparsed Raw Web Content Delivery,variant,2.5507200000000005,0
+549,Missing Password Field Masking,base,2.4699999999999998,0
+260,Password in Configuration File,base,2.4699999999999998,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+187,Partial String Comparison,variant,4.5264,0
+183,Permissive List of Allowed Inputs,base,4.505800000000001,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,Base,3.3213485819259057,0
+290,Authentication Bypass by Spoofing,base,3.2656,0
+433,Unparsed Raw Web Content Delivery,variant,3.24,0
+73,External Control of File Name or Path,base,3.2255600000000006,0
+494,Download of Code Without Integrity Check,base,3.1616,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.1356,0

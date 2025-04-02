@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+799,Improper Control of Interaction Frequency,Class,0.757705003584362
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7518466601024464
+405,Asymmetric Resource Consumption (Amplification),Class,0.7488291787577971
+653,Improper Isolation or Compartmentalization,Class,0.7455916657314978
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.744338750054515
+404,Improper Resource Shutdown or Release,Class,0.7435801873275204
+300,Channel Accessible by Non-Endpoint,Class,0.7413890453008798
+184,Incomplete List of Disallowed Inputs,Base,0.7391131530627469
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.738227285325103
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7360849760233061

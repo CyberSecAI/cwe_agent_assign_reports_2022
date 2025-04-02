@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8747.863693999512,unknown
+611,Improper Restriction of XML External Entity Reference,8569.920209791078,unknown
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),8518.082677433336,unknown
+918,Server-Side Request Forgery (SSRF),8379.18104580295,unknown
+23,Relative Path Traversal,8335.845568814937,unknown

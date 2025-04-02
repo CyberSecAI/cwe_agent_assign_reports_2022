@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.0104,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+1291,Public Key Re-Use for Signing both Debug and Production Code,base,3.6399999999999997,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.716602908475231,0
+798,Use of Hard-coded Credentials,Base,2.5088482036701736,0
+344,Use of Invariant Value in Dynamically Changing Context,base,2.4699999999999998,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),base,2.4699999999999998,0
+328,Use of Weak Hash,base,2.4699999999999998,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+427,Uncontrolled Search Path Element,base,3.6399999999999997,0
+428,Unquoted Search Path or Element,base,3.6399999999999997,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0

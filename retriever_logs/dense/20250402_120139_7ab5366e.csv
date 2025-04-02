@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+183,Permissive List of Allowed Inputs,Base,0.7836496955827492
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7737825616551648
+184,Incomplete List of Disallowed Inputs,Base,0.7717196795252554
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7703130408005795
+668,Exposure of Resource to Wrong Sphere,Class,0.7681641131230055
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7634018738402539
+138,Improper Neutralization of Special Elements,Class,0.7609012109535107
+345,Insufficient Verification of Data Authenticity,Class,0.7587920751699054
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),Base,0.7556522367454085
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),Base,0.7525177264350913

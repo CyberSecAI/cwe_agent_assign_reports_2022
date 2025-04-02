@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,4380.365289445622,unknown
+807,Reliance on Untrusted Inputs in a Security Decision,4246.762683210134,unknown
+287,Improper Authentication,4233.369011964803,unknown
+863,Incorrect Authorization,4149.682396491643,unknown
+784,Reliance on Cookies without Validation and Integrity Checking in a Security Decision,4079.592061531848,unknown

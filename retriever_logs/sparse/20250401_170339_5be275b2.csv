@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6206.120955356607,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6049.4599892840315,unknown
+472,External Control of Assumed-Immutable Web Parameter,5988.172281973138,unknown
+863,Incorrect Authorization,5927.712159018525,unknown
+184,Incomplete List of Disallowed Inputs,5918.2314223009325,unknown

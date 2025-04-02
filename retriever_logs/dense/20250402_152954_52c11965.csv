@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+274,Improper Handling of Insufficient Privileges,Base,0.7710135570973589
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7636353801995907
+295,Improper Certificate Validation,Base,0.7596201388485344
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7590283763909306
+345,Insufficient Verification of Data Authenticity,Class,0.7583738124521819
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7583573893720158
+668,Exposure of Resource to Wrong Sphere,Class,0.7581397351911414
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7562083561629849
+296,Improper Following of a Certificate's Chain of Trust,Base,0.7507899009496132
+691,Insufficient Control Flow Management,Pillar,0.749785148903026

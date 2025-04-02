@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+789,Memory Allocation with Excessive Size Value,5942.3325826430855,base_query
+916,Use of Password Hash With Insufficient Computational Effort,5916.547246873165,base_query
+770,Allocation of Resources Without Limits or Throttling,5694.743693024442,base_query
+1325,Improperly Controlled Sequential Memory Allocation,5653.506926646312,base_query
+1284,Improper Validation of Specified Quantity in Input,5454.504484881224,base_query

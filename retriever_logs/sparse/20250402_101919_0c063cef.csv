@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,6621.562770365456,base_query
+184,Incomplete List of Disallowed Inputs,6594.29231290343,base_query
+285,Improper Authorization,6566.057794887307,base_query
+287,Improper Authentication,6474.78770311699,base_query
+306,Missing Authentication for Critical Function,6366.559070882789,base_query

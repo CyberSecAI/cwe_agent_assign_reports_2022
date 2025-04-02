@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+184,Incomplete List of Disallowed Inputs,Base,0.749403502647824
+183,Permissive List of Allowed Inputs,Base,0.7360035980237128
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7357092893155914
+138,Improper Neutralization of Special Elements,Class,0.7332297368822326
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7280014795600003
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7260000177622219
+653,Improper Isolation or Compartmentalization,Class,0.715059410870592
+1236,Improper Neutralization of Formula Elements in a CSV File,Base,0.7118450122384115
+838,Inappropriate Encoding for Output Context,Base,0.7110860378412952
+150,Improper Neutralization of Escape  Meta  or Control Sequences,Variant,0.7047629175680085

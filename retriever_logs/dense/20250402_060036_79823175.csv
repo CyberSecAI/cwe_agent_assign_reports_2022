@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),Base,0.774181915419017
+668,Exposure of Resource to Wrong Sphere,Class,0.7699913303014541
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.766827679334277
+41,Improper Resolution of Path Equivalence,Base,0.7668070540541152
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7660939909169083
+799,Improper Control of Interaction Frequency,Class,0.7645074397323632
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7639860256676407
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7633372405206226
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7601052957334182
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7599806804059026

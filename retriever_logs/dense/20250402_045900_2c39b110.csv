@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+208,Observable Timing Discrepancy,Base,0.790929185480493
+667,Improper Locking,Class,0.7878351467848463
+191,Integer Underflow (Wrap or Wraparound),Base,0.7862884812742041
+131,Incorrect Calculation of Buffer Size,Base,0.7827696645722424
+125,Out-of-bounds Read,Base,0.7731794171898021
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7696628943818745
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7694278518730685
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7685696198263476
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7681574444452943
+404,Improper Resource Shutdown or Release,Class,0.7676483421107682

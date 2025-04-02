@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,5203.821087872349,base_query
+863,Incorrect Authorization,5091.529611963465,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5060.6604089299535,base_query
+639,Authorization Bypass Through User-Controlled Key,4963.252840952476,base_query
+285,Improper Authorization,4927.789952068678,base_query

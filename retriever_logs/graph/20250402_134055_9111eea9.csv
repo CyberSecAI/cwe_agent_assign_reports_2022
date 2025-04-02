@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),variant,3.8784,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+1295,Debug Messages Revealing Unnecessary Information,base,3.6399999999999997,0
+390,Detection of Error Condition Without Action,base,3.3566,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.9096994660864635,0
+131,Incorrect Calculation of Buffer Size,Base,2.8980507994298415,0
+805,Buffer Access with Incorrect Length Value,Base,2.898001198301079,0

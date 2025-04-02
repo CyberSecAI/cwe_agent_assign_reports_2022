@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+656,Reliance on Security Through Obscurity,Class,0.8112067332035319
+1391,Use of Weak Credentials,Class,0.7907608641954185
+798,Use of Hard-coded Credentials,Base,0.7845722095314789
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7819755719749173
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7635485229545915
+657,Violation of Secure Design Principles,Class,0.7617771632892185
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7589880356356559
+1392,Use of Default Credentials,Base,0.7567405845838949
+312,Cleartext Storage of Sensitive Information,Base,0.7528633434532171
+330,Use of Insufficiently Random Values,Class,0.7523139539587624

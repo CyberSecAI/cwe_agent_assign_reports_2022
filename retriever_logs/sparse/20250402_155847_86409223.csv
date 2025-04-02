@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+90,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection'),6481.885351026733,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),6448.628233230342,base_query
+863,Incorrect Authorization,6303.7202239108665,base_query
+285,Improper Authorization,6210.105693642807,base_query
+116,Improper Encoding or Escaping of Output,6125.342072359158,base_query

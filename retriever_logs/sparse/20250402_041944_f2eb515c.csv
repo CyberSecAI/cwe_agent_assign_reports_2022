@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+927,Use of Implicit Intent for Sensitive Communication,4015.7242438308513,unknown
+667,Improper Locking,3917.216041246927,unknown
+191,Integer Underflow (Wrap or Wraparound),3894.7219906072182,unknown
+863,Incorrect Authorization,3851.9360131517037,unknown
+252,Unchecked Return Value,3823.097915674988,unknown

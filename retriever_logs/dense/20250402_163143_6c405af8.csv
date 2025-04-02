@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+191,Integer Underflow (Wrap or Wraparound),Base,0.7780941108536232
+667,Improper Locking,Class,0.7722669623788838
+131,Incorrect Calculation of Buffer Size,Base,0.7716790629163945
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7670689403035229
+366,Race Condition within a Thread,Base,0.76619517745079
+125,Out-of-bounds Read,Base,0.7651221887680434
+681,Incorrect Conversion between Numeric Types,Base,0.7647424271991954
+404,Improper Resource Shutdown or Release,Class,0.7641517628487036
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7640161321544492
+356,Product UI does not Warn User of Unsafe Actions,Base,0.763979176275336

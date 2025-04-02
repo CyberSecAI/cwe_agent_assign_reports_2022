@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,1981.8346699295073,base_query
+611,Improper Restriction of XML External Entity Reference,1957.1885824475,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),1916.2348892123848,base_query
+174,Double Decoding of the Same Data,1914.8473885527935,base_query
+1286,Improper Validation of Syntactic Correctness of Input,1881.2725348006434,base_query

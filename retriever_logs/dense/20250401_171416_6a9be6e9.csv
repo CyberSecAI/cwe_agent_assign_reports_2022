@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7726087547752014
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7703390633723548
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7646348447508657
+918,Server-Side Request Forgery (SSRF),Base,0.7591186369264029
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7584629414472989
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7582614710191498
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.7560160507676092
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7514713793888772
+404,Improper Resource Shutdown or Release,Class,0.7494807415847904
+41,Improper Resolution of Path Equivalence,Base,0.7490719947048148

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),7981.577606468927,unknown
+116,Improper Encoding or Escaping of Output,7824.768742049023,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7730.885897705264,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7589.830167271484,unknown
+138,Improper Neutralization of Special Elements,7489.680287528583,unknown

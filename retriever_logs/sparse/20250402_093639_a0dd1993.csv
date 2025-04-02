@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),6044.445668073637,base_query
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),5860.925938003984,base_query
+639,Authorization Bypass Through User-Controlled Key,5815.502983591241,base_query
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,5519.3181807073315,base_query
+863,Incorrect Authorization,5283.045378688403,base_query

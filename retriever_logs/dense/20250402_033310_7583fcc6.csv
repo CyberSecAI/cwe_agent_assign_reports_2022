@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7763824573616365
+639,Authorization Bypass Through User-Controlled Key,Base,0.76923073672627
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.763164391779744
+1391,Use of Weak Credentials,Class,0.759191653075264
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7591583568121283
+1390,Weak Authentication,Class,0.7586588715735199
+330,Use of Insufficiently Random Values,Class,0.7578121585114076
+319,Cleartext Transmission of Sensitive Information,Base,0.7562872819261641
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7553816328432201
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7537850942108917

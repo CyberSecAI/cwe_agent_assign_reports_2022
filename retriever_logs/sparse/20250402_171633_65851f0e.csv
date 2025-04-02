@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,5786.977355089074,base_query
+789,Memory Allocation with Excessive Size Value,5778.874994395371,base_query
+834,Excessive Iteration,5513.864605027027,base_query
+772,Missing Release of Resource after Effective Lifetime,5501.492168838959,base_query
+404,Improper Resource Shutdown or Release,5438.714965231854,base_query

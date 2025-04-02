@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5426.5843883593225,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5391.476309563107,base_query
+125,Out-of-bounds Read,5299.0548426045725,base_query
+287,Improper Authentication,5291.535336147256,base_query
+782,Exposed IOCTL with Insufficient Access Control,5257.430024173252,base_query

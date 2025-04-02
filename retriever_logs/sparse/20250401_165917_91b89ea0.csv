@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+502,Deserialization of Untrusted Data,7029.027427330351,base_query
+1333,Inefficient Regular Expression Complexity,6863.298615158287,base_query
+407,Inefficient Algorithmic Complexity,6760.003644906227,base_query
+611,Improper Restriction of XML External Entity Reference,6727.314287348091,base_query
+863,Incorrect Authorization,6613.177958337994,base_query

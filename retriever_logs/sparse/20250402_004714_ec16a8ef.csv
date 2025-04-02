@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1236,Improper Neutralization of Formula Elements in a CSV File,6183.779904714205,unknown
+732,Incorrect Permission Assignment for Critical Resource,5870.19081314617,unknown
+798,Use of Hard-coded Credentials,5768.954162649213,unknown
+285,Improper Authorization,5707.560300349033,unknown
+863,Incorrect Authorization,5705.718774384424,unknown

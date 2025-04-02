@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+472,External Control of Assumed-Immutable Web Parameter,4958.668315204847,base_query
+1390,Weak Authentication,4921.8501860939305,base_query
+287,Improper Authentication,4742.110613248769,base_query
+614,Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,4674.429775929579,base_query
+863,Incorrect Authorization,4622.137574152369,base_query

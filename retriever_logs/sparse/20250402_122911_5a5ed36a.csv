@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,6424.559765255893,base_query
+125,Out-of-bounds Read,6153.662576599507,base_query
+296,Improper Following of a Certificate's Chain of Trust,6051.7168717522945,base_query
+252,Unchecked Return Value,6028.505826431208,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,5994.825414829913,base_query

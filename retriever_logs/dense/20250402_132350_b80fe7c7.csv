@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.809889564458276
+662,Improper Synchronization,Class,0.7887708745841924
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7813008189368311
+404,Improper Resource Shutdown or Release,Class,0.7793407125782479
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7782787929920605
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7774674856308361
+366,Race Condition within a Thread,Base,0.7716637831695006
+41,Improper Resolution of Path Equivalence,Base,0.7664059130915785
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7655128255483671
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7581934664277525

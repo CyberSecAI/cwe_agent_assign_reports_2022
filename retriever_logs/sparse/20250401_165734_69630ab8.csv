@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,7248.285021413646,base_query
+190,Integer Overflow or Wraparound,7165.3539664113105,base_query
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),7072.4431021663695,base_query
+789,Memory Allocation with Excessive Size Value,7062.756404919338,base_query
+125,Out-of-bounds Read,7020.353044847855,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5235.368009893227,base_query
+285,Improper Authorization,5124.547168660393,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5107.084182214288,base_query
+668,Exposure of Resource to Wrong Sphere,5084.137464220949,base_query
+602,Client-Side Enforcement of Server-Side Security,4986.637791212924,base_query

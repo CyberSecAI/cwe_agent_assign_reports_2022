@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+312,Cleartext Storage of Sensitive Information,Base,0.7924605864245242
+319,Cleartext Transmission of Sensitive Information,Base,0.7883011653994125
+311,Missing Encryption of Sensitive Data,Class,0.7874498127539099
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7732385893618768
+345,Insufficient Verification of Data Authenticity,Class,0.770094291428304
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7675097256122319
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7671026842033128
+1391,Use of Weak Credentials,Class,0.7653641069147706
+522,Insufficiently Protected Credentials,Class,0.7618127223630266
+294,Authentication Bypass by Capture-replay,Base,0.7607441891583824

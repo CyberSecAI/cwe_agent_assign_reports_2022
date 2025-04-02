@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+697,Incorrect Comparison,Pillar,0.770046729349793
+682,Incorrect Calculation,Pillar,0.7684519528332143
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7672104613749601
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7600710890234285
+131,Incorrect Calculation of Buffer Size,Base,0.7509621498913936
+1254,Incorrect Comparison Logic Granularity,Base,0.7460959160109291
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7431198921062016
+208,Observable Timing Discrepancy,Base,0.7356640708674034
+667,Improper Locking,Class,0.7332246177498889
+191,Integer Underflow (Wrap or Wraparound),Base,0.7323171780727228

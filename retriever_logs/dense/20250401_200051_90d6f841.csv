@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7518891598125969
+41,Improper Resolution of Path Equivalence,Base,0.7461595776367684
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7431714813010604
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7425977971510486
+639,Authorization Bypass Through User-Controlled Key,Base,0.7424657749140895
+73,External Control of File Name or Path,Base,0.7424340363742886
+274,Improper Handling of Insufficient Privileges,Base,0.7416367752476952
+266,Incorrect Privilege Assignment,Base,0.741223048948241
+653,Improper Isolation or Compartmentalization,Class,0.7406752380812647
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7403682603441819

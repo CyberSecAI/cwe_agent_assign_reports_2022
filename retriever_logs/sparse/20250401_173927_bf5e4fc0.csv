@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7332.439106878367,base_query
+184,Incomplete List of Disallowed Inputs,6493.333092751377,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6488.497330034684,base_query
+863,Incorrect Authorization,6482.765056910972,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6434.527509774656,base_query

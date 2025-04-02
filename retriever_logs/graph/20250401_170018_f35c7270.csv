@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,3.8784,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,3.2760000000000002,0
+183,Permissive List of Allowed Inputs,base,3.06904,0
+201,Insertion of Sensitive Information Into Sent Data,base,2.8651999999999997,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+322,Key Exchange without Entity Authentication,base,2.73416,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.73416,0
+184,Incomplete List of Disallowed Inputs,base,2.7014000000000005,0

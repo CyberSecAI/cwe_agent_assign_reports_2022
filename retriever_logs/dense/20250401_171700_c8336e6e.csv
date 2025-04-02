@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+204,Observable Response Discrepancy,Base,0.7981356003803661
+203,Observable Discrepancy,Base,0.7812853453120739
+668,Exposure of Resource to Wrong Sphere,Class,0.7776823168770617
+208,Observable Timing Discrepancy,Base,0.7695011464268651
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7619408546679673
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.7617115068854405
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7609120654263726
+319,Cleartext Transmission of Sensitive Information,Base,0.757775676772992
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7566319521376705
+205,Observable Behavioral Discrepancy,Base,0.7560406215815736

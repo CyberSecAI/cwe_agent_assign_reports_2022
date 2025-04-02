@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),5599.224562981742,base_query
+1333,Inefficient Regular Expression Complexity,5240.1850161114735,base_query
+226,Sensitive Information in Resource Not Removed Before Reuse,5165.157217744676,base_query
+863,Incorrect Authorization,5107.867018591861,base_query
+1284,Improper Validation of Specified Quantity in Input,5085.858773528393,base_query

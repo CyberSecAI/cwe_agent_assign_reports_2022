@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.329000000000001,0
+123,Write-what-where Condition,base,4.329000000000001,0
+131,Incorrect Calculation of Buffer Size,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+193,Off-by-one Error,base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+410,Insufficient Resource Pool,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+125,Out-of-bounds Read,base,3.8870000000000005,0

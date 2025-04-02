@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7578049603044554
+639,Authorization Bypass Through User-Controlled Key,Base,0.7306189492184426
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7238292613434296
+668,Exposure of Resource to Wrong Sphere,Class,0.7228150050572357
+274,Improper Handling of Insufficient Privileges,Base,0.7225539337875336
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.717700141659245
+653,Improper Isolation or Compartmentalization,Class,0.7176039454930722
+404,Improper Resource Shutdown or Release,Class,0.7166111636112853
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7140794055450104
+41,Improper Resolution of Path Equivalence,Base,0.7125358048344979

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7782437426932924
+668,Exposure of Resource to Wrong Sphere,Class,0.7778709106698595
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7733659239733183
+319,Cleartext Transmission of Sensitive Information,Base,0.7708871157199322
+1391,Use of Weak Credentials,Class,0.768708445835545
+41,Improper Resolution of Path Equivalence,Base,0.7671573583530205
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7652305434658333
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7652045308743828
+1390,Weak Authentication,Class,0.7642773159586378
+1004,Sensitive Cookie Without 'HttpOnly' Flag,Variant,0.7637348402393763

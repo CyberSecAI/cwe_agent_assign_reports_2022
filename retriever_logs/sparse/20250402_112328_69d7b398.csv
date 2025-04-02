@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+252,Unchecked Return Value,5514.177318399293,unknown
+1256,Improper Restriction of Software Interfaces to Hardware Features,5199.257873652779,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5199.015103073809,unknown
+476,NULL Pointer Dereference,5055.1997552969515,unknown
+125,Out-of-bounds Read,4987.612558306463,unknown

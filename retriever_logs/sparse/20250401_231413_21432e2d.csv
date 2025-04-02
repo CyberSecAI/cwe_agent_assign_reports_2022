@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,4451.919703988449,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,4391.736579184591,unknown
+209,Generation of Error Message Containing Sensitive Information,4364.8399559655945,unknown
+312,Cleartext Storage of Sensitive Information,4246.471096246285,unknown
+639,Authorization Bypass Through User-Controlled Key,4204.328443587691,unknown

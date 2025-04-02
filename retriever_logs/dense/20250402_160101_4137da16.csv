@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7612255466748088
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7509593821803912
+639,Authorization Bypass Through User-Controlled Key,Base,0.7468494118842653
+1220,Insufficient Granularity of Access Control,Base,0.740444217934627
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7378202565954707
+274,Improper Handling of Insufficient Privileges,Base,0.7361118563635322
+424,Improper Protection of Alternate Path,Class,0.7357644134516782
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7316427287305306
+425,Direct Request ('Forced Browsing'),Base,0.7292117835761809
+552,Files or Directories Accessible to External Parties,Base,0.7273117798083102

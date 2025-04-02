@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),4464.770549390893,base_query
+476,NULL Pointer Dereference,4430.3362546749795,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4362.839512131933,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),4334.322264632913,base_query
+252,Unchecked Return Value,4295.991030795047,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+441,Unintended Proxy or Intermediary ('Confused Deputy'),7507.474489946244,unknown
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),7403.522242029979,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,7299.1292662975075,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,7238.834789467169,unknown
+918,Server-Side Request Forgery (SSRF),7227.637848310235,unknown

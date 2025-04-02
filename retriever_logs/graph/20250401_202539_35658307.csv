@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+289,Authentication Bypass by Alternate Name,base,4.329000000000001,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,4.329000000000001,0
+41,Improper Resolution of Path Equivalence,Base,2.91206251516605,0
+73,External Control of File Name or Path,Base,2.90308612320801,0
+178,Improper Handling of Case Sensitivity,base,2.7014000000000005,0
+52,Path Equivalence: '/multiple/trailing/slash//',variant,2.6784000000000003,0
+46,Path Equivalence: 'filename ' (Trailing Space),variant,2.6784000000000003,0
+173,Improper Handling of Alternate Encoding,Variant,2.6430283114311033,0
+20,Improper Input Validation,class,2.5519999999999996,0

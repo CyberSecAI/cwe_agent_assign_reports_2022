@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1391,Use of Weak Credentials,Class,0.7774312994114517
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7725826221298284
+312,Cleartext Storage of Sensitive Information,Base,0.7677896851670525
+319,Cleartext Transmission of Sensitive Information,Base,0.7676256532617259
+1390,Weak Authentication,Class,0.7674764475266815
+639,Authorization Bypass Through User-Controlled Key,Base,0.7674605712580522
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7672490148715283
+345,Insufficient Verification of Data Authenticity,Class,0.7653606811228431
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7630508689760908
+303,Incorrect Implementation of Authentication Algorithm,Base,0.75953680908204

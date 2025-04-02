@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,7242.056187402599,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7204.194457630742,base_query
+116,Improper Encoding or Escaping of Output,7203.126550998281,base_query
+770,Allocation of Resources Without Limits or Throttling,6704.566986512529,base_query
+451,User Interface (UI) Misrepresentation of Critical Information,6622.175934049193,base_query

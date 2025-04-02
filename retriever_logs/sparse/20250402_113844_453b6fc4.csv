@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,5311.711851206801,base_query
+617,Reachable Assertion,4935.514241923816,base_query
+125,Out-of-bounds Read,4775.192670930867,base_query
+190,Integer Overflow or Wraparound,4669.507719925322,base_query
+193,Off-by-one Error,4668.118198345183,base_query

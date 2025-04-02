@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7611637770817901
+668,Exposure of Resource to Wrong Sphere,Class,0.7589222829723852
+639,Authorization Bypass Through User-Controlled Key,Base,0.7587266820347491
+653,Improper Isolation or Compartmentalization,Class,0.7573645244044787
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.756269254924647
+1220,Insufficient Granularity of Access Control,Base,0.7497925866234469
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.748629517206805
+274,Improper Handling of Insufficient Privileges,Base,0.7468442448255436
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7458503804086538
+41,Improper Resolution of Path Equivalence,Base,0.7447734945658041

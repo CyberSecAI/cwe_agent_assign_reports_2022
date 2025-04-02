@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7800421677559914
+203,Observable Discrepancy,Base,0.7617579864355152
+248,Uncaught Exception,Base,0.756013672401371
+668,Exposure of Resource to Wrong Sphere,Class,0.75492859828509
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7549133546431168
+755,Improper Handling of Exceptional Conditions,Class,0.7528805489144692
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.750373170119651
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7483019206314228
+667,Improper Locking,Class,0.7462652997245877
+345,Insufficient Verification of Data Authenticity,Class,0.7446681687514058

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+502,Deserialization of Untrusted Data,base,3.6399999999999997,0
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,base,3.6399999999999997,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+201,Insertion of Sensitive Information Into Sent Data,Base,3.3134780804304818,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.9066825091290527,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.905722761029244,0
+941,Incorrectly Specified Destination in a Communication Channel,Base,2.895900915287362,0

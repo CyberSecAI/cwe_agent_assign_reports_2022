@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,4.329000000000001,0
+385,Covert Timing Channel,base,4.329000000000001,0
+836,Use of Password Hash Instead of Password for Authentication,base,3.6399999999999997,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+193,Off-by-one Error,base,3.5698000000000003,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+208,Observable Timing Discrepancy,Base,2.8912170156534236,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.8893441843477614,0

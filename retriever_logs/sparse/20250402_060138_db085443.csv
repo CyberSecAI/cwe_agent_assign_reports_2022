@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,5825.814812309157,unknown
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5765.762471853526,unknown
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),5388.145168277005,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),5215.2939097680255,unknown
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),5206.525387457728,unknown

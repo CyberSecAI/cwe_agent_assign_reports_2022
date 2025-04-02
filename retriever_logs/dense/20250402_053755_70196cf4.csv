@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7707476750361847
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7696315428305716
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7686331966296023
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),Base,0.762007844537087
+668,Exposure of Resource to Wrong Sphere,Class,0.7612587856081426
+667,Improper Locking,Class,0.7595925722602627
+404,Improper Resource Shutdown or Release,Class,0.7589302475933533
+252,Unchecked Return Value,Base,0.756917818609928
+41,Improper Resolution of Path Equivalence,Base,0.7536632274410213
+755,Improper Handling of Exceptional Conditions,Class,0.753596358892305

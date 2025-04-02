@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),6799.067090971944,base_query
+863,Incorrect Authorization,6515.165146769083,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,6458.567890532426,base_query
+639,Authorization Bypass Through User-Controlled Key,6449.750736284844,base_query
+732,Incorrect Permission Assignment for Critical Resource,6407.5791661564435,base_query

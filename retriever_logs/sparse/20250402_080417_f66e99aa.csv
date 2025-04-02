@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7290.528393231895,base_query
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),7201.532321152177,base_query
+23,Relative Path Traversal,7099.524845957033,base_query
+116,Improper Encoding or Escaping of Output,7083.530189638807,base_query
+138,Improper Neutralization of Special Elements,7045.917562789406,base_query

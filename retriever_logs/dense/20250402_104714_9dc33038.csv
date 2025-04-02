@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7935207213227848
+404,Improper Resource Shutdown or Release,Class,0.7834271945950226
+1021,Improper Restriction of Rendered UI Layers or Frames,Base,0.7826548355173042
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7805350640899428
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.780292003646472
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7778205475884601
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7738047048062603
+665,Improper Initialization,Class,0.7737512835268678
+653,Improper Isolation or Compartmentalization,Class,0.768113820707337
+668,Exposure of Resource to Wrong Sphere,Class,0.7677519321500975

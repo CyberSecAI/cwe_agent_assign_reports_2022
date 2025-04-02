@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.761668204796984
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7280438777945649
+191,Integer Underflow (Wrap or Wraparound),Base,0.7245289388216746
+125,Out-of-bounds Read,Base,0.7218550799971015
+193,Off-by-one Error,Base,0.7205992641725407
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7202774929229795
+131,Incorrect Calculation of Buffer Size,Base,0.719591646130608
+617,Reachable Assertion,Base,0.718148800033625
+129,Improper Validation of Array Index,Variant,0.7178400367038558
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7175053627262327

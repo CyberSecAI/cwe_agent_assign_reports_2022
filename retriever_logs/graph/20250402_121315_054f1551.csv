@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+187,Partial String Comparison,variant,4.5264,0
+182,Collapse of Data into Unsafe Value,base,4.329000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,3.8870000000000005,0
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),variant,3.8784,0
+322,Key Exchange without Entity Authentication,base,3.6399999999999997,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+183,Permissive List of Allowed Inputs,Base,2.9956554999033025,0
+184,Incomplete List of Disallowed Inputs,Base,2.9802242623396142,0
+481,Assigning instead of Comparing,variant,2.5507200000000005,0

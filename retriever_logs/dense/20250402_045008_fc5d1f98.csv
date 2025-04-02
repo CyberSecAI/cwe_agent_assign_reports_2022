@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7762409541862
+345,Insufficient Verification of Data Authenticity,Class,0.7692227086538186
+404,Improper Resource Shutdown or Release,Class,0.7665006003935604
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7652901980178106
+131,Incorrect Calculation of Buffer Size,Base,0.7638231648206918
+657,Violation of Secure Design Principles,Class,0.76216528956905
+667,Improper Locking,Class,0.7589791746852018
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7575469825011976
+252,Unchecked Return Value,Base,0.757267407006903
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7554135639748765

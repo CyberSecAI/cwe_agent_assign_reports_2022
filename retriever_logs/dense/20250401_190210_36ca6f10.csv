@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7564346095281032
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7363648692979263
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7362215110266079
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7327600332299359
+213,Exposure of Sensitive Information Due to Incompatible Policies,Base,0.732124138198652
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7311554013356378
+653,Improper Isolation or Compartmentalization,Class,0.7289986923734422
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7246483861575204
+552,Files or Directories Accessible to External Parties,Base,0.7229523337029788
+405,Asymmetric Resource Consumption (Amplification),Class,0.718380848105899

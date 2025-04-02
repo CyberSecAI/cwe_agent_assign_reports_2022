@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7861828477788676
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7857589526128643
+838,Inappropriate Encoding for Output Context,Base,0.7823861834978906
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.7765274113338745
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7744167277467132
+116,Improper Encoding or Escaping of Output,Class,0.773224967545922
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7669486811792658
+138,Improper Neutralization of Special Elements,Class,0.7640824478721395
+184,Incomplete List of Disallowed Inputs,Base,0.7635125091878726
+84,Improper Neutralization of Encoded URI Schemes in a Web Page,Variant,0.7601062720024403

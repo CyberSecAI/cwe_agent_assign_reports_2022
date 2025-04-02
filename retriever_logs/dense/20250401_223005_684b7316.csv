@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+799,Improper Control of Interaction Frequency,Class,0.7716780579110714
+307,Improper Restriction of Excessive Authentication Attempts,Base,0.7653171360886599
+1391,Use of Weak Credentials,Class,0.7647510513785238
+330,Use of Insufficiently Random Values,Class,0.762902565639267
+1390,Weak Authentication,Class,0.7427324386875225
+331,Insufficient Entropy,Base,0.7413411076423054
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7392546427526026
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),Base,0.7370489715079882
+472,External Control of Assumed-Immutable Web Parameter,Base,0.734083855319347
+798,Use of Hard-coded Credentials,Base,0.7275058553830617

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+471,Modification of Assumed-Immutable Data (MAID),base,2.7196000000000002,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,2.4232000000000005,0
+94,Improper Control of Generation of Code ('Code Injection'),base,2.4232000000000005,0
+434,Unrestricted Upload of File with Dangerous Type,Base,2.3904024969378352,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,2.3729804449707363,0
+73,External Control of File Name or Path,base,2.2100000000000004,0
+183,Permissive List of Allowed Inputs,base,2.2100000000000004,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,2.156037761200319,0
+425,Direct Request ('Forced Browsing'),Base,2.135039399549778,0
+472,External Control of Assumed-Immutable Web Parameter,Base,2.1288201383930803,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+347,Improper Verification of Cryptographic Signature,6656.534052516727,unknown
+1284,Improper Validation of Specified Quantity in Input,6544.538742177139,unknown
+193,Off-by-one Error,6455.08432193215,unknown
+125,Out-of-bounds Read,6452.3757031416935,unknown
+798,Use of Hard-coded Credentials,6416.217223307658,unknown

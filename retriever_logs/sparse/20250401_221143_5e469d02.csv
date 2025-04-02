@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,7979.742709457004,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7879.98506187772,base_query
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),7703.196751783749,base_query
+863,Incorrect Authorization,7691.1821181913765,base_query
+1284,Improper Validation of Specified Quantity in Input,7589.265961985132,base_query

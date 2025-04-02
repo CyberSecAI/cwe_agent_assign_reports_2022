@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7918996768895687
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7847368234269514
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7845429903988312
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7684646770438789
+799,Improper Control of Interaction Frequency,Class,0.7663447723075634
+1391,Use of Weak Credentials,Class,0.7660784031709502
+294,Authentication Bypass by Capture-replay,Base,0.7646045683457496
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7638749441255535
+204,Observable Response Discrepancy,Base,0.763842148484201
+184,Incomplete List of Disallowed Inputs,Base,0.7630601277034815

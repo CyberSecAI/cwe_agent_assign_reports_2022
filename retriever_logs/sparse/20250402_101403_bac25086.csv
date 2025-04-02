@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),3418.6637904881104,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),3225.5766390272565,unknown
+116,Improper Encoding or Escaping of Output,3189.641359083617,unknown
+352,Cross-Site Request Forgery (CSRF),3178.328959323728,unknown
+138,Improper Neutralization of Special Elements,3121.540467905616,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7336613103893976
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7285036497225629
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7269821278040779
+639,Authorization Bypass Through User-Controlled Key,Base,0.7269328408808612
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7262823744103013
+203,Observable Discrepancy,Base,0.7236274353380944
+41,Improper Resolution of Path Equivalence,Base,0.72353215965806
+799,Improper Control of Interaction Frequency,Class,0.7211980529989557
+1390,Weak Authentication,Class,0.7210422833125709
+345,Insufficient Verification of Data Authenticity,Class,0.7203581737871294

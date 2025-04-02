@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.8204,0
+123,Write-what-where Condition,base,4.329000000000001,0
+770,Allocation of Resources Without Limits or Throttling,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+195,Signed to Unsigned Conversion Error,variant,3.8784,0
+128,Wrap-around Error,base,3.5671999999999997,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,3.5671999999999997,0
+1325,Improperly Controlled Sequential Memory Allocation,Base,3.3147351218648633,0
+789,Memory Allocation with Excessive Size Value,Variant,3.0172623113785635,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7945825278341305
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7866444259745367
+312,Cleartext Storage of Sensitive Information,Base,0.7833817302033388
+319,Cleartext Transmission of Sensitive Information,Base,0.7794888496157699
+311,Missing Encryption of Sensitive Data,Class,0.7731194210486789
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7707460591511852
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7682077407193612
+213,Exposure of Sensitive Information Due to Incompatible Policies,Base,0.7650650343832216
+203,Observable Discrepancy,Base,0.76019305410343
+922,Insecure Storage of Sensitive Information,Class,0.7590426898159416

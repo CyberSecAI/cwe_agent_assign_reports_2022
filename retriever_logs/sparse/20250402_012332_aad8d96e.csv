@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,6297.007484809182,base_query
+611,Improper Restriction of XML External Entity Reference,6292.157476651428,base_query
+347,Improper Verification of Cryptographic Signature,5957.953622073868,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5927.136815543854,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,5924.436140889399,base_query

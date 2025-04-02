@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+385,Covert Timing Channel,base,4.329000000000001,0
+613,Insufficient Session Expiration,base,4.329000000000001,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,2.984,0
+208,Observable Timing Discrepancy,Base,2.8986138640722428,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+287,Improper Authentication,class,2.5519999999999996,0
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),base,2.4699999999999998,0
+826,Premature Release of Resource During Expected Lifetime,base,2.2100000000000004,0
+911,Improper Update of Reference Count,base,2.2100000000000004,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.2100000000000004,0

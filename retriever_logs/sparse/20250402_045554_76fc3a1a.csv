@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,7204.153601325198,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7119.405690651003,base_query
+1284,Improper Validation of Specified Quantity in Input,6961.144252400665,base_query
+23,Relative Path Traversal,6818.395572865562,base_query
+1286,Improper Validation of Syntactic Correctness of Input,6780.810752947975,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,5118.151206790681,unknown
+918,Server-Side Request Forgery (SSRF),4961.581145651769,unknown
+427,Uncontrolled Search Path Element,4914.12692761412,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),4908.777131143196,unknown
+639,Authorization Bypass Through User-Controlled Key,4899.273774929013,unknown

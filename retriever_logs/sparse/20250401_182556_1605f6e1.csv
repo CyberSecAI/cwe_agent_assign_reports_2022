@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,8352.318831320157,base_query
+125,Out-of-bounds Read,7875.829167945798,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7807.188310731205,base_query
+1284,Improper Validation of Specified Quantity in Input,7779.90509564476,base_query
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),7682.695090137748,base_query

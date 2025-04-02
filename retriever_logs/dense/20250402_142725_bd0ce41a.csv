@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7794020320782568
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7771500111335127
+274,Improper Handling of Insufficient Privileges,Base,0.7740160839402785
+799,Improper Control of Interaction Frequency,Class,0.7721363867588007
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7716078360966605
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7715456966418632
+668,Exposure of Resource to Wrong Sphere,Class,0.7706293910807809
+1220,Insufficient Granularity of Access Control,Base,0.7701055180473619
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.769252238541068
+300,Channel Accessible by Non-Endpoint,Class,0.767987217734989

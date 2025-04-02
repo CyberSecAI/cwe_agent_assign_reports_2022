@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+99,Improper Control of Resource Identifiers ('Resource Injection'),7017.5514653344535,unknown
+184,Incomplete List of Disallowed Inputs,6624.097131904947,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,6129.771647153194,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),6121.131025729681,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6112.196635393217,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1251,Mirrored Regions with Different Values,5965.830441270195,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5251.606372769539,base_query
+639,Authorization Bypass Through User-Controlled Key,5244.907477442466,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5167.373016369133,base_query
+667,Improper Locking,4953.841101866218,base_query

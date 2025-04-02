@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,6349.195469206776,unknown
+1204,Generation of Weak Initialization Vector (IV),6290.773662074407,unknown
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),6235.197328743505,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,6102.404019739073,unknown
+1240,Use of a Cryptographic Primitive with a Risky Implementation,6038.2588710217915,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+259,Use of Hard-coded Password,5534.001276437085,base_query
+798,Use of Hard-coded Credentials,5501.092244950499,base_query
+295,Improper Certificate Validation,5404.328339003434,base_query
+90,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection'),5402.9967216120085,base_query
+321,Use of Hard-coded Cryptographic Key,5327.89217977632,base_query

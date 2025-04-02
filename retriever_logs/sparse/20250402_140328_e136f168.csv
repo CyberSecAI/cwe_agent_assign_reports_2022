@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,5982.359514135803,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5661.196926140882,unknown
+312,Cleartext Storage of Sensitive Information,5600.857357856676,unknown
+203,Observable Discrepancy,5523.401237066301,unknown
+863,Incorrect Authorization,5471.263460092175,unknown

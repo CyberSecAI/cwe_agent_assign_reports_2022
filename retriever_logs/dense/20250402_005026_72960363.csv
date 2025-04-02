@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),Variant,0.7478723640310152
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7393097125218223
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7392699298878004
+138,Improper Neutralization of Special Elements,Class,0.7363585436467066
+183,Permissive List of Allowed Inputs,Base,0.7319340767052023
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.73067166759328
+184,Incomplete List of Disallowed Inputs,Base,0.7280514370864
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7277224579730981
+653,Improper Isolation or Compartmentalization,Class,0.7214499533356995
+691,Insufficient Control Flow Management,Pillar,0.7212981510382783

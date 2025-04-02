@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+799,Improper Control of Interaction Frequency,Class,0.7394950589534275
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7386125479600298
+639,Authorization Bypass Through User-Controlled Key,Base,0.7352356694137768
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7348558785115644
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7313975661437605
+41,Improper Resolution of Path Equivalence,Base,0.731052295228578
+405,Asymmetric Resource Consumption (Amplification),Class,0.7304811660072835
+302,Authentication Bypass by Assumed-Immutable Data,Base,0.7259416530151216
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7256374935394643
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7212311065481894

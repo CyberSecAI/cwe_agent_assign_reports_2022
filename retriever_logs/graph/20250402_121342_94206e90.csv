@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+645,Overly Restrictive Account Lockout Mechanism,base,2.3998000000000004,0
+306,Missing Authentication for Critical Function,base,2.3998000000000004,0
+804,Guessable CAPTCHA,base,2.2100000000000004,0
+257,Storing Passwords in a Recoverable Format,base,2.1762,0
+1393,Use of Default Password,base,2.1189999999999998,0
+798,Use of Hard-coded Credentials,Base,2.0797673117893374,0
+321,Use of Hard-coded Cryptographic Key,Variant,1.9767642543451556,0
+259,Use of Hard-coded Password,Variant,1.865864152857404,0
+307,Improper Restriction of Excessive Authentication Attempts,Base,1.780014348803571,0
+472,External Control of Assumed-Immutable Web Parameter,base,1.7680000000000005,0

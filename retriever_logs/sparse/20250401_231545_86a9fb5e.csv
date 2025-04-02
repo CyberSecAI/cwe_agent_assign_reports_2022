@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,8739.521821624568,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,8383.71316600652,unknown
+184,Incomplete List of Disallowed Inputs,8295.70661248211,unknown
+138,Improper Neutralization of Special Elements,8265.22808719993,unknown
+943,Improper Neutralization of Special Elements in Data Query Logic,8160.619147306296,unknown

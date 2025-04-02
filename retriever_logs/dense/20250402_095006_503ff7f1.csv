@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7509358578058611
+303,Incorrect Implementation of Authentication Algorithm,Base,0.749911457488485
+1391,Use of Weak Credentials,Class,0.7452765714554639
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),Base,0.7451809838916064
+1390,Weak Authentication,Class,0.7437949417402563
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7425179603755133
+319,Cleartext Transmission of Sensitive Information,Base,0.7424363041930806
+204,Observable Response Discrepancy,Base,0.7423805016951729
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7415755648902069
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.7398036218772821

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.8116661312257548
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7776380936693721
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7761822090704749
+295,Improper Certificate Validation,Base,0.7699710206283521
+274,Improper Handling of Insufficient Privileges,Base,0.7650240096206823
+345,Insufficient Verification of Data Authenticity,Class,0.7616698448411655
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.760322855470174
+183,Permissive List of Allowed Inputs,Base,0.7585230243942498
+657,Violation of Secure Design Principles,Class,0.7581724871495112
+1288,Improper Validation of Consistency within Input,Base,0.7580221601849144

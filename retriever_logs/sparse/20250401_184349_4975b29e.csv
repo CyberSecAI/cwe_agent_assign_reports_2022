@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+916,Use of Password Hash With Insufficient Computational Effort,6213.857644672296,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5636.516545422516,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,5635.847277774625,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5614.2779747016075,unknown
+532,Insertion of Sensitive Information into Log File,5447.626033422794,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7501535168039406
+41,Improper Resolution of Path Equivalence,Base,0.7491889684973635
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7491822487570553
+668,Exposure of Resource to Wrong Sphere,Class,0.7483640266790454
+274,Improper Handling of Insufficient Privileges,Base,0.7472200157569646
+639,Authorization Bypass Through User-Controlled Key,Base,0.7465760700249322
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7465664631643802
+267,Privilege Defined With Unsafe Actions,Base,0.744824731813066
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7445643392481425
+653,Improper Isolation or Compartmentalization,Class,0.7417664545064081

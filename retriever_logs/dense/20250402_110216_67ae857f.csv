@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7267547981140414
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7241769868044219
+1391,Use of Weak Credentials,Class,0.7066556102280057
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7051283384531438
+425,Direct Request ('Forced Browsing'),Base,0.6991238609405944
+657,Violation of Secure Design Principles,Class,0.6989081535826062
+204,Observable Response Discrepancy,Base,0.6941196974202268
+209,Generation of Error Message Containing Sensitive Information,Base,0.6939698145779297
+303,Incorrect Implementation of Authentication Algorithm,Base,0.6934075906754997
+319,Cleartext Transmission of Sensitive Information,Base,0.6924161091698278

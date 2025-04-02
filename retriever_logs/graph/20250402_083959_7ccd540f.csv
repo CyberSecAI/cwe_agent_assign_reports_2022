@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+428,Unquoted Search Path or Element,base,3.6399999999999997,0
+386,Symbolic Name not Mapping to Correct Object,base,3.4502,0
+61,UNIX Symbolic Link (Symlink) Following,compound,3.002,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.9184000000000005,0
+363,Race Condition Enabling Link Following,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.5507200000000005,0
+427,Uncontrolled Search Path Element,Base,2.5006330131016448,0
+274,Improper Handling of Insufficient Privileges,Base,2.4937712615391745,0
+426,Untrusted Search Path,Base,2.4858885049912,0
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),class,2.48,0

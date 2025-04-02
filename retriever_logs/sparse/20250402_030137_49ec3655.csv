@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),7735.934483416841,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7710.551579158924,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7594.280790397404,base_query
+863,Incorrect Authorization,7421.916026054982,base_query
+285,Improper Authorization,7353.629744873374,base_query

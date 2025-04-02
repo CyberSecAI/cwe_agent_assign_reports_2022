@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+183,Permissive List of Allowed Inputs,Base,0.7919808971013742
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7754937481466445
+668,Exposure of Resource to Wrong Sphere,Class,0.7681103685323281
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7642160806488478
+274,Improper Handling of Insufficient Privileges,Base,0.7632037470158098
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7619417617932089
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7612320922976639
+184,Incomplete List of Disallowed Inputs,Base,0.759408370918019
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7589269772129902
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7585432356872734

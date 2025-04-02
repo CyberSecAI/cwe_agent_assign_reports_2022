@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,5738.283164181782,unknown
+667,Improper Locking,5534.53683675084,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5487.578963228525,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5408.959232026017,unknown
+927,Use of Implicit Intent for Sensitive Communication,5375.976139563894,unknown

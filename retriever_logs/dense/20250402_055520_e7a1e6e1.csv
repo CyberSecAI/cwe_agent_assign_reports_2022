@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7629159432256072
+41,Improper Resolution of Path Equivalence,Base,0.7569533488053872
+668,Exposure of Resource to Wrong Sphere,Class,0.7554357969968517
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7550698705587648
+639,Authorization Bypass Through User-Controlled Key,Base,0.7518445323780494
+1390,Weak Authentication,Class,0.749604355371094
+204,Observable Response Discrepancy,Base,0.7492781990390526
+73,External Control of File Name or Path,Base,0.7471366534347982
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7459443990905142
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7447692041394967

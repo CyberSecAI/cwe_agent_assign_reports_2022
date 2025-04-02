@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+364,Signal Handler Race Condition,Base,0.7738418880099647
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.763391147428505
+404,Improper Resource Shutdown or Release,Class,0.7569083654701637
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7473154430211606
+667,Improper Locking,Class,0.7452193739052578
+405,Asymmetric Resource Consumption (Amplification),Class,0.736353485912775
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7354928019957574
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7327950082414149
+662,Improper Synchronization,Class,0.7278893299226539
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.726819389534197

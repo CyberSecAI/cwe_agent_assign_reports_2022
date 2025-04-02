@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),5187.923086707674,unknown
+1386,Insecure Operation on Windows Junction / Mount Point,4888.851810770055,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,4874.789201231865,unknown
+863,Incorrect Authorization,4809.694102298642,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,4764.21890992251,unknown

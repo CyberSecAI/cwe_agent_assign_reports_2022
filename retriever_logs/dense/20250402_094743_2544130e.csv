@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+345,Insufficient Verification of Data Authenticity,Class,0.7751111058378903
+611,Improper Restriction of XML External Entity Reference,Base,0.7732548732117889
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7643292246977371
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7641409269558407
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.763451208494976
+668,Exposure of Resource to Wrong Sphere,Class,0.760312969746823
+138,Improper Neutralization of Special Elements,Class,0.7599945349024361
+319,Cleartext Transmission of Sensitive Information,Base,0.7582739528943112
+502,Deserialization of Untrusted Data,Base,0.7580409617720267
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7549832486768239

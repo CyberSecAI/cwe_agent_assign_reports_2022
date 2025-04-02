@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+386,Symbolic Name not Mapping to Correct Object,base,4.4954,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+787,Out-of-bounds Write,base,3.8870000000000005,0
+782,Exposed IOCTL with Insufficient Access Control,variant,3.8784,0
+416,Use After Free,variant,3.7507200000000003,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.7507200000000003,0
+123,Write-what-where Condition,base,3.3566,0
+41,Improper Resolution of Path Equivalence,Base,2.901659502489693,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+364,Signal Handler Race Condition,base,2.8651999999999997,0

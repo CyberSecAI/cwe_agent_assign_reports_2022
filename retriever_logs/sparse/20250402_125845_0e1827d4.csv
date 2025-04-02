@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+941,Incorrectly Specified Destination in a Communication Channel,6663.422003171659,unknown
+927,Use of Implicit Intent for Sensitive Communication,6373.2371228444035,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6327.289145402641,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6245.713476379702,unknown
+667,Improper Locking,6204.947066451243,unknown

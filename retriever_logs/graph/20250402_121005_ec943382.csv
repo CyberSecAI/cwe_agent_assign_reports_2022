@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+476,NULL Pointer Dereference,base,4.329000000000001,0
+825,Expired Pointer Dereference,base,4.329000000000001,0
+787,Out-of-bounds Write,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+125,Out-of-bounds Read,base,4.329000000000001,0
+822,Untrusted Pointer Dereference,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+123,Write-what-where Condition,base,3.8870000000000005,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.8784,0
+386,Symbolic Name not Mapping to Correct Object,base,3.4502,0

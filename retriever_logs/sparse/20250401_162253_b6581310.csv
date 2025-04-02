@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+346,Origin Validation Error,5462.561168130099,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5425.962571183698,unknown
+863,Incorrect Authorization,5304.481103864155,unknown
+184,Incomplete List of Disallowed Inputs,5303.1753092242725,unknown
+295,Improper Certificate Validation,5291.94570836506,unknown

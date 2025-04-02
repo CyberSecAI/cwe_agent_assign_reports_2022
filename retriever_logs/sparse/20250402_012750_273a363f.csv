@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,6211.516794578145,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6020.119033059851,base_query
+754,Improper Check for Unusual or Exceptional Conditions,6005.516843144213,base_query
+863,Incorrect Authorization,6003.161408691441,base_query
+287,Improper Authentication,5997.533489385172,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+170,Improper Null Termination,base,5.031000000000001,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),base,5.031000000000001,0
+134,Use of Externally-Controlled Format String,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+123,Write-what-where Condition,base,4.329000000000001,0
+126,Buffer Over-read,variant,3.8784,0
+1287,Improper Validation of Specified Type of Input,base,3.6399999999999997,0

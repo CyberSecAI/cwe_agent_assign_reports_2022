@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+427,Uncontrolled Search Path Element,Base,0.8102121652905764
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7848257986456856
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7826680600502594
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7824661710441363
+426,Untrusted Search Path,Base,0.7817165428444965
+297,Improper Validation of Certificate with Host Mismatch,Variant,0.7813273381587392
+41,Improper Resolution of Path Equivalence,Base,0.7760761992103988
+295,Improper Certificate Validation,Base,0.7743582547637182
+73,External Control of File Name or Path,Base,0.7741321366964787
+345,Insufficient Verification of Data Authenticity,Class,0.7692452281854324

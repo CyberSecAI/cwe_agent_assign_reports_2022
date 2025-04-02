@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+346,Origin Validation Error,6348.224644255511,unknown
+799,Improper Control of Interaction Frequency,5646.728755071297,unknown
+1390,Weak Authentication,5623.291564179971,unknown
+306,Missing Authentication for Critical Function,5598.903257009098,unknown
+287,Improper Authentication,5582.943787197037,unknown

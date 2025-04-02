@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+471,Modification of Assumed-Immutable Data (MAID),base,4.329000000000001,0
+187,Partial String Comparison,variant,3.9240000000000004,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,3.8784,0
+182,Collapse of Data into Unsafe Value,base,3.653,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.5671999999999997,0
+73,External Control of File Name or Path,Base,3.2088599006669773,0
+184,Incomplete List of Disallowed Inputs,Base,3.206279312560619,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.984,0

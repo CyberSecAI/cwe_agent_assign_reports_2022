@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+653,Improper Isolation or Compartmentalization,Class,0.7705155239619454
+41,Improper Resolution of Path Equivalence,Base,0.7615558376891469
+274,Improper Handling of Insufficient Privileges,Base,0.7614068121222097
+73,External Control of File Name or Path,Base,0.757336499172911
+668,Exposure of Resource to Wrong Sphere,Class,0.7501724016765193
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7496812257729347
+23,Relative Path Traversal,Base,0.7487757265372545
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7486405913231972
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.747900960688983
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7453981171444634

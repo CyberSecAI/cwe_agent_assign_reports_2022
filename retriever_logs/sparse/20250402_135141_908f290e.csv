@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,6944.28190054993,unknown
+824,Access of Uninitialized Pointer,6939.505230434978,unknown
+125,Out-of-bounds Read,6810.926940204586,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,6732.396665095926,unknown
+476,NULL Pointer Dereference,6588.6002506171835,unknown

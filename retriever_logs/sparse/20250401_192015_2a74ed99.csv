@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+364,Signal Handler Race Condition,7416.572008681104,unknown
+252,Unchecked Return Value,6551.015827926662,unknown
+415,Double Free,6422.595770254181,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6372.376254714777,unknown
+476,NULL Pointer Dereference,6326.916990727553,unknown

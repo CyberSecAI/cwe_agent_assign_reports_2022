@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+288,Authentication Bypass Using an Alternate Path or Channel,base,3.6399999999999997,0
+420,Unprotected Alternate Channel,base,3.6399999999999997,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.5507200000000005,0
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,2.4904026758202664,0
+274,Improper Handling of Insufficient Privileges,Base,2.489847344754722,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0
+926,Improper Export of Android Application Components,variant,2.1624,0

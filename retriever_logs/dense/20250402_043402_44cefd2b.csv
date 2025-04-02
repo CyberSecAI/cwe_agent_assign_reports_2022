@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7843481965123249
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7761490101709048
+125,Out-of-bounds Read,Base,0.7696437729897432
+789,Memory Allocation with Excessive Size Value,Variant,0.7675810852811715
+667,Improper Locking,Class,0.7656328806342957
+191,Integer Underflow (Wrap or Wraparound),Base,0.7655340157418693
+131,Incorrect Calculation of Buffer Size,Base,0.7637949535909021
+909,Missing Initialization of Resource,Class,0.7582835454216151
+908,Use of Uninitialized Resource,Base,0.7574714319123155
+824,Access of Uninitialized Pointer,Base,0.7565422803743469

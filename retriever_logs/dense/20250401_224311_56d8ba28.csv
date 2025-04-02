@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7678754955424718
+138,Improper Neutralization of Special Elements,Class,0.7435789032530689
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7432141916746345
+838,Inappropriate Encoding for Output Context,Base,0.7387753166065968
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7369282538683244
+319,Cleartext Transmission of Sensitive Information,Base,0.7361279208836535
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7354637402027411
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7316660602534215
+41,Improper Resolution of Path Equivalence,Base,0.7312444129506176
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,0.7302178756508599

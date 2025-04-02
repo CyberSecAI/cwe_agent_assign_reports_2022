@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+73,External Control of File Name or Path,base,4.329000000000001,0
+190,Integer Overflow or Wraparound,base,4.329000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+410,Insufficient Resource Pool,base,4.329000000000001,0
+911,Improper Update of Reference Count,base,4.329000000000001,0
+352,Cross-Site Request Forgery (CSRF),compound,3.542,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),base,3.4361600000000005,0

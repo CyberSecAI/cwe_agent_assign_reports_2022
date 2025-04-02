@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5438.024666529048,unknown
+732,Incorrect Permission Assignment for Critical Resource,5341.876598517187,unknown
+427,Uncontrolled Search Path Element,5305.60101915204,unknown
+668,Exposure of Resource to Wrong Sphere,5264.3861625744175,unknown
+863,Incorrect Authorization,5234.7783333473735,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+1191,On-Chip Debug and Test Interface With Improper Access Control,base,3.6399999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+350,Reliance on Reverse DNS Resolution for a Security-Critical Action,variant,2.6784000000000003,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0
+498,Cloneable Class Containing Sensitive Information,variant,2.6784000000000003,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+319,Cleartext Transmission of Sensitive Information,base,2.4699999999999998,0
+312,Cleartext Storage of Sensitive Information,base,2.4699999999999998,0
+1285,Improper Validation of Specified Index  Position  or Offset in Input,base,2.4699999999999998,0

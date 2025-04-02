@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7575977381063083
+131,Incorrect Calculation of Buffer Size,Base,0.7376498834708991
+197,Numeric Truncation Error,Base,0.736433181307306
+129,Improper Validation of Array Index,Variant,0.7345814027434887
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7340053282940786
+681,Incorrect Conversion between Numeric Types,Base,0.7335842843068403
+125,Out-of-bounds Read,Base,0.7331539855593034
+191,Integer Underflow (Wrap or Wraparound),Base,0.7325680821285754
+184,Incomplete List of Disallowed Inputs,Base,0.7290065925810919
+193,Off-by-one Error,Base,0.7280842356701334

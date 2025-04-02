@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,4303.59768295358,unknown
+425,Direct Request ('Forced Browsing'),4015.876959419692,unknown
+472,External Control of Assumed-Immutable Web Parameter,3929.253518178741,unknown
+502,Deserialization of Untrusted Data,3925.1845729632314,unknown
+183,Permissive List of Allowed Inputs,3919.6236798150712,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7621892583602408
+668,Exposure of Resource to Wrong Sphere,Class,0.7610979006609175
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7605097598892544
+73,External Control of File Name or Path,Base,0.7561518981915978
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.75446889759673
+274,Improper Handling of Insufficient Privileges,Base,0.7481871025626893
+799,Improper Control of Interaction Frequency,Class,0.7477858768078385
+653,Improper Isolation or Compartmentalization,Class,0.7471819265312503
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7471532891949633
+1220,Insufficient Granularity of Access Control,Base,0.7449466310495538

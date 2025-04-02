@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,7557.39083685738,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),7354.634406565943,unknown
+863,Incorrect Authorization,7055.833250968639,unknown
+285,Improper Authorization,6939.400429902398,unknown
+99,Improper Control of Resource Identifiers ('Resource Injection'),6913.516788537462,unknown

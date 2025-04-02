@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+191,Integer Underflow (Wrap or Wraparound),Base,0.8042209499181163
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7991216855181983
+667,Improper Locking,Class,0.7822406967157423
+125,Out-of-bounds Read,Base,0.7809642066062737
+824,Access of Uninitialized Pointer,Base,0.7787388776489774
+197,Numeric Truncation Error,Base,0.7719907362240757
+123,Write-what-where Condition,Base,0.7716758171283218
+41,Improper Resolution of Path Equivalence,Base,0.7709732633186532
+131,Incorrect Calculation of Buffer Size,Base,0.7707127826739504
+404,Improper Resource Shutdown or Release,Class,0.7696488146839071

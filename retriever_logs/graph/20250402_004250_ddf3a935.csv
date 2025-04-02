@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,base,4.329000000000001,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+202,Exposure of Sensitive Information Through Data Queries,base,3.6399999999999997,0
+193,Off-by-one Error,base,3.4200400000000006,0
+416,Use After Free,variant,3.24,0
+41,Improper Resolution of Path Equivalence,base,2.9120000000000004,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.907243449040127,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+1265,Unintended Reentrant Invocation of Non-reentrant Code Via Nested Calls,base,2.8651999999999997,0

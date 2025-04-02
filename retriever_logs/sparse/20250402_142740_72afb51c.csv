@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,3866.7563422981034,unknown
+306,Missing Authentication for Critical Function,3814.360137170333,unknown
+425,Direct Request ('Forced Browsing'),3790.5753321454654,unknown
+1390,Weak Authentication,3775.059181609511,unknown
+1188,Initialization of a Resource with an Insecure Default,3764.9903847580504,unknown

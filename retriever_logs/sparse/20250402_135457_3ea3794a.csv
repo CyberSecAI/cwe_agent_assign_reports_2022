@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,4931.754452102405,base_query
+212,Improper Removal of Sensitive Information Before Storage or Transfer,4472.5659523105915,base_query
+209,Generation of Error Message Containing Sensitive Information,4465.198135300283,base_query
+311,Missing Encryption of Sensitive Data,4417.712634335664,base_query
+532,Insertion of Sensitive Information into Log File,4390.167288895415,base_query

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6555.923243196818,unknown
+863,Incorrect Authorization,6371.34751348706,unknown
+285,Improper Authorization,6245.858098150162,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6240.9745961105655,unknown
+287,Improper Authentication,6076.091305911262,unknown

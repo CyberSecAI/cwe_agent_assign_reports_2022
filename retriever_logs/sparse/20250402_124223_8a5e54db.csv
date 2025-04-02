@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+319,Cleartext Transmission of Sensitive Information,5795.811951044862,unknown
+312,Cleartext Storage of Sensitive Information,5502.585817637913,unknown
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),5416.181890396721,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,5337.550103277896,unknown
+184,Incomplete List of Disallowed Inputs,5320.9342751331515,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+386,Symbolic Name not Mapping to Correct Object,base,3.4502,0
+41,Improper Resolution of Path Equivalence,Base,3.326994243094021,0
+61,UNIX Symbolic Link (Symlink) Following,compound,3.002,0
+20,Improper Input Validation,class,2.984,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.9184000000000005,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.9058725593173826,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+494,Download of Code Without Integrity Check,base,2.821,0
+770,Allocation of Resources Without Limits or Throttling,base,2.73416,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7833.344344323722,unknown
+190,Integer Overflow or Wraparound,7814.100976567268,unknown
+125,Out-of-bounds Read,7769.528785161615,unknown
+1284,Improper Validation of Specified Quantity in Input,7612.17441435675,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,7525.436798048069,unknown

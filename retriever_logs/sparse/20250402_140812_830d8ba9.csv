@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,7686.813053587788,base_query
+116,Improper Encoding or Escaping of Output,7233.3934476987615,base_query
+190,Integer Overflow or Wraparound,7046.476967413349,base_query
+125,Out-of-bounds Read,6976.575319717693,base_query
+1284,Improper Validation of Specified Quantity in Input,6934.713809955321,base_query

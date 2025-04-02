@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+916,Use of Password Hash With Insufficient Computational Effort,Base,0.8119715089064876
+328,Use of Weak Hash,Base,0.7971994248127722
+1391,Use of Weak Credentials,Class,0.7883841797988769
+798,Use of Hard-coded Credentials,Base,0.7698385507915759
+312,Cleartext Storage of Sensitive Information,Base,0.7614954478591311
+836,Use of Password Hash Instead of Password for Authentication,Base,0.7609290438918667
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.7575831795475342
+330,Use of Insufficiently Random Values,Class,0.7492817640011409
+1392,Use of Default Credentials,Base,0.7487724028256502
+257,Storing Passwords in a Recoverable Format,Base,0.7457445262317919

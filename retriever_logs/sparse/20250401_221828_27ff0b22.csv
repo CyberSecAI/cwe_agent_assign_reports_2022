@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1300,Improper Protection of Physical Side Channels,6384.170640532325,unknown
+1256,Improper Restriction of Software Interfaces to Hardware Features,6353.008503687598,unknown
+1299,Missing Protection Mechanism for Alternate Hardware Interface,6047.280381605376,unknown
+1247,Improper Protection Against Voltage and Clock Glitches,5668.298993742391,unknown
+203,Observable Discrepancy,5553.614746937746,unknown

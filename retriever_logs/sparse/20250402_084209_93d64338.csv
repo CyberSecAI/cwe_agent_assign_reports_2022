@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,9241.133649875848,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),8460.250795105216,base_query
+125,Out-of-bounds Read,8286.597470460014,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,8255.478018748649,base_query
+1284,Improper Validation of Specified Quantity in Input,8210.145997670712,base_query

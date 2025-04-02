@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+73,External Control of File Name or Path,Base,0.7513594459817561
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7504500161261021
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7464614689958025
+1220,Insufficient Granularity of Access Control,Base,0.7459981479359996
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7447435181929791
+184,Incomplete List of Disallowed Inputs,Base,0.7358541565229257
+691,Insufficient Control Flow Management,Pillar,0.7350774550599837
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),Base,0.7343043583724269
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7325610873014228
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7309730819811129

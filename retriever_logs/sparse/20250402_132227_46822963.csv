@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,8482.73420921123,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),8403.550201454345,unknown
+138,Improper Neutralization of Special Elements,7904.707764808041,unknown
+918,Server-Side Request Forgery (SSRF),7818.429095910674,unknown
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),7767.295653476367,unknown

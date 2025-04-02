@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5128.980408847678,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5084.899621673114,base_query
+285,Improper Authorization,5044.697300406355,base_query
+1390,Weak Authentication,4928.828847571039,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,4901.868876459889,base_query

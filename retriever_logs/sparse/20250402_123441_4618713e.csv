@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+451,User Interface (UI) Misrepresentation of Critical Information,6000.931657466922,base_query
+356,Product UI does not Warn User of Unsafe Actions,4999.4804875174095,base_query
+125,Out-of-bounds Read,4954.190010688965,base_query
+190,Integer Overflow or Wraparound,4920.722281189529,base_query
+295,Improper Certificate Validation,4912.051542073678,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.0104,0
+257,Storing Passwords in a Recoverable Format,base,3.6399999999999997,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,3.6399999999999997,0
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),base,3.6399999999999997,0
+770,Allocation of Resources Without Limits or Throttling,base,2.8651999999999997,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.7083892080091463,0
+426,Untrusted Search Path,base,2.6104000000000003,0
+20,Improper Input Validation,class,2.5519999999999996,0
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),class,2.5519999999999996,0
+798,Use of Hard-coded Credentials,Base,2.5011348258185553,0

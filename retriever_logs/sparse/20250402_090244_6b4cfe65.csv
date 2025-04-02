@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,7701.488562003154,base_query
+125,Out-of-bounds Read,7696.985147802699,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7694.799599976869,base_query
+190,Integer Overflow or Wraparound,7682.078696289105,base_query
+116,Improper Encoding or Escaping of Output,7666.267091947658,base_query

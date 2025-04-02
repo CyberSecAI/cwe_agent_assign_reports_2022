@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+295,Improper Certificate Validation,8609.498353703182,unknown
+297,Improper Validation of Certificate with Host Mismatch,8026.278108063872,unknown
+347,Improper Verification of Cryptographic Signature,8018.048533750166,unknown
+863,Incorrect Authorization,7995.588016532973,unknown
+287,Improper Authentication,7931.5413752719505,unknown

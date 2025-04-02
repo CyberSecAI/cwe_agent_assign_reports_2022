@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+404,Improper Resource Shutdown or Release,Class,0.7696631183437672
+668,Exposure of Resource to Wrong Sphere,Class,0.767635796520346
+405,Asymmetric Resource Consumption (Amplification),Class,0.766686123834425
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7655770047474537
+799,Improper Control of Interaction Frequency,Class,0.762194231894977
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7592677642631885
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7585824663240623
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7561792766859281
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.75604634844238
+639,Authorization Bypass Through User-Controlled Key,Base,0.7531956491230554

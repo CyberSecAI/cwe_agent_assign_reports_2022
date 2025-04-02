@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+390,Detection of Error Condition Without Action,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+401,Missing Release of Memory after Effective Lifetime,variant,3.8784,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.915461003003935,0
+911,Improper Update of Reference Count,base,2.8651999999999997,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+208,Observable Timing Discrepancy,base,2.8651999999999997,0
+325,Missing Cryptographic Step,base,2.7742,0
+619,Dangling Database Cursor ('Cursor Injection'),base,2.73416,0
+499,Serializable Class Containing Sensitive Data,variant,2.6784000000000003,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),base,3.8870000000000005,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,3.8784,0
+178,Improper Handling of Case Sensitivity,base,3.757,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.4866,0
+184,Incomplete List of Disallowed Inputs,base,3.3566,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,3.2760000000000002,0
+183,Permissive List of Allowed Inputs,base,3.06904,0
+289,Authentication Bypass by Alternate Name,base,2.8651999999999997,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0

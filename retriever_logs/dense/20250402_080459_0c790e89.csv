@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1176,Inefficient CPU Computation,Class,0.7436547401192404
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.738215308786815
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7372188437078518
+407,Inefficient Algorithmic Complexity,Class,0.7371162468748111
+41,Improper Resolution of Path Equivalence,Base,0.7317394530496976
+405,Asymmetric Resource Consumption (Amplification),Class,0.725785741066399
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7249704009951341
+653,Improper Isolation or Compartmentalization,Class,0.7249539955443891
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.7249192341897965
+184,Incomplete List of Disallowed Inputs,Base,0.7237274053497077

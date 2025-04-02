@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,6073.3796702956615,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,6041.555648932052,base_query
+863,Incorrect Authorization,5895.847978922799,base_query
+306,Missing Authentication for Critical Function,5812.578096999227,base_query
+285,Improper Authorization,5752.15800022482,base_query

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7563562470236491
+125,Out-of-bounds Read,Base,0.7520326007002718
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7490716694211846
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7479803433415715
+191,Integer Underflow (Wrap or Wraparound),Base,0.7458912295103562
+197,Numeric Truncation Error,Base,0.7445959998484183
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7439906382742669
+131,Incorrect Calculation of Buffer Size,Base,0.7408714889868446
+404,Improper Resource Shutdown or Release,Class,0.7397315996071756
+252,Unchecked Return Value,Base,0.7365236692425821

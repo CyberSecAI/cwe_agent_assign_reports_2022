@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7889575503847308
+1288,Improper Validation of Consistency within Input,Base,0.7576729645462335
+184,Incomplete List of Disallowed Inputs,Base,0.7562139667149081
+183,Permissive List of Allowed Inputs,Base,0.7536311470343224
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7534239480981713
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7525361836300906
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7487705347845334
+138,Improper Neutralization of Special Elements,Class,0.7476268154947022
+606,Unchecked Input for Loop Condition,Base,0.7473184763429341
+179,Incorrect Behavior Order: Early Validation,Base,0.7416600699300392

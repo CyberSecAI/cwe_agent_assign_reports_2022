@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.8203622085465878
+73,External Control of File Name or Path,Base,0.812204651252718
+41,Improper Resolution of Path Equivalence,Base,0.8080204509454275
+23,Relative Path Traversal,Base,0.804309368139394
+427,Uncontrolled Search Path Element,Base,0.8010421291117037
+665,Improper Initialization,Class,0.7964761679360784
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7952474013366339
+552,Files or Directories Accessible to External Parties,Base,0.7919801468850265
+668,Exposure of Resource to Wrong Sphere,Class,0.7889994107566782
+824,Access of Uninitialized Pointer,Base,0.7882105943320717

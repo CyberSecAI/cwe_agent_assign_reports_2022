@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,6662.69377459467,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6531.212042679746,unknown
+138,Improper Neutralization of Special Elements,6234.783579093957,unknown
+94,Improper Control of Generation of Code ('Code Injection'),6110.175136305781,unknown
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),6096.500908065695,unknown

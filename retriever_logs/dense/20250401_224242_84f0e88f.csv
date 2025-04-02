@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+184,Incomplete List of Disallowed Inputs,Base,0.7675293150542876
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.7644936518568115
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7644593673582427
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7638945475492981
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7590569461868264
+41,Improper Resolution of Path Equivalence,Base,0.7569608298485366
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7531940116160294
+923,Improper Restriction of Communication Channel to Intended Endpoints,Class,0.7526260076802268
+799,Improper Control of Interaction Frequency,Class,0.7525877980827809
+668,Exposure of Resource to Wrong Sphere,Class,0.7517954121710508

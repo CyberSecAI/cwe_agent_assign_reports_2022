@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+328,Use of Weak Hash,Base,0.7578147206497761
+330,Use of Insufficiently Random Values,Class,0.7514416923889227
+916,Use of Password Hash With Insufficient Computational Effort,Base,0.7500458323573581
+760,Use of a One-Way Hash with a Predictable Salt,Variant,0.7473464607728799
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7436066711851667
+759,Use of a One-Way Hash without a Salt,Variant,0.7432278759413598
+1391,Use of Weak Credentials,Class,0.7296254863764188
+331,Insufficient Entropy,Base,0.728175710863239
+138,Improper Neutralization of Special Elements,Class,0.7277596593104466
+41,Improper Resolution of Path Equivalence,Base,0.7257843014977525

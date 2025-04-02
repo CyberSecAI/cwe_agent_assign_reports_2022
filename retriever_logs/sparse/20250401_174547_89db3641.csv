@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+923,Improper Restriction of Communication Channel to Intended Endpoints,6557.242050002185,unknown
+941,Incorrectly Specified Destination in a Communication Channel,6470.234203711955,unknown
+863,Incorrect Authorization,6100.528104428572,unknown
+201,Insertion of Sensitive Information Into Sent Data,6093.797760166303,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6089.735070055532,unknown

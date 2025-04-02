@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+125,Out-of-bounds Read,base,3.8870000000000005,0
+301,Reflection Attack in an Authentication Protocol,base,3.6399999999999997,0
+170,Improper Null Termination,base,3.5671999999999997,0
+787,Out-of-bounds Write,base,3.302,0
+476,NULL Pointer Dereference,base,3.1356,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,3.055,0
+190,Integer Overflow or Wraparound,base,3.0420000000000007,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+252,Unchecked Return Value,base,2.8651999999999997,0
+325,Missing Cryptographic Step,base,2.7742,0

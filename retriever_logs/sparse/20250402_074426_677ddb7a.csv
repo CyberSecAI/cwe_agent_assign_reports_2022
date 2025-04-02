@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1284,Improper Validation of Specified Quantity in Input,8208.876679966052,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,8000.28514104058,unknown
+770,Allocation of Resources Without Limits or Throttling,7985.918198624548,unknown
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),7983.276501127753,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7972.679386927254,unknown

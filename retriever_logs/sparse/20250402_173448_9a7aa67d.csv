@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+909,Missing Initialization of Resource,6039.27865179666,base_query
+754,Improper Check for Unusual or Exceptional Conditions,5320.462268269254,base_query
+252,Unchecked Return Value,5273.691597783895,base_query
+824,Access of Uninitialized Pointer,5133.144693006182,base_query
+789,Memory Allocation with Excessive Size Value,5093.05959221528,base_query

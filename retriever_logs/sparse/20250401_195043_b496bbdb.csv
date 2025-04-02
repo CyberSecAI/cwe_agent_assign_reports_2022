@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1007,Insufficient Visual Distinction of Homoglyphs Presented to User,7579.550836586026,base_query
+941,Incorrectly Specified Destination in a Communication Channel,6946.021977190674,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,6874.3994614644835,base_query
+295,Improper Certificate Validation,6761.964833076852,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,6655.009240827821,base_query

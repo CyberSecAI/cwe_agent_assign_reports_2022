@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+212,Improper Removal of Sensitive Information Before Storage or Transfer,6687.130864253743,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,6626.033177049841,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,6586.717859233684,unknown
+863,Incorrect Authorization,6557.100392948872,unknown
+201,Insertion of Sensitive Information Into Sent Data,6530.592391151349,unknown

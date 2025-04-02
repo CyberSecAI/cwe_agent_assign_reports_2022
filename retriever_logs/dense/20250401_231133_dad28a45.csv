@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7875505519485542
+784,Reliance on Cookies without Validation and Integrity Checking in a Security Decision,Variant,0.7817742126015743
+565,Reliance on Cookies without Validation and Integrity Checking,Base,0.7727284929082998
+41,Improper Resolution of Path Equivalence,Base,0.7680426686826574
+668,Exposure of Resource to Wrong Sphere,Class,0.7644921434036938
+451,User Interface (UI) Misrepresentation of Critical Information,Class,0.7641317003115887
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.76112187478367
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7605490396415717
+184,Incomplete List of Disallowed Inputs,Base,0.7591967350165174
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7570058274386502

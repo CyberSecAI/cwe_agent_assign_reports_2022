@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+321,Use of Hard-coded Cryptographic Key,variant,4.0104,0
+208,Observable Timing Discrepancy,base,2.8651999999999997,0
+259,Use of Hard-coded Password,Variant,2.703651393835309,0
+481,Assigning instead of Comparing,variant,2.6784000000000003,0
+20,Improper Input Validation,class,2.5519999999999996,0
+116,Improper Encoding or Escaping of Output,class,2.5519999999999996,0
+798,Use of Hard-coded Credentials,Base,2.49777055003496,0
+836,Use of Password Hash Instead of Password for Authentication,Base,2.4843633100780016,0
+257,Storing Passwords in a Recoverable Format,Base,2.4817487209882247,0
+203,Observable Discrepancy,base,2.4699999999999998,0

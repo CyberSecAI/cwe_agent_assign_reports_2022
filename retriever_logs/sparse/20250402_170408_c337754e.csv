@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+116,Improper Encoding or Escaping of Output,8034.488152906132,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,7898.534658292463,base_query
+138,Improper Neutralization of Special Elements,7723.243409855779,base_query
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),7640.338050576435,base_query
+943,Improper Neutralization of Special Elements in Data Query Logic,7611.380595932829,base_query

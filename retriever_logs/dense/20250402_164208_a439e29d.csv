@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+668,Exposure of Resource to Wrong Sphere,Class,0.7773142821338593
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7721103636710556
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7686093383774906
+276,Incorrect Default Permissions,Base,0.7671808056589988
+41,Improper Resolution of Path Equivalence,Base,0.766924210658022
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7666453171178175
+274,Improper Handling of Insufficient Privileges,Base,0.7660377048868228
+266,Incorrect Privilege Assignment,Base,0.7656555296948482
+23,Relative Path Traversal,Base,0.7651025549823587
+73,External Control of File Name or Path,Base,0.7630907659503098

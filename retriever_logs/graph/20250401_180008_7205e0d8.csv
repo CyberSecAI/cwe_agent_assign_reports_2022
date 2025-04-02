@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+787,Out-of-bounds Write,base,4.329000000000001,0
+911,Improper Update of Reference Count,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+772,Missing Release of Resource after Effective Lifetime,base,4.329000000000001,0
+416,Use After Free,variant,3.8784,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.7507200000000003,0
+123,Write-what-where Condition,base,3.3566,0
+823,Use of Out-of-range Pointer Offset,Base,2.9101674194600795,0
+805,Buffer Access with Incorrect Length Value,Base,2.9021515366860546,0

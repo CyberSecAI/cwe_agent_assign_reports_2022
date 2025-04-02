@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+693,Protection Mechanism Failure,Pillar,0.7846385976676269
+41,Improper Resolution of Path Equivalence,Base,0.7752418609555688
+424,Improper Protection of Alternate Path,Class,0.7708858009791062
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7677411204534353
+274,Improper Handling of Insufficient Privileges,Base,0.7651727356650354
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.762234331646829
+697,Incorrect Comparison,Pillar,0.7594210975925444
+668,Exposure of Resource to Wrong Sphere,Class,0.7585685988791264
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7533129867305033
+184,Incomplete List of Disallowed Inputs,Base,0.7530178161317704

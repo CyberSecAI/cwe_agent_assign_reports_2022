@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+190,Integer Overflow or Wraparound,7618.987435065332,base_query
+197,Numeric Truncation Error,7230.571812539354,base_query
+125,Out-of-bounds Read,6718.442981202587,base_query
+681,Incorrect Conversion between Numeric Types,6593.75194763987,base_query
+193,Off-by-one Error,6518.154864144282,base_query

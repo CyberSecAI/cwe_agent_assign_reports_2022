@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,7523.95660116914,unknown
+863,Incorrect Authorization,7440.63345340445,unknown
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),7340.411406563679,unknown
+668,Exposure of Resource to Wrong Sphere,7284.183907625864,unknown
+639,Authorization Bypass Through User-Controlled Key,7217.19716219101,unknown

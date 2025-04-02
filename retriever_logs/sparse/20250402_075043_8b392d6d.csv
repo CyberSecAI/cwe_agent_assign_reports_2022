@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+184,Incomplete List of Disallowed Inputs,7791.893512569467,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,7674.894963341868,unknown
+863,Incorrect Authorization,7595.475299442587,unknown
+1284,Improper Validation of Specified Quantity in Input,7579.023823162678,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7566.5526453005705,unknown

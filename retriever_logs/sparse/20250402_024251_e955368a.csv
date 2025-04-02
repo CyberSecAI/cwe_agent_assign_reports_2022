@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,6578.98284054658,unknown
+226,Sensitive Information in Resource Not Removed Before Reuse,6413.201245355868,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,6412.8147230777195,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,6354.793511739504,unknown
+863,Incorrect Authorization,6215.296402482933,unknown

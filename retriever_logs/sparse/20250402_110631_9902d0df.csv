@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+226,Sensitive Information in Resource Not Removed Before Reuse,5879.634479125927,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5877.948285395127,unknown
+863,Incorrect Authorization,5877.075195374016,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5834.479898203836,unknown
+942,Permissive Cross-domain Policy with Untrusted Domains,5777.439997930934,unknown

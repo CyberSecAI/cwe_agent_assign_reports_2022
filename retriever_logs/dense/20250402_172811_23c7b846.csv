@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7986376696723745
+203,Observable Discrepancy,Base,0.7802850745459993
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7746605005608159
+345,Insufficient Verification of Data Authenticity,Class,0.7698843867956133
+208,Observable Timing Discrepancy,Base,0.7623769896173842
+667,Improper Locking,Class,0.7593943110506529
+319,Cleartext Transmission of Sensitive Information,Base,0.7548946371281469
+404,Improper Resource Shutdown or Release,Class,0.7546112958985927
+459,Incomplete Cleanup,Base,0.7545852528990743
+312,Cleartext Storage of Sensitive Information,Base,0.753594057517639

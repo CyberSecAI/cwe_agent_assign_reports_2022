@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),6257.775908628608,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,6088.15297300781,unknown
+1390,Weak Authentication,6004.826536615641,unknown
+295,Improper Certificate Validation,5994.9437159243935,unknown
+863,Incorrect Authorization,5976.65659948941,unknown

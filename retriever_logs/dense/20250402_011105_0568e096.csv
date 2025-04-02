@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7811885535903582
+427,Uncontrolled Search Path Element,Base,0.7611249476212215
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.761014309119127
+667,Improper Locking,Class,0.7599428429218044
+73,External Control of File Name or Path,Base,0.7586862964499259
+41,Improper Resolution of Path Equivalence,Base,0.7564269170277311
+378,Creation of Temporary File With Insecure Permissions,Base,0.7556276289122752
+276,Incorrect Default Permissions,Base,0.7535865147054495
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.7535590444925447
+552,Files or Directories Accessible to External Parties,Base,0.7532541769856899

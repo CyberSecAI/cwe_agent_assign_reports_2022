@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+943,Improper Neutralization of Special Elements in Data Query Logic,5145.804243458926,unknown
+203,Observable Discrepancy,5055.275728915531,unknown
+617,Reachable Assertion,5020.009211009503,unknown
+770,Allocation of Resources Without Limits or Throttling,5009.919660768394,unknown
+209,Generation of Error Message Containing Sensitive Information,4985.894920007423,unknown

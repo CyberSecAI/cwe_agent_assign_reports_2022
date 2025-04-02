@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+838,Inappropriate Encoding for Output Context,Base,0.7574717824019046
+274,Improper Handling of Insufficient Privileges,Base,0.742566250688506
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7417782050296226
+668,Exposure of Resource to Wrong Sphere,Class,0.7394450527649643
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7392352131131777
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7365570271427724
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7346013758499577
+404,Improper Resource Shutdown or Release,Class,0.7334253572183758
+653,Improper Isolation or Compartmentalization,Class,0.7328821738559801
+41,Improper Resolution of Path Equivalence,Base,0.7324558100592647

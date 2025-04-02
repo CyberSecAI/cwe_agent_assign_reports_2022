@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7292912040746367
+1391,Use of Weak Credentials,Class,0.7232809779210947
+657,Violation of Secure Design Principles,Class,0.7220112003770233
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7217324710053202
+668,Exposure of Resource to Wrong Sphere,Class,0.7214731597671764
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7195733196318342
+345,Insufficient Verification of Data Authenticity,Class,0.7166081189026898
+129,Improper Validation of Array Index,Variant,0.7151289844474268
+824,Access of Uninitialized Pointer,Base,0.7143739536730063
+130,Improper Handling of Length Parameter Inconsistency,Base,0.7142842370860905

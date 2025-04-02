@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+824,Access of Uninitialized Pointer,Base,0.7763552037895798
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7716765740767646
+404,Improper Resource Shutdown or Release,Class,0.7706693134027627
+667,Improper Locking,Class,0.768293222963482
+617,Reachable Assertion,Base,0.7659674022760732
+131,Incorrect Calculation of Buffer Size,Base,0.761520871512275
+125,Out-of-bounds Read,Base,0.7541694339846989
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7540055981836349
+129,Improper Validation of Array Index,Variant,0.7530289506000014
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.753010223833878

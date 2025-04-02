@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1188,Initialization of a Resource with an Insecure Default,Base,0.774176312964599
+1391,Use of Weak Credentials,Class,0.7686181404511585
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7661627437397194
+798,Use of Hard-coded Credentials,Base,0.7584846682281303
+1392,Use of Default Credentials,Base,0.757164623209414
+345,Insufficient Verification of Data Authenticity,Class,0.7534682126405595
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7528517625247393
+472,External Control of Assumed-Immutable Web Parameter,Base,0.7509295471124503
+665,Improper Initialization,Class,0.7483236844455383
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7466090327566195

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+300,Channel Accessible by Non-Endpoint,Class,0.7716795509836781
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7680371957195992
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7657018011677876
+319,Cleartext Transmission of Sensitive Information,Base,0.7465623801571277
+1391,Use of Weak Credentials,Class,0.7433348206426391
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7428868083601511
+345,Insufficient Verification of Data Authenticity,Class,0.7417450682689097
+799,Improper Control of Interaction Frequency,Class,0.7415104256052819
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.740865020067901
+657,Violation of Secure Design Principles,Class,0.7405191613412399

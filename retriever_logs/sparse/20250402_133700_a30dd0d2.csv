@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+125,Out-of-bounds Read,6100.748022209056,base_query
+823,Use of Out-of-range Pointer Offset,6060.432153723153,base_query
+190,Integer Overflow or Wraparound,6011.495944107553,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,5983.284888319738,base_query
+476,NULL Pointer Dereference,5879.0713779107355,base_query

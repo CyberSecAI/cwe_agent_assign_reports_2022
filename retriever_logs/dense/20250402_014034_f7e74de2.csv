@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+789,Memory Allocation with Excessive Size Value,Variant,0.7750908789141234
+191,Integer Underflow (Wrap or Wraparound),Base,0.7746374112125158
+131,Incorrect Calculation of Buffer Size,Base,0.7728649230283731
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.765154374358462
+667,Improper Locking,Class,0.7646549574902243
+404,Improper Resource Shutdown or Release,Class,0.7643679718685337
+193,Off-by-one Error,Base,0.762984615599248
+407,Inefficient Algorithmic Complexity,Class,0.7616468215957648
+125,Out-of-bounds Read,Base,0.7616099462701427
+129,Improper Validation of Array Index,Variant,0.7589236831733019

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+259,Use of Hard-coded Password,7967.3268378074945,base_query
+798,Use of Hard-coded Credentials,7842.35402570871,base_query
+184,Incomplete List of Disallowed Inputs,7454.970853872433,base_query
+321,Use of Hard-coded Cryptographic Key,7398.008725150207,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),7180.682058423884,base_query

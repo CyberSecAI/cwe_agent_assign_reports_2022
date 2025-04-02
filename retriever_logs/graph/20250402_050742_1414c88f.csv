@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+476,NULL Pointer Dereference,base,4.329000000000001,0
+94,Improper Control of Generation of Code ('Code Injection'),base,3.653,0
+386,Symbolic Name not Mapping to Correct Object,base,3.4502,0
+41,Improper Resolution of Path Equivalence,Base,3.3251111559142474,0
+416,Use After Free,variant,3.24,0
+73,External Control of File Name or Path,Base,3.2012574715603805,0
+61,UNIX Symbolic Link (Symlink) Following,compound,3.002,0
+59,Improper Link Resolution Before File Access ('Link Following'),Base,2.905535927793105,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0

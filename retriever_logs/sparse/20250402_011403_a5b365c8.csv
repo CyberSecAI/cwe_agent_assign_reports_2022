@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+667,Improper Locking,6404.663293652888,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6320.071519956098,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6254.355796303656,base_query
+364,Signal Handler Race Condition,6091.831778513366,base_query
+252,Unchecked Return Value,6089.870701770518,base_query

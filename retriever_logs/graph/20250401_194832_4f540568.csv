@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+296,Improper Following of a Certificate's Chain of Trust,base,3.6399999999999997,0
+298,Improper Validation of Certificate Expiration,variant,3.2424,0
+297,Improper Validation of Certificate with Host Mismatch,variant,3.2424,0
+370,Missing Check for Certificate Revocation after Initial Check,variant,3.2424,0
+126,Buffer Over-read,variant,3.1008,0
+131,Incorrect Calculation of Buffer Size,Base,2.9047807397197127,0
+825,Expired Pointer Dereference,base,2.8651999999999997,0
+823,Use of Out-of-range Pointer Offset,base,2.8651999999999997,0

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+20,Improper Input Validation,12370.353049351068,unknown
+1284,Improper Validation of Specified Quantity in Input,12335.130229698458,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),12242.623584682415,unknown
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,12229.690678409612,unknown
+639,Authorization Bypass Through User-Controlled Key,12043.08423048963,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.743517634823909
+162,Improper Neutralization of Trailing Special Elements,Variant,0.7282376952298342
+73,External Control of File Name or Path,Base,0.726738887038748
+653,Improper Isolation or Compartmentalization,Class,0.7256802907674476
+184,Incomplete List of Disallowed Inputs,Base,0.7253213017668091
+160,Improper Neutralization of Leading Special Elements,Variant,0.7241013141135413
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7231331538131638
+150,Improper Neutralization of Escape  Meta  or Control Sequences,Variant,0.7225200445875178
+707,Improper Neutralization,Pillar,0.7188883746905579
+183,Permissive List of Allowed Inputs,Base,0.7174226337183035

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+427,Uncontrolled Search Path Element,7421.4229545583485,unknown
+125,Out-of-bounds Read,6596.2883813036115,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6489.133131228692,unknown
+197,Numeric Truncation Error,6429.754022347657,unknown
+822,Untrusted Pointer Dereference,6292.496975546496,unknown

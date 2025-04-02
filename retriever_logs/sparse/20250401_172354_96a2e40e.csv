@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1204,Generation of Weak Initialization Vector (IV),4241.248706810305,base_query
+321,Use of Hard-coded Cryptographic Key,4121.963755597944,base_query
+1391,Use of Weak Credentials,3979.9450220914878,base_query
+916,Use of Password Hash With Insufficient Computational Effort,3968.0338694307725,base_query
+1390,Weak Authentication,3946.5736709977427,base_query

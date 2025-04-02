@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+822,Untrusted Pointer Dereference,base,4.329000000000001,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,3.8870000000000005,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.8784,0
+426,Untrusted Search Path,base,3.6399999999999997,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.9184000000000005,0
+322,Key Exchange without Entity Authentication,base,2.8651999999999997,0
+363,Race Condition Enabling Link Following,base,2.73416,0
+942,Permissive Cross-domain Policy with Untrusted Domains,variant,2.6784000000000003,0
+41,Improper Resolution of Path Equivalence,Base,2.6428897924967596,0

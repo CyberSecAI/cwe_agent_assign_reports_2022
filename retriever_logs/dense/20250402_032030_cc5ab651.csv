@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+99,Improper Control of Resource Identifiers ('Resource Injection'),Class,0.7248496114751429
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7220148672578508
+184,Incomplete List of Disallowed Inputs,Base,0.7156149115702231
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7135245746801095
+653,Improper Isolation or Compartmentalization,Class,0.7107539047747862
+115,Misinterpretation of Input,Base,0.7092082597865055
+405,Asymmetric Resource Consumption (Amplification),Class,0.7086457492853275
+782,Exposed IOCTL with Insufficient Access Control,Variant,0.7074233757841606
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7065852521911795
+134,Use of Externally-Controlled Format String,Base,0.7048928487301835

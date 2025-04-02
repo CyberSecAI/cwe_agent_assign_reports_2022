@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+123,Write-what-where Condition,base,5.031000000000001,0
+416,Use After Free,variant,4.39872,0
+415,Double Free,variant,4.39872,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,4.329000000000001,0
+131,Incorrect Calculation of Buffer Size,base,4.329000000000001,0
+125,Out-of-bounds Read,base,3.7206,0
+1284,Improper Validation of Specified Quantity in Input,base,3.06904,0
+364,Signal Handler Race Condition,Base,2.8942854476504083,0
+606,Unchecked Input for Loop Condition,Base,2.893982016652329,0
+190,Integer Overflow or Wraparound,base,2.8651999999999997,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.8131416415382571
+61,UNIX Symbolic Link (Symlink) Following,Compound,0.8047812009438333
+41,Improper Resolution of Path Equivalence,Base,0.7671449775731648
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7528881961446244
+23,Relative Path Traversal,Base,0.7468867213377827
+73,External Control of File Name or Path,Base,0.7413651187529943
+668,Exposure of Resource to Wrong Sphere,Class,0.7379859913585045
+667,Improper Locking,Class,0.7362025668325928
+427,Uncontrolled Search Path Element,Base,0.7338847679833372
+184,Incomplete List of Disallowed Inputs,Base,0.7337876787204787

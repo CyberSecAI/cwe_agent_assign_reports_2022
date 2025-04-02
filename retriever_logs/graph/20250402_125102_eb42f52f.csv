@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+201,Insertion of Sensitive Information Into Sent Data,base,5.031000000000001,0
+1284,Improper Validation of Specified Quantity in Input,base,4.329000000000001,0
+209,Generation of Error Message Containing Sensitive Information,base,3.6399999999999997,0
+789,Memory Allocation with Excessive Size Value,variant,3.24,0
+190,Integer Overflow or Wraparound,base,3.06904,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.9051397237354,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.8651999999999997,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,2.8651999999999997,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.8651999999999997,0
+770,Allocation of Resources Without Limits or Throttling,base,2.7196000000000002,0

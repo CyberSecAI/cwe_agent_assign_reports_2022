@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+613,Insufficient Session Expiration,base,4.329000000000001,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+295,Improper Certificate Validation,base,3.6399999999999997,0
+603,Use of Client-Side Authentication,base,3.6399999999999997,0
+941,Incorrectly Specified Destination in a Communication Channel,Base,2.8914883434996907,0
+117,Improper Output Neutralization for Logs,base,2.8651999999999997,0
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),Variant,2.6609588406097244,0
+441,Unintended Proxy or Intermediary ('Confused Deputy'),class,2.64,0

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7003951069403891
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.6873554839856967
+653,Improper Isolation or Compartmentalization,Class,0.6832937691722452
+300,Channel Accessible by Non-Endpoint,Class,0.6821723155112374
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.6809433910319128
+289,Authentication Bypass by Alternate Name,Base,0.6786560810699594
+1390,Weak Authentication,Class,0.6760536460841133
+179,Incorrect Behavior Order: Early Validation,Base,0.6714771884436588
+838,Inappropriate Encoding for Output Context,Base,0.6682196951171872
+303,Incorrect Implementation of Authentication Algorithm,Base,0.6665859440477506

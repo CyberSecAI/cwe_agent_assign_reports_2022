@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+770,Allocation of Resources Without Limits or Throttling,7516.959082350947,unknown
+200,Exposure of Sensitive Information to an Unauthorized Actor,7465.488520487845,unknown
+125,Out-of-bounds Read,7356.4066268982315,unknown
+863,Incorrect Authorization,7259.59401586119,unknown
+1284,Improper Validation of Specified Quantity in Input,7246.013559178692,unknown

@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+757,Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade'),6044.7726687327995,base_query
+319,Cleartext Transmission of Sensitive Information,6012.726833774676,base_query
+327,Use of a Broken or Risky Cryptographic Algorithm,5994.0720818526925,base_query
+798,Use of Hard-coded Credentials,5909.823766527142,base_query
+321,Use of Hard-coded Cryptographic Key,5852.020383850622,base_query

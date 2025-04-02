@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+41,Improper Resolution of Path Equivalence,Base,0.7759868777238884
+1390,Weak Authentication,Class,0.7750332824062753
+303,Incorrect Implementation of Authentication Algorithm,Base,0.7729852514475951
+668,Exposure of Resource to Wrong Sphere,Class,0.7725987977392863
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7702421338488712
+653,Improper Isolation or Compartmentalization,Class,0.7687138200109968
+23,Relative Path Traversal,Base,0.7686880412384083
+274,Improper Handling of Insufficient Privileges,Base,0.7682223935693474
+1391,Use of Weak Credentials,Class,0.7679779828631064
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7672969425894014

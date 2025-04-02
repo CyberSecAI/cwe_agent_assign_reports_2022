@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7726559577932511
+843,Access of Resource Using Incompatible Type ('Type Confusion'),Base,0.771213078008818
+131,Incorrect Calculation of Buffer Size,Base,0.765678337208813
+404,Improper Resource Shutdown or Release,Class,0.7635608933242277
+681,Incorrect Conversion between Numeric Types,Base,0.7626885095417972
+197,Numeric Truncation Error,Base,0.7599894471739493
+129,Improper Validation of Array Index,Variant,0.7587112439378915
+366,Race Condition within a Thread,Base,0.7576077595342554
+667,Improper Locking,Class,0.7572236849121146
+125,Out-of-bounds Read,Base,0.7546278136055568

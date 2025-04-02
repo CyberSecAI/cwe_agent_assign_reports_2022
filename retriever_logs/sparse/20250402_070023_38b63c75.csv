@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+259,Use of Hard-coded Password,6111.400712860245,base_query
+798,Use of Hard-coded Credentials,6108.515347256316,base_query
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),6005.893541650779,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5962.230556205248,base_query
+923,Improper Restriction of Communication Channel to Intended Endpoints,5908.706857893195,base_query

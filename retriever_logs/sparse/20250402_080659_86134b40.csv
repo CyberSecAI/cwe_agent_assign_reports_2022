@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+203,Observable Discrepancy,5245.84961382563,base_query
+208,Observable Timing Discrepancy,5101.335568907716,base_query
+798,Use of Hard-coded Credentials,5023.733038395242,base_query
+347,Improper Verification of Cryptographic Signature,4954.666238957065,base_query
+1391,Use of Weak Credentials,4945.719045865905,base_query

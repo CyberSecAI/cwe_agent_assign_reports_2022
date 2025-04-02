@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1390,Weak Authentication,6592.33112768423,unknown
+287,Improper Authentication,6547.705794431097,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),6544.816342285379,unknown
+863,Incorrect Authorization,6516.89944853123,unknown
+259,Use of Hard-coded Password,6512.150898299457,unknown

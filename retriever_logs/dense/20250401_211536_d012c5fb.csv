@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+697,Incorrect Comparison,Pillar,0.7599045287689175
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7485208685534868
+184,Incomplete List of Disallowed Inputs,Base,0.7403370419948264
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7395999920743571
+943,Improper Neutralization of Special Elements in Data Query Logic,Class,0.7269458314513058
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7258836813307286
+41,Improper Resolution of Path Equivalence,Base,0.7257576405816304
+682,Incorrect Calculation,Pillar,0.7200710117977479
+653,Improper Isolation or Compartmentalization,Class,0.7195123905381963
+138,Improper Neutralization of Special Elements,Class,0.714480073115632

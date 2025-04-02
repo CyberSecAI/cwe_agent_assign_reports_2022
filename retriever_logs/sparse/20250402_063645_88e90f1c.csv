@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+476,NULL Pointer Dereference,5410.098497791811,base_query
+252,Unchecked Return Value,5398.132889133829,base_query
+295,Improper Certificate Validation,5360.202929832555,base_query
+1390,Weak Authentication,5257.550509433346,base_query
+472,External Control of Assumed-Immutable Web Parameter,5159.129162698707,base_query

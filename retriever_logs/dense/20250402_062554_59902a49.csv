@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+625,Permissive Regular Expression,Base,0.7717159941793708
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7702495208048086
+668,Exposure of Resource to Wrong Sphere,Class,0.7620243331387945
+185,Incorrect Regular Expression,Class,0.7570366513831851
+41,Improper Resolution of Path Equivalence,Base,0.7560195800497391
+345,Insufficient Verification of Data Authenticity,Class,0.7546422276488483
+799,Improper Control of Interaction Frequency,Class,0.7521417847589782
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7519775821362372
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7512942089486342
+295,Improper Certificate Validation,Base,0.7509671739274275

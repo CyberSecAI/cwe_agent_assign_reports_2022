@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+434,Unrestricted Upload of File with Dangerous Type,base,5.031000000000001,0
+183,Permissive List of Allowed Inputs,base,4.8204,0
+178,Improper Handling of Case Sensitivity,base,4.505800000000001,0
+430,Deployment of Wrong Handler,base,4.3888,0
+613,Insufficient Session Expiration,base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+351,Insufficient Type Distinction,base,3.6399999999999997,0
+352,Cross-Site Request Forgery (CSRF),compound,3.542,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.4866,0

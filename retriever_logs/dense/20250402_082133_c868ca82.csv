@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+131,Incorrect Calculation of Buffer Size,Base,0.7617857492506513
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,Class,0.7610738546525595
+125,Out-of-bounds Read,Base,0.7563036009394555
+73,External Control of File Name or Path,Base,0.7518401482001604
+126,Buffer Over-read,Variant,0.7512346843919827
+41,Improper Resolution of Path Equivalence,Base,0.7501961384263987
+788,Access of Memory Location After End of Buffer,Base,0.7485985330881405
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7485504390225204
+653,Improper Isolation or Compartmentalization,Class,0.7472034366536835
+191,Integer Underflow (Wrap or Wraparound),Base,0.7466011151690446

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.741428379728394
+131,Incorrect Calculation of Buffer Size,Base,0.740544490129728
+404,Improper Resource Shutdown or Release,Class,0.7397390784202396
+691,Insufficient Control Flow Management,Pillar,0.7381103605460395
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7375201065260122
+653,Improper Isolation or Compartmentalization,Class,0.7364860570104945
+405,Asymmetric Resource Consumption (Amplification),Class,0.7355589352840005
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7346285587832114
+668,Exposure of Resource to Wrong Sphere,Class,0.7333226141054319
+1325,Improperly Controlled Sequential Memory Allocation,Base,0.7324393609336676

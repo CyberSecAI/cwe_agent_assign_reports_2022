@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,4.329000000000001,0
+363,Race Condition Enabling Link Following,base,4.329000000000001,0
+1289,Improper Validation of Unsafe Equivalence in Input,base,3.6399999999999997,0
+178,Improper Handling of Case Sensitivity,base,3.6399999999999997,0
+611,Improper Restriction of XML External Entity Reference,base,3.6399999999999997,0
+41,Improper Resolution of Path Equivalence,Base,3.326907587147525,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,3.2656,0
+73,External Control of File Name or Path,Base,3.193395154736515,0
+182,Collapse of Data into Unsafe Value,base,3.055,0
+386,Symbolic Name not Mapping to Correct Object,base,3.0316000000000005,0

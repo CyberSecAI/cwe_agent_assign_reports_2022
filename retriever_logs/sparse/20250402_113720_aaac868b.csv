@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1336,Improper Neutralization of Special Elements Used in a Template Engine,6626.020471532683,unknown
+184,Incomplete List of Disallowed Inputs,6408.020798863829,unknown
+138,Improper Neutralization of Special Elements,6402.939899273634,unknown
+116,Improper Encoding or Escaping of Output,6372.1722591905,unknown
+1236,Improper Neutralization of Formula Elements in a CSV File,6297.997577494193,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+328,Use of Weak Hash,Base,0.7736010612626724
+1391,Use of Weak Credentials,Class,0.7716422164036032
+668,Exposure of Resource to Wrong Sphere,Class,0.7695059720366472
+916,Use of Password Hash With Insufficient Computational Effort,Base,0.7657288466403649
+345,Insufficient Verification of Data Authenticity,Class,0.76090515899243
+330,Use of Insufficiently Random Values,Class,0.7600031827230374
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7591513092504826
+41,Improper Resolution of Path Equivalence,Base,0.7590323929337721
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7576841414161268
+755,Improper Handling of Exceptional Conditions,Class,0.7544665883539321

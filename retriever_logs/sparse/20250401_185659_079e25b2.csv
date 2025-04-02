@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+364,Signal Handler Race Condition,7066.480605592138,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),6222.886515488914,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,6085.071315473951,base_query
+667,Improper Locking,5918.085180524212,base_query
+789,Memory Allocation with Excessive Size Value,5865.119113320986,base_query

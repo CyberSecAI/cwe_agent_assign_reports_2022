@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+378,Creation of Temporary File With Insecure Permissions,Base,0.8084433032054803
+379,Creation of Temporary File in Directory with Insecure Permissions,Base,0.7963043304151985
+377,Insecure Temporary File,Class,0.7826526038745809
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7716551373435605
+276,Incorrect Default Permissions,Base,0.7556858584320759
+667,Improper Locking,Class,0.7518590050500761
+281,Improper Preservation of Permissions,Base,0.7505571009176337
+277,Insecure Inherited Permissions,Variant,0.7499470532715442
+73,External Control of File Name or Path,Base,0.7494798101332528
+404,Improper Resource Shutdown or Release,Class,0.742114902671386

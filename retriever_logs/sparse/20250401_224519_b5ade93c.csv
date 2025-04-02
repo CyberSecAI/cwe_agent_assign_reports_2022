@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1333,Inefficient Regular Expression Complexity,6261.936900713181,unknown
+407,Inefficient Algorithmic Complexity,5712.4965759231445,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5664.908700389619,unknown
+617,Reachable Assertion,5651.284626779106,unknown
+789,Memory Allocation with Excessive Size Value,5642.993850059966,unknown

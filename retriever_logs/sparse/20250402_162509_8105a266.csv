@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+639,Authorization Bypass Through User-Controlled Key,8069.627094861802,base_query
+798,Use of Hard-coded Credentials,7854.040062344256,base_query
+863,Incorrect Authorization,7728.4076359965175,base_query
+259,Use of Hard-coded Password,7665.336934295627,base_query
+472,External Control of Assumed-Immutable Web Parameter,7661.833602466557,base_query

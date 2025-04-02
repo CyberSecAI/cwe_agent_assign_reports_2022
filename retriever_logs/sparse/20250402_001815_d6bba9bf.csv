@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+226,Sensitive Information in Resource Not Removed Before Reuse,6176.8571352277595,unknown
+212,Improper Removal of Sensitive Information Before Storage or Transfer,5709.205596347602,unknown
+295,Improper Certificate Validation,5651.790809390513,unknown
+209,Generation of Error Message Containing Sensitive Information,5613.98151266766,unknown
+789,Memory Allocation with Excessive Size Value,5537.771812085483,unknown

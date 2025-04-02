@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1220,Insufficient Granularity of Access Control,Base,0.7659473967364004
+639,Authorization Bypass Through User-Controlled Key,Base,0.7569366040699959
+274,Improper Handling of Insufficient Privileges,Base,0.7529216390120023
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.7480575603314996
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.7460300993063633
+653,Improper Isolation or Compartmentalization,Class,0.7458770388249194
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7441708096120805
+691,Insufficient Control Flow Management,Pillar,0.7437516794454543
+799,Improper Control of Interaction Frequency,Class,0.7394792315674785
+668,Exposure of Resource to Wrong Sphere,Class,0.7355060513903907

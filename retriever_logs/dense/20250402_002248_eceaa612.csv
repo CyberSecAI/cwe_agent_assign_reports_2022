@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.8126249966740317
+41,Improper Resolution of Path Equivalence,Base,0.7865892237146096
+73,External Control of File Name or Path,Base,0.7848989591270185
+667,Improper Locking,Class,0.7808661735566585
+23,Relative Path Traversal,Base,0.7777203642756856
+197,Numeric Truncation Error,Base,0.7755832285162069
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.774708184945818
+404,Improper Resource Shutdown or Release,Class,0.7744390068639397
+125,Out-of-bounds Read,Base,0.7728566279595939
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7723469603339526

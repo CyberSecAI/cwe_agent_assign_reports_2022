@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+312,Cleartext Storage of Sensitive Information,6149.876991826726,base_query
+200,Exposure of Sensitive Information to an Unauthorized Actor,5854.517843680517,base_query
+316,Cleartext Storage of Sensitive Information in Memory,5826.201029072654,base_query
+319,Cleartext Transmission of Sensitive Information,5750.964237024012,base_query
+639,Authorization Bypass Through User-Controlled Key,5714.523002861326,base_query

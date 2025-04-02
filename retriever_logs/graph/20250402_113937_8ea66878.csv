@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+787,Out-of-bounds Write,base,4.329000000000001,0
+825,Expired Pointer Dereference,base,4.329000000000001,0
+456,Missing Initialization of a Variable,variant,3.8784,0
+781,Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code,variant,3.7507200000000003,0
+617,Reachable Assertion,base,3.653,0
+772,Missing Release of Resource after Effective Lifetime,base,3.302,0
+824,Access of Uninitialized Pointer,Base,2.92101300632241,0
+822,Untrusted Pointer Dereference,Base,2.9148813686487776,0
+823,Use of Out-of-range Pointer Offset,Base,2.9116478034392794,0
+476,NULL Pointer Dereference,Base,2.9113312409106453,0

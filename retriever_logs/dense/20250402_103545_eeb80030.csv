@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7813005817754175
+404,Improper Resource Shutdown or Release,Class,0.75594325214246
+662,Improper Synchronization,Class,0.752359835342107
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7518144056331303
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7502170440725657
+653,Improper Isolation or Compartmentalization,Class,0.740237575935946
+131,Incorrect Calculation of Buffer Size,Base,0.7389154273878122
+665,Improper Initialization,Class,0.7336575059058726
+191,Integer Underflow (Wrap or Wraparound),Base,0.7297755911697761
+125,Out-of-bounds Read,Base,0.7290002246527544

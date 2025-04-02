@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+927,Use of Implicit Intent for Sensitive Communication,5589.923976259898,base_query
+863,Incorrect Authorization,5489.268605166705,base_query
+59,Improper Link Resolution Before File Access ('Link Following'),5412.069438428286,base_query
+287,Improper Authentication,5372.31614686477,base_query
+639,Authorization Bypass Through User-Controlled Key,5353.310008422666,base_query

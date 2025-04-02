@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+1299,Missing Protection Mechanism for Alternate Hardware Interface,5614.50929765399,unknown
+287,Improper Authentication,5351.851920135666,unknown
+863,Incorrect Authorization,5347.635278268316,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5329.326952915366,unknown
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),5322.958594569352,unknown

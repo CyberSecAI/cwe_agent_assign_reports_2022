@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5979.300346335205,base_query
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),5922.0308384521995,base_query
+116,Improper Encoding or Escaping of Output,5911.80835979808,base_query
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),5893.903502072591,base_query
+1284,Improper Validation of Specified Quantity in Input,5870.305828518467,base_query

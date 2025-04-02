@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,6581.81269407761,base_query
+611,Improper Restriction of XML External Entity Reference,6505.114529444442,base_query
+863,Incorrect Authorization,6481.658389319711,base_query
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),6415.400821615561,base_query
+668,Exposure of Resource to Wrong Sphere,6383.621896041329,base_query

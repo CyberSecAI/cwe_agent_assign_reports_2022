@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+799,Improper Control of Interaction Frequency,Class,0.7921996995629275
+405,Asymmetric Resource Consumption (Amplification),Class,0.7488616199651827
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7454640849294322
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7451934541873775
+653,Improper Isolation or Compartmentalization,Class,0.7440104421011631
+41,Improper Resolution of Path Equivalence,Base,0.7431359064448197
+1220,Insufficient Granularity of Access Control,Base,0.7429528390863801
+184,Incomplete List of Disallowed Inputs,Base,0.7402069667214729
+691,Insufficient Control Flow Management,Pillar,0.7388765254119035
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.737295854451484

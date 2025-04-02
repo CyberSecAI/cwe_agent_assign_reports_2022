@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),base,5.031000000000001,0
+117,Improper Output Neutralization for Logs,base,4.329000000000001,0
+494,Download of Code Without Integrity Check,base,4.329000000000001,0
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),base,4.329000000000001,0
+201,Insertion of Sensitive Information Into Sent Data,base,4.329000000000001,0
+41,Improper Resolution of Path Equivalence,Base,3.3157937628320715,0
+434,Unrestricted Upload of File with Dangerous Type,base,3.1252000000000004,0
+20,Improper Input Validation,class,2.984,0
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,2.890808810265539,0
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,2.886927779531322,0

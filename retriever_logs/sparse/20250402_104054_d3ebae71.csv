@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5080.430788406989,unknown
+923,Improper Restriction of Communication Channel to Intended Endpoints,5016.444700976852,unknown
+295,Improper Certificate Validation,4849.761019285288,unknown
+1284,Improper Validation of Specified Quantity in Input,4841.7774303401975,unknown
+287,Improper Authentication,4795.348756898972,unknown

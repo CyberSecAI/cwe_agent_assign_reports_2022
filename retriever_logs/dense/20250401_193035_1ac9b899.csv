@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1220,Insufficient Granularity of Access Control,Base,0.7647815744797711
+41,Improper Resolution of Path Equivalence,Base,0.7598611608011677
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7590858075587898
+653,Improper Isolation or Compartmentalization,Class,0.7588398435148356
+639,Authorization Bypass Through User-Controlled Key,Base,0.7587441262521198
+668,Exposure of Resource to Wrong Sphere,Class,0.7575423067623648
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7567652125106615
+691,Insufficient Control Flow Management,Pillar,0.7567261141045325
+664,Improper Control of a Resource Through its Lifetime,Pillar,0.755353042796394
+274,Improper Handling of Insufficient Privileges,Base,0.7547570133738889

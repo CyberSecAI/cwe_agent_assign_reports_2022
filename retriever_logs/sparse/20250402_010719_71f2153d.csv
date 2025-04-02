@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+200,Exposure of Sensitive Information to an Unauthorized Actor,5730.004456362951,unknown
+259,Use of Hard-coded Password,5718.638999484256,unknown
+319,Cleartext Transmission of Sensitive Information,5714.026538326591,unknown
+1390,Weak Authentication,5706.057291762871,unknown
+798,Use of Hard-coded Credentials,5691.685465189798,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7777156673642726
+1188,Initialization of a Resource with an Insecure Default,Base,0.7539044834592117
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7525307566316154
+1391,Use of Weak Credentials,Class,0.7523600123588908
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7507625790347068
+665,Improper Initialization,Class,0.7464992908737877
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7452423799200041
+404,Improper Resource Shutdown or Release,Class,0.7450307738676425
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.742281042288553
+668,Exposure of Resource to Wrong Sphere,Class,0.7412830580267169

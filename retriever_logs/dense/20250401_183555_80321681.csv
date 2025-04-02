@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+124,Buffer Underwrite ('Buffer Underflow'),Base,0.7899123039126702
+131,Incorrect Calculation of Buffer Size,Base,0.7821748949131309
+404,Improper Resource Shutdown or Release,Class,0.7760841631401856
+366,Race Condition within a Thread,Base,0.7724495661816463
+125,Out-of-bounds Read,Base,0.7711734816368429
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7707473964375935
+667,Improper Locking,Class,0.7674999996608882
+805,Buffer Access with Incorrect Length Value,Base,0.7664775733185892
+788,Access of Memory Location After End of Buffer,Base,0.7648404197418567
+908,Use of Uninitialized Resource,Base,0.7645829933408087

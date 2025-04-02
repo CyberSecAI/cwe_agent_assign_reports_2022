@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5873.459958286657,unknown
+285,Improper Authorization,5816.95103818408,unknown
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),5769.890372746389,unknown
+639,Authorization Bypass Through User-Controlled Key,5673.068883938734,unknown
+306,Missing Authentication for Critical Function,5493.72869019323,unknown

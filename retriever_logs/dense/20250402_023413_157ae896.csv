@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7747723004713771
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7733346404831277
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.7722772618140978
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.7716064553312973
+668,Exposure of Resource to Wrong Sphere,Class,0.7672257099085569
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7625371255395984
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7609666138981918
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.7603677490942289
+610,Externally Controlled Reference to a Resource in Another Sphere,Class,0.7599582224229956
+116,Improper Encoding or Escaping of Output,Class,0.7557378620695485

@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7793556540041168
+73,External Control of File Name or Path,Base,0.7549035720329083
+184,Incomplete List of Disallowed Inputs,Base,0.7542133549994845
+125,Out-of-bounds Read,Base,0.7538186207226145
+41,Improper Resolution of Path Equivalence,Base,0.7535328412111794
+130,Improper Handling of Length Parameter Inconsistency,Base,0.751332697614959
+131,Incorrect Calculation of Buffer Size,Base,0.747419385166544
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7473138337262308
+667,Improper Locking,Class,0.7459695660276355
+404,Improper Resource Shutdown or Release,Class,0.7455783716148547

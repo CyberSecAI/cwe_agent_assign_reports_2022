@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7629416851270733
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7623432078467394
+691,Insufficient Control Flow Management,Pillar,0.7562318136589322
+73,External Control of File Name or Path,Base,0.7514736020048245
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7506996246494009
+653,Improper Isolation or Compartmentalization,Class,0.7497465640463773
+799,Improper Control of Interaction Frequency,Class,0.7478861302998587
+1220,Insufficient Granularity of Access Control,Base,0.745610199115391
+668,Exposure of Resource to Wrong Sphere,Class,0.7444415849139443
+41,Improper Resolution of Path Equivalence,Base,0.7440242251841083

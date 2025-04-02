@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+59,Improper Link Resolution Before File Access ('Link Following'),6704.6637624449195,base_query
+61,UNIX Symbolic Link (Symlink) Following,6470.357535307475,base_query
+116,Improper Encoding or Escaping of Output,6443.586637097444,base_query
+863,Incorrect Authorization,6409.97401269463,base_query
+285,Improper Authorization,6358.924576505209,base_query

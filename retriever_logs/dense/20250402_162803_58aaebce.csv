@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.7738089554826723
+1289,Improper Validation of Unsafe Equivalence in Input,Base,0.7683685121388789
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7655810299992939
+668,Exposure of Resource to Wrong Sphere,Class,0.76384750867295
+41,Improper Resolution of Path Equivalence,Base,0.7579082513665607
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,Base,0.7568332464287275
+138,Improper Neutralization of Special Elements,Class,0.7564968991825352
+212,Improper Removal of Sensitive Information Before Storage or Transfer,Base,0.7545688027264228
+209,Generation of Error Message Containing Sensitive Information,Base,0.7537587613291301
+184,Incomplete List of Disallowed Inputs,Base,0.7511782406554952

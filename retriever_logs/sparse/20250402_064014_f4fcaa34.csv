@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+927,Use of Implicit Intent for Sensitive Communication,4207.795311426536,unknown
+909,Missing Initialization of Resource,4153.243002277954,unknown
+667,Improper Locking,4080.6195975023425,unknown
+908,Use of Uninitialized Resource,4048.322952259564,unknown
+665,Improper Initialization,4045.8142109568903,unknown

@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+322,Key Exchange without Entity Authentication,base,5.031000000000001,0
+290,Authentication Bypass by Spoofing,base,3.6399999999999997,0
+296,Improper Following of a Certificate's Chain of Trust,base,3.6399999999999997,0
+358,Improperly Implemented Security Check for Standard,base,3.6399999999999997,0
+298,Improper Validation of Certificate Expiration,variant,3.2424,0
+370,Missing Check for Certificate Revocation after Initial Check,variant,3.2424,0
+471,Modification of Assumed-Immutable Data (MAID),base,3.055,0
+804,Guessable CAPTCHA,base,2.8651999999999997,0
+494,Download of Code Without Integrity Check,base,2.821,0
+561,Dead Code,base,2.821,0

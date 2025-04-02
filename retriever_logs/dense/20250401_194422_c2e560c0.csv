@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+330,Use of Insufficiently Random Values,Class,0.8208998340578437
+667,Improper Locking,Class,0.7775901833057054
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.775645996585085
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7755883997870117
+203,Observable Discrepancy,Base,0.774449516442381
+331,Insufficient Entropy,Base,0.7731973428385258
+668,Exposure of Resource to Wrong Sphere,Class,0.7713728329974219
+41,Improper Resolution of Path Equivalence,Base,0.7712680070601875
+1391,Use of Weak Credentials,Class,0.7706363760958146
+665,Improper Initialization,Class,0.7704943764196873

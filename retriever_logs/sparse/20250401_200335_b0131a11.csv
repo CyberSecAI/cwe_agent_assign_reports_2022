@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,5641.106980834128,base_query
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),5583.7261556082085,base_query
+732,Incorrect Permission Assignment for Critical Resource,5560.357564129901,base_query
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5520.194967328048,base_query
+250,Execution with Unnecessary Privileges,5486.254932801397,base_query

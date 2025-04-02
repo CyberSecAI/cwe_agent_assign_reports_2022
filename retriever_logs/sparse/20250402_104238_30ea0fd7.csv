@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+130,Improper Handling of Length Parameter Inconsistency,9561.498512612925,base_query
+190,Integer Overflow or Wraparound,8957.516957517471,base_query
+125,Out-of-bounds Read,8646.088450264362,base_query
+1284,Improper Validation of Specified Quantity in Input,8563.168169664137,base_query
+119,Improper Restriction of Operations within the Bounds of a Memory Buffer,8419.141915408405,base_query

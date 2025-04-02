@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+863,Incorrect Authorization,7021.560891993057,unknown
+927,Use of Implicit Intent for Sensitive Communication,6886.493763120231,unknown
+285,Improper Authorization,6876.530278479642,unknown
+287,Improper Authentication,6849.794670939857,unknown
+1390,Weak Authentication,6801.602119657379,unknown

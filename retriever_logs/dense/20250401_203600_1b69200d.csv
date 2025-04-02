@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7822216578750338
+404,Improper Resource Shutdown or Release,Class,0.7796880214340576
+754,Improper Check for Unusual or Exceptional Conditions,Class,0.7710299335417966
+703,Improper Check or Handling of Exceptional Conditions,Pillar,0.7686450779587433
+755,Improper Handling of Exceptional Conditions,Class,0.7668336634852806
+653,Improper Isolation or Compartmentalization,Class,0.7637657552913577
+668,Exposure of Resource to Wrong Sphere,Class,0.7623538610820393
+274,Improper Handling of Insufficient Privileges,Base,0.7613127901814056
+41,Improper Resolution of Path Equivalence,Base,0.7609462596148416
+665,Improper Initialization,Class,0.7580891375228243
